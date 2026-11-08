@@ -117,8 +117,8 @@ def main() -> int:
             print(f"… {fetched} novih objav", flush=True)
 
     STATUS.parent.mkdir(parents=True, exist_ok=True)
+    # Brez časa preverjanja: datoteka se spremeni (in zapiše v repozitorij) le ob novih objavah.
     status = {
-        "checked": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "dars_notices": len(rows),
         "candidates": len(candidates),
         "calls": len(calls),
