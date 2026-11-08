@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Obnove avtocest</title>
+  <meta name="description" content="Interaktivni zemljevid javnih naročil DARS za obnove avtocest in hitrih cest od leta 2009: kaj, kje, kdaj, kdo in za koliko, z aneksi in ponovitvami na istih odsekih.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23191814'/%3E%3Cpath d='M6 26 13 6M26 26 19 6' stroke='%23f4f1e8' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 9v3M16 16v3M16 23v3' stroke='%23f0743f' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
+  <link href="css/app.css" rel="stylesheet">
+  <script>
+    (() => {
+      try {
+        const saved = localStorage.getItem('theme');
+        if (saved) document.documentElement.dataset.theme = saved;
+      } catch { /* storage may be blocked */ }
+    })();
+  </script>
+</head>
+<body data-tab="map">
+  <div class="app">
+    <header class="top">
+      <a class="brand" href="./" aria-label="Obnove avtocest, začetek">
+        <svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true"><path d="M6 27 13 5M26 27 19 5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M16 8v3.5M16 15v3.5M16 22v3.5" stroke="var(--accent)" stroke-width="2.4" stroke-linecap="round"/></svg>
+        <span>Obnove avtocest</span>
+      </a>
+      <p class="tagline">Javna naročila DARS za dela na avtocestah in hitrih cestah od leta 2009</p>
+      <p class="stamp" id="stamp"></p>
+      <div class="top-actions">
+        <button class="ghost" id="open-method" type="button">Metodologija</button>
+        <button class="ghost icon" id="toggle-theme" type="button" aria-label="Preklopi svetlo ali temno temo">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="Pogled">
+      <button type="button" data-tab="filters">Filtri</button>
+      <button type="button" data-tab="map">Zemljevid</button>
+      <button type="button" data-tab="rail">Podrobnosti</button>
+    </nav>
+
+    <main class="main">
+      <aside class="filters" aria-label="Filtri">
+        <div class="filters-head">
+          <h2>Filtri</h2>
+          <button class="link" id="reset" type="button">Ponastavi</button>
+        </div>
+
+        <section class="group">
+          <h3>Vrsta dela</h3>
+          <div class="chips" id="f-cats"></div>
+        </section>
+
+        <section class="group">
+          <h3>Leto pogodbe <output id="year-label"></output></h3>
+          <div class="range" id="year-range">
+            <div class="range-fill"></div>
+            <input type="range" id="y0" aria-label="Od leta" step="1">
+            <input type="range" id="y1" aria-label="Do leta" step="1">
+          </div>
+          <div class="range-marks" id="year-marks"></div>
+        </section>
+
+        <section class="group">
+          <h3>Ponovitve na istem mestu</h3>
+          <div class="segment" id="f-rep" role="group" aria-label="Prikaz ponovitev">
+            <button type="button" data-v="all">Vse pogodbe</button>
+            <button type="button" data-v="only">Le ponovljena dela</button>
+          </div>
+          <label class="inline">Razmik manj kot
+            <select id="f-gap">
+              <option value="3">3 leta</option>
+              <option value="5">5 let</option>
+              <option value="8">8 let</option>
+              <option value="10">10 let</option>
+              <option value="15">15 let</option>
+            </select>
+          </label>
+          <label class="check"><input type="checkbox" id="f-same"> le ista vrsta dela</label>
+          <p class="filter-note">Ponovitev pomeni, da se umeščeni deli dveh pogodb prekrivajo vsaj 300 m. To še ne pomeni napake: glej Metodologijo.</p>
+        </section>
+
+        <section class="group">
+          <h3>Cesta</h3>
+          <div class="chips small" id="f-roads"></div>
+        </section>
+
+        <section class="group">
+          <h3><label for="f-q">Iskanje</label></h3>
+          <div class="search">
+            <input id="f-q" placeholder="Odsek, objekt, naslov" autocomplete="off">
+          </div>
+          <h4><label for="f-firm">Izvajalec</label></h4>
+          <div class="search">
+            <input id="f-firm" list="firm-list" placeholder="Ime podjetja" autocomplete="off">
+            <datalist id="firm-list"></datalist>
+          </div>
+        </section>
+
+        <section class="group">
+          <h3>Prikaz</h3>
+          <div class="segment" id="f-color" role="group" aria-label="Barva črt">
+            <button type="button" data-v="cat">Barva po vrsti</button>
+            <button type="button" data-v="year">Barva po letu</button>
+          </div>
+          <label class="check"><input type="checkbox" id="f-approx"> vključi približno umeščene (cel odsek, okolica kraja)</label>
+          <label class="check"><input type="checkbox" id="f-annex"> le pogodbe z aneksi</label>
+        </section>
+
+        <section class="group">
+          <button class="ghost wide" id="download" type="button">Prenesi izbor (CSV)</button>
+        </section>
+      </aside>
+
+      <section class="stage" aria-label="Zemljevid">
+        <div id="map"></div>
+        <div class="legend" id="legend"></div>
+        <div class="loading" id="loading">Nalagam podatke …</div>
+      </section>
+
+      <aside class="rail" id="rail" aria-live="polite"></aside>
+    </main>
+  </div>
+
+  <dialog id="method">
+    <form method="dialog" class="dialog-head">
+      <h2>Metodologija</h2>
+      <button class="ghost" type="submit">Zapri</button>
+    </form>
+    <div class="prose">
+      <h3>Vir podatkov</h3>
+      <p>Vse pogodbe so iz <a href="https://www.enarocanje.si/" target="_blank" rel="noopener">portala javnih naročil</a>: obvestila DARS o oddaji naročila, o neposredni oddaji in o spremembah pogodb (aneksih) od leta 2009. Upoštevana so naročila gradenj. Vsak zapis ima povezavo na izvirno objavo. Vir: Javne informacije Slovenije – portal javnih naročil.</p>
+      <h3>Kaj ni zajeto</h3>
+      <ul>
+        <li>Dela, ki jih DARS izvede z lastnimi vzdrževalnimi bazami ali v okviru letnih vzdrževalnih pogodb brez posebne objave.</li>
+        <li>Evidenčna naročila pod pragom objave (gradnje pod 80.000 EUR brez DDV).</li>
+        <li>Garancijski roki. Ti niso v objavah, ampak v razpisni dokumentaciji in pogodbah. Kjer je razpisna dokumentacija na portalu, je zapis povezan nanjo.</li>
+      </ul>
+      <h3>Umestitev na zemljevid</h3>
+      <p>DARS v objavah navaja ceste (A1, H4), šifre odsekov (npr. 0036, nasprotna smer 0636), imena odsekov po priključkih (»Fram–Slovenska Bistrica«) in kilometre znotraj odseka. Imena priključkov poiščemo v OpenStreetMap, pot med njima po osi ceste, kilometre pa odmerimo od prvega priključka. Lega je zato <strong>približna</strong>:</p>
+      <ul>
+        <li><b>km</b>: odsek in kilometri, napaka običajno nekaj sto metrov.</li>
+        <li><b>odsek</b>: znan je le odsek, prikazan je v celoti, čeprav je bil obnovljen morda le del.</li>
+        <li><b>objekt</b>: viadukt ali predor po imenu v OpenStreetMap.</li>
+      </ul>
+      <p>Pogodbe, ki jih ni bilo mogoče umestiti, so v seznamu na desni, na zemljevidu pa jih ni.</p>
+      <h3>Ponovitve</h3>
+      <p>Dve pogodbi štejeta za ponovitev, če se umeščena dela prekrivajo vsaj 300 m (ali 40 % krajšega) in sta pogodbi sklenjeni v izbranem razmiku let. Ponovitev sama po sebi ni dokaz nepravilnosti:</p>
+      <ul>
+        <li>obrabna plast vozišča traja precej manj kot nosilne plasti, zato je redna menjava pričakovana,</li>
+        <li>na istem odseku se ločeno obnavljajo vozišče, objekti, ograje, odvodnjavanje in oprema,</li>
+        <li>ena pogodba je lahko za eno smer, druga za drugo,</li>
+        <li>pri približno umeščenih zapisih je prekrivanje lahko le navidezno.</li>
+      </ul>
+      <p>Močnejši znak je ista vrsta dela na istem mestu v času, ko bi morala še veljati garancija prejšnjega izvajalca. Za to je treba preveriti pogodbo prejšnjega posla.</p>
+      <h3>Vrednosti</h3>
+      <p>Vrednosti so brez DDV, kot so navedene v objavah. »Končna« vrednost upošteva zadnji objavljeni aneks. Vrednost iz objave o oddaji ni nujno enaka izplačanemu znesku.</p>
+      <h3>Odgovornost</h3>
+      <p>Stran je neodvisen prikaz javnih podatkov in ni uradna storitev DARS ali ministrstva. Razčlenitev besedil je samodejna in se lahko zmoti; pred kakršnimkoli sklepom preverite izvirno objavo. Podlaga zemljevida: © OpenStreetMap, OpenMapTiles, OpenFreeMap.</p>
+    </div>
+  </dialog>
+
+  <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
