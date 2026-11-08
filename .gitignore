@@ -1,0 +1,7 @@
+.claude/
+.probe/
+web/data/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

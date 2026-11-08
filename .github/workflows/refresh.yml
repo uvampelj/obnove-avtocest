@@ -1,0 +1,66 @@
+name: Osveži podatke
+
+on:
+  schedule:
+    - cron: "10 5 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "pipeline/**"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - name: Prenesi nove objave DARS s portala javnih naročil
+        run: python -m pipeline.collect
+
+      - name: Shrani nove objave v repozitorij
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/notices status/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Nove objave DARS"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Zgradi podatke za stran
+        if: hashFiles('pipeline/build.py') != ''
+        run: python -m pipeline.build
+
+      - uses: actions/upload-pages-artifact@v3
+        if: hashFiles('web/index.html') != ''
+        with:
+          path: web
+
+      - id: deploy
+        if: hashFiles('web/index.html') != ''
+        uses: actions/deploy-pages@v4
