@@ -1,0 +1,190 @@
+{
+ "row": {
+  "idObrazec": 1141324,
+  "idDosje": 581760,
+  "naslov": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002407/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-07-21T04:08:27.077",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1141324,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 581760,
+  "idObrazecPrej": 1082960,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+  "kratekOpis": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+  "referencnaStevilka": "000023/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "vrednostOcenjenaBrezDDV": 2145592.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 2140713.54,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-20T13:03:53.04",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-21T04:08:27.077",
+  "objavaIdent": "JN002407/2026-EUe29/01",
+  "eFormsIdent": "306bb595-2790-43dd-861a-352b97e27db5",
+  "eFormsFolderIdent": "1d0e37e0-4c83-4200-8869-643d15f41a12",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-71709",
+  "eFormsPublishedId": "504900-2026",
+  "eFormsPublishedDate": "2026-07-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-07-20T13:10:01.83",
+  "narocnik": [
+   {
+    "id": 1193903,
+    "idObrazec": 1141324,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 520682,
+    "idObrazec": 1141324,
+    "naslov": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+    "opis": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 30,
+    "vrednostOcenjenaBrezDDV": 2145592.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "v RD",
+      "opis": "v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 20.0
+     },
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "v RD",
+      "opis": "v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 80.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 241689,
+    "idObrazec": 1141324,
+    "idObrazecSklop": 520682,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 2140713.54,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 2140713.54,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 2140713.54,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 631598,
+      "naziv": "IRGO CONSULTING d.o.o.",
+      "maticna": "1305212000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.irgo.si",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 127485,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 179150,
+    "naslov": "Geološko geotehnična spremljava sanacije obstoječe zahodne cevi avtocestnega predora Karavanke na A1, odsek 0001 Karavanke - Obrežje",
+    "internaStevilka": "000818/2026",
+    "datumSklenitev": "2026-07-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 520682
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

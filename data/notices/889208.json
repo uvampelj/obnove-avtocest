@@ -1,0 +1,161 @@
+{
+ "row": {
+  "idObrazec": 889208,
+  "idDosje": 445720,
+  "naslov": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "003479/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-02-17T08:49:30.06",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 889208,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 445720,
+  "idObrazecPrej": 455749,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+  "kratekOpis": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+  "referencnaStevilka": "267/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2025-02-14T10:31:04.73",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-02-17T08:49:30.06",
+  "objavaIdent": "003479/2022-EUe38/01",
+  "eFormsIdent": "e9823515-506f-40f4-901a-1d67b065dc8e",
+  "eFormsFolderIdent": "d1878d50-fae4-4ca2-acca-8f947d3665c5",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "105057-2025",
+  "eFormsPublishedDate": "2025-02-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-02-14T11:14:14.737",
+  "narocnik": [
+   {
+    "id": 767072,
+    "idObrazec": 889208,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3656
+   },
+   {
+    "id": 6737
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 267709,
+    "idObrazec": 889208,
+    "naslov": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+    "opis": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 32,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 42692,
+    "idObrazec": 889208,
+    "idObrazecSklop": 267709,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 6496243.92,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 2462990.33,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 233933,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 143617,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 233934,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 23242,
+    "naslov": "Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+    "internaStevilka": "1113/2022",
+    "datumSklenitev": "2022-08-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 267709
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 23242,
+    "opis": "1.\tDodatna dela:\nMed izvedbo del po osnovni pogodbi so se pojavile potrebe po izvedbi dodatnih del, ki niso bila vključena v prvotno javno naročilo, saj so se potrebe po njihovi izvedbi izkazale naknadno.\n\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Kozina. \n\nVse opisane okoliščine opravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje roka za izvedbo GOI del, roka za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, in roka za pridobitev Potrdila o izvedbi ter obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (neugodni vremenski pogoji, potreba po izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve). \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660) ostaja nespremenjen.\n\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

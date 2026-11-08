@@ -1,0 +1,146 @@
+{
+ "row": {
+  "idObrazec": 929137,
+  "idDosje": 451812,
+  "naslov": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004960/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-07-21T13:09:16.093",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 929137,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 451812,
+  "idObrazecPrej": 470824,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+  "kratekOpis": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+  "referencnaStevilka": "136/25",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6755,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 617853.1,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 617853.1,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": false,
+  "datumVnosa": "2025-07-21T11:47:04.72",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-21T13:09:16.093",
+  "objavaIdent": "004960/2022-EUe38/01",
+  "eFormsIdent": "baecc143-15ba-443d-8f9b-f728039d470f",
+  "eFormsFolderIdent": "dd1e11cc-266f-4d70-b3e5-fbb657b4acb8",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-21T12:07:07.83",
+  "narocnik": [
+   {
+    "id": 858411,
+    "idObrazec": 929137,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6755
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 307895,
+    "idObrazec": 929137,
+    "naslov": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+    "opis": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6755,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 32,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 55834,
+    "idObrazec": 929137,
+    "idObrazecSklop": 307895,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 617853.1,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 311979,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 33090,
+    "naslov": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+    "internaStevilka": "000116/2023",
+    "datumSklenitev": "2023-01-31T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 307895
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 33090,
+    "opis": "1.\tDodatna dela:\nMed izvedbo del po osnovni pogodbi se je pojavila potreba po izvedbi dodatnih del, ki niso bila vključena v prvotno javno naročilo, saj se je potreba po njihovi izvedbi izkazala naknadno - nekatere projektne rešitve je bilo treba prilagoditi novo nastalemu stanju.\n\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov.\nV primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. \n\nVse opisane okoliščine, ki imajo za posledico tudi nastanek stroškov naročniku, opravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje roka za pridobitev Potrdila o izvedbi in obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po izvedbi dodatnih del). \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova) ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

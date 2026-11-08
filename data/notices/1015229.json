@@ -1,0 +1,208 @@
+{
+ "row": {
+  "idObrazec": 1015229,
+  "idDosje": 527261,
+  "naslov": "Preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnova vozne površine na delu odseka 0009/0609 Brnik–Vodice",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008509/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-03-06T04:10:09.97",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1015229,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 527261,
+  "idObrazecPrej": 960321,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnova vozne površine na delu odseka 0009/0609 Brnik–Vodice",
+  "kratekOpis": "Predmet javnega naročila je izvedba preplastitve na odsekih AC A2 0006 Podtabor–Kranj Z od km 5,833 do km 7,313, 0007 Kranj Z–Kranj V od km 0,000 do km 2,307 in od km 3,495 do km 5,674, 0008 Kranj V–Brnik od km 0,000 do km 0,215, obnove vozne površine na odsekih AC A2 0009 Brnik–Vodice od km 1,154 do km 3,411 in 0609 Brnik-Vodice od km 1,190 do km 3,450 z ureditvijo srednjega ločilnega pasu v nezeleni izvedbi, zamenjava kažipotne signalizacije za priključke na AC A2 0106 Priključek Kranj Z, 0107 Priključek Kranj V, 0108 Priključek Brnik in za 1646 počivališče Voklo ter zamenjava varovalnih ograj na delih odsekov 0106 Priključek Kranj Z, 0007 Kranj Z–Kranj V, 0107 Priključek Kranj V, 0108 Priključek Brnik, 0009 Brnik–Vodice in 0109 Priključek Vodice.\nObnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj Z–Kranj V, v km 3,530, ki je obravnavan v IzN dokumentaciji, ni predmet tega javnega naročila. Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod, v km 3,530 bo oddana v izvedbo v okviru ločenega javnega naročila.",
+  "referencnaStevilka": "000291/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 12500000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N76Z013) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 12432419.53,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-03-04T15:35:46.22",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-06T04:10:09.97",
+  "objavaIdent": "JN008509/2025-EUe29/01",
+  "eFormsIdent": "489aa2ae-f3aa-49e8-9f3a-d211e291df43",
+  "eFormsFolderIdent": "a0c75eb4-2e7b-43c4-9857-66dabad0aa28",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-64907",
+  "eFormsPublishedId": "158290-2026",
+  "eFormsPublishedDate": "2026-03-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-03-05T13:24:09.32",
+  "narocnik": [
+   {
+    "id": 1020838,
+    "idObrazec": 1015229,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 393351,
+    "idObrazec": 1015229,
+    "naslov": "Preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnova vozne površine na delu odseka 0009/0609 Brnik–Vodice",
+    "opis": "Predmet javnega naročila je izvedba preplastitve na odsekih AC A2 0006 Podtabor–Kranj Z od km 5,833 do km 7,313, 0007 Kranj Z–Kranj V od km 0,000 do km 2,307 in od km 3,495 do km 5,674, 0008 Kranj V–Brnik od km 0,000 do km 0,215, obnove vozne površine na odsekih AC A2 0009 Brnik–Vodice od km 1,154 do km 3,411 in 0609 Brnik-Vodice od km 1,190 do km 3,450 z ureditvijo srednjega ločilnega pasu v nezeleni izvedbi, zamenjava kažipotne signalizacije za priključke na AC A2 0106 Priključek Kranj Z, 0107 Priključek Kranj V, 0108 Priključek Brnik in za 1646 počivališče Voklo ter zamenjava varovalnih ograj na delih odsekov 0106 Priključek Kranj Z, 0007 Kranj Z–Kranj V, 0107 Priključek Kranj V, 0108 Priključek Brnik, 0009 Brnik–Vodice in 0109 Priključek Vodice.\nObnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj Z–Kranj V, v km 3,530, ki je obravnavan v IzN dokumentaciji, ni predmet tega javnega naročila. Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod, v km 3,530 bo oddana v izvedbo v okviru ločenega javnega naročila.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 12500000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena (v EUR brez DDV, kot je razvidna iz obrazca ponudbe) – največje možno število točk je 90",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "Rok izvedbe za fazo 1 (kot je razviden iz obrazca ponudbe) – največje možno število točk je 10.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 128190,
+    "idObrazec": 1015229,
+    "idObrazecSklop": 393351,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 12432419.53,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 12490020.31,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 12432419.53,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 456494,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 456495,
+      "naziv": "STRABAG gradbene storitve d.o.o.",
+      "maticna": "5879566000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 59250,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 69289,
+    "naslov": "Preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnova vozne površine na delu odseka 0009/0609 Brnik–Vodice",
+    "internaStevilka": "000156/2026",
+    "datumSklenitev": "2026-02-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 393351
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

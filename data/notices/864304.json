@@ -1,0 +1,178 @@
+{
+ "row": {
+  "idObrazec": 864304,
+  "idDosje": 513299,
+  "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006001/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-11-06T09:33:01.82",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 864304,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 513299,
+  "idObrazecPrej": 836776,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "kratekOpis": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "referencnaStevilka": "000154/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8509,
+  "vrednostOcenjenaBrezDDV": 330000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 328238.88,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-11-05T13:23:36.197",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-06T09:33:01.82",
+  "objavaIdent": "JN006001/2024-EUe29/01",
+  "eFormsIdent": "0ca35861-d8b9-4ff0-91fa-60327229b46f",
+  "eFormsFolderIdent": "87a391c0-ba34-423d-aa39-edc60d736c17",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-44868",
+  "eFormsPublishedId": "674106-2024",
+  "eFormsPublishedDate": "2024-11-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-05T13:29:44.057",
+  "narocnik": [
+   {
+    "id": 714139,
+    "idObrazec": 864304,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1280,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 246069,
+    "idObrazec": 864304,
+    "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "opis": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8509,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 330000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 33500,
+    "idObrazec": 864304,
+    "idObrazecSklop": 246069,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 328238.88,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 328238.88,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 328238.88,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 173206,
+      "naziv": "EPPS Elektronsko pismo Pošte Slovenije, d.o.o.",
+      "maticna": "1339095000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "glavniURL": "https://www.epps.si/",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 16403,
+    "naslov": "Pogodba za priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS\n",
+    "internaStevilka": "001086/2024",
+    "datumSklenitev": "2024-10-30T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 246069
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

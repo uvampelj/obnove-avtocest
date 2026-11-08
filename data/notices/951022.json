@@ -1,0 +1,141 @@
+{
+ "row": {
+  "idObrazec": 951022,
+  "idDosje": 520258,
+  "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002485/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-10-17T05:18:56.04",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 951022,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 520258,
+  "idObrazecPrej": 915509,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "kratekOpis": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "referencnaStevilka": "000261/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000261/2024. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N60Z034-01) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "objavaEU": true,
+  "datumVnosa": "2025-10-15T15:37:27.03",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-17T05:18:56.04",
+  "objavaIdent": "JN002485/2025-EUe29/01",
+  "eFormsIdent": "a054f0b3-0fcc-4c1d-a8fc-64c1223070c3",
+  "eFormsFolderIdent": "c050cd97-f87a-45e2-b9ba-775146a22fd0",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-54831",
+  "eFormsPublishedId": "683784-2025",
+  "eFormsPublishedDate": "2025-10-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-16T13:39:44.597",
+  "narocnik": [
+   {
+    "id": 918446,
+    "idObrazec": 951022,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3769
+   },
+   {
+    "id": 3765
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 329902,
+    "idObrazec": 951022,
+    "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+    "opis": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 11,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja skupna ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 3769
+     },
+     {
+      "id": 3765
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja skupna ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 74534,
+    "idObrazec": 951022,
+    "idObrazecSklop": 329902,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 2,
+    "steviloPonudbe": 2
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

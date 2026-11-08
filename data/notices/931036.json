@@ -1,0 +1,124 @@
+{
+ "row": {
+  "idObrazec": 931036,
+  "idDosje": 515463,
+  "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007800/2024-EUe29/01",
+  "objavaDejanskaDatum": "2025-07-30T04:09:09.603",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 931036,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 515463,
+  "idObrazecPrej": 879662,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+  "kratekOpis": "Dobava materiala za izvedbo debelo slojnih talnih označb za potrebe naročnika.",
+  "referencnaStevilka": "000170/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 1251,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "predhodnoObvestilo": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-07-28T15:29:24.573",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-30T04:09:09.603",
+  "objavaIdent": "JN007800/2024-EUe29/01",
+  "eFormsIdent": "09fafaf4-21d7-41b1-a31b-08d43ad576dd",
+  "eFormsFolderIdent": "a5d1a16e-5248-47c2-833c-9fe028dfb64d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-48003",
+  "eFormsPublishedId": "499783-2025",
+  "eFormsPublishedDate": "2025-07-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-28T15:50:04.027",
+  "narocnik": [
+   {
+    "id": 862876,
+    "idObrazec": 931036,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 309774,
+    "idObrazec": 931036,
+    "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+    "opis": "Dobava materiala za izvedbo debelo slojnih talnih označb za potrebe naročnika.",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 1251,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 56536,
+    "idObrazec": 931036,
+    "idObrazecSklop": 309774,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 2
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

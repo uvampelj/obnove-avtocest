@@ -1,0 +1,165 @@
+{
+ "row": {
+  "idObrazec": 869914,
+  "idDosje": 514782,
+  "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007169/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-11-29T17:31:23.287",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 869914,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 514782,
+  "idObrazecPrej": 857390,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "kratekOpis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "referencnaStevilka": "000181/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8086,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudnikom je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil.\n",
+  "datumVnosa": "2024-11-26T13:12:05.557",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-29T17:31:23.287",
+  "objavaIdent": "JN007169/2024-SL2/01",
+  "eFormsIdent": "acff34bf-c7a0-4354-bf0e-0b30bef7187e",
+  "eFormsFolderIdent": "13e953df-cf68-4372-911a-96f3b9372494",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-47057",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-29T15:11:55.863",
+  "narocnik": [
+   {
+    "id": 727020,
+    "idObrazec": 869914,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   },
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 251518,
+    "idObrazec": 869914,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje",
+    "opis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8086,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8086
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena v EUR brez DDV, kot je razvidna iz obrazca ponudbe. ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     }
+    ]
+   },
+   {
+    "id": 251519,
+    "idObrazec": 869914,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 2: Hitra cesta Koper – Dragonja",
+    "opis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 2: Hitra cesta Koper – Dragonja",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8086,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 30,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8086
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "Dodatna referenca strokovnjaka s področja cest.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 35066,
+    "idObrazec": 869914,
+    "idObrazecSklop": 251518,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 4
+   },
+   {
+    "id": 35067,
+    "idObrazec": 869914,
+    "idObrazecSklop": 251519,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 4
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

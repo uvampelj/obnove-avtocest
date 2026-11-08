@@ -1,0 +1,157 @@
+{
+ "row": {
+  "idObrazec": 923416,
+  "idDosje": 474655,
+  "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001686/2023-EUe38/03",
+  "objavaDejanskaDatum": "2025-07-01T09:33:25.707",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 923416,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 474655,
+  "idObrazecPrej": 486566,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "kratekOpis": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "referencnaStevilka": "000155/2025",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 9236,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Aneks št. 3 k pogodbi DARS št. 837/2023 za obratovalni monitoring hrupa in strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS; podaljšanje pogodbenega roka in obdobja, za katerega je sklenjena pogodba",
+  "objavaEU": true,
+  "datumVnosa": "2025-06-30T09:11:30.777",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-01T09:33:25.707",
+  "objavaIdent": "001686/2023-EUe38/03",
+  "eFormsIdent": "c3b9536d-b8a9-43af-a45f-b714d8ce1ee6",
+  "eFormsFolderIdent": "95c0e2b1-0db7-4bff-8edf-14d7697d463b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "422388-2025",
+  "eFormsPublishedDate": "2025-07-01T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-30T09:33:15.51",
+  "narocnik": [
+   {
+    "id": 844922,
+    "idObrazec": 923416,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 9236
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 301947,
+    "idObrazec": 923416,
+    "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "opis": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 9236,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-07-12T00:00:00",
+    "datumKonec": "2026-01-12T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 53769,
+    "idObrazec": 923416,
+    "idObrazecSklop": 301947,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 499500.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 301124,
+      "naziv": "PNZ svetovanje projektiranje d.o.o.",
+      "maticna": "5459966000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.pnz.si",
+      "idSubjektPrs": 15220,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 301125,
+      "naziv": "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o.",
+      "maticna": "3386597000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.aprojekt.si",
+      "idSubjektPrs": 165498,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31702,
+    "naslov": "Obratovalni monitoring hrupa in strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "internaStevilka": "000837/2023",
+    "datumSklenitev": "2023-07-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 301947
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31702,
+    "opis": "Aneks št. 3 k pogodbi DARS št. 837/2023 za obratovalni monitoring hrupa in strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS; podaljšanje pogodbenega roka in obdobja, za katerega je sklenjena pogodba"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

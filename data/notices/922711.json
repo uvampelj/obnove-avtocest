@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 922711,
+  "idDosje": 235526,
+  "naslov": "Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik - Vodice od km 4,041 do km 5,246 in A2/0010 Vodic - Sklop 1",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "010423/2017-EUe38/01",
+  "objavaDejanskaDatum": "2025-06-26T09:04:29.527",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 922711,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 235526,
+  "idObrazecPrej": 309138,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik - Vodice od km 4,041 do km 5,246 in A2/0010 Vodic - Sklop 1",
+  "kratekOpis": "Rušitev in preureditev cestninskih postaj vključno s platojem ter obnovo voziščne konstrukcije na posameznih odsekih AC A2 in HC H4, razcepa Nanos ter priključkov Logatec in Vodice; SKLOP 1: Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik – Vodice od km 4,041 do km 5,246 in A2/0010 Vodice – Lj (Šmartno) od km 0,000 do km 0,267 in priključka A2/0109 Vodice",
+  "referencnaStevilka": "103/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6734,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "1.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (odprava tovarniških napak ob upoštevanju poletnih turističnih sezon in ustreznih vremenskih pogojev). \n\nPodaljša se rok za pridobitev Potrdila o izvedbi in rok za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, kot izhaja iz 2. člena aneksa št. 2. Zaradi navedenih podaljšanj rokov za dokončanje se podaljša tudi obdobje, za katero je sklenjena osnovna pogodba. \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen.\n\n2.\tPodaljšanje garancijskih rokov:\nZaradi ugotovljenih pomanjkljivosti oz. tovarniških napak se podaljša garancijski rok za obrabno zaporno plast SMA na CP Torovo, za BVO na CP Torovo in CP Log ter za integrirano PHO na CP Log, kot izhaja iz 3. člena aneksa št. 2.\nSprememba osnovne pogodbe (podaljšanje garancijskih rokov) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (v okviru zunanje kontrole kakovosti so se ugotovila določena odstopanja od zahtev). Poleg tega sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2025-06-24T15:20:11.043",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-26T09:04:29.527",
+  "objavaIdent": "010423/2017-EUe38/01",
+  "eFormsIdent": "df9c0227-94d8-47d1-adc3-2b11e89bc64f",
+  "eFormsFolderIdent": "fcd5846a-894a-48f5-abfd-9a7c5d56ac7c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "411943-2025",
+  "eFormsPublishedDate": "2025-06-26T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-24T15:38:23.293",
+  "narocnik": [
+   {
+    "id": 843339,
+    "idObrazec": 922711,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6734
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 301316,
+    "idObrazec": 922711,
+    "naslov": "Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik - Vodice od km 4,041 do km 5,246 in A2/0010 Vodic - Sklop 1",
+    "opis": "Rušitev in preureditev cestninskih postaj vključno s platojem ter obnovo voziščne konstrukcije na posameznih odsekih AC A2 in HC H4, razcepa Nanos ter priključkov Logatec in Vodice; SKLOP 1: Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik – Vodice od km 4,041 do km 5,246 in A2/0010 Vodice – Lj (Šmartno) od km 0,000 do km 0,267 in priključka A2/0109 Vodice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6734,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 87,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 53572,
+    "idObrazec": 922711,
+    "idObrazecSklop": 301316,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 10470370.67,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1197570.74,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 299791,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 299792,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 299793,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 143617,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31545,
+    "naslov": "SKLOP 1: Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik – Vodice od km 4,041 do km 5,246 in A2/0010 Vodice – Lj (Šmartno) od km 0,000 do km 0,267 in priključka A2/0109 Vodice",
+    "internaStevilka": "1289/2018",
+    "datumSklenitev": "2018-04-05T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 301316
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31545,
+    "opis": "Predmet aneksa št. 2 je podaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba ter podaljšanje garancijskega roka"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

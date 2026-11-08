@@ -1,0 +1,301 @@
+{
+ "row": {
+  "idObrazec": 910157,
+  "idDosje": 516808,
+  "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008883/2024-SL2/01",
+  "objavaDejanskaDatum": "2025-05-08T11:15:43.597",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 910157,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 516808,
+  "idObrazecPrej": 877738,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "kratekOpis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje; Sklop 2: Hitra cesta Koper – Dragonja",
+  "referencnaStevilka": "000275/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8086,
+  "vrednostOcenjenaBrezDDV": 175500.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudnikom je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil.",
+  "vrednostSkupna": 171862.24,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-05-08T10:58:11.19",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-05-08T11:15:43.597",
+  "objavaIdent": "JN008883/2024-SL2/01",
+  "eFormsIdent": "61abf8ac-65f1-437f-bf43-182b5e5b22b1",
+  "eFormsFolderIdent": "d738ea0f-b398-46a9-a503-edccefe94a7f",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-50265",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-05-08T11:15:07.743",
+  "narocnik": [
+   {
+    "id": 813867,
+    "idObrazec": 910157,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 287288,
+    "idObrazec": 910157,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje",
+    "opis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8086,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 80000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8086
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena v EUR brez DDV, kot je razvidna iz obrazca ponudbe. ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "Dodatna referenca strokovnjaka s področja cest.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ]
+   },
+   {
+    "id": 287289,
+    "idObrazec": 910157,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 2: Hitra cesta Koper – Dragonja",
+    "opis": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 2: Hitra cesta Koper – Dragonja",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8086,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 30,
+    "vrednostOcenjenaBrezDDV": 95500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8086
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena v EUR brez DDV, kot je razvidna iz obrazca ponudbe. ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "Dodatna referenca strokovnjaka s področja cest.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 49176,
+    "idObrazec": 910157,
+    "idObrazecSklop": 287288,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 78012.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 78012.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 78012.0,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 37320.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 276898,
+      "naziv": "BPI biro za projektiranje in inženiring d.o.o.",
+      "maticna": "5397014000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 147302,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 276899,
+      "naziv": "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o.",
+      "maticna": "2074699000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 107199,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 49178,
+    "idObrazec": 910157,
+    "idObrazecSklop": 287289,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 93850.24,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 93850.24,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 93850.24,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 42988.4,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 276903,
+      "naziv": "BPI biro za projektiranje in inženiring d.o.o.",
+      "maticna": "5397014000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 147302,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 276904,
+      "naziv": "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o.",
+      "maticna": "2074699000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 107199,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 28645,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 1: Državna cesta od Otiškega Vrha do priključka Prevalje",
+    "internaStevilka": "000655/2025",
+    "datumSklenitev": "2025-04-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 287288
+     }
+    ]
+   },
+   {
+    "id": 28646,
+    "naslov": "Recenzijski pregled strokovnih podlag za izdelavo državnega prostorskega načrta: Sklop 2: Hitra cesta Koper – Dragonja",
+    "internaStevilka": "000656/2025",
+    "datumSklenitev": "2025-04-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 287289
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

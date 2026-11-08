@@ -1,0 +1,233 @@
+{
+ "row": {
+  "idObrazec": 855747,
+  "idDosje": 514554,
+  "naslov": "Vzdrževanje požarnih vrat v predorih",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN007021/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-10-01T08:50:02.367",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 855747,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 514554,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje požarnih vrat v predorih",
+  "kratekOpis": "Predmet postopka je vzdrževanje obstoječih požarnih vrat v predorih (redno vzdrževanje, sanacija napak oziroma okvar ter dobava in zamenjava okvarjenih delov, ki so vgrajeni na opremi in so predmet tega javnega naročila). Požarna vrata so nameščena na SOS niše, elektro niše ter v prečnikih za prehode med cevmi predorov. V sklopu 1 je zajeto vzdrževanje požarnih vrat SOS niš ter vrat za osebne prehode, sklop 2 pa zajema vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih).",
+  "referencnaStevilka": "000224/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 6037,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDYyO1JEIDIyNF8yNF8uemlw",
+  "datumDoVprasanja": "2024-10-16T15:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=46650",
+  "datumDoPonudba": "2024-11-08T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2024-11-08T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 2,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 2,
+  "objavaEU": true,
+  "datumVnosa": "2024-09-30T09:01:05.613",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-01T08:50:02.367",
+  "datumDoVprasanjaKalk": "2024-10-16T15:00:00",
+  "objavaIdent": "JN007021/2024-EUe16/01",
+  "eFormsIdent": "e93b33b9-1111-4537-b962-1843fc82e534",
+  "eFormsFolderIdent": "2c190430-9074-4436-a747-2a254e65d73c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-46650",
+  "eFormsPublishedId": "590763-2024",
+  "eFormsPublishedDate": "2024-10-01T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-09-30T09:11:53.27",
+  "narocnik": [
+   {
+    "id": 694447,
+    "idObrazec": 855747,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 5,
+    "utemeljitev": "75. členaZJN-3 "
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 237517,
+    "idObrazec": 855747,
+    "naslov": "Vzdrževanje predorskih vrat za osebne prehode",
+    "opis": "V sklopu 1 je zajeto vzdrževanje požarnih vrat SOS niš ter vrat za osebne prehode.",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6037,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6037
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Gospodarska dejavnost",
+      "opis": "Gospodarski subjekt mora biti registriran pri pristojnem organu in imeti v temeljnem aktu družbe določeno dejavnost, ki jo prevzema v ponudbi. ",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 237518,
+    "idObrazec": 855747,
+    "naslov": "Vzdrževanje hidravličnih predorskih vrat v prečnikih predorov",
+    "opis": "Vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih.",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6037,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6037
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Število dni blokade na posameznem računu",
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu).",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

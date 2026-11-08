@@ -1,0 +1,178 @@
+{
+ "row": {
+  "idObrazec": 1142690,
+  "idDosje": 581794,
+  "naslov": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002417/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-07-27T04:07:42.217",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1142690,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 581794,
+  "idObrazecPrej": 1081686,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec",
+  "kratekOpis": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+  "referencnaStevilka": "000034/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "vrednostOcenjenaBrezDDV": 3727500.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 3724350.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-24T09:34:45.257",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-27T04:07:42.217",
+  "objavaIdent": "JN002417/2026-EUe29/01",
+  "eFormsIdent": "ea66de35-88e6-49a1-861f-5f63bf08e27b",
+  "eFormsFolderIdent": "6ebe1ca3-8559-44dc-a6ff-7c82cd174be7",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-71756",
+  "eFormsPublishedId": "518874-2026",
+  "eFormsPublishedDate": "2026-07-27T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-07-24T09:39:23.453",
+  "narocnik": [
+   {
+    "id": 1197203,
+    "idObrazec": 1142690,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 522027,
+    "idObrazec": 1142690,
+    "naslov": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec",
+    "opis": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 40,
+    "vrednostOcenjenaBrezDDV": 3727500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "merila so določena v razpisni dokumentaciji",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "merila so določena v razpisni dokumentaciji (cena in kakovstna merila)",
+      "opis": "merila so določena v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 242113,
+    "idObrazec": 1142690,
+    "idObrazecSklop": 522027,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 3724350.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 3724350.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 3724350.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 633945,
+      "naziv": "IRGO CONSULTING d.o.o.",
+      "maticna": "1305212000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 127485,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 179504,
+    "naslov": "Geološko geotehnična spremljava gradnje pokritega vkopa Velenje ter več geotehničnih objektov na trasi sklopov A, C in G na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+    "internaStevilka": "000819/2026",
+    "datumSklenitev": "2026-07-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 522027
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

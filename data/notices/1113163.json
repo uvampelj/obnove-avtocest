@@ -1,0 +1,229 @@
+{
+ "row": {
+  "idObrazec": 1113163,
+  "idDosje": 624517,
+  "naslov": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN004826/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-06-17T04:11:32.71",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1113163,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 624517,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj",
+  "kratekOpis": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj za potrebe naročnika",
+  "referencnaStevilka": "000119/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3657,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NTU2MzYyO1JEIHphIG9iamF2byAxMTktMjAyNi56aXA",
+  "datumDoVprasanja": "2026-07-02T11:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=75519",
+  "datumDoPonudba": "2026-07-21T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 5,
+  "datumOdpiranje": "2026-07-21T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 2,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 2,
+  "objavaEU": true,
+  "datumVnosa": "2026-06-16T14:21:47.983",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-06-17T04:11:32.71",
+  "datumDoVprasanjaKalk": "2026-07-02T11:00:00",
+  "objavaIdent": "JN004826/2026-EUe16/01",
+  "eFormsIdent": "b3e624ca-0901-41f6-99a2-9402619570e1",
+  "eFormsFolderIdent": "f446af51-7519-4e55-94ed-aa34b6b53916",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-75519",
+  "eFormsPublishedId": "413748-2026",
+  "eFormsPublishedDate": "2026-06-17T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-06-16T14:29:39.68",
+  "narocnik": [
+   {
+    "id": 1153542,
+    "idObrazec": 1113163,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 491663,
+    "idObrazec": 1113163,
+    "naslov": "Sklop A: Dobava in montaža elementov JVO sistema K-light",
+    "opis": "Dobava in montaža elementov JVO sistema K-light za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 3,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6752
+     },
+     {
+      "id": 7087
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 491664,
+    "idObrazec": 1113163,
+    "naslov": "Sklop B: Dobava in montaža zaščitnih ograj za pešce in vzdrževalce",
+    "opis": "Dobava in montaža zaščitnih ograj za pešce in vzdrževalce za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 3,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6601
+     },
+     {
+      "id": 5978
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

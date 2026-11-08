@@ -1,0 +1,182 @@
+{
+ "row": {
+  "idObrazec": 1131104,
+  "idDosje": 509534,
+  "naslov": "Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN002969/2024-EUe38/01",
+  "objavaDejanskaDatum": "2026-07-20T04:07:22.41",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1131104,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 509534,
+  "idObrazecPrej": 853737,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500",
+  "kratekOpis": "Predmet javnega naročila je obnova ceste in objektov na odsekih AC A1/0038 Slovenske Konjice–Dramlje od km 0,071 do km 2,756, od km 3,544 do km 3,582, od km 4,087 do km 4,344, od km 4,848 do km 5,303 in od km 6,048 do km 6,500 in na A1/0638 Slovenske Konjice–Dramlje od km 0,071 do km 2,762, od km 4,087 do km 4,344, od km 4,845 do km 5,327, od km 6,061 do km 6,500, obnova vozišča, odvodnjavanja in notranje obloge predorov Pletovarje in Golo rebro, vzpostavitev prisilnega prezračevanja v vseh predorskih ceveh obeh predorov, vzpostavitev ubežnih poti skozi obstoječa prečnika v predorih Pletovarje in Golo rebro, zamenjava NN opreme, NKS sistema in NKS SCADA sistema v predorih Pletovarje in Golo rebro in sanacija objektov Škedenj I, Škedenj II in Grapa na AC A1 ter postavitev protihrupnih ograj na odseku Slovenske Konjice-Dramlje.",
+  "referencnaStevilka": "000083/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6708,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 61643046.83,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 61643046.83,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 64066641.67,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-17T14:46:35.167",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-20T04:07:22.41",
+  "objavaIdent": "JN002969/2024-EUe38/01",
+  "eFormsIdent": "7e952bdc-8e1f-431d-9197-970c2679df67",
+  "eFormsFolderIdent": "eb0104a0-393d-4433-aee8-18df21105d4e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-39993",
+  "eFormsPublishedId": "500490-2026",
+  "eFormsPublishedDate": "2026-07-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-07-17T14:50:34.003",
+  "narocnik": [
+   {
+    "id": 1183285,
+    "idObrazec": 1131104,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 510436,
+    "idObrazec": 1131104,
+    "naslov": "Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500",
+    "opis": "Predmet javnega naročila je obnova ceste in objektov na odsekih AC A1/0038 Slovenske Konjice–Dramlje od km 0,071 do km 2,756, od km 3,544 do km 3,582, od km 4,087 do km 4,344, od km 4,848 do km 5,303 in od km 6,048 do km 6,500 in na A1/0638 Slovenske Konjice–Dramlje od km 0,071 do km 2,762, od km 4,087 do km 4,344, od km 4,845 do km 5,327, od km 6,061 do km 6,500, obnova vozišča, odvodnjavanja in notranje obloge predorov Pletovarje in Golo rebro, vzpostavitev prisilnega prezračevanja v vseh predorskih ceveh obeh predorov, vzpostavitev ubežnih poti skozi obstoječa prečnika v predorih Pletovarje in Golo rebro, zamenjava NN opreme, NKS sistema in NKS SCADA sistema v predorih Pletovarje in Golo rebro in sanacija objektov Škedenj I, Škedenj II in Grapa na AC A1 ter postavitev protihrupnih ograj na odseku Slovenske Konjice-Dramlje.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6708,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 6
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 231570,
+    "idObrazec": 1131104,
+    "idObrazecSklop": 510436,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 61643046.83,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 5003726.85,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 621270,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "glavniURL": "https://www.pomgrad.si/",
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 621271,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "glavniURL": "https://www.cgp.si/",
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 621272,
+      "naziv": "ISKRA, elektro in sistemske rešitve, d.o.o.",
+      "maticna": "5185726000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.iskra.si/",
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 169096,
+    "naslov": "Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500",
+    "internaStevilka": "000917/2024",
+    "datumSklenitev": "2024-09-04T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 510436
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 169096,
+    "opis": "1.\tDodatna dela:\nPotreba po dodatnih delih je nastala zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti, saj se je pokazala šele med izvajanjem del po osnovni pogodbi, so pa navedena dela potrebna za dokončanje predmeta osnovne pogodbe, čeprav niso bila vključena v prvotno javno naročilo. Naročnik jih zato ni mogel predvideti že pri oddaji prvotnega javnega naročila, izvajalec pa jih ni mogel upoštevati pri oblikovanju ponudbene cene v okviru svoje ponudbe.\n\nDodatna dela se oddajo istemu izvajalcu na podlagi 2. točke prvega odstavka 95. člena ZJN-3. Pogodbena dela in dodatna dela so v taki medsebojni povezavi, da v primeru njihove izvedbe z različnimi izvajalci ni mogoče zagotoviti ustrezne kakovosti del. Zaradi povezave pogodbenih in dodatnih del ter tehnične in funkcionalne povezanosti del je potrebna enotna garancija za odpravo napak v garancijski dobi, za katero lahko jamči le en izvajalec.\nZamenjava izvajalca v obravnavanem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Poleg znatnega povečanja stroškov in nevšečnosti za naročnika bi bila potrebna izvedba novega postopka javnega naročila, kar bi povzročilo podaljšanje roka izvedbe del. Ob tem bi prvotni izvajalec lahko uveljavljal povračilo stroškov, ki bi mu nastali zaradi nezmožnosti nadaljevanja del (npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nIzvedba dodatnih del je nadalje nujna za zagotovitev prometne varnosti pri izvajanju vzdrževalnih del DARS d. d., tako v času izvajanja del po osnovni pogodbi kot po predaji obravnavanega odseka avtoceste v upravljanje in vzdrževanje DARS d. d.\n\nVse opisane okoliščine upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje/sprememba pogodbenih rokov: \nZ aneksom št. 1 se podaljšujeta/spremenita:\n-\trok za izdelavo PZI za sanacijo viaduktov Škedenj 1 in 2 ter mostu Grapa iz alineje e) 9. člena osnovne pogodbe (do 26. 3. 2025 smer Ljubljana in do 27. 6. 2025 za smer Maribor) in\n-\trok za izvedbo GOI del v 4. alineji prvega odstavka 11. člena osnovne pogodbe (podaljšanje za 26 dni v obdobju od 3. 3. 2025 do 28. 3. 2025)\n\nSprememba osnovne pogodbe (podaljšanje zgoraj navedenih pogodbenih rokov) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (naknadno ugotovljeno dejansko stanje konstrukcije objekta in dodatna dela za izvedbo kabelske kanalizacije ter naknadna optimizacija gradbenih faz z namenom izboljšanja pretočnosti prometa v času gradnje). Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

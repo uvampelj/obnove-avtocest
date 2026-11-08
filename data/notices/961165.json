@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 961165,
+  "idDosje": 525229,
+  "naslov": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006715/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-11-25T09:48:31.037",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 961165,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 525229,
+  "idObrazecPrej": 943694,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+  "kratekOpis": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+  "referencnaStevilka": "000208/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 365000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 349000.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-11-25T09:34:52.423",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-11-25T09:48:31.037",
+  "objavaIdent": "JN006715/2025-SL2/01",
+  "eFormsIdent": "5f430c9c-4304-4aba-9b45-6638f94fa499",
+  "eFormsFolderIdent": "cf460ff4-b18f-4136-8f5b-f08384f4c142",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-61811",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-11-25T09:39:46.513",
+  "narocnik": [
+   {
+    "id": 941274,
+    "idObrazec": 961165,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 339460,
+    "idObrazec": 961165,
+    "naslov": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+    "opis": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 16,
+    "vrednostOcenjenaBrezDDV": 365000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 77705,
+    "idObrazec": 961165,
+    "idObrazecSklop": 339460,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 349000.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 438343.08,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 349000.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 370983,
+      "naziv": "TEGAR storitve in trgovina, d.o.o.",
+      "maticna": "2333821000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 171700,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 42025,
+    "naslov": "Postavitev zaprtega nadstreška za vozila cestninskega nadzora v LCCN Log in zamenjava kontejnerjev na CP Prepolje s prestavitvijo elektro razdelilne opreme",
+    "internaStevilka": "001273/2025",
+    "datumSklenitev": "2025-11-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 339460
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

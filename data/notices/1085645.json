@@ -1,0 +1,224 @@
+{
+ "row": {
+  "idObrazec": 1085645,
+  "idDosje": 603541,
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa)\nSklop 1 - odvoz vozil do 3.500 kg NDM\nSklop 2 - odvoz vozil nad 3.500 kg NDM",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN004193/2026-EUe25/01",
+  "objavaDejanskaDatum": "2026-05-28T04:02:39.34",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1085645,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 603541,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa)\nSklop 1 - odvoz vozil do 3.500 kg NDM\nSklop 2 - odvoz vozil nad 3.500 kg NDM",
+  "kratekOpis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa)\nSklop 1 - odvoz vozil do 3.500 kg NDM\nSklop 2 - odvoz vozil nad 3.500 kg NDM",
+  "standardnaUreditev": true,
+  "referencnaStevilka": "000092/2026",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7402,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 234049.2,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 9,
+  "razlogOddajeBrezObjave": "izključne pravice",
+  "objavaEU": true,
+  "datumVnosa": "2026-05-20T16:08:34.477",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-05-28T04:02:39.34",
+  "objavaIdent": "JN004193/2026-EUe25/01",
+  "eFormsIdent": "e27c994e-216d-4778-95f9-b15345918aea",
+  "eFormsFolderIdent": "6e4dd067-084f-408e-b443-2bfdd713479c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "eFormsPublishedId": "366921-2026",
+  "eFormsPublishedDate": "2026-05-28T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-05-26T15:14:22.427",
+  "narocnik": [
+   {
+    "id": 1115818,
+    "idObrazec": 1085645,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 463755,
+    "idObrazec": 1085645,
+    "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa) - Sklop 1 - odvoz vozil do 3.500 kg NDM",
+    "opis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa)\nSklop 1 - odvoz vozil do 3.500 kg NDM",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Glej dokumentacijo v zvezi z oddajo javnega naročila.",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 463756,
+    "idObrazec": 1085645,
+    "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa) - Sklop 2 - odvoz vozil nad 3.500 kg NDM",
+    "opis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500, 2. etapa (2 sklopa)\nSklop 2 - odvoz vozil nad 3.500 kg NDM",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Glej dokumentacijo v zvezi z oddajo javnega naročila.",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 185837,
+    "idObrazec": 1085645,
+    "idObrazecSklop": 463755,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 34687.2,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 574389,
+      "naziv": "EASYTRANS, prevozi in storitve, d.o.o.",
+      "maticna": "7095724000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.easytrans.si",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 247700,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 574390,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 206307,
+    "idObrazec": 1085645,
+    "idObrazecSklop": 463756,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 199362.0,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 574392,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 124690,
+    "internaStevilka": "000092/2026",
+    "datumSklep": "2026-05-26T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 463755
+     }
+    ]
+   },
+   {
+    "id": 145044,
+    "internaStevilka": "000092/2026-sklop2",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 463756
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

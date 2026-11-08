@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 901925,
+  "idDosje": 517424,
+  "naslov": "Sanacija poškodovanih BVO po prometnih nesrečah",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000091/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-04-03T11:39:48.02",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 901925,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 517424,
+  "idObrazecPrej": 879932,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija poškodovanih BVO po prometnih nesrečah",
+  "kratekOpis": "Sanacija poškodovanih BVO po prometnih nesrečah",
+  "referencnaStevilka": "000289/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3657,
+  "vrednostOcenjenaBrezDDV": 166225.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 111680.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-04-03T11:17:36.877",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-03T11:39:48.02",
+  "objavaIdent": "JN000091/2025-SL2/01",
+  "eFormsIdent": "b2659b12-4137-4132-a621-ac36d8dcf82b",
+  "eFormsFolderIdent": "1ab6ee69-3c30-4b67-bd97-86b1646e3c3d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-51148",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-04-03T11:21:05.127",
+  "narocnik": [
+   {
+    "id": 792655,
+    "idObrazec": 901925,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 279216,
+    "idObrazec": 901925,
+    "naslov": "Sanacija poškodovanih BVO po prometnih nesrečah",
+    "opis": "Sanacija poškodovanih BVO po prometnih nesrečah",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 166225.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Sanacija poškodovanih BVO po prometnih nesrečah"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 46773,
+    "idObrazec": 901925,
+    "idObrazecSklop": 279216,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 111680.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 111680.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 111680.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 257201,
+      "naziv": "DELTABLOC, varnostne in protihrupne ograje d.o.o.",
+      "maticna": "7184590000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 257407,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 26442,
+    "naslov": "Sanacija poškodovanih BVO po prometnih nesrečah",
+    "internaStevilka": "000634/2025",
+    "datumSklenitev": "2025-04-02T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 279216
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

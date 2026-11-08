@@ -1,0 +1,153 @@
+{
+ "row": {
+  "idObrazec": 1130698,
+  "idDosje": 476454,
+  "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "002109/2023-EUe38/03",
+  "objavaDejanskaDatum": "2026-07-17T04:26:06.277",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1130698,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 476454,
+  "idObrazecPrej": 481897,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "kratekOpis": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "referencnaStevilka": "41/2026",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8162,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 722886.77,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 730327.92,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-16T13:09:19.247",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-17T04:26:06.277",
+  "objavaIdent": "002109/2023-EUe38/03",
+  "eFormsIdent": "5c9260f7-776c-40b8-9061-f37887b85afc",
+  "eFormsFolderIdent": "0eb12352-b7a8-4002-b25a-0a7f050f3c8e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "494221-2026",
+  "eFormsPublishedDate": "2026-07-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-07-16T13:27:08.607",
+  "narocnik": [
+   {
+    "id": 1182340,
+    "idObrazec": 1130698,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8162
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 510087,
+    "idObrazec": 1130698,
+    "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "opis": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8162,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-05-24T00:00:00",
+    "datumKonec": "2025-12-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8162
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 231462,
+    "idObrazec": 1130698,
+    "idObrazecSklop": 510087,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 561906.91,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 620572,
+      "naziv": "LINEAL biro za projektiranje, inženiring, informacijske dejavnosti, založništvo, proizvodnjo, najeme, storitve in gradbeništvo d.o.o.",
+      "maticna": "5444098000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSubjektPrs": 41245,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 168995,
+    "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "internaStevilka": "000707/2023",
+    "datumSklenitev": "2023-05-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 510087
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 168995,
+    "opis": "Aneks št. 3 je sklenjen za podaljšanje pogodbenega roka in dodatna dela. \n\nPogodbeni rok:\nTerminski potek postopka priprave DPN za predmetni odsek je odstopal od terminskega plana, ki je bil osnova za določitev rokov pri pripravi te pogodbe. Prišlo je do odstopanj od terminskega poteka zaradi dolgotrajnega usklajevanja strokovnih podlag s področja voda, ki so podlaga za izdajo pozitivnega mnenja o ustreznosti okoljskega poročila (v nadaljevanju OP). Dopolnitev OP je bila možna šele po uskladitvi strokovnih podlag s področja voda, čemur je sledila potrditev OP in nato izdelava predloga DPN. \nZaradi zgoraj navedenih objektivnih okoliščin, na katere nista imela vpliva ne naročnik kot tudi ne izvajalec, pogodbenih del ni bilo možno dokončati v pogodbenem roku, opredeljenem v drugem odstavku 5. člena osnovne pogodbe ter podaljšanem z aneksom št. 1, in sicer do dne 31. 12. 2025. \nIz navedenih razlogov je bilo treba pogodbeni rok podaljšati. Na podlagi navedenega in glede na terminski plan priprave tega DPN se je pogodbeni rok podaljšal za 6 mesecev oziroma do dne 30. 6. 2026. \nZgoraj opisana sprememba osnovne pogodbe je dopustna na podlagi 3. točke prvega odstavka \n95. člena ZJN-3.\n\nDodatna dela:\nIzvajalec v svojem zahtevku navaja dodatna dela, ki so bila potrebna za dokončanje dopolnjenega idejnega projekta. Predmet dodatnih del je izdelava gradiv za opredelitev kompenzacijskih ukrepov, v sklopu izdelave strokovne podlage po Prilogi 3 Splošnih smernic DRSV. Vrednost dodatnih del brez DDV je 7.350,00 EUR. \nDodatna dela niso bila predvidena v času oddaje ponudbe izvajalca in niso bila vključena v osnovni specifikaciji, zato jih v času oddaje ponudbe ni bilo mogoče upoštevati pri oblikovanju ponudbene cene, so bila pa nujno potrebna za izvedbo predmeta pogodbe. \nZa izvedbo dodatnih del je bil na podlagi 2. točke prvega odstavka 95. člena ZJN-3 sklenjen aneks k osnovni pogodbi z istim izvajalcem, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Dodatnih del namreč ni bilo mogoče tehnično ločiti od prvotnega naročila, njihova izvedba s strani obstoječega izvajalca pa je bila nujno potrebna za dokončanje prvotno naročenega predmeta pogodbe. \nPrav tako bi zamenjava izvajalca naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov, saj bi moral naročnik za izvedbo zgoraj opisanih dodatnih del pričeti z novim postopkom oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Opisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

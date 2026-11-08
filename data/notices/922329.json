@@ -1,0 +1,155 @@
+{
+ "row": {
+  "idObrazec": 922329,
+  "idDosje": 445542,
+  "naslov": "Rekonstrukcija delov odsekov na AC A2 0023 in 0623 Ivančna Gorica-Bič, 0072 in 0672 Bič-Trebnje V in 0411 priključek Bič",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "003442/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-06-25T09:44:23.96",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 922329,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 445542,
+  "idObrazecPrej": 460490,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rekonstrukcija delov odsekov na AC A2 0023 in 0623 Ivančna Gorica-Bič, 0072 in 0672 Bič-Trebnje V in 0411 priključek Bič",
+  "kratekOpis": "Rekonstrukcija ceste in objektov na odsekih AC A2 0023 Ivančna Gorica-Bič od km 4,130 do km 6,889, 0623 Ivančna Gorica-Bič od km 4,160 do km 6,875, 0072 in 0672 Bič-Trebnje V od km 0,000 do km 0,270 in 0411 priključek Bič od km 0,000 do km 0,702",
+  "referencnaStevilka": "272/24",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 15447104.95,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 15447104.95,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 16928817.34,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-06-23T15:09:37.553",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-25T09:44:23.96",
+  "objavaIdent": "003442/2022-EUe38/01",
+  "eFormsIdent": "f1c35450-8340-4705-97a2-c2f80cc4cb25",
+  "eFormsFolderIdent": "5916d4e2-ff6e-41a6-9a32-a9d40e0392c0",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "409539-2025",
+  "eFormsPublishedDate": "2025-06-25T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-23T15:31:05.323",
+  "narocnik": [
+   {
+    "id": 842378,
+    "idObrazec": 922329,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6737
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 300951,
+    "idObrazec": 922329,
+    "naslov": "Rekonstrukcija delov odsekov na AC A2 0023 in 0623 Ivančna Gorica-Bič, 0072 in 0672 Bič-Trebnje V in 0411 priključek Bič",
+    "opis": "Rekonstrukcija ceste in objektov na odsekih AC A2 0023 Ivančna Gorica-Bič od km 4,130 do km 6,889, 0623 Ivančna Gorica-Bič od km 4,160 do km 6,875, 0072 in 0672 Bič-Trebnje V od km 0,000 do km 0,270 in 0411 priključek Bič od km 0,000 do km 0,702",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 34,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 53504,
+    "idObrazec": 922329,
+    "idObrazecSklop": 300951,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 15447104.95,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 4282774.58,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 299276,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 35633,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31493,
+    "naslov": "Rekonstrukcija ceste in objektov na odsekih AC A2 0023 Ivančna Gorica-Bič od km 4,130 do km 6,889, 0623 Ivančna Gorica-Bič od km 4,160 do km 6,875, 0072 in 0672 Bič-Trebnje V od km 0,000 do km 0,270 in 0411 priključek Bič od km 0,000 do km 0,702",
+    "internaStevilka": "1276/2022",
+    "datumSklenitev": "2022-10-05T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 300951
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31493,
+    "opis": "Dodatna dela, ki so predmet tega aneksa, so nujno potrebna za izpolnitev predmeta pogodbe, naročnik pa v času oddaje javnega naročila ni mogel v celoti predvideti vseh pogodbenih del. Potreba po izvedbi dodatnih del je namreč nastala v času izvajanja pogodbe, v okviru poteka gradbenih del, pri čemer so dodatna dela tesno povezana s predmetom pogodbe. \nZa izvedbo dodatnih del se sklene aneks k pogodbi s prvotnim izvajalcem, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov, hkrati pa bi zamenjava izvajalca naročniku povzročila velike nevšečnosti, znatno podvajanje stroškov in tudi časovni zamik dokončanja pogodbenih del.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo pogodbenih del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nVse opisane okoliščine, ki imajo za posledico tudi nastanek nesorazmernih stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\nSpremembe pogodbe (podaljšanje roka za dokončanje GOI del, roka za evidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS, roka za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, in roka za pridobitev Potrdila o izvedbi, ter podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (neugodni vremenski pogoji in potreba po uskladitvi in izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve).\nSpremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

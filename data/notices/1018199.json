@@ -1,0 +1,191 @@
+{
+ "row": {
+  "idObrazec": 1018199,
+  "idDosje": 540094,
+  "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000915/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-03-17T09:25:23.68",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1018199,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 540094,
+  "idObrazecPrej": 989077,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "kratekOpis": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "referencnaStevilka": "000004/2026",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8132,
+  "vrednostOcenjenaBrezDDV": 116000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 115750.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 5,
+  "razlogOddajeBrezObjave": "Naročnik je za oddajo javnega naročila za izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let izvedel postopek po točki b) prvega odstavka 44. člena ZJN-3. K oddaji ponudbe je bil povabljen ponudnik J.V. AKIS, Storitve in gradbeništvo, d.o.o. + IB VOJSKA, inženirski biro d.o.o., za katerega je bilo v predhodno izvedenem postopku (št. objave na PJN JN008884/2025-SL1/01) ugotovljeno, da izpolnjuje pogoje za sodelovanje, ki so bili določeni v dokumentaciji v zvezi z oddajo javnega naročila, in zanj niso obstajali razlogi za izključitev ter je v tem postopku predložil ponudbo v skladu s formalnimi zahtevami za postopek javnega naročila, vendar je njegova cena presegala naročnikova zagotovljena sredstva določena s sklepom o pričetku postopka oddaje javnega naročila št. 000271/2025 z dne 23. 9. 2025. Točka b) prvega odstavka 44. člena ZJN-3 določa, da lahko naročnik uporabi konkurenčni postopek s pogajanji za gradnje, blago ali storitve, pri katerih so bile v odprtem ali omejenem postopku ali postopku naročila male vrednosti predložene le ponudbe, ki niso skladne z dokumentacijo v zvezi z oddajo javnega naročila ali ki so prispele prepozno ali za katere je naročnik ugotovil, da so neobičajno nizke, ali ponudbe ponudnikov, ki niso ustrezno usposobljeni, ali ponudbe, katerih cena presega naročnikova zagotovljena sredstva. V primeru iz te točke naročniku v konkurenčnem postopku s pogajanji ni treba objaviti obvestila o javnem naročilu, če v postopek vključi vse ponudnike, ki izpolnjujejo pogoje za sodelovanje in zanje ne obstajajo razlogi za izključitev in so v predhodno izvedenem odprtem ali omejenem postopku ali postopku naročila male vrednosti predložili ponudbe v skladu s formalnimi zahtevami za postopek javnega naročanja. Glede na navedeno, se za neoddano javno naročilo s ponudnikom  J.V. AKIS, Storitve in gradbeništvo, d.o.o. + IB VOJSKA, inženirski biro d.o.o. izvede konkurenčni postopek s pogajanji na podlagi točke b) prvega odstavka 44. člena ZJN-3.",
+  "objavaEU": false,
+  "datumVnosa": "2026-03-16T09:35:50.413",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-17T09:25:23.68",
+  "objavaIdent": "JN000915/2026-EUe29/01",
+  "eFormsIdent": "5b210da2-2279-4b44-8bca-322ed5165266",
+  "eFormsFolderIdent": "0b4e4c94-84fc-4853-bc17-e7545aa19937",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-03-17T09:16:34.537",
+  "narocnik": [
+   {
+    "id": 1026752,
+    "idObrazec": 1018199,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 396761,
+    "idObrazec": 1018199,
+    "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+    "opis": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8132,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 116000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je končna ponudbena cena (v EUR brez DDV) po pogajanjih.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je končna ponudbena cena (v EUR brez DDV) po pogajanjih."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 129421,
+    "idObrazec": 1018199,
+    "idObrazecSklop": 396761,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 115750.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 115750.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 115750.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 6462.5,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 5.58,
+    "opisDelezOddajePodizvajalcem": "Naloge koordinatorja za varnost in zdravje pri delu",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 462926,
+      "naziv": "AKIS, Storitve in gradbeništvo, d.o.o.",
+      "maticna": "3340759000",
+      "mesto": "Zagorje ob Savi",
+      "idSifDrzava": 1,
+      "idSifNuts": 1272,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 92450,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 462927,
+      "naziv": "IB VOJSKA, inženirski biro d.o.o.",
+      "maticna": "9267573000",
+      "mesto": "Vrhnika",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 425104,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 70150,
+    "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+    "internaStevilka": "000004/2026",
+    "datumSklenitev": "2026-02-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 396761
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "row": {
+  "idObrazec": 954849,
+  "idDosje": 468531,
+  "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000170/2023-EUe38/02",
+  "objavaDejanskaDatum": "2025-10-31T04:34:56.303",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 954849,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 468531,
+  "idObrazecPrej": 484189,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "kratekOpis": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "referencnaStevilka": "286/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6471,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba osnovne pogodbe (podaljšanje roka za dokončanje del za LCCN Videž za 1 mesec) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (izredne razmere zaradi poplav v avgustu 2023). \n\nZaradi objektivnih razlogov, ki ne izvirajo iz sfere izvajalca, izvajalec pogodbenih del ni mogel izvesti v roku za izvedbo, kot je bil določen v 11. členu osnovne pogodbe za LCCN Videž, tj. 8 mesecev od uvedbe v delo.\nIzvajalec je v predlogu za podaljšanje obrazložil razloge, zaradi katerih je prišlo do odstopanj od pogodbenega roka in potrjenih terminskih planov, pri čemer je kot glavni vzrok navedel sodelovanje pri odpravi posledic poplav v avgustu 2023. \nZaradi sodelovanja pri odpravi posledic poplav v avgustu 2023 (nepredviden dogodek) se je spremenila dinamika izvajanja pogodbenih del oz. se je spremenil predviden terminski plan, v posledici česar je postalo jasno, da izvajalec do izteka roka za dokončanje del pogodbenih del na LCCN Videž ne bo uspel zaključiti. \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Obnova lokalnih centrov cestninskega nadzora, Sklop 2: Nanos in Videž) ostaja nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2025-10-29T15:49:18.107",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-31T04:34:56.303",
+  "objavaIdent": "000170/2023-EUe38/02",
+  "eFormsIdent": "7af1b884-f6a6-46b1-b936-ded2a1ebba02",
+  "eFormsFolderIdent": "81733a4e-1178-4108-85b7-2aba3b07a00e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "720970-2025",
+  "eFormsPublishedDate": "2025-10-31T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-30T08:26:40.88",
+  "narocnik": [
+   {
+    "id": 927053,
+    "idObrazec": 954849,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6471
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1278
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 333489,
+    "idObrazec": 954849,
+    "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "opis": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6471,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 28,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6471
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1278
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 75641,
+    "idObrazec": 954849,
+    "idObrazecSklop": 333489,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 2850685.96,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 360715,
+      "naziv": "GODINA gradbeništvo in druge storitve d.o.o.",
+      "maticna": "2296225000",
+      "mesto": "Kozina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 120016,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 40362,
+    "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "internaStevilka": "000747/2023",
+    "datumSklenitev": "2023-06-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 333489
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 40362,
+    "opis": "Predmet aneksa št. 1 je podaljšanje roka za izvedbo GOI del in opreme LCCN Videž."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "row": {
+  "idObrazec": 897217,
+  "idDosje": 517183,
+  "naslov": "Izvajanje strokovno svetovalnih storitev s Področja za organizacijo gradenj in obnov",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009223/2024-EUe29/01",
+  "objavaDejanskaDatum": "2025-03-20T09:17:25.993",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 897217,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 517183,
+  "idObrazecPrej": 885741,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje strokovno svetovalnih storitev s Področja za organizacijo gradenj in obnov",
+  "kratekOpis": "Izvajanje strokovno svetovalnih storitev s Področja za organizacijo gradenj in obnov",
+  "referencnaStevilka": "0000295/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8098,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-03-19T08:59:04.97",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-03-20T09:17:25.993",
+  "objavaIdent": "JN009223/2024-EUe29/01",
+  "eFormsIdent": "33e01132-b87e-4843-a3f9-96452a087334",
+  "eFormsFolderIdent": "27a24d5b-e1a6-4775-9c6a-544d50dc3b1a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-50798",
+  "eFormsPublishedId": "181829-2025",
+  "eFormsPublishedDate": "2025-03-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-03-19T09:00:29.317",
+  "narocnik": [
+   {
+    "id": 783548,
+    "idObrazec": 897217,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 275314,
+    "idObrazec": 897217,
+    "naslov": "Izvajanje strokovno svetovalnih storitev s Področja za organizacijo gradenj in obnov",
+    "opis": "Izvajanje strokovno svetovalnih storitev s Področja za organizacijo gradenj in obnov",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8098,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "cena",
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 3,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 45325,
+    "idObrazec": 897217,
+    "idObrazecSklop": 275314,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 2,
+    "ponovniZacetek": true
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

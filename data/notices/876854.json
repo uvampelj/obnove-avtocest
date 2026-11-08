@@ -1,0 +1,145 @@
+{
+ "row": {
+  "idObrazec": 876854,
+  "idDosje": 517143,
+  "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN009192/2024-EUe25/01",
+  "objavaDejanskaDatum": "2024-12-23T08:50:15.13",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 876854,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 517143,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "kratekOpis": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila",
+  "standardnaUreditev": true,
+  "referencnaStevilka": "000233/2024",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8870,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 4916027.17,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 4,
+  "razlogOddajeBrezObjave": "Predmetna dodatna dela mora izvesti obstoječi izvajalec in zamenjava izvajalca ni mogoča iz tehničnih razlogov. Predmetna implementacija bo namreč del obstoječega sistema, ki predstavlja celovit in kompleksen sistem, ki zagotavlja upravljanje in obvladovanje velike količine poslovnih podatkov, ki nastajajo v DarsGo sistemu. Obstoječi izvajalec razpolaga s programsko kodo sistema, zaradi poznavanja izvornega sistema DarsGo, dostopov do sistemov ter njihovih medsebojnih povezav in podatkovnih struktur ter poznavanja tehnično-poslovnih pravil za pravilnost prenosa podatkov, kot tudi zaradi poslovne kompleksnosti celotnega sistema DarsGo ter ustreznih kadrovskih virov, ki jih ima izvajalec, je ključno, da predmetna dela izvede izvajalec osnovnega projekta. Del naročnikove pogodbe z izvajalcem (konzorcijem) je tudi vzdrževanje DarsGo sistema, zaradi česar mora tudi predmetna dela vzdrževati izvajalec. Morebitna zamenjava dobavitelja in izvajalca storitve vzdrževanja bi lahko povzročila neskladnost v izvedbi in vzdrževanju in s tem tehnične težave pri vzdrževanju in obratovanju sistema DarsGo ter nepredvidene dodatne stroške, ki bi jih imel naročnik v primeru prenosa del k tretjemu izvajalcu. V skladu z 41. členom pogodbe mora izvajalec ustrezno in skrbno upravljati s sredstvi sistema. Za prevzet sistem zagotavlja izvajalec 10 letni garancijski rok, za kar jamči tudi z veljavno bančno garancijo. Bančna garancija za delovanje vzpostavljenega sistema pokriva tudi kakršne koli napake ali poškodbe katerega koli dela sistema, ki se pokažejo ali nastanejo v garancijskem roku v skladu z določili pogodbe. V primeru posegov v sistem s strani drugega izvajalca jamčevanje za nastale napake ne bi bilo več v domeni izvajalca. Posledično naročnik ne bi mogel uveljavljati finančnega zavarovanja za poplačilo morebitnih posledic neustreznega delovanja sistema. ",
+  "objavaEU": true,
+  "datumVnosa": "2024-12-20T09:46:49.777",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-12-23T08:50:15.13",
+  "objavaIdent": "JN009192/2024-EUe25/01",
+  "eFormsIdent": "32c9a72d-a1e5-4a3e-8e87-00058b3f3d57",
+  "eFormsFolderIdent": "3c65de33-c0e8-408f-9dd4-690f5159e33a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "eFormsPublishedId": "790039-2024",
+  "eFormsPublishedDate": "2024-12-23T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-12-20T09:57:30.143",
+  "narocnik": [
+   {
+    "id": 741684,
+    "idObrazec": 876854,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 257565,
+    "idObrazec": 876854,
+    "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+    "opis": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8870,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 39,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Cena 100 %",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena 100 %"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 37551,
+    "idObrazec": 876854,
+    "idObrazecSklop": 257565,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 4916027.17,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 201602,
+      "naziv": "TELEKOM SLOVENIJE, d.d.",
+      "maticna": "5014018000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 235985,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 19565,
+    "internaStevilka": "000233/2024",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 257565
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

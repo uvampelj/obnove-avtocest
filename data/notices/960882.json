@@ -1,0 +1,147 @@
+{
+ "row": {
+  "idObrazec": 960882,
+  "idDosje": 474097,
+  "naslov": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H -",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001543/2023-EUe38/01",
+  "objavaDejanskaDatum": "2025-11-25T04:34:21.913",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 960882,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 474097,
+  "idObrazecPrej": 481345,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H -",
+  "kratekOpis": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H -",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8076,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "- dodatna, več, manj in opuščena dela \n- podaljšanje obdobja izvedbe",
+  "vrednostPosodobljenaSkupna": 848860.1,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 824110.1,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-11-24T09:56:22.183",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-11-25T04:34:21.913",
+  "objavaIdent": "001543/2023-EUe38/01",
+  "eFormsIdent": "d0dbe1aa-f804-4023-a1c6-4788e92465e6",
+  "eFormsFolderIdent": "bfdf9310-3cb9-46cf-b898-47f10dde99a3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "781238-2025",
+  "eFormsPublishedDate": "2025-11-25T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-11-24T10:20:12.317",
+  "narocnik": [
+   {
+    "id": 940593,
+    "idObrazec": 960882,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8076
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 339198,
+    "idObrazec": 960882,
+    "naslov": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H - Konovo",
+    "opis": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H - Konovo",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8076,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 77636,
+    "idObrazec": 960882,
+    "idObrazecSklop": 339198,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 848860.1,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 370526,
+      "naziv": "IRGO CONSULTING d.o.o.",
+      "maticna": "1305212000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 127485,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 41967,
+    "naslov": "Pogodba za Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H - Konovo",
+    "internaStevilka": "000726/2023",
+    "datumSklenitev": "2023-05-30T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 339198
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 41967,
+    "opis": "- dodatna, več, manj in opuščena dela \n- podaljšanje obdobja izvedbe"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

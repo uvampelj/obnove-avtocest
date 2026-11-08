@@ -1,0 +1,180 @@
+{
+ "row": {
+  "idObrazec": 865840,
+  "idDosje": 515889,
+  "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN008133/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-11-12T08:52:53.25",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 865840,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 515889,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+  "kratekOpis": "Vzdrževanje ventilacije v predorih za potrebe naročnika.",
+  "referencnaStevilka": "000248/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 667480.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzI3NTE4O1JhenBpc25hIGRva3VtZW50YWNpamEgMjQ4LTIwMjQgKyBFU1BELnppcA",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2024-12-02T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=47996",
+  "datumDoPonudba": "2024-12-17T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2024-12-17T11:00:00",
+  "odpiranjePonudbKraj": "Elektronsko odpiranje ponudb preko portala e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-11-11T12:41:10.483",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-12T08:52:53.25",
+  "datumDoVprasanjaKalk": "2024-12-02T08:00:00",
+  "objavaIdent": "JN008133/2024-EUe16/01",
+  "eFormsIdent": "6bb1479e-4244-4a5a-bac3-8bafa88ce861",
+  "eFormsFolderIdent": "f673b5b5-42f8-4387-8c57-e70fdf7d15e7",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-47996",
+  "eFormsPublishedId": "689311-2024",
+  "eFormsPublishedDate": "2024-11-12T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-11-11T13:18:57.157",
+  "narocnik": [
+   {
+    "id": 717583,
+    "idObrazec": 865840,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "Skladno z razpisno dokumentacijo."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 247605,
+    "idObrazec": 865840,
+    "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+    "opis": "Vzdrževanje ventilacije v predorih za potrebe naročnika.",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "podaljsanje": false,
+    "vrednostOcenjenaBrezDDV": 667480.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponujena cena.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 5434
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

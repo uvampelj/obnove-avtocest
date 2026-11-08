@@ -1,0 +1,195 @@
+{
+ "row": {
+  "idObrazec": 1148873,
+  "idDosje": 602634,
+  "naslov": "Izvedba zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 meja Avstrija (predor) - Hrušica",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003191/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-08-20T04:07:00.757",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1148873,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 602634,
+  "idObrazecPrej": 1107606,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 meja Avstrija (predor) - Hrušica",
+  "kratekOpis": "Izvedba zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 meja Avstrija (predor) - Hrušica za potrebe naročnika",
+  "referencnaStevilka": "000057/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "vrednostOcenjenaBrezDDV": 760940.78,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 759362.5,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-08-19T09:08:41.917",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-20T04:07:00.757",
+  "objavaIdent": "JN003191/2026-EUe29/01",
+  "eFormsIdent": "79614485-f6e1-4e3a-a69b-3cf69f65375d",
+  "eFormsFolderIdent": "ebaa93f9-fdd3-4205-a601-ad06c16826a2",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-72937",
+  "eFormsPublishedId": "577340-2026",
+  "eFormsPublishedDate": "2026-08-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-19T09:16:38.587",
+  "narocnik": [
+   {
+    "id": 1211254,
+    "idObrazec": 1148873,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 527755,
+    "idObrazec": 1148873,
+    "naslov": "Izvedba zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 meja Avstrija (predor) - Hrušica",
+    "opis": "Izvedba zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 meja Avstrija (predor) - Hrušica",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 760940.78,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v rd",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 80.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "kot je navedeno v rd",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 20.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 244605,
+    "idObrazec": 1148873,
+    "idObrazecSklop": 527755,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 759362.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 759362.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 759362.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 644294,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 644295,
+      "naziv": "IGMAT, Inštitut za gradbene materiale, d.d.",
+      "maticna": "5498503000",
+      "mesto": "Ljubljana - Polje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 192207,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 181047,
+    "naslov": "Pogodba za izvedbo zunanje kontrole kakovosti pri sanaciji zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC - A2 odsek 0001 meja Avstrija (predor) - Hrušica",
+    "internaStevilka": "000896/2026",
+    "datumSklenitev": "2026-08-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 527755
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

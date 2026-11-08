@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 1015309,
+  "idDosje": 527890,
+  "naslov": "Sanacija elektro omaric na trasi AC",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009038/2025-SL2/01",
+  "objavaDejanskaDatum": "2026-03-05T08:51:59.76",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1015309,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 527890,
+  "idObrazecPrej": 967909,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija elektro omaric na trasi AC",
+  "kratekOpis": "Sanacija elektro omaric na trasi AC",
+  "referencnaStevilka": "000300/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "vrednostOcenjenaBrezDDV": 170500.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 148739.52,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2026-03-05T08:02:07.643",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-05T08:51:59.76",
+  "objavaIdent": "JN009038/2025-SL2/01",
+  "eFormsIdent": "cf1ef6c3-f57f-4dc1-89e2-fc682b6b505d",
+  "eFormsFolderIdent": "397ddaf5-422f-402a-b859-7d3976e22501",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-65926",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-03-05T08:06:14.09",
+  "narocnik": [
+   {
+    "id": 1020961,
+    "idObrazec": 1015309,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 393421,
+    "idObrazec": 1015309,
+    "naslov": "Sanacija elektro omaric na trasi AC",
+    "opis": "Sanacija elektro omaric na trasi AC",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 170500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Sanacija elektro omaric na trasi AC"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 128221,
+    "idObrazec": 1015309,
+    "idObrazecSklop": 393421,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 8,
+    "steviloEPonudbe": 8,
+    "steviloMspPonudbe": 8,
+    "steviloDopustno": 7,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 114476.3,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 214810.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 148739.52,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 456046,
+      "naziv": "JAVNA RAZSVETLJAVA d.d.",
+      "maticna": "3341836000",
+      "mesto": "Ljubljana - Dobrunje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 223862,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 69310,
+    "naslov": "Sanacija elektro omaric na trasi AC",
+    "internaStevilka": "000219/2026",
+    "datumSklenitev": "2026-03-04T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 393421
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

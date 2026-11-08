@@ -1,0 +1,203 @@
+{
+ "row": {
+  "idObrazec": 939095,
+  "idDosje": 516549,
+  "naslov": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale-Šentjakob, A1/0047/0647 Šentjakob–LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008691/2024-EUe29/01",
+  "objavaDejanskaDatum": "2025-09-02T05:26:46.64",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 939095,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 516549,
+  "idObrazecPrej": 880322,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale-Šentjakob, A1/0047/0647 Šentjakob–LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+  "kratekOpis": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale - Šentjakob, A1/0047/0647 Šentjakob – LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+  "referencnaStevilka": "000237/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 93550000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000237/2024. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N40Z016-03) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 80786656.61,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-09-01T11:11:32.193",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-09-02T05:26:46.64",
+  "objavaIdent": "JN008691/2024-EUe29/01",
+  "eFormsIdent": "478eb403-e2d6-43a0-904d-1c94ca1ed397",
+  "eFormsFolderIdent": "beb42126-5b63-42d5-91d1-13d6a80d5c3a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-49867",
+  "eFormsPublishedId": "571368-2025",
+  "eFormsPublishedDate": "2025-09-02T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-09-01T12:11:21.93",
+  "narocnik": [
+   {
+    "id": 882091,
+    "idObrazec": 939095,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 317690,
+    "idObrazec": 939095,
+    "naslov": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale-Šentjakob, A1/0047/0647 Šentjakob–LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+    "opis": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale - Šentjakob, A1/0047/0647 Šentjakob – LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 50,
+    "vrednostOcenjenaBrezDDV": 93550000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 59614,
+    "idObrazec": 939095,
+    "idObrazecSklop": 317690,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 80786656.61,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 84494278.31,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 80786656.61,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1986453.36,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 330700,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 49961,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 330701,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 35971,
+    "naslov": "Vzdrževalna dela v javno korist za cesto in objekte na odsekih AC A1/0046/0646 Domžale - Šentjakob, A1/0047/0647 Šentjakob – LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje",
+    "internaStevilka": "001008/2025",
+    "datumSklenitev": "2025-08-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 317690
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

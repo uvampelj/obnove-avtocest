@@ -1,0 +1,228 @@
+{
+ "row": {
+  "idObrazec": 964031,
+  "idDosje": 528436,
+  "naslov": "Dobava in vzdrževanje gradbene mehanizacije in opreme",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN009557/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-12-08T05:20:17.437",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 964031,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 528436,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in vzdrževanje gradbene mehanizacije in opreme",
+  "kratekOpis": "Dobava in vzdrževanje gradbene mehanizacije in opreme",
+  "referencnaStevilka": "000319/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 5731,
+  "vrednostOcenjenaBrezDDV": 1115000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDE2ODM0O1JhenBpc25hIGRva3VtZW50YWNpamEgMzE5LTIwMjUuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2026-01-06T14:00:00",
+  "varnostnoPreverjanjeZahtevano": false,
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=66854",
+  "datumDoPonudba": "2026-01-20T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 8,
+  "datumOdpiranje": "2026-01-20T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "odpiranjePonudbInfo": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 2,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 2,
+  "objavaEU": true,
+  "datumVnosa": "2025-12-05T08:11:37.56",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-08T05:20:17.437",
+  "datumDoVprasanjaKalk": "2026-01-16T14:00:00",
+  "datumDoPonudbaKalk": "2026-02-03T10:00:00",
+  "objavaIdent": "JN009557/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "1a63d364-30f4-46e7-b917-df2ed1cf53a4",
+  "eFormsFolderIdent": "0e1f21fe-102d-4a05-8dfd-729e61ba6b29",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-66854",
+  "eFormsPublishedId": "814211-2025",
+  "eFormsPublishedDate": "2025-12-08T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-12-05T08:17:43.713",
+  "narocnik": [
+   {
+    "id": 947465,
+    "idObrazec": 964031,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 342373,
+    "idObrazec": 964031,
+    "naslov": "Mini bager 8-9t s pripadajočo opremo",
+    "opis": "Mini bager 8-9t s pripadajočo opremo",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "vrednostOcenjenaBrezDDV": 789375.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "ponovljenoNarocilo": true,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 342374,
+    "idObrazec": 964031,
+    "naslov": "Samostojno nabijalo na gosenicah za zabijanje stebričkov odbojnih ograj na priklopnem vozilu",
+    "opis": "Samostojno nabijalo na gosenicah za zabijanje stebričkov odbojnih ograj na priklopnem vozilu",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "vrednostOcenjenaBrezDDV": 325625.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "ponovljenoNarocilo": true,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

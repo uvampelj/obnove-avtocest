@@ -1,0 +1,180 @@
+{
+ "row": {
+  "idObrazec": 1084896,
+  "idDosje": 550563,
+  "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001312/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-05-20T04:21:19.56",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1084896,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 550563,
+  "idObrazecPrej": 1020305,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "kratekOpis": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "referencnaStevilka": "000019/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3637,
+  "vrednostOcenjenaBrezDDV": 390000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 266950.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-05-19T10:23:26.98",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-05-20T04:21:19.56",
+  "objavaIdent": "JN001312/2026-EUe29/01",
+  "eFormsIdent": "432d981b-c57f-410e-ab34-accb9fcc1d1b",
+  "eFormsFolderIdent": "b7431048-3926-4136-83ef-5149cbd68545",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-69902",
+  "eFormsPublishedId": "345350-2026",
+  "eFormsPublishedDate": "2026-05-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-05-19T10:26:26.52",
+  "narocnik": [
+   {
+    "id": 1114271,
+    "idObrazec": 1084896,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 463049,
+    "idObrazec": 1084896,
+    "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+    "opis": "Delovno vozilo za kontrolo meteorne kanalizacije",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3637,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 9,
+    "vrednostOcenjenaBrezDDV": 390000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Delovno vozilo za kontrolo meteorne kanalizacije"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 185502,
+    "idObrazec": 1084896,
+    "idObrazecSklop": 463049,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 266950.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 302000.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 266950.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 549374,
+      "naziv": "EKO LUX, tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o.",
+      "maticna": "2332639000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 154268,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 124454,
+    "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+    "internaStevilka": "000653/2026",
+    "datumSklenitev": "2026-05-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 463049
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "row": {
+  "idObrazec": 864050,
+  "idDosje": 474655,
+  "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001686/2023-EUe38/02",
+  "objavaDejanskaDatum": "2024-11-06T09:32:51.67",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 864050,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 474655,
+  "idObrazecPrej": 474655,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "kratekOpis": "Aneks št. 2 k pogodbi DARS št. 837/2023 za Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "referencnaStevilka": "000221/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 9236,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 499500.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Do potrebe po podaljšanju roka je prišlo zaradi: novega katastra nepremičnin, ki ga vodi GURS in ki vsebuje številne pomanjkljivosti pri obrisih nadzemnih delov stavb, in neuspelih prizadevanj, da se dogovori popravke, ter posledično potrebna obsežnejša korekcija katastra; časovnega sovpadanja več obsežnih in pomembnih nalog, vezanih na zahteve direktive EU, kar po mnenju naročnika predstavlja utemeljen razlog za podaljšanje pogodbenih rokov in posledično tudi obdobja, za katerega se sklepa pogodba. \nZgoraj navedene okoliščine torej predstavljajo okoliščine v smislu 3. točke 1. odstavka 95. člena ZJN-3, saj jih naročnik ob oddaji javnega naročila ni mogel predvideti. Sprememba roka tudi ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.",
+  "vrednostPosodobljenaSkupna": 499500.0,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 499500.0,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-11-04T15:47:03.22",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-06T09:32:51.67",
+  "objavaIdent": "001686/2023-EUe38/02",
+  "eFormsIdent": "0333a791-5a10-4e8a-8601-7f56c3c01ba1",
+  "eFormsFolderIdent": "95c0e2b1-0db7-4bff-8edf-14d7697d463b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-23318",
+  "eFormsPublishedId": "677081-2024",
+  "eFormsPublishedDate": "2024-11-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-04T15:56:05.94",
+  "narocnik": [
+   {
+    "id": 713468,
+    "idObrazec": 864050,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 9236
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 245812,
+    "idObrazec": 864050,
+    "naslov": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "opis": "Aneks št. 2 k pogodbi DARS št. 837/2023 za Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 9236,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-07-12T00:00:00",
+    "datumKonec": "2025-05-12T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 33393,
+    "idObrazec": 864050,
+    "idObrazecSklop": 245812,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 499500.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 16329,
+    "naslov": "Pogodba za Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+    "internaStevilka": "000837/2023",
+    "datumSklenitev": "2023-07-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 245812
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 16329,
+    "opis": "Podaljšanje pogodbenih rokov in obdobja, za katerega je sklenjena pogodba"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

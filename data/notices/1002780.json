@@ -1,0 +1,156 @@
+{
+ "row": {
+  "idObrazec": 1002780,
+  "idDosje": 550563,
+  "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN001312/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-02-25T04:08:15.75",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1002780,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 550563,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "kratekOpis": "Delovno vozilo za kontrolo meteorne kanalizacije",
+  "referencnaStevilka": "000019/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3637,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDUyMDIxO1JhenBpc25hIGRva3VtZW50YWNpamEgMTktMjAyNi56aXA",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2026-03-17T14:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=69902",
+  "datumDoPonudba": "2026-03-31T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 9,
+  "datumOdpiranje": "2026-03-31T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "odpiranjePonudbInfo": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2026-02-24T09:52:29.133",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-02-25T04:08:15.75",
+  "datumDoVprasanjaKalk": "2026-03-17T14:00:00",
+  "datumDoPonudbaKalk": "2026-03-31T10:00:00",
+  "objavaIdent": "JN001312/2026-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "a6388686-d5cb-49da-8140-3977b237ac7f",
+  "eFormsFolderIdent": "b7431048-3926-4136-83ef-5149cbd68545",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-69902",
+  "eFormsPublishedId": "132214-2026",
+  "eFormsPublishedDate": "2026-02-25T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-02-24T09:56:25.927",
+  "narocnik": [
+   {
+    "id": 1006008,
+    "idObrazec": 1002780,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 381041,
+    "idObrazec": 1002780,
+    "naslov": "Delovno vozilo za kontrolo meteorne kanalizacije",
+    "opis": "Delovno vozilo za kontrolo meteorne kanalizacije",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3637,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 9,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Delovno vozilo za kontrolo meteorne kanalizacije"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

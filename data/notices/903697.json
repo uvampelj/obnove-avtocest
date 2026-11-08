@@ -1,0 +1,151 @@
+{
+ "row": {
+  "idObrazec": 903697,
+  "idDosje": 485776,
+  "naslov": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004456/2023-EUe38/01",
+  "objavaDejanskaDatum": "2025-04-10T07:57:48.96",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 903697,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 485776,
+  "idObrazecPrej": 500064,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+  "kratekOpis": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+  "referencnaStevilka": "13/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6757,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": false,
+  "datumVnosa": "2025-04-09T17:16:08.873",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-10T07:57:48.96",
+  "objavaIdent": "004456/2023-EUe38/01",
+  "eFormsIdent": "5edf15ef-deef-4322-a1b2-b8e89934ac16",
+  "eFormsFolderIdent": "83f8dbbb-fcaa-4bc8-a47d-80e132b0c8cd",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-04-09T17:25:37.233",
+  "narocnik": [
+   {
+    "id": 796834,
+    "idObrazec": 903697,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6757
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 281018,
+    "idObrazec": 903697,
+    "naslov": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+    "opis": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6757,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-11-15T00:00:00",
+    "datumKonec": "2025-11-15T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 47340,
+    "idObrazec": 903697,
+    "idObrazecSklop": 281018,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 2883536.82,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1050069.28,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 260455,
+      "naziv": "CVP, gradbeništvo in storitve d.o.o.",
+      "maticna": "3987388000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 93131,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 26934,
+    "naslov": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+    "internaStevilka": "1159/2023",
+    "datumSklenitev": "2023-11-15T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 281018
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 26934,
+    "opis": "Dodatna dela, ki so predmet tega aneksa, so nujno potrebna za izpolnitev predmeta pogodbe, naročnik pa v času oddaje javnega naročila ni mogel v celoti predvideti vseh pogodbenih del. Potreba po izvedbi dodatnih del je namreč nastala v času izvajanja pogodbe, v okviru poteka gradbenih del, pri čemer so dodatna dela tesno povezana s predmetom pogodbe. \nZa izvedbo dodatnih del se sklene aneks k pogodbi s prvotnim izvajalcem, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih razlogov, hkrati pa bi zamenjava izvajalca naročniku povzročila velike nevšečnosti, bistveno povečanje stroškov in tudi časovni zamik dokončanja pogodbenih del.\nPogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik začeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nVse opisane okoliščine, ki imajo za posledico tudi nastanek nesorazmernih stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\n\nSprememba pogodbe (podaljšanje pogodbenega faznega roka za izvedbo 2. faze GOI del) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (ugotovljeno je bilo, da so določene kažipotne table, ki s projektno nalogo niso bile predvidene za zamenjavo, dotrajane in poškodovane, zato jih je bilo potrebno zamenjati, posledično je bilo potrebno zaradi zagotovitve prometne varnosti del odseka zavarovati z JVO ograjo).\nSprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

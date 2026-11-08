@@ -1,0 +1,167 @@
+{
+ "row": {
+  "idObrazec": 928388,
+  "idDosje": 520232,
+  "naslov": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002420/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-07-17T11:54:58.5",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 928388,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 520232,
+  "idObrazecPrej": 902755,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+  "kratekOpis": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+  "referencnaStevilka": "000042/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 167505.2,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 167500.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-07-17T11:50:28.787",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-17T11:54:58.5",
+  "objavaIdent": "JN002420/2025-SL2/01",
+  "eFormsIdent": "5ead1fbd-9620-46b3-8be8-9d104734aa9c",
+  "eFormsFolderIdent": "4144b8f0-1a64-42e9-b4d4-1d8a1b3a53d9",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-55038",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-17T11:53:54.28",
+  "narocnik": [
+   {
+    "id": 856634,
+    "idObrazec": 928388,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 307118,
+    "idObrazec": 928388,
+    "naslov": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+    "opis": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 167505.2,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 55545,
+    "idObrazec": 928388,
+    "idObrazecSklop": 307118,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 154110.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 167500.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 167500.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 310467,
+      "naziv": "CMC GROUP inženiring, svetovanje in zastopanje d.o.o.",
+      "maticna": "5393396000",
+      "mesto": "Logatec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 207737,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 32893,
+    "naslov": "Vzdrževanje nadzorno krmilnega sistema v predorih Močna, Malečnik, Vodole in Cenkova",
+    "internaStevilka": "000911/2025",
+    "datumSklenitev": "2025-07-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 307118
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

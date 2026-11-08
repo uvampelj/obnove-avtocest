@@ -1,0 +1,175 @@
+{
+ "row": {
+  "idObrazec": 799023,
+  "idDosje": 500642,
+  "naslov": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007910/2023-SL2/01",
+  "objavaDejanskaDatum": "2024-03-18T09:10:03.417",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 799023,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 500642,
+  "idObrazecPrej": 500642,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+  "kratekOpis": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+  "referencnaStevilka": "000213/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 2372,
+  "vrednostOcenjenaBrezDDV": 207000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 186100.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-03-15T13:37:10.84",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-03-18T09:10:03.417",
+  "objavaIdent": "007910/2023-SL2/01",
+  "eFormsIdent": "3eb5745a-0b1f-47b9-bd9f-b7b12a31cc16",
+  "eFormsFolderIdent": "9183c115-1a5b-4333-8335-d96e7a4672f9",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-33821",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-03-18T08:20:22.777",
+  "narocnik": [
+   {
+    "id": 585961,
+    "idObrazec": 799023,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 2372
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 193599,
+    "idObrazec": 799023,
+    "naslov": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+    "opis": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 2372,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 12,
+    "vrednostOcenjenaBrezDDV": 207000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Nabava in vzdrževanje kamer za pregled kanalizacije"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 14245,
+    "idObrazec": 799023,
+    "idObrazecSklop": 193599,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 186100.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 200266.76,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 186100.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 54162,
+      "naziv": "EKO LUX, tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o.",
+      "maticna": "2332639000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 3018,
+    "naslov": "Nabava in vzdrževanje kamer za pregled kanalizacije",
+    "internaStevilka": "000420/2024",
+    "datumSklenitev": "2024-03-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 193599
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

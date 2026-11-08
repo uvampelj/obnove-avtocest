@@ -1,0 +1,185 @@
+{
+ "row": {
+  "idObrazec": 810461,
+  "idDosje": 500594,
+  "naslov": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007901/2023-SL2/01",
+  "objavaDejanskaDatum": "2024-04-30T10:01:03.39",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 810461,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 500594,
+  "idObrazecPrej": 500594,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+  "kratekOpis": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+  "referencnaStevilka": "000160/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "vrednostOcenjenaBrezDDV": 930000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 713605.2,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-04-29T16:38:11.663",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-04-30T10:01:03.39",
+  "objavaIdent": "007901/2023-SL2/01",
+  "eFormsIdent": "cf9b679a-971f-406b-861f-0f0277be1ad2",
+  "eFormsFolderIdent": "8e4407ee-23c9-4d5a-9ee5-d54e2706a18c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-33804",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-04-30T08:17:02.467",
+  "narocnik": [
+   {
+    "id": 612146,
+    "idObrazec": 810461,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7017
+   },
+   {
+    "id": 7095
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 204142,
+    "idObrazec": 810461,
+    "naslov": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+    "opis": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 930000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopCpv": [
+     {
+      "id": 7095
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 17478,
+    "idObrazec": 810461,
+    "idObrazecSklop": 204142,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 4,
+    "steviloEPonudbe": 4,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 4,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 713605.2,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 899631.6,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 713605.2,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 83701,
+      "naziv": "VALTEL, gradnja in upravljanje telekomunikacijskih omrežij, d.o.o.",
+      "maticna": "3425738000",
+      "mesto": "Ljubljana - Črnuče",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 83702,
+      "naziv": "TEGAR storitve in trgovina, d.o.o.",
+      "maticna": "2333821000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 5106,
+    "naslov": "Sanacija kabelske kanalizacije in vgradnja optičnega kabla na AC kraku Dragomelj - Novo mesto - Obrežje",
+    "internaStevilka": "000531/2024",
+    "datumSklenitev": "2024-04-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 204142
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

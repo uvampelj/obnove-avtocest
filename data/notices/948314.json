@@ -1,0 +1,151 @@
+{
+ "row": {
+  "idObrazec": 948314,
+  "idDosje": 526496,
+  "naslov": "DOBAVA MATERIALOV ZA IZDELAVO DEBELO SLOJNIH TALNIH OZNAČB",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN007852/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-10-07T05:42:37.23",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 948314,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 526496,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA MATERIALOV ZA IZDELAVO DEBELO SLOJNIH TALNIH OZNAČB",
+  "kratekOpis": "DOBAVA MATERIALOV ZA IZDELAVO DEBELO SLOJNIH TALNIH OZNAČB",
+  "referencnaStevilka": "000240/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 1251,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDA0MjE2O09iamF2YS1SRF8gMjQwLTIwMjUuemlw",
+  "datumDoVprasanja": "2025-10-24T10:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=63600",
+  "datumDoPonudba": "2025-11-12T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 152,
+  "datumOdpiranje": "2025-11-12T11:00:00",
+  "odpiranjePonudbKraj": "eJN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-10-06T11:55:45.427",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-07T05:42:37.23",
+  "datumDoVprasanjaKalk": "2026-02-13T08:00:00",
+  "datumDoPonudbaKalk": "2026-02-26T09:00:00",
+  "objavaIdent": "JN007852/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "4cb9a2f2-04da-44c8-8a96-cc07f4a36ae6",
+  "eFormsFolderIdent": "b41fe26a-ccdc-4252-a6d8-c8dd9fd0b155",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-63600",
+  "eFormsPublishedId": "656761-2025",
+  "eFormsPublishedDate": "2025-10-07T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-10-06T12:01:23.54",
+  "narocnik": [
+   {
+    "id": 912037,
+    "idObrazec": 948314,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 327092,
+    "idObrazec": 948314,
+    "naslov": "DOBAVA MATERIALOV ZA IZDELAVO DEBELO SLOJNIH TALNIH OZNAČB",
+    "opis": "DOBAVA MATERIALOV ZA IZDELAVO DEBELO SLOJNIH TALNIH OZNAČB",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 1251,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "ponovljenoNarocilo": true,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Glej dokumentacijo v zvezi z oddajo javnega naročila.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Glej dokumentacijo v zvezi z oddajo javnega naročila."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

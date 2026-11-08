@@ -1,0 +1,769 @@
+{
+ "row": {
+  "idObrazec": 814392,
+  "idDosje": 506510,
+  "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000666/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-07-05T09:03:14.383",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 814392,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 506510,
+  "idObrazecPrej": 796868,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite",
+  "kratekOpis": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite, razdeljeno na devet sklopov",
+  "referencnaStevilka": "000001/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7522,
+  "vrednostOcenjenaBrezDDV": 682000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 678554.25,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-05-20T13:07:18.39",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-07-05T09:03:14.383",
+  "objavaIdent": "JN000666/2024-EUe29/01",
+  "eFormsIdent": "7424680f-8c3e-4eac-8a01-dc6162de0cd9",
+  "eFormsFolderIdent": "3fd6d19c-d0ab-45cd-b0c1-33fab2598500",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "403159-2024",
+  "eFormsPublishedDate": "2024-07-05T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-07-04T10:59:12.843",
+  "narocnik": [
+   {
+    "id": 621588,
+    "idObrazec": 814392,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 207785,
+    "idObrazec": 814392,
+    "naslov": "Sklop 1 - Sistem APZ ZARJA",
+    "opis": "Sistem APZ ZARJA",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 171500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207786,
+    "idObrazec": 814392,
+    "naslov": "Sklop 2 - Sistem APZ BOSCH",
+    "opis": "Sistem APZ BOSCH",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 18500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207787,
+    "idObrazec": 814392,
+    "naslov": "Sklop 3 - Sistem APZ ADVANCED ELECTRONICS",
+    "opis": "Sistem APZ ADVANCED ELECTRONICS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 15000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207788,
+    "idObrazec": 814392,
+    "naslov": "Sklop 4 - Sistem APZ SIMENS (točkovno javljanje)",
+    "opis": "Sistem APZ SIMENS (točkovno javljanje)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 211500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207789,
+    "idObrazec": 814392,
+    "naslov": "Sklop 5 - Sistem APZ MORLEY (skupina Honeywell)",
+    "opis": "Sistem APZ MORLEY (skupina Honeywell)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 100000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207792,
+    "idObrazec": 814392,
+    "naslov": "Sklop 8 - Sistem APZ NOTIFIER (skupina Honeywell)",
+    "opis": "Sistem APZ NOTIFIER (skupina Honeywell)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 33500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 207793,
+    "idObrazec": 814392,
+    "naslov": "Sklop 9 - Sistem APZ SIMENS (sistem Fibrolaser)",
+    "opis": "Sistem APZ SIMENS (sistem Fibrolaser)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7522,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 132000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 21161,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207785,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 171496.25,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 171496.25,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 171496.25,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109391,
+      "naziv": "ZARJA ELEKTRONIKA proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o.",
+      "maticna": "5521475000",
+      "mesto": "Kamnik",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22330,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207786,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 18320.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 18320.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 18320.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109358,
+      "naziv": "INDIC Svetovanje, storitve in posredništvo, d.o.o.",
+      "maticna": "1554638000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22332,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207787,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 14958.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 14958.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 14958.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109341,
+      "naziv": "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d.",
+      "maticna": "5263565000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22334,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207788,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 211120.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 211120.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 211120.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109369,
+      "naziv": "A KODA PLUS, tehnična oprema objektov d.o.o.",
+      "maticna": "6377459000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22335,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207789,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 98860.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 98860.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 98860.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109342,
+      "naziv": "POŽARNI SISTEMI družba za inženiring, trgovino, storitve in gradbeništvo d.o.o.",
+      "maticna": "1782215000",
+      "mesto": "Miklavž na Dravskem polju",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22336,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207792,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 31840.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 31840.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 31840.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109380,
+      "naziv": "POŽARNI SISTEMI družba za inženiring, trgovino, storitve in gradbeništvo d.o.o.",
+      "maticna": "1782215000",
+      "mesto": "Miklavž na Dravskem polju",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 22337,
+    "idObrazec": 814392,
+    "idObrazecSklop": 207793,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 131960.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 131960.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 131960.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 109372,
+      "naziv": "A KODA PLUS, tehnična oprema objektov d.o.o.",
+      "maticna": "6377459000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 8606,
+    "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite\nSklop 1 – Sistem APZ Zarja",
+    "internaStevilka": "631/2024",
+    "datumSklenitev": "2024-05-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207785
+     }
+    ]
+   },
+   {
+    "id": 8607,
+    "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite\nSklop 2 - Sistem APZ BOSCH",
+    "internaStevilka": "136/2024",
+    "datumSklenitev": "2024-06-20T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207786
+     }
+    ]
+   },
+   {
+    "id": 8608,
+    "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite\nSklop 3 - Sistem APZ ADVANCED ELECTRONICS",
+    "internaStevilka": "639/2024",
+    "datumSklenitev": "2024-05-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207787
+     }
+    ]
+   },
+   {
+    "id": 8609,
+    "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite\nSklop 4 - Sistem APZ SIMENS (točkovno javljanje)\nSklop 9 - Sistem APZ SIMENS (sistem Fibrolaser) \n",
+    "internaStevilka": "679/2024",
+    "datumSklenitev": "2024-06-03T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207788
+     },
+     {
+      "id": 207793
+     }
+    ]
+   },
+   {
+    "id": 8611,
+    "naslov": "Redno vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite\nSklop 5 - Sistem APZ MORLEY (skupina Honeywell)\nSklop 8 - Sistem APZ NOTIFIER (skupina Honeywell)",
+    "internaStevilka": "698/2024",
+    "datumSklenitev": "2024-06-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207789
+     },
+     {
+      "id": 207792
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

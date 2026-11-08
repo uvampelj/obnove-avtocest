@@ -1,0 +1,159 @@
+{
+ "row": {
+  "idObrazec": 989254,
+  "idDosje": 484067,
+  "naslov": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004125/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-02-12T04:19:33.3",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 989254,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 484067,
+  "idObrazecPrej": 501952,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+  "kratekOpis": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+  "referencnaStevilka": "323/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 3462072.45,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 3957610.77,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-02-10T10:46:55.747",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-02-12T04:19:33.3",
+  "objavaIdent": "004125/2023-EUe38/01",
+  "eFormsIdent": "3aff9d42-beb2-4303-a677-d71ebfc3310a",
+  "eFormsFolderIdent": "b84d269e-4c24-4c11-a4bd-09f7b53c97ae",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "100279-2026",
+  "eFormsPublishedDate": "2026-02-12T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-02-11T11:12:21.14",
+  "narocnik": [
+   {
+    "id": 988947,
+    "idObrazec": 989254,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 2489
+   },
+   {
+    "id": 6367
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 367748,
+    "idObrazec": 989254,
+    "naslov": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+    "opis": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-11-29T00:00:00",
+    "datumKonec": "2026-11-29T00:00:00",
+    "financiraEU": true,
+    "obrazecSklopCpv": [
+     {
+      "id": 2489
+     },
+     {
+      "id": 6367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 105489,
+    "idObrazec": 989254,
+    "idObrazecSklop": 367748,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 3462072.45,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 431412,
+      "naziv": "ISKRA, elektro in sistemske rešitve, d.o.o.",
+      "maticna": "5185726000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 8942,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 57586,
+    "naslov": "Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v RS - IPK 4",
+    "internaStevilka": "1394/2023",
+    "datumSklenitev": "2023-11-29T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 367748
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 57586,
+    "opis": "Med izvedbo pogodbenih del se je izkazalo, da bo treba izvesti tudi nekatera dodatna dela in projektne rešitve prilagoditi dejanskemu, novo nastalemu stanju na objektu (tj. sprememba projektne dokumentacije PZI). V PZI projektni dokumentaciji in v projektantskem popisu je bilo predvideno, da se na celotnem projektu zgradi samo enocevna kabelska kanalizacija. Glede na dejstvo, da se potrebe naročnika po kabelski kanalizaciji povečujejo za bodoče projekte (sončne elektrarne, polnilnice za vozila,…), je bilo med pogodbenima strankama dogovorjeno, da se izvede dvocevna kabelska kanalizacija. Posledično se zaradi povečave kabelske kanalizacije povečajo tudi podboji pod cestiščem in se povečajo kabelski jaški na lokacijah podbojev. Ta dodatna dela v osnovnem popisu niso bila predvidena, kar pa bo naročniku prihranilo znatna sredstva pri bodočih projektih, ker ne bo potrebno naknadno izvesti določenih gradbenih del.\nPotreba po dodatnih delih je nastala zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti, saj se je pokazala šele tekom izvajanja del po osnovni pogodbi. Glede na navedeno jih naročnik ni mogel predvideti že pri oddaji prvotnega javnega naročila, izvajalec pa jih ni mogel upoštevati pri oblikovanju ponudbene cene v okviru svoje ponudbe.\nIzvedba dodatnih del se odda obstoječemu izvajalcu pogodbenih del skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Izvedbe dodatnih del ni mogoče tehnično ločiti od prvotnega naročila, poleg tega pa so predmetna dodatna dela nujno potrebna za dokončanje prvotno naročenega predmeta osnovne pogodbe. Pri dodatnih delih gre za spremembo v načinu izvedbe zgoraj opisanih del, ki jih ni bilo mogoče izvesti na način, kot je bil prvotno predviden s projektno dokumentacijo PZI, in jih naročnik tudi ni mogel vključiti v osnovno (prvotno) pogodbo. Zamenjava izvajalca bi poleg tega naročniku povzročila tudi velike nevšečnosti in znatno podvajanje stroškov (stroški garancij, stojnine itd.). Dodatni stroški in nedvomno tudi dodatne zamude bi nastali zaradi uvedbe novega izvajalca v delo ter koordinacije s prejšnjim izvajalcem, ki bi bila za kvalitetno izvedbo del nujno potrebna. Tako bi moral naročnik za izvedbo zgoraj opisanih dodatnih del začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Navedeno je z vidika stroškov in porabe časa neracionalno, obenem pa bi povzročilo resne težave pri doseganju terminskega plana. \nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\nSprememba pogodbe (podaljšanje pogodbenega roka izvedbe del) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (slabe vremenske razmere, naročilo dodatnih del na posameznih lokacijah s strani naročnika, potreba po začasni ustavitvi del zaradi oteženega pridobivanja delovnih zapor, potreba po pridobitvi novih soglasij za priklop na elektro omrežje in novega vodovarstvenega soglasja). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

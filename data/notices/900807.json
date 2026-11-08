@@ -1,0 +1,1304 @@
+{
+ "row": {
+  "idObrazec": 900807,
+  "idDosje": 519952,
+  "naslov": "SANACIJSKA DELA PO AVTOCESTNIH BAZAH",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN002310/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-04-03T11:38:37.123",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 900807,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 519952,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "SANACIJSKA DELA PO AVTOCESTNIH BAZAH",
+  "kratekOpis": "SANACIJSKA DELA PO AVTOCESTNIH BAZAH:\nSKLOP 1 - ACB Slovenske Konjice: slikopleskarska dela\nSKLOP 2 - ACB Slovenske Konjice: sanacija nadstrešnice\nSKLOP 3 - Izpostava Podtabor: slikopleskarska dela\nSKLOP 4 - Izpostava Podtabor: zamenjava talnih oblog\nSKLOP 5 - Izpostava Podtabor: zamenjava pločevinaste kritine\nSKLOP 6 - ACB Kozina: zamenjava garažnih vrat\nSKLOP 7 - ACB Kozina: zamenjava grelnih konvektorjev\nSKLOP 8 - ACB Kozina: sanacijska dela na objektih\nSKLOP 9 - Izpostava Bertoki: gradbeno obrtniška dela\nSKLOP 10 - ACB Kozina: ureditev skladišča za JVO\nSKLOP 11 - ACB Kozina: zamenjava termopan stekel\nSKLOP 12 - ACB Kozina: izgradnja odcejalnika\nSKLOP 13 - ACB Kozina: sanacija uhajanja Radona\nSKLOP 14 - ACB Novo mesto\n",
+  "referencnaStevilka": "000067/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifNarociloVrstaDodatno": 1,
+  "idSifCpv": 6346,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 1,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzY2MDcyOzY3LTIwMjUgUkFaUElTTkEgRE9LVU1FTlRBQ0lKQS56aXA",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2025-04-25T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=54704",
+  "datumDoPonudba": "2025-05-16T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-05-16T11:00:00",
+  "odpiranjePonudbKraj": "Avtomatsko v sistemu e-JN.",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 14,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 14,
+  "objavaEU": false,
+  "datumVnosa": "2025-03-31T14:12:23.243",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-03T11:38:37.123",
+  "datumDoVprasanjaKalk": "2025-04-25T08:00:00",
+  "objavaIdent": "JN002310/2025-EUe16/01",
+  "eFormsIdent": "8ae87609-0213-4898-890d-53a8161660e6",
+  "eFormsFolderIdent": "c7eb246d-ba4c-473b-90b5-09c8a5989804",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-54704",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-04-03T11:02:06.613",
+  "narocnik": [
+   {
+    "id": 790486,
+    "idObrazec": 900807,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 3,
+    "utemeljitev": "Vsi razlogi za izključitev so našteti v razpisni dokumentaciji in obrazcu ESPD."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 278008,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 1 - ACB Slovenske Konjice: slikopleskarska dela",
+    "opis": "SKLOP 1 - ACB Slovenske Konjice: slikopleskarska dela",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7144
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 278009,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 2 - ACB Slovenske Konjice: sanacija nadstrešnice",
+    "opis": "SKLOP 2 - ACB Slovenske Konjice: sanacija nadstrešnice",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6944
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "b)\tGospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278010,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 3 - Izpostava Podtabor: slikopleskarska dela",
+    "opis": "SKLOP 3 - Izpostava Podtabor: slikopleskarska dela",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 3,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7144
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278011,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 4 - Izpostava Podtabor: zamenjava talnih oblog",
+    "opis": "SKLOP 4 - Izpostava Podtabor: zamenjava talnih oblog",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 3,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7162
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278012,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 5 - Izpostava Podtabor: zamenjava pločevinaste kritine",
+    "opis": "SKLOP 5 - Izpostava Podtabor: zamenjava pločevinaste kritine",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 3,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6944
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278013,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 6 - ACB Kozina: zamenjava garažnih vrat",
+    "opis": "SKLOP 6 - ACB Kozina: zamenjava garažnih vrat",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278014,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 7 - ACB Kozina: zamenjava grelnih konvektorjev",
+    "opis": "SKLOP 7 - ACB Kozina: zamenjava grelnih konvektorjev",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278015,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 8 - ACB Kozina: sanacijska dela na objektih",
+    "opis": "SKLOP 8 - ACB Kozina: sanacijska dela na objektih",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7162
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278016,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 9 - Izpostava Bertoki: gradbeno obrtniška dela",
+    "opis": "SKLOP 9 - Izpostava Bertoki: gradbeno obrtniška dela",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278017,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 10 - ACB Kozina: ureditev skladišča za JVO",
+    "opis": "SKLOP 10 - ACB Kozina: ureditev skladišča za JVO",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6471
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278018,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 11 - ACB Kozina: zamenjava termopan stekel",
+    "opis": "SKLOP 11 - ACB Kozina: zamenjava termopan stekel",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7142
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278019,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 12 - ACB Kozina: izgradnja odcejalnika",
+    "opis": "SKLOP 12 - ACB Kozina: izgradnja odcejalnika",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278020,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 13 - ACB Kozina: sanacija uhajanja Radona",
+    "opis": "SKLOP 13 - ACB Kozina: sanacija uhajanja Radona",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7162
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 278021,
+    "idObrazec": 900807,
+    "naslov": "SKLOP 14 - ACB Novo mesto",
+    "opis": "SKLOP 14 - ACB Novo mesto",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6944
+     },
+     {
+      "id": 7162
+     },
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 6,
+      "opis": "Vpis v poslovni register"
+     },
+     {
+      "idSifPogojVir": 1,
+      "idSifPogojVrsta": 14,
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu)."
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe za posamezni sklop je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "row": {
+  "idObrazec": 832652,
+  "idDosje": 508044,
+  "naslov": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001844/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-08-06T08:48:25.137",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 832652,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 508044,
+  "idObrazecPrej": 800568,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+  "kratekOpis": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+  "referencnaStevilka": "000224/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8192,
+  "vrednostOcenjenaBrezDDV": 22000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 15038.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-08-05T10:56:30.95",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-06T08:48:25.137",
+  "objavaIdent": "JN001844/2024-EUe29/01",
+  "eFormsIdent": "89696066-e9eb-4178-b609-003030ae9b7b",
+  "eFormsFolderIdent": "5a88dcc3-dc1d-46c8-99ee-0ccba9f40a65",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "473106-2024",
+  "eFormsPublishedDate": "2024-08-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-05T12:54:36.227",
+  "narocnik": [
+   {
+    "id": 664799,
+    "idObrazec": 832652,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 226057,
+    "idObrazec": 832652,
+    "naslov": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+    "opis": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8192,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 12,
+    "vrednostOcenjenaBrezDDV": 22000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV.",
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 25543,
+    "idObrazec": 832652,
+    "idObrazecSklop": 226057,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 15038.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 17308.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 15038.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 128721,
+      "naziv": "PJP založništvo, trgovina, najem, medicina, arheologija in druge storitve d.o.o.",
+      "maticna": "5476089000",
+      "mesto": "Slovenska Bistrica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 10792,
+    "naslov": "Izvedba predhodnih arheoloških raziskav (ročni testni jarki na EID 1- 29202 in EID 1-29206) na državni cesti od priključka Šentrupert na avtocesti A1 Šentilj–Koper do priključka Velenje jug",
+    "internaStevilka": "000822/2024",
+    "datumSklenitev": "2024-07-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 226057
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

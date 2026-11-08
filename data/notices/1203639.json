@@ -1,0 +1,345 @@
+{
+ "row": {
+  "idObrazec": 1203639,
+  "idDosje": 523483,
+  "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN005243/2025-EUe38/01",
+  "objavaDejanskaDatum": "2026-10-21T04:08:13.89",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1203639,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 523483,
+  "idObrazecPrej": 970018,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME",
+  "kratekOpis": "Dobava in vzdrževanje gradbene mehanizacije in opreme za potrebe naročnika",
+  "referencnaStevilka": "000126/2025",
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 5731,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 2914470.46,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Naročnik in dobavitelj IMEXA trgovina in storitve, d.o.o., sta dne 18. 12. 2025 sklenila pogodbo DARS št. 001504/2025 za dobavo in vzdrževanje gradbene mehanizacije in opreme, Sklop 6 – dvižna ploščad škarjasta, demontažna na tovornem vozilu. Pogodbeni rok dobave je bil določen do 18. 8. 2026. Dobavitelj opreme ni mogel dobaviti v pogodbenem roku zaradi nepredvidljivih okoliščin. Potrebna je bila dodatna tehnična dokumentacija. Usklajevanje tehničnih izhodišč s podjetjem Riko Ribnica, d.o.o., je trajalo dlje od predvidenega. Po funkcionalnem preizkusu prototipa so bile določene še dodatne tehnične izboljšave. Z Aneksom št. 1 se rok dobave podaljša do 25. 9. 2026. Posledično se do 25. 9. 2031 podaljša tudi obdobje, za katero je sklenjena pogodba. Pogodbena vrednost se ne spreminja.",
+  "idSifValutaPosodobljenaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-10-16T14:58:20.76",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-21T04:08:13.89",
+  "objavaIdent": "JN005243/2025-EUe38/01",
+  "eFormsIdent": "d0b3bbbe-661e-4ae7-a6da-86f354609bf4",
+  "eFormsFolderIdent": "2f92827d-c217-4425-a396-c3d88ff98b96",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-59500",
+  "eFormsPublishedId": "726649-2026",
+  "eFormsPublishedDate": "2026-10-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-10-19T14:54:20.453",
+  "narocnik": [
+   {
+    "id": 1285378,
+    "idObrazec": 1203639,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 584646,
+    "idObrazec": 1203639,
+    "naslov": "Viličar 5t (električni)",
+    "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7366
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 584647,
+    "idObrazec": 1203639,
+    "naslov": "Kombinirani rovokopač",
+    "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7366
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 584648,
+    "idObrazec": 1203639,
+    "naslov": "Kolesni teleskopski nakladalec",
+    "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7366
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 584650,
+    "idObrazec": 1203639,
+    "naslov": "Dvižna ploščad škarjasta - demontažna na tovornem vozilu",
+    "opis": "Dobava in vzdrževanje gradbene mehanizacije in opreme za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 5731,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 8,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7366
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 291058,
+    "idObrazec": 1203639,
+    "idObrazecSklop": 584646,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 411527.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 383337.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 710204,
+      "naziv": "IMEXA trgovina in storitve, d.o.o.",
+      "maticna": "5898617000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 77903,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 291059,
+    "idObrazec": 1203639,
+    "idObrazecSklop": 584647,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 297064.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 710205,
+      "naziv": "TERRA JCB, podjetje za gradbene, komercialne in finančne storitve, d.o.o.",
+      "maticna": "5778778000",
+      "mesto": "Ljubljana - Črnuče",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 220231,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 291060,
+    "idObrazec": 1203639,
+    "idObrazecSklop": 584648,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 1120489.46,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 710206,
+      "naziv": "LINFIS, trgovska družba d.o.o., Ljubljana, Grajzerjeva ul. 6",
+      "maticna": "5859999000",
+      "mesto": "Ljubljana - Polje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 16954,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 291062,
+    "idObrazec": 1203639,
+    "idObrazecSklop": 584650,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 1085390.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1007200.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 710207,
+      "naziv": "IMEXA trgovina in storitve, d.o.o.",
+      "maticna": "5898617000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 77903,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 225193,
+    "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME, Sklop 2 - Viličar 5t (električni)",
+    "internaStevilka": "001506/2025",
+    "datumSklenitev": "2025-12-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 584646
+     }
+    ]
+   },
+   {
+    "id": 225194,
+    "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME, Sklop 3 - Kombinirani rovokopač",
+    "internaStevilka": "001507/2025",
+    "datumSklenitev": "2025-12-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 584647
+     }
+    ]
+   },
+   {
+    "id": 225195,
+    "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME, Sklop 4 - Kolesni teleskopski nakladalec",
+    "internaStevilka": "001505/2025",
+    "datumSklenitev": "2025-12-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 584648
+     }
+    ]
+   },
+   {
+    "id": 225196,
+    "naslov": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME, Sklop 6 - Dvižna ploščad škarjasta - demontažna na tovornem vozilu",
+    "internaStevilka": "001504/2025",
+    "datumSklenitev": "2025-12-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 584650
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 225196,
+    "opis": "Podaljšanje pogodbenega roka dobave do 25. 9. 2026 in s tem podaljšanje obdobja veljavnosti pogodbe iz 7. člena pogodbe do 25. 9. 2031."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

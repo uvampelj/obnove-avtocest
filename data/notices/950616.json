@@ -1,0 +1,176 @@
+{
+ "row": {
+  "idObrazec": 950616,
+  "idDosje": 526185,
+  "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007559/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-10-14T14:12:09.657",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 950616,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 526185,
+  "idObrazecPrej": 945675,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+  "kratekOpis": "iRAP (International Road Assessment Program) je neodvisen program za ocenjevanje varnosti cest, s pomočjo katerega si prizadevajo za zmanjševanje števila nesreč na cestah in posledično pri reševanje življenj.",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7837,
+  "vrednostOcenjenaBrezDDV": 220000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 200070.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 4,
+  "razlogOddajeBrezObjave": "AMZS je edini izvajalec, ki zaradi tehničnih zahtev predmeta naročila lahko izpolni naročilo, kar potrjuje tudi njegovo ekskluzivno dovoljenje, podeljeno s strani izdajatelja koncesije, to je European Road Assessment Association (EuroRAP AISBL).",
+  "objavaEU": false,
+  "datumVnosa": "2025-10-14T13:48:44.29",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-14T14:12:09.657",
+  "objavaIdent": "JN007559/2025-EUe29/01",
+  "eFormsIdent": "06cee663-d464-4e6f-bc5a-b84266e8bea5",
+  "eFormsFolderIdent": "2c52f313-9e96-4900-b63b-2d33d371e66d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-14T14:06:09.793",
+  "narocnik": [
+   {
+    "id": 917482,
+    "idObrazec": 950616,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 329353,
+    "idObrazec": 950616,
+    "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+    "opis": "iRAP (International Road Assessment Program) je neodvisen program za ocenjevanje varnosti cest, s pomočjo katerega si prizadevajo za zmanjševanje števila nesreč na cestah in posledično pri reševanje življenj.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7837,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "vrednostOcenjenaBrezDDV": 220000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "najnižja vrednost dopustne ponudbe",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "najnižja vrednost dopustne ponudbe"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 74422,
+    "idObrazec": 950616,
+    "idObrazecSklop": 329353,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 200070.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 200070.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 200070.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 30.0,
+    "opisDelezOddajePodizvajalcem": "30,00",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 353453,
+      "naziv": "AVTO - MOTO ZVEZA SLOVENIJE",
+      "maticna": "5163196000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 200949,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 39364,
+    "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+    "internaStevilka": "000168/2025",
+    "datumSklenitev": "2025-10-13T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 329353
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

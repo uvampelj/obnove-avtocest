@@ -1,0 +1,174 @@
+{
+ "row": {
+  "idObrazec": 867714,
+  "idDosje": 513301,
+  "naslov": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005989/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-11-18T14:37:35.51",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 867714,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 513301,
+  "idObrazecPrej": 849549,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+  "kratekOpis": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+  "referencnaStevilka": "000130/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 296000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N76Z011) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 282172.17,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-11-18T13:53:44.137",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-18T14:37:35.51",
+  "objavaIdent": "JN005989/2024-SL2/01",
+  "eFormsIdent": "07f8c7a5-b084-4971-8698-1349902d67c1",
+  "eFormsFolderIdent": "54e2d8cd-581e-4c34-ad78-1f1e6e38d6bd",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-45027",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-18T14:36:30.937",
+  "narocnik": [
+   {
+    "id": 722140,
+    "idObrazec": 867714,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 249396,
+    "idObrazec": 867714,
+    "naslov": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+    "opis": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 296000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 34479,
+    "idObrazec": 867714,
+    "idObrazecSklop": 249396,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 5,
+    "steviloEPonudbe": 5,
+    "steviloMspPonudbe": 4,
+    "steviloDopustno": 5,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 282172.17,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 295289.31,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 282172.17,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 178836,
+      "naziv": "CVP, gradbeništvo in storitve d.o.o.",
+      "maticna": "3987388000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 93131,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 178837,
+      "naziv": "GRADBENIŠTVO MAČEROL FRANCI MAČEROL S.P.",
+      "maticna": "6810845000",
+      "mesto": "Žužemberk",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 28526,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 17147,
+    "naslov": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+    "internaStevilka": "001164/2024",
+    "datumSklenitev": "2024-11-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 249396
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

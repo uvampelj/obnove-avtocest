@@ -1,0 +1,143 @@
+{
+ "row": {
+  "idObrazec": 945675,
+  "idDosje": 526185,
+  "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN007559/2025-EUe25/01",
+  "objavaDejanskaDatum": "2025-09-25T12:43:44.37",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 945675,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 526185,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+  "kratekOpis": "iRAP (International Road Assessment Program) je neodvisen program za ocenjevanje varnosti cest, s pomočjo katerega si prizadevajo za zmanjševanje števila nesreč na cestah in posledično pri reševanje življenj.",
+  "standardnaUreditev": true,
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7837,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 200070.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 4,
+  "razlogOddajeBrezObjave": "AMZS je edini izvajalec, ki zaradi tehničnih zahtev predmeta naročila lahko izpolni naročilo, kar potrjuje tudi njegovo ekskluzivno dovoljenje, podeljeno s strani izdajatelja koncesije, to je European Road Assessment Association (EuroRAP AISBL).",
+  "objavaEU": false,
+  "datumVnosa": "2025-09-25T11:58:33.767",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-09-25T12:43:44.37",
+  "objavaIdent": "JN007559/2025-EUe25/01",
+  "eFormsIdent": "f480668a-e41b-4317-8135-39d15a7d9428",
+  "eFormsFolderIdent": "2c52f313-9e96-4900-b63b-2d33d371e66d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-09-25T12:31:52.113",
+  "narocnik": [
+   {
+    "id": 906344,
+    "idObrazec": 945675,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 324458,
+    "idObrazec": 945675,
+    "naslov": "Izvajanje programa iRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2025 do leta 2028",
+    "opis": "iRAP (International Road Assessment Program) je neodvisen program za ocenjevanje varnosti cest, s pomočjo katerega si prizadevajo za zmanjševanje števila nesreč na cestah in posledično pri reševanje življenj.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7837,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "najnižja vrednost dopustne ponudbe",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "najnižja vrednost dopustne ponudbe"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 72394,
+    "idObrazec": 945675,
+    "idObrazecSklop": 324458,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 200070.0,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 344330,
+      "naziv": "AVTO - MOTO ZVEZA SLOVENIJE",
+      "maticna": "5163196000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 200949,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 37973,
+    "internaStevilka": "000168/2025",
+    "datumSklep": "2025-09-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 324458
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

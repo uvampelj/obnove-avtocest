@@ -1,0 +1,199 @@
+{
+ "row": {
+  "idObrazec": 1126722,
+  "idDosje": 550343,
+  "naslov": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001129/2026-SL2/01",
+  "objavaDejanskaDatum": "2026-07-06T14:00:47.207",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1126722,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 550343,
+  "idObrazecPrej": 1002661,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod",
+  "kratekOpis": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod od km 3,519 do km 3,529",
+  "referencnaStevilka": "000139/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "vrednostOcenjenaBrezDDV": 990000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom iPIS (šifra predračuna N76Z015) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 939803.36,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2026-07-01T14:28:31.097",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-06T14:00:47.207",
+  "objavaIdent": "JN001129/2026-SL2/01",
+  "eFormsIdent": "82db70dc-4b00-4df5-9dbd-8d063249ef17",
+  "eFormsFolderIdent": "42b47f42-295e-405a-b51c-83cdaf919a8f",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-69620",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-07-06T13:31:39.363",
+  "narocnik": [
+   {
+    "id": 1172395,
+    "idObrazec": 1126722,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   },
+   {
+    "id": 1172396,
+    "idObrazec": 1126722,
+    "idSifSubjektVloga": 2,
+    "vrRed": 2,
+    "naziv": "MESTNA OBČINA KRANJ",
+    "maticna": "5874653000",
+    "mesto": "Kranj",
+    "idSifDrzava": 1,
+    "idSifNuts": 1277,
+    "glavniURL": "https://www.kranj.si/",
+    "idSifKupecTip": 2,
+    "idSifDejavnostPodrocje": 1,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 506031,
+    "idObrazec": 1126722,
+    "naslov": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod",
+    "opis": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod od km 3,519 do km 3,529",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 990000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena v EUR brez DDV, kot je razvidna iz obrazca ponudbe.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Rok izvedbe del, kot je razviden iz obrazca ponudbe.",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 229879,
+    "idObrazec": 1126722,
+    "idObrazecSklop": 506031,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 939803.36,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 939803.36,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 939803.36,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 35
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 615077,
+      "naziv": "GARNOL, inženiring, gradnje in kadri, d.o.o.",
+      "maticna": "5284830000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 27945,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 167879,
+    "naslov": "Obnova nadvoza VA0007 Britof nad AC A2 0007/0607 Kranj zahod–Kranj vzhod",
+    "internaStevilka": "000713/2026",
+    "datumSklenitev": "2026-06-10T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 506031
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

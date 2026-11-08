@@ -1,0 +1,209 @@
+{
+ "row": {
+  "idObrazec": 837997,
+  "idDosje": 510408,
+  "naslov": "Izvajanje zunanje kontrole kakovosti pri izvedbi dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski Križ",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003667/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-08-30T08:51:07.403",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 837997,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 510408,
+  "idObrazecPrej": 818286,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje zunanje kontrole kakovosti pri izvedbi dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski Križ",
+  "kratekOpis": "Izvajanje zunanje kontrole kakovosti pri:\n- izvedbi dodatnih protivetrnih ukrepov na odsekih HC H4/ 0374, 0774, 0375 in 0376 Razdrto-Vipava-Ajdovščina-pokriti vkop Vipavski Križ;\n- preplastitvi vozišča na odseku HC H4/ 0374 in 0774 Razdrto-Vipava od km 0,600 do km 10,160;\n- obnovi voziščne konstrukcije in objektov na odsekih HC H4/ 0374 in 0774 Razdrto-Vipava od km 10,161 do km 12,460, 0375 in 0775 Vipava-Ajdovščina od km 0,000 do km 4,139 in na 0451 - priključku Vipava od km 0,000 do km 0,510;\n- razbremenitvi ležišč v območju krajnih podpor viadukta Rebrnice;\n- izgradnji pilotne stene Rebrnice;\n- zavarovanju premostitvenih objektov z ustreznim nivojem varnostne ograje na AC A1.\nZunanja kontrola kakovosti se izvaja: \n- pri prevzemanju gotovih proizvodov, ki so ob dostavi na gradbišče že primerni za nameravano rabo,\n- pri izvajanju določenih del in tehnoloških postopkov, vključno z vgrajevanjem tistih proizvodov, ki so rezultat procesa gradnje in so zato šele po vgraditvi primerni za nameravano rabo,\n- za preverjanje oziroma oceno gotovih elementov objektov in odsekov.",
+  "referencnaStevilka": "000036/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "vrednostOcenjenaBrezDDV": 710000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 708939.09,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-08-28T15:12:27.38",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-30T08:51:07.403",
+  "objavaIdent": "JN003667/2024-EUe29/01",
+  "eFormsIdent": "14208b67-bdd4-4639-acf6-442a5cf45584",
+  "eFormsFolderIdent": "7d2a8a3c-63fa-4e27-a7df-fe4f3c4c47ce",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-41111",
+  "eFormsPublishedId": "521175-2024",
+  "eFormsPublishedDate": "2024-08-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-28T15:55:35.217",
+  "narocnik": [
+   {
+    "id": 676771,
+    "idObrazec": 837997,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1278
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 230673,
+    "idObrazec": 837997,
+    "naslov": "Izvajanje zunanje kontrole kakovosti pri izvedbi dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski Križ",
+    "opis": "Izvajanje zunanje kontrole kakovosti pri:\n- izvedbi dodatnih protivetrnih ukrepov na odsekih HC H4/ 0374, 0774, 0375 in 0376 Razdrto-Vipava-Ajdovščina-pokriti vkop Vipavski Križ;\n- preplastitvi vozišča na odseku HC H4/ 0374 in 0774 Razdrto-Vipava od km 0,600 do km 10,160;\n- obnovi voziščne konstrukcije in objektov na odsekih HC H4/ 0374 in 0774 Razdrto-Vipava od km 10,161 do km 12,460, 0375 in 0775 Vipava-Ajdovščina od km 0,000 do km 4,139 in na 0451 - priključku Vipava od km 0,000 do km 0,510;\n- razbremenitvi ležišč v območju krajnih podpor viadukta Rebrnice;\n- izgradnji pilotne stene Rebrnice;\n- zavarovanju premostitvenih objektov z ustreznim nivojem varnostne ograje na AC A1.\nZunanja kontrola kakovosti se izvaja: \n- pri prevzemanju gotovih proizvodov, ki so ob dostavi na gradbišče že primerni za nameravano rabo,\n- pri izvajanju določenih del in tehnoloških postopkov, vključno z vgrajevanjem tistih proizvodov, ki so rezultat procesa gradnje in so zato šele po vgraditvi primerni za nameravano rabo,\n- za preverjanje oziroma oceno gotovih elementov objektov in odsekov.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 40,
+    "vrednostOcenjenaBrezDDV": 710000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Skladno z razpisno dokumentacijo",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1278
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo",
+      "idSifPonderTip": 1
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 27742,
+    "idObrazec": 837997,
+    "idObrazecSklop": 230673,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 708939.09,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 708939.09,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 708939.09,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 141079,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "glavniURL": "http://www.zag.si",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 141080,
+      "naziv": "IGMAT, Inštitut za gradbene materiale, d.d.",
+      "maticna": "5498503000",
+      "mesto": "Ljubljana - Polje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "http://www.igmat.eu",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 12197,
+    "naslov": "Izvajanje zunanje kontrole kakovosti pri izvedbi dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski Križ",
+    "internaStevilka": "898/2024",
+    "datumSklenitev": "2024-08-27T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 230673
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

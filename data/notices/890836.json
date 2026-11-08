@@ -1,0 +1,140 @@
+{
+ "row": {
+  "idObrazec": 890836,
+  "idDosje": 389040,
+  "naslov": "Izgradnja nove poslovne stavbe DARS",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001160/2021-EUe38/02",
+  "objavaDejanskaDatum": "2025-02-21T08:53:43.843",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 890836,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 389040,
+  "idObrazecPrej": 407997,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izgradnja nove poslovne stavbe DARS",
+  "kratekOpis": "Izgradnja nove poslovne stavbe DARS",
+  "referencnaStevilka": "000001/2021",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6472,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Vsa predmetna dela so se izvajala v sklopu gradnje nove poslovne stavbe DARS in jih brez večjega vpliva na osnovno pogodbeno razmerje iz ekonomskih ali tehničnih razlogov ni možno oddati drugemu izvajalcu (časovni zamik gradnje, dodatni finančni stroški, garancija, koordinacija, poseg v področje urejenega gradbenega področja glavnega izvajalca). Prav tako je večina sprememb nujno potrebnih za doseganje cilja projekta in se z njimi ne spreminja splošna narava javnega naročila. Glede na navedeno se v skladu s 95. členom ZJN-3 pogodba o izvedbi javnega naročila lahko spremeni brez novega postopka javnega naročanja (2. in 3. točka 1. odstavka 95. člena ZJN-3).",
+  "vrednostPosodobljenaSkupna": 20282716.71,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 22622336.03,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-02-20T13:55:15.133",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-02-21T08:53:43.843",
+  "objavaIdent": "001160/2021-EUe38/02",
+  "eFormsIdent": "b483d3b4-a2e4-4717-b58c-3e1465542d79",
+  "eFormsFolderIdent": "37c3bbb3-aee6-4272-a4a2-1264556995de",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "118755-2025",
+  "eFormsPublishedDate": "2025-02-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-02-20T14:09:15.813",
+  "narocnik": [
+   {
+    "id": 770156,
+    "idObrazec": 890836,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6472
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 269738,
+    "idObrazec": 890836,
+    "naslov": "Izgradnja nove poslovne stavbe DARS",
+    "opis": "Izgradnja nove poslovne stavbe DARS",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6403,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2021-07-21T00:00:00",
+    "datumKonec": "2024-11-29T00:00:00",
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 1
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 43185,
+    "idObrazec": 890836,
+    "idObrazecSklop": 269738,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 15979959.88,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 23536,
+    "naslov": "Izgradnja nove poslovne stavbe DARS",
+    "internaStevilka": "001002/2021",
+    "datumSklenitev": "2021-07-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 269738
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 23536,
+    "opis": "Aneks št. 2 k pogodbi DARS, d. d., št. 1002/2021 za Izgradnjo nove poslovne stavbe DARS; dodatne gradnje, več in manj dela, nominacija podizvajalcev"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

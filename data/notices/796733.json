@@ -1,0 +1,167 @@
+{
+ "row": {
+  "idObrazec": 796733,
+  "idDosje": 457499,
+  "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "006296/2022-SL2/01",
+  "objavaDejanskaDatum": "2024-03-07T14:58:30.813",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 796733,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 457499,
+  "idObrazecPrej": 629785,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "kratekOpis": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "referencnaStevilka": "000141/2022",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7033,
+  "vrednostOcenjenaBrezDDV": 735000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 650189.1,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-03-07T14:18:45.203",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-03-07T14:58:30.813",
+  "objavaIdent": "006296/2022-SL2/01",
+  "eFormsIdent": "4b025819-16f9-4151-8e54-54e42a019d24",
+  "eFormsFolderIdent": "5eb1bd57-47cf-4f4d-b7c3-f732b0a39224",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-03-07T14:31:27.853",
+  "narocnik": [
+   {
+    "id": 580454,
+    "idObrazec": 796733,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 181680,
+    "idObrazec": 796733,
+    "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "opis": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7033,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 735000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 3581,
+    "idObrazec": 796733,
+    "idObrazecSklop": 181680,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 650189.1,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 650189.1,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 650189.1,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 259615.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 48275,
+      "naziv": "ASIST avtomatizacija sistemov d.o.o.",
+      "maticna": "1194682000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 2398,
+    "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "internaStevilka": "000325/2024",
+    "datumSklenitev": "2024-02-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 181680
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

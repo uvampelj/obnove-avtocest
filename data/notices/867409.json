@@ -1,0 +1,169 @@
+{
+ "row": {
+  "idObrazec": 867409,
+  "idDosje": 438061,
+  "naslov": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001523/2022-EUe38/01",
+  "objavaDejanskaDatum": "2024-11-18T08:56:15.153",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 867409,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 438061,
+  "idObrazecPrej": 452827,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+  "kratekOpis": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+  "referencnaStevilka": "190/24",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6647,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 18865467.87,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 19696393.35,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-11-15T14:15:14.067",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-18T08:56:15.153",
+  "objavaIdent": "001523/2022-EUe38/01",
+  "eFormsIdent": "1a67c6e2-1dec-47aa-b328-dfc846dc9255",
+  "eFormsFolderIdent": "987af286-0185-4f2d-84e5-edeb586330e7",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "699901-2024",
+  "eFormsPublishedDate": "2024-11-18T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-15T14:32:53.52",
+  "narocnik": [
+   {
+    "id": 721473,
+    "idObrazec": 867409,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6647
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 249052,
+    "idObrazec": 867409,
+    "naslov": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+    "opis": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 29,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 34362,
+    "idObrazec": 867409,
+    "idObrazecSklop": 249052,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 18865467.87,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 4536427.25,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 178072,
+      "naziv": "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+      "maticna": "3512592000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 178073,
+      "naziv": "REMONT obrtno gradbeno podjetje, d.d.",
+      "maticna": "5066816000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 178074,
+      "naziv": "REMONT NG, družba za nizke gradnje, d.o.o.",
+      "maticna": "6996230000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 17083,
+    "naslov": "Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+    "internaStevilka": "1021/2022",
+    "datumSklenitev": "2022-07-06T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 249052
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 17083,
+    "opis": "V času izvedbe pogodbenih del se je izkazalo, da je treba nekatere projektne rešitve prilagoditi novo nastalemu dejanskemu stanju. Posledično so nastala dodatna dela, ki presegajo pogodbeno določen obseg del.\nDodatna dela so povezana z rekonstrukcijo in prometno ureditvijo na trasi in so potrebna za dokončanje pogodbenih obveznosti, niso pa bila predvidena v času oddaje prvotnega javnega naročila. Gradbena/obrtniška dela, ki niso bila predvidena s tehnično dokumentacijo (npr. zamenjava spodnjega ustroja; dostop do revizijskih jaškov; odstranitev in odlaganje bentonitnega polsta; vgradnja geotekstila v območju poglobitve; izdelava kabelske kanalizacije za priklop portalov na trasi 0085; izdelava asfaltne koritnice) je treba kot dodatna dela izvesti najkasneje istočasno z deli po prvotnem javnem naročilu, saj jih tehnično ni mogoče ločiti od prvotnega javnega naročila, prav tako se s tem naročniku preprečijo velike nevšečnosti in znatno podvajanje stroškov (časovni zamiki gradnje, finančna bremenitev – stojnine, zapore).\nDodatna dela se odda prvotnemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Ob tem bi bila za čas, ko na gradbišču ne bi bilo izvajalca, potrebna zapora objektov na avtocesti. S tem bi bila za daljši čas zmanjšana prometna varnost in pretočnost avtoceste in naročniku povzročeni stroški za zaporo ceste. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem. \nSprememba pogodbe ne spreminja splošne narave javnega naročila, saj osnovni predmet pogodbe ostaja nespremenjen.\n\nSpremembe pogodbe (podaljšanje roka za dokončanje GOI del, podaljšanje roka za izpolnitev pogojev, potrebnih za izdajo Potrdila o prevzemu, in podaljšanje roka za pridobitev Potrdila o izvedbi ter podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (neugodne vremenske razmere ter potreba po izvedbi dodatnih del zaradi prilagoditve projektnih/tehničnih rešitev).\nSpremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

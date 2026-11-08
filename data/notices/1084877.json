@@ -1,0 +1,147 @@
+{
+ "row": {
+  "idObrazec": 1084877,
+  "idDosje": 471775,
+  "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000986/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-05-20T04:21:18.52",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1084877,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 471775,
+  "idObrazecPrej": 492698,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "kratekOpis": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "referencnaStevilka": "70/2026",
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 318,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2026-05-19T09:46:01.067",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-05-20T04:21:18.52",
+  "objavaIdent": "000986/2023-EUe38/01",
+  "eFormsIdent": "80c40043-faa5-4b86-9865-7cca15175e3e",
+  "eFormsFolderIdent": "a0804295-7c11-4949-8268-29cb90958b0d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "345120-2026",
+  "eFormsPublishedDate": "2026-05-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-05-19T10:19:35.99",
+  "narocnik": [
+   {
+    "id": 1114211,
+    "idObrazec": 1084877,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 318
+   },
+   {
+    "id": 7592
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 462998,
+    "idObrazec": 1084877,
+    "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "opis": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 318,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 185489,
+    "idObrazec": 1084877,
+    "idObrazecSklop": 462998,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 739374.46,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 549366,
+      "naziv": "ESOTECH, družba za razvoj in izvajanje ekoloških in energetskih projektov, d.d.",
+      "maticna": "5693799000",
+      "mesto": "Velenje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 170080,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 124448,
+    "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "internaStevilka": "000932/2023",
+    "datumSklenitev": "2023-08-30T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 462998
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 124448,
+    "opis": "Aneks je sklenjen za podaljšanje pogodbenega roka izvedbe del, podaljšanje obdobja, za katero je sklenjena osnovna pogodba in dodatna dela. \n\nV 3. odstavku 5. člena osnovne pogodbe je določeno, da rok za dokončanje izvedbe sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ, 12 mesecev od uvedbe izvajalca v delo, to je do 28. 12. 2024. Pogodba je bila sklenjena za predvideno obdobje 24 mesecev, to je do 30. 8. 2025.\nNaročnik je prejel predlog izvajalca za podaljšanje pogodbenega roka, s katerim naročnika zaproša za podaljšanje roka za dokončanje izvedbe sončnih elektrarn za 4 mesece. Kot razlog za podaljšanje roka izvajalec navaja zaključek sanacije (po izrednem dogodku — močni burji) na Vipavskem Križu in potrditev predloga rešitve s strani Uprave naročnika.  Po pregledu zahtevka je naročnik izdal soglasje za podaljšanje roka za dokončanje izvedbe sončnih elektrarn za 4 mesece, tako, da skupaj znaša 16 mesecev.\nDne 15. 09. 2025 je naročnik prejel predlog izvajalca za ponovno podaljšanje pogodbenega roka, s prošnjo za podaljšanje pogodbenega roka za dokončanje izvedbe sončnih elektrarn za dodatnih 8 mesecev. Razlog za ponovno podaljšanje je izredni dogodek na Vipavskem Križu, ki je botroval dogovoru, da se gre v rekonstrukcijo FV elektrarne in v novo rešitev, kar predstavlja dodatna dela. Po pregledu zahtevka je naročnik izdal soglasje za podaljšanje pogodbenega roka za dokončanje izvedbe sončnih elektrarn za 8 mesecev.\nV posledici podaljšanja vmesnega roka je treba podaljšati tudi obdobje, za katero je sklenjena osnovna pogodba, upoštevaje, da je treba po dokončanje izvedbe sončnih elektrarn pridobiti potrdilo o prevzemu ter potrdilo o izvedbi. Glede na navedeno se obdobje, za katero je sklenjena osnovna pogodba, podaljša za 12 mesecev.\nV konkretnem pogodbenem razmerju pravočasna izpolnitev osnovne pogodbe ni bila določena kot bistvena sestavina pogodbe. V takem primeru izvajalec tudi po izteku osnovne pogodbe lahko izpolni svojo obveznost, naročnik pa zahteva njeno izpolnitev oz. osnovna pogodba ostaja v veljavi, dokler ni izpolnjen predmet osnovne pogodbe, kar je bistvena sestavina pogodbe.\nKonkludentna ravnanja obeh pogodbenih strank kažejo, da sta si obe pogodbeni stranki ves čas prizadevali za izpolnitev osnovne pogodbe ne glede na to, da so se pogodbene obveznosti zamaknile izven obdobja, določenega za njeno veljavnost. Navedeno kaže na to, da je tudi v podaljšanem obdobju (tj. po preteku predvidenega obdobja), obstajala volja pogodbenih strank za izvedbo del, kar je razvidno iz aktivnosti, ki ves čas potekajo med pogodbenima strankama (naročnik je npr. v tem času izvajalcu naročil izvedbo dodatnih del)..Poleg tega je bilo obdobje, ki je bilo v pogodbi določeno za izpolnitev vseh pogodbenih obveznosti, le predvideno.\nNa podlagi vsega navedenega je predmetna sprememba dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti. Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen. \n\nDodatna dela po zahtevku izvajalca obsegajo:\n1.\tIzvedba »ethernet« povezave UTP cat 5e za podatkovno povezavo z razsmerniki in »Solaredge« monitoring sistema. \n2.\tElektrični grelci, ki se aktivirajo, ko temperatura pade pod določeno vrednost. \n3.\tSprememba podkonstrukcije, postavitev  snegobranov, predelava fasade.\n4.\tPrekop dvorišča in položitev 4 cevi premera 110 mm, vgraditev dveh betonskih jaškov.\n5.\tZa lokacijo Vipavski križ se izvede rekonstrukcija (zasuk) FV elektrarne, zaradi izrednega dogodka z močno burjo. \nIzvedba vseh zgoraj navedenih dodatnih del se odda obstoječemu izvajalcu pogodbenih del skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Izvedbe dodatnih del ni mogoče tehnično ločiti od prvotnega naročila, poleg tega pa so predmetna dodatna dela nujno potrebna za dokončanje prvotno naročenega predmeta osnovne pogodbe. Pri dodatnih delih gre za spremembo v načinu izvedbe zgoraj opisanih del, ki jih ni bilo mogoče izvesti na način, kot je bil prvotno predviden s projektno dokumentacijo PZI, in jih naročnik tudi ni mogel vključiti v osnovno (prvotno) pogodbo. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite\ngarancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca bi poleg tega naročniku povzročila tudi velike nevšečnosti in znatno podvajanje stroškov (stroški garancij, stojnine itd.). Dodatni stroški in nedvomno tudi dodatne zamude bi nastali zaradi uvedbe novega izvajalca v delo ter koordinacije s prejšnjim izvajalcem, ki bi bila za kvalitetno izvedbo del nujno potrebna. Tako bi moral naročnik za izvedbo zgoraj opisanih dodatnih del začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Navedeno je z vidika stroškov in porabe časa neracionalno, obenem pa bi povzročilo resne težave pri doseganju terminskega plana."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

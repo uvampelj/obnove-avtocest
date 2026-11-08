@@ -1,0 +1,163 @@
+{
+ "row": {
+  "idObrazec": 1173620,
+  "idDosje": 445712,
+  "naslov": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko-Šempeter, 0380 in 0780 Šempeter-Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "003477/2022-EUe38/01",
+  "objavaDejanskaDatum": "2026-09-09T04:23:30.81",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1173620,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 445712,
+  "idObrazecPrej": 455751,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko-Šempeter, 0380 in 0780 Šempeter-Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+  "kratekOpis": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko-Šempeter, 0380 in 0780 Šempeter-Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+  "referencnaStevilka": "120/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 9734840.09,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 10408696.9,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-09-08T11:59:47.387",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-09-09T04:23:30.81",
+  "objavaIdent": "003477/2022-EUe38/01",
+  "eFormsIdent": "9bf17a75-e659-4db8-99da-0e7171422474",
+  "eFormsFolderIdent": "d5016e0f-0d1e-4546-89ad-ee17134667c0",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "622339-2026",
+  "eFormsPublishedDate": "2026-09-09T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-09-08T12:32:42.627",
+  "narocnik": [
+   {
+    "id": 1242342,
+    "idObrazec": 1173620,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6710
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1278
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 552905,
+    "idObrazec": 1173620,
+    "naslov": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko-Šempeter, 0380 in 0780 Šempeter-Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+    "opis": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko-Šempeter, 0380 in 0780 Šempeter-Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 51,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6710
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1278
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 266813,
+    "idObrazec": 1173620,
+    "idObrazecSklop": 552905,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 9734840.09,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 672959,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 672960,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 143617,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 202312,
+    "naslov": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko–Šempeter, 0380 in 0780 Šempeter–Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+    "internaStevilka": "1114/2022",
+    "datumSklenitev": "2022-08-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 552905
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 202312,
+    "opis": "1.\tDodatna dela:\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo, in zamenjava izvajalca ni mogoča iz razlogov, navedenih spodaj.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Postojna. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba: \nZ aneksom št. 1 se podaljša rok za: \n-\tizvedbo GOI del do 13. 5. 2023\n-\tizpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu v 30 dneh po sklenitvi tega aneksa\n-\tpridobitev Potrdila o izvedbi v 60 dneh po sklenitvi tega aneksa\n\nZaradi podaljšanja rokov se obdobje, za katero je sklenjena osnovna pogodba, podaljša za 27 mesecev, tj. do dne 17. 11. 2026.\n\nSpremembe osnovne pogodbe so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (nedobavljivost materiala za izvedbo hidroizolacije, neugodne vremenske razmere, zahteve vpletenih akterjev glede prometnih zapor, ki so spremenile faznost izvedbe del na odsekih HC H4/0779, H4/0780, HC H4/0379 in H4/0380 ter severnem in južnem odseku kamionske ceste Vrtojba, ter spremenjene okoliščine pri izkopu na krakih C in D priključka Šempeter – več in dodatna dela). Poleg tega spremembe ne spreminjajo splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

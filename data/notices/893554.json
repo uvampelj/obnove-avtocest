@@ -1,0 +1,164 @@
+{
+ "row": {
+  "idObrazec": 893554,
+  "idDosje": 517443,
+  "naslov": "Vzdrževanje hidravličnih požarnih vrat v prečnikih predorov",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000100/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-03-05T07:39:42.793",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 893554,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 517443,
+  "idObrazecPrej": 880112,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje hidravličnih požarnih vrat v prečnikih predorov",
+  "kratekOpis": "Javni razpis zajema redno vzdrževanje, sanacijo napak oziroma okvar ter dobavo in zamenjavo okvarjenih delov, ki so vgrajeni na opremi in so predmet tega javnega naročila. Javno naročilo zajema vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih).",
+  "referencnaStevilka": "000285/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 6037,
+  "vrednostOcenjenaBrezDDV": 99400.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 95400.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-03-04T14:55:08.5",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-03-05T07:39:42.793",
+  "objavaIdent": "JN000100/2025-SL2/01",
+  "eFormsIdent": "c6f2a49f-7e43-452d-b550-9c374be12221",
+  "eFormsFolderIdent": "69b999e0-a26c-4338-85e1-3a28f7eed97a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-51175",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-03-05T07:34:15.55",
+  "narocnik": [
+   {
+    "id": 775674,
+    "idObrazec": 893554,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 272125,
+    "idObrazec": 893554,
+    "naslov": "Vzdrževanje hidravličnih požarnih vrat v prečnikih predorov",
+    "opis": "Javni razpis zajema redno vzdrževanje, sanacijo napak oziroma okvar ter dobavo in zamenjavo okvarjenih delov, ki so vgrajeni na opremi in so predmet tega javnega naročila. Javno naročilo zajema vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih).",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 6037,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 99400.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 44084,
+    "idObrazec": 893554,
+    "idObrazecSklop": 272125,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 95400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 95400.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 95400.0,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 242220,
+      "naziv": "SIMER PLUS proizvodnja d.o.o.",
+      "maticna": "3327795000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 149417,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 24486,
+    "naslov": "Pogodba za vzdrževanje hidravličnih požarnih vrat v prečnikih predorov",
+    "internaStevilka": "000331/2025",
+    "datumSklenitev": "2025-02-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 272125
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

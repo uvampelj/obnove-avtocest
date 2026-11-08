@@ -1,0 +1,176 @@
+{
+ "row": {
+  "idObrazec": 974331,
+  "idDosje": 521982,
+  "naslov": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003935/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-01-22T04:08:28.913",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 974331,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 521982,
+  "idObrazecPrej": 922468,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+  "kratekOpis": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+  "referencnaStevilka": "000037/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3769,
+  "vrednostOcenjenaBrezDDV": 595000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 3 v elektronski obliki izdelani s sistemom iPIS (šifra predračuna N00Z275-01) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 594369.82,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-01-21T11:46:41.103",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-22T04:08:28.913",
+  "objavaIdent": "JN003935/2025-EUe29/01",
+  "eFormsIdent": "4ad55e57-51df-47d2-a3f2-2cc45e1b5344",
+  "eFormsFolderIdent": "b7e841d0-d274-4faa-a46e-634599507c74",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-57423",
+  "eFormsPublishedId": "47167-2026",
+  "eFormsPublishedDate": "2026-01-22T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-21T11:58:39.073",
+  "narocnik": [
+   {
+    "id": 969412,
+    "idObrazec": 974331,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 351592,
+    "idObrazec": 974331,
+    "naslov": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+    "opis": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3769,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 595000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 82924,
+    "idObrazec": 974331,
+    "idObrazecSklop": 351592,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 594369.82,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 594369.82,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 594369.82,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 398347,
+      "naziv": "SUBNET, tehnično svetovanje, d.o.o.",
+      "maticna": "3335526000",
+      "mesto": "Škofja Loka",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 64100,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 45973,
+    "naslov": "Izvedba DAB+ sistema v predorih AC/HC daljših od 500 m",
+    "internaStevilka": "001577/2025",
+    "datumSklenitev": "2025-12-30T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 351592
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

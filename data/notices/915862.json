@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 915862,
+  "idDosje": 522161,
+  "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN004112/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-06-02T08:55:56.59",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 915862,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 522161,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "kratekOpis": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "referencnaStevilka": "000127/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=Mzc4MzMyO1JhenBpc25hIGRva3VtZW50YWNpamEgMTI3LTIwMjUuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2025-06-24T14:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=57684",
+  "datumDoPonudba": "2025-07-08T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 36,
+  "datumOdpiranje": "2025-07-08T11:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "odpiranjePonudbInfo": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-05-29T13:37:05.983",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-02T08:55:56.59",
+  "datumDoVprasanjaKalk": "2025-06-24T14:00:00",
+  "datumDoPonudbaKalk": "2025-07-08T10:00:00",
+  "objavaIdent": "JN004112/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "e94593d3-6963-498d-99e1-14cde427bb71",
+  "eFormsFolderIdent": "c56df6c9-27db-43d9-b042-3bba5cd98020",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-57684",
+  "eFormsPublishedId": "354635-2025",
+  "eFormsPublishedDate": "2025-06-02T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-05-29T13:50:18.487",
+  "narocnik": [
+   {
+    "id": 826947,
+    "idObrazec": 915862,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 294060,
+    "idObrazec": 915862,
+    "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+    "opis": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "podaljsanje": false,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje predorskih požarnih vrat za osebne prehode"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

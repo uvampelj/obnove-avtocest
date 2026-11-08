@@ -1,0 +1,291 @@
+{
+ "row": {
+  "idObrazec": 816063,
+  "idDosje": 505191,
+  "naslov": "Dobava in montaža jeklenih varnostnih ograj - sklop 3 in sklop 4",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "000282/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-05-29T08:48:47.293",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 816063,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 505191,
+  "idObrazecPrej": 790195,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in montaža jeklenih varnostnih ograj - sklop 3 in sklop 4",
+  "kratekOpis": "Naročnik namerava zaradi svojih nujnih potreb v predmetnem odprtem postopku javnega naročila pridobiti dobavitelja/izvajalca za sukcesivno dobavo elementov različnih tipov jeklenih varnostnih ograj (v nadaljevanju: JVO) in sukcesivno izvedbo zamenjave/popravila v prometnih nesrečah poškodovanih obstoječih JVO in z njim v nadaljevanju tudi skleniti pogodbo za »Dobava in montaža jeklenih varnostnih ograj« za obdobje 24 (štiriindvajset) mesecev.",
+  "referencnaStevilka": "000267/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3657,
+  "vrednostOcenjenaBrezDDV": 822085.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 814734.8,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-05-27T09:25:12.383",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-05-29T08:48:47.293",
+  "objavaIdent": "000282/2024-EUe29/01",
+  "eFormsIdent": "476657b9-a88c-4bbd-92ee-22ea4bc9d8f1",
+  "eFormsFolderIdent": "2fb0f6ed-0607-4556-9f7e-cb04cbe6b638",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-35242",
+  "eFormsPublishedId": "316248-2024",
+  "eFormsPublishedDate": "2024-05-29T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-05-28T08:33:05.353",
+  "narocnik": [
+   {
+    "id": 625527,
+    "idObrazec": 816063,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6752
+   },
+   {
+    "id": 3657
+   },
+   {
+    "id": 7087
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 209330,
+    "idObrazec": 816063,
+    "naslov": "Dobava in montaža jeklenih varnostnih ograj - sklop 3",
+    "opis": "Sukcesivna dobava elementov različnih tipov JVO in sukcesivna izvedba zamenjave/popravila v prometnih nesrečah poškodovanih obstoječih JVO",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 160261.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6752
+     },
+     {
+      "id": 7087
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Merilo za izbiro ponudbe je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba posameznega sklopa je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. \n"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 209331,
+    "idObrazec": 816063,
+    "naslov": "Dobava in montaža JVO - sklop 4",
+    "opis": "Sukcesivna dobava elementov različnih tipov JVO in sukcesivna izvedba zamenjave/popravila v prometnih nesrečah poškodovanih obstoječih JVO",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 661824.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ekonomsko najugodnejša ponudba posameznega sklopa je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 19332,
+    "idObrazec": 816063,
+    "idObrazecSklop": 209330,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 155569.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 155569.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 155569.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 94503,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 19334,
+    "idObrazec": 816063,
+    "idObrazecSklop": 209331,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 659165.8,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 659165.8,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 659165.8,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 94501,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 6645,
+    "naslov": "Pogodba Dobava in montaža jeklenih varnostnih ograj za sklop 3 - tip RAL in sklop 4 - sistem K-LIGHT\n",
+    "internaStevilka": "000653/2024",
+    "datumSklenitev": "2024-05-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 209330
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

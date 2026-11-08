@@ -1,0 +1,320 @@
+{
+ "row": {
+  "idObrazec": 1198836,
+  "idDosje": 624517,
+  "naslov": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN004826/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-10-01T04:11:36.46",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1198836,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 624517,
+  "idObrazecPrej": 1113163,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj",
+  "kratekOpis": "Dobava in montaža elementov JVO sistema K-light in zaščitnih ograj za potrebe naročnika",
+  "referencnaStevilka": "000119/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3657,
+  "vrednostOcenjenaBrezDDV": 875000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 864798.7,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-09-29T13:50:19.96",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-01T04:11:36.46",
+  "objavaIdent": "JN004826/2026-EUe29/01",
+  "eFormsIdent": "cd2be5ff-3b52-41c3-8d88-12b5f4535023",
+  "eFormsFolderIdent": "f446af51-7519-4e55-94ed-aa34b6b53916",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-75519",
+  "eFormsPublishedId": "675122-2026",
+  "eFormsPublishedDate": "2026-10-01T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-09-30T14:29:08.517",
+  "narocnik": [
+   {
+    "id": 1274298,
+    "idObrazec": 1198836,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 578360,
+    "idObrazec": 1198836,
+    "naslov": "Sklop A: Dobava in montaža elementov JVO sistema K-light",
+    "opis": "Dobava in montaža elementov JVO sistema K-light za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 3,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 740000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6752
+     },
+     {
+      "id": 7087
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 578361,
+    "idObrazec": 1198836,
+    "naslov": "Sklop B: Dobava in montaža zaščitnih ograj za pešce in vzdrževalce",
+    "opis": "Dobava in montaža zaščitnih ograj za pešce in vzdrževalce za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 3,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 135000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6601
+     },
+     {
+      "id": 5978
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 288804,
+    "idObrazec": 1198836,
+    "idObrazecSklop": 578360,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 739998.7,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 739998.7,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 739998.7,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 701594,
+      "naziv": "LIKO Industrija kovinske opreme, d.d. Liboje",
+      "maticna": "5206855000",
+      "mesto": "Petrovče",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 84959,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 701595,
+      "naziv": "KVEDER, trgovina, proizvodnja in predelava lesenih in kovinskih izdelkov, d.o.o.",
+      "maticna": "2033984000",
+      "mesto": "Škofja vas",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 169094,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 701596,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 288807,
+    "idObrazec": 1198836,
+    "idObrazecSklop": 578361,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 124800.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 124800.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 124800.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 701610,
+      "naziv": "LIKO Industrija kovinske opreme, d.d. Liboje",
+      "maticna": "5206855000",
+      "mesto": "Petrovče",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 84959,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 701611,
+      "naziv": "KVEDER, trgovina, proizvodnja in predelava lesenih in kovinskih izdelkov, d.o.o.",
+      "maticna": "2033984000",
+      "mesto": "Škofja vas",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 169094,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 701612,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 223766,
+    "naslov": "Pogodba za za DOBAVA IN MONTAŽA ELEMENTOV JVO SISTEMA K-LIGHT IN OGRAJ, SKLOP A: Dobava in montaža elementov JVO sistema K-light, SKLOP B: Dobava in montaža ograj za pešce in vzdrževalce",
+    "internaStevilka": "000982/2026",
+    "datumSklenitev": "2026-09-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 578360
+     },
+     {
+      "id": 578361
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

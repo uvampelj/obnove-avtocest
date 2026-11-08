@@ -1,0 +1,500 @@
+{
+ "row": {
+  "idObrazec": 912788,
+  "idDosje": 517913,
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni  mreži Republike Slovenije v letih 2025, 2026 in 2027: Sklop 1, Sklop  2, Sklop 3, Sklop 4",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000512/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-05-20T09:07:58.517",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 912788,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 517913,
+  "idObrazecPrej": 890372,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni  mreži Republike Slovenije v letih 2025, 2026 in 2027: Sklop 1, Sklop  2, Sklop 3, Sklop 4",
+  "kratekOpis": "Predmet javnega naročila so večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027.\nVečja vzdrževalna dela na voziščih avtocest in hitrih cest, ki so v upravljanju DARS d. d., se bodo izvajala ločeno v štirih sklopih, pri čemer obsega:\nSklop 1: območje AC baz: Ljubljana, Novo mesto in Hrušica \nSklop 2: območje AC baz: Postojna in Kozina\nSklop 3: območje AC baz: Vransko in Slovenske Konjice\nSklop 4: območje AC baz: Maribor in Murska Sobota \n",
+  "referencnaStevilka": "000294/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "vrednostOcenjenaBrezDDV": 26950000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z265 za sklop 1, N00Z266 za sklop 2, N00Z267 za sklop 3 in N00Z268 za sklop 4) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 18492885.6,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-05-19T13:34:19.413",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-05-20T09:07:58.517",
+  "objavaIdent": "JN000512/2025-EUe29/01",
+  "eFormsIdent": "194243e2-94bb-44bc-9509-cd39e5db0cb7",
+  "eFormsFolderIdent": "e87119ca-f03a-4028-a476-cecb0b40b2de",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-51878",
+  "eFormsPublishedId": "324952-2025",
+  "eFormsPublishedDate": "2025-05-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-05-19T14:19:03.11",
+  "narocnik": [
+   {
+    "id": 819895,
+    "idObrazec": 912788,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 290403,
+    "idObrazec": 912788,
+    "naslov": "Območje AC baze: Ljubljana, Novo mesto in Hrušica",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027;Sklop 1: območje AC baze: Ljubljana, Novo mesto in Hrušica ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 7120000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 290404,
+    "idObrazec": 912788,
+    "naslov": "Območje AC baze: Postojna in Kozina",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 2: območje AC baz: Postojna in Kozina",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 7690000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 290405,
+    "idObrazec": 912788,
+    "naslov": "Območje AC baze: Vransko in Slovenske Konjice",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 3: območje AC baz: Vransko in Slovenske Konjice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 8170000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 290406,
+    "idObrazec": 912788,
+    "naslov": "Območje AC baze: Maribor in Murska Sobota",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 4: območje AC baz: Maribor in Murska Sobota ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 3970000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 50076,
+    "idObrazec": 912788,
+    "idObrazecSklop": 290403,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 7078800.12,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 7078800.12,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 7078800.12,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 707880.02,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 281399,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 49961,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 281400,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 281401,
+      "naziv": "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+      "maticna": "3512592000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 197635,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 50079,
+    "idObrazec": 912788,
+    "idObrazecSklop": 290404,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 7662854.89,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 7662854.89,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 7662854.89,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 281415,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 143617,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 281416,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 50081,
+    "idObrazec": 912788,
+    "idObrazecSklop": 290405,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1
+   },
+   {
+    "id": 50084,
+    "idObrazec": 912788,
+    "idObrazecSklop": 290406,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 3751230.59,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 3751230.59,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 3751230.59,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1100235.93,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 281425,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 29200,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Sklop 1: območje AC baze: Ljubljana, Novo mesto in Hrušica \n",
+    "internaStevilka": "000733/2025",
+    "datumSklenitev": "2025-05-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 290403
+     }
+    ]
+   },
+   {
+    "id": 29213,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Sklop 2: območje AC baze: Postojna in Kozina \n",
+    "internaStevilka": "000722/2025",
+    "datumSklenitev": "2025-05-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 290404
+     }
+    ]
+   },
+   {
+    "id": 29215,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Sklop 4: območje AC baze: Maribor in Murska Sobota \n",
+    "internaStevilka": "000734/2025",
+    "datumSklenitev": "2025-05-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 290406
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

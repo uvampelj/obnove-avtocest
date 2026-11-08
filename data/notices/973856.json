@@ -1,0 +1,124 @@
+{
+ "row": {
+  "idObrazec": 973856,
+  "idDosje": 528000,
+  "naslov": "Prevzem odpadne plastike",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009156/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-01-21T04:22:25.093",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 973856,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 528000,
+  "idObrazecPrej": 960639,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Prevzem odpadne plastike",
+  "kratekOpis": "Prevzem odpadne plastike.",
+  "referencnaStevilka": "000314/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 9082,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-01-20T08:51:40.533",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-21T04:22:25.093",
+  "objavaIdent": "JN009156/2025-EUe29/01",
+  "eFormsIdent": "503c4920-05d1-4a78-9058-3c1bd2ceb309",
+  "eFormsFolderIdent": "5009dd82-a589-41d6-ab81-57ece2988c0a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-66123",
+  "eFormsPublishedId": "43204-2026",
+  "eFormsPublishedDate": "2026-01-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-20T08:53:10.983",
+  "narocnik": [
+   {
+    "id": 968557,
+    "idObrazec": 973856,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 351220,
+    "idObrazec": 973856,
+    "naslov": "Prevzem odpadne plastike",
+    "opis": "Prevzem odpadne plastike.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 9082,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ekonomsko najugodnejša ponudba - ponudba z najnižjo vrednostjo v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba - ponudba z najnižjo vrednostjo v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 82760,
+    "idObrazec": 973856,
+    "idObrazecSklop": 351220,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 2
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "row": {
+  "idObrazec": 1018949,
+  "idDosje": 500910,
+  "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "007948/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-03-18T09:11:04.22",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1018949,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 500910,
+  "idObrazecPrej": 832605,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "kratekOpis": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "referencnaStevilka": "341/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 1881895.16,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 1881895.16,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 1881496.57,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": false,
+  "datumVnosa": "2026-03-17T15:52:14.193",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-18T09:11:04.22",
+  "objavaIdent": "007948/2023-EUe38/01",
+  "eFormsIdent": "f4f552b1-8192-44e3-8b02-a4471ad2c420",
+  "eFormsFolderIdent": "5dca11df-b14f-4b3f-8020-8d1a57c60def",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-33898",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-03-18T09:09:39.083",
+  "narocnik": [
+   {
+    "id": 1028189,
+    "idObrazec": 1018949,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3769
+   },
+   {
+    "id": 7017
+   },
+   {
+    "id": 3765
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 397415,
+    "idObrazec": 1018949,
+    "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+    "opis": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2024-07-23T00:00:00",
+    "datumKonec": "2026-02-22T00:00:00",
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 129665,
+    "idObrazec": 1018949,
+    "idObrazecSklop": 397415,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 1881895.16,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 463702,
+      "naziv": "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+      "maticna": "5389984000",
+      "mesto": "Ptuj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 70335,
+    "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+    "internaStevilka": "000819/2024",
+    "datumSklenitev": "2024-07-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 397415
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 70335,
+    "opis": "Med izvedbo gradbenih del se je izkazala potreba po ukrepih, ki v projektu niso bili predvideni, saj je treba nekatere projektne rešitve prilagoditi novo nastalemu stanju. Med izvedbo gradbenih del, pri odpiranju pokrovov betonskih kinet na pohodnem delu predora, se je izkazalo, da pod pokrovi ne poteka kabelska kanalizacija za uvleko kablov, kot je bilo predvideno s projektom PZI, ampak cevi za meteorno vodo. Izvedba dodatnih del je potrebna za nemoteno nadaljevanje del in zagotovitev varnosti na posamezni lokaciji.\nPotreba po dodatnih delih je nastala zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti, saj se je pokazala šele tekom izvajanja del po osnovni pogodbi. Glede na navedeno jih naročnik ni mogel predvideti že pri oddaji prvotnega javnega naročila, izvajalec pa jih ni mogel upoštevati pri oblikovanju ponudbene cene v okviru svoje ponudbe.\nIzvedba dodatnih del se odda prvotnemu izvajalcu pogodbenih del skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Izvedbe dodatnih del ni mogoče tehnično ločiti od prvotnega naročila, poleg tega pa so dodatna dela nujno potrebna za dokončanje prvotno naročenega predmeta osnovne pogodbe. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca bi poleg tega naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov. Prvotni izvajalec bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatni stroški in nedvomno tudi dodatne zamude bi nastali zaradi uvedbe novega izvajalca v delo ter koordinacije s prejšnjim izvajalcem, ki bi bila za kvalitetno izvedbo del nujno potrebna. Tako bi moral naročnik za izvedbo dodatnih del začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Navedeno je z vidika stroškov in porabe časa neracionalno, obenem pa bi povzročilo resne težave pri doseganju terminskega plana.  \nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\nSprememba pogodbe (podaljšanje obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (naknadno ugotovljena potreba po izvedbi dodatnih del). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

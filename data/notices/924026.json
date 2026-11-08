@@ -1,0 +1,143 @@
+{
+ "row": {
+  "idObrazec": 924026,
+  "idDosje": 515461,
+  "naslov": "Nadgradnja radijskega sistema DMR",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN007759/2024-EUe38/01",
+  "objavaDejanskaDatum": "2025-07-02T07:25:50.293",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 924026,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 515461,
+  "idObrazecPrej": 884878,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nadgradnja radijskega sistema DMR",
+  "kratekOpis": "Nadgradnja radijskega sistema DMR",
+  "referencnaStevilka": "000212/2024",
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 2603,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 199992.43,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Podaljšanje obdobja trajanja pogodbe zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti in niso na njegovi strani.",
+  "objavaEU": false,
+  "datumVnosa": "2025-07-02T06:48:55.2",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-02T07:25:50.293",
+  "objavaIdent": "JN007759/2024-EUe38/01",
+  "eFormsIdent": "14093cc8-1a1f-4a8d-baf1-dc211a259de7",
+  "eFormsFolderIdent": "f065415b-f2b7-4596-9681-484e5a0cd404",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-48048",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-02T06:55:02.913",
+  "narocnik": [
+   {
+    "id": 846435,
+    "idObrazec": 924026,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 302643,
+    "idObrazec": 924026,
+    "naslov": "Nadgradnja radijskega sistema DMR",
+    "opis": "Nadgradnja radijskega sistema DMR",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 2603,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 54063,
+    "idObrazec": 924026,
+    "idObrazecSklop": 302643,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 199992.43,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 302597,
+      "naziv": "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o.",
+      "maticna": "5603897000",
+      "mesto": "Ljubljana - Črnuče",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.kompas-telekom.si",
+      "idSubjektPrs": 79261,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31878,
+    "naslov": "Nadgradnja radijskega sistema DMR",
+    "internaStevilka": "000208/2025",
+    "datumSklenitev": "2025-01-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 302643
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31878,
+    "opis": "Podaljšanje obdobja trajanja pogodbe"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

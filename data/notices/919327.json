@@ -1,0 +1,123 @@
+{
+ "row": {
+  "idObrazec": 919327,
+  "idDosje": 519343,
+  "naslov": "Rušenje in novogradnjo počitniške enote na Rogli",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001643/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-06-11T13:54:35.177",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 919327,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 519343,
+  "idObrazecPrej": 898539,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rušenje in novogradnjo počitniške enote na Rogli",
+  "kratekOpis": "Rušenje in novogradnjo počitniške enote na Rogli",
+  "referencnaStevilka": "000304/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6416,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna BOZ0514) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "datumVnosa": "2025-06-11T13:41:47.613",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-11T13:54:35.177",
+  "objavaIdent": "JN001643/2025-SL2/01",
+  "eFormsIdent": "bdb17851-5817-4c5b-9479-388845dcd5fa",
+  "eFormsFolderIdent": "38775d91-7253-4a18-acd8-8b23b2b68553",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-53816",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-11T13:43:40.797",
+  "narocnik": [
+   {
+    "id": 835098,
+    "idObrazec": 919327,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6350
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 298034,
+    "idObrazec": 919327,
+    "naslov": "Rušenje in novogradnjo počitniške enote na Rogli",
+    "opis": "Rušenje in novogradnjo počitniške enote na Rogli",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6416,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6350
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 52586,
+    "idObrazec": 919327,
+    "idObrazecSklop": 298034,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "row": {
+  "idObrazec": 1044293,
+  "idDosje": 526089,
+  "naslov": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007467/2025-SL2/01",
+  "objavaDejanskaDatum": "2026-04-07T12:28:27.487",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1044293,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 526089,
+  "idObrazecPrej": 951075,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+  "kratekOpis": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+  "referencnaStevilka": "000253/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6756,
+  "vrednostOcenjenaBrezDDV": 1203000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z269) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 1090826.66,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2026-04-07T10:59:44.2",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-04-07T12:28:27.487",
+  "objavaIdent": "JN007467/2025-SL2/01",
+  "eFormsIdent": "b2da42cb-a5d6-4bd4-90ad-488e6fd3d7f3",
+  "eFormsFolderIdent": "d84f33b1-4e45-4194-bac9-494a5262b13e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-63052",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-04-07T12:01:55.177",
+  "narocnik": [
+   {
+    "id": 1059135,
+    "idObrazec": 1044293,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 422078,
+    "idObrazec": 1044293,
+    "naslov": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+    "opis": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6756,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 1203000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 151648,
+    "idObrazec": 1044293,
+    "idObrazecSklop": 422078,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 4,
+    "steviloEPonudbe": 4,
+    "steviloMspPonudbe": 4,
+    "steviloDopustno": 3,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1090826.66,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1194665.1,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1090826.66,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 2,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 496594,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 91677,
+    "naslov": "Postavitev jeklenih varnostnih ograj in naletnih zaključnih elementov ob desnem robu vozišča avtoceste A1 na območju AC baze Vransko",
+    "internaStevilka": "000460/2026",
+    "datumSklenitev": "2026-03-25T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 422078
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

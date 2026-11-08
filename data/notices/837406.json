@@ -1,0 +1,590 @@
+{
+ "row": {
+  "idObrazec": 837406,
+  "idDosje": 509267,
+  "naslov": "Sanacijska dela po ACB",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002736/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-08-27T11:31:28.02",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 837406,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 509267,
+  "idObrazecPrej": 813892,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacijska dela po ACB",
+  "kratekOpis": "Sanacijska dela po ACB.  Predmetno javno naročilo je razdeljeno na šest sklopov in sicer:\nSKLOP 1 - ACB Slovenske Konjice\nSKLOP 2 - Izpostava Arja vas\nSKLOP 3 - ACB Kozina\nSKLOP 4 - ACB Novo mesto\nSKLOP 5 - ACB Murska Sobota\nSKLOP 6 - RNC Dragomelj\n",
+  "referencnaStevilka": "000058/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "vrednostOcenjenaBrezDDV": 714190.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 257699.65,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-08-27T10:19:29.377",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-27T11:31:28.02",
+  "objavaIdent": "JN002736/2024-SL2/01",
+  "eFormsIdent": "90802aba-9178-4346-9350-587520d7c25a",
+  "eFormsFolderIdent": "89e92a31-e62c-444a-8a3e-3104f4ec6167",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-39619",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-27T10:50:39.05",
+  "narocnik": [
+   {
+    "id": 675628,
+    "idObrazec": 837406,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 230403,
+    "idObrazec": 837406,
+    "naslov": "ACB Slovenske Konjice",
+    "opis": "SKLOP 1 - ACB Slovenske Konjice\n- Sanacija strelovoda na upravni stavbi v AC bazi Slovenske Konjice \n- Elektrifikacija dvižne rampe, izvedba razsvetljave in video nadzora \n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 48970.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7026
+     },
+     {
+      "id": 7085
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena vrednost v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 230404,
+    "idObrazec": 837406,
+    "naslov": "Izpostava Arja vas",
+    "opis": "SKLOP 2 - Izpostava Arja vas\n- Rušenje objekta, preureditev TK, KVS in NN instalacij \n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 83000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6350
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ]
+   },
+   {
+    "id": 230405,
+    "idObrazec": 837406,
+    "naslov": "ACB Kozina",
+    "opis": "SKLOP 3 - ACB Kozina\n- Menjava izrabljenih dvižnih vrat velikih in malih garaž \n- Menjava izrabljenih grelnih konvektorjev centralnega ogrevanja in hlajenja upravne stavbe \n- Vgradnja dodatne cisterne za solnico NaCl2 \n- Sanacija zunanjega visečega stropu, balkona, fasade in kamnite obloge na objektih AC baze Kozina \n- Zapiranje zidnih in strešnih odprtin med nadstreški izpostave Bertoki \n- Ureditev skladiščnega prostora za hranjenje kosov jeklenih varnostnih ograj \n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 367520.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7085
+     },
+     {
+      "id": 7162
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 230406,
+    "idObrazec": 837406,
+    "naslov": "ACB Novo mesto",
+    "opis": "SKLOP 4 - ACB Novo mesto\n- Sanacija ostrešja na objektu upravne stavbe v AC bazi Novo mesto \n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 57000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6944
+     },
+     {
+      "id": 7162
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 230407,
+    "idObrazec": 837406,
+    "naslov": "ACB Murska Sobota",
+    "opis": "SKLOP 5 - ACB Murska Sobota\n- Sanacija sten in stropov ter beljenje upravne stavbe \n- Zamenjava žičnate ograje okrog baze + 2 x dvokrilna vrata \n- Zamenjava rolo vrat v avtopralnici \n- Zaščita pred pticami v skladišču soli \n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 92700.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7085
+     },
+     {
+      "id": 7144
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 230408,
+    "idObrazec": 837406,
+    "naslov": "RNC Dragomelj",
+    "opis": "SKLOP 6 - RNC Dragomelj\n- Prenova ravne strehe dimenzij cca 20 m x 20 m\n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 65000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6944
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena v EUR brez DDV.",
+      "opis": "Ponudbena vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 27575,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230403,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 40313.27,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 40313.27,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 40313.27,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 140129,
+      "naziv": "TEGAR storitve in trgovina, d.o.o.",
+      "maticna": "2333821000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "glavniURL": "http://www.tegar.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 27584,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230404,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 74325.72,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 74325.72,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 74325.72,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 140133,
+      "naziv": "TEGAR storitve in trgovina, d.o.o.",
+      "maticna": "2333821000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "glavniURL": "http://www.tegar.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 27589,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230405,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 4
+   },
+   {
+    "id": 27590,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230406,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 4
+   },
+   {
+    "id": 27593,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230407,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 92690.06,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 92690.06,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 92690.06,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 92690.06,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 64.0,
+    "opisDelezOddajePodizvajalcem": "Zaščita pred pticami na skladišču soli v ACB Murska Sobota. Zamenjava rolo vrat v avtopralnici na ACB Murska Sobota. Sanacija sten in stropov ter beljenje upravne stavbe",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 140131,
+      "naziv": "SIM trgovsko in turistično podjetje Radenci d.o.o.",
+      "maticna": "5378214000",
+      "mesto": "Radenci",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "glavniURL": "http://www.simradenci.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 27596,
+    "idObrazec": 837406,
+    "idObrazecSklop": 230408,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 3,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 50370.6,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 64841.7,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 50370.6,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 140132,
+      "naziv": "STREHA KUHAR, krovstvo, tesarstvo in kleparstvo d.o.o., Šenčur",
+      "maticna": "5928249000",
+      "mesto": "Šenčur",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "glavniURL": "http://www.streha-kuhar.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 12083,
+    "naslov": "Sanacijska dela po ACB\nSKLOP 1 - ACB Slovenske Konjice\nSKLOP 2 - Izpostava Arja vas",
+    "internaStevilka": "000888/2024",
+    "datumSklenitev": "2024-08-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 230403
+     },
+     {
+      "id": 230404
+     }
+    ]
+   },
+   {
+    "id": 12087,
+    "naslov": "Sanacijska dela po ACB\nSKLOP 5 - ACB Murska Sobota",
+    "internaStevilka": "000894/2024",
+    "datumSklenitev": "2024-08-26T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 230407
+     }
+    ]
+   },
+   {
+    "id": 12091,
+    "naslov": "Sanacijska dela po ACB\nSKLOP 6 - RNC Dragomelj",
+    "internaStevilka": "000852/2024",
+    "datumSklenitev": "2024-08-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 230408
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

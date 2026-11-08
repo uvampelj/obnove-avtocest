@@ -1,0 +1,126 @@
+{
+ "row": {
+  "idObrazec": 1203685,
+  "idDosje": 645759,
+  "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005927/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-10-22T04:06:46.963",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1203685,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 645759,
+  "idObrazecPrej": 1170827,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "kratekOpis": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "referencnaStevilka": "000112/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3637,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-10-18T20:37:32.57",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-22T04:06:46.963",
+  "objavaIdent": "JN005927/2026-EUe29/01",
+  "eFormsIdent": "5a8a5ed6-9562-4bba-9add-c70d5660962b",
+  "eFormsFolderIdent": "c282ddfe-9ed0-428f-81cb-0c88b13f2d0b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-77260",
+  "eFormsPublishedId": "733141-2026",
+  "eFormsPublishedDate": "2026-10-22T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-10-21T09:19:34.383",
+  "narocnik": [
+   {
+    "id": 1285461,
+    "idObrazec": 1203685,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 584813,
+    "idObrazec": 1203685,
+    "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+    "opis": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3637,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 52,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 291161,
+    "idObrazec": 1203685,
+    "idObrazecSklop": 584813,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 3
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

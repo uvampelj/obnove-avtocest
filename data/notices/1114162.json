@@ -1,0 +1,190 @@
+{
+ "row": {
+  "idObrazec": 1114162,
+  "idDosje": 529670,
+  "naslov": "Obnova obstoječih talnih označb",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000509/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-06-22T04:22:56.43",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1114162,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 529670,
+  "idObrazecPrej": 1002244,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova obstoječih talnih označb",
+  "kratekOpis": "Obnova obstoječih talnih označb.",
+  "referencnaStevilka": "000374/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6735,
+  "vrednostOcenjenaBrezDDV": 4600000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 3478400.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-06-19T09:47:14.303",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-06-22T04:22:56.43",
+  "objavaIdent": "JN000509/2026-EUe29/01",
+  "eFormsIdent": "27925f2f-aa3e-4b87-b5a5-01f991709616",
+  "eFormsFolderIdent": "8147d231-5072-49ef-81ab-2853f8f03261",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-68028",
+  "eFormsPublishedId": "424828-2026",
+  "eFormsPublishedDate": "2026-06-22T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-06-19T10:13:41.32",
+  "narocnik": [
+   {
+    "id": 1156268,
+    "idObrazec": 1114162,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 493426,
+    "idObrazec": 1114162,
+    "naslov": "Obnova obstoječih talnih označb",
+    "opis": "Obnova obstoječih talnih označb.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6735,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 4600000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 208882,
+    "idObrazec": 1114162,
+    "idObrazecSklop": 493426,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 1,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 3478400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 3977250.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 3478400.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 678288.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 589216,
+      "naziv": "CVP, gradbeništvo in storitve d.o.o.",
+      "maticna": "3987388000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 93131,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 589217,
+      "naziv": "SIGNALINEA d.o.o.",
+      "mesto": "Kukuljanovo",
+      "idSifDrzava": 95,
+      "idSifNuts": 831,
+      "idSifVelikost": 5,
+      "idSubjektTujec": 993,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 147133,
+    "naslov": "Obnova obstoječih talnih označb",
+    "internaStevilka": "000727/2026",
+    "datumSklenitev": "2026-06-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 493426
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

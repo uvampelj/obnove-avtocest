@@ -1,0 +1,146 @@
+{
+ "row": {
+  "idObrazec": 1079047,
+  "idDosje": 509514,
+  "naslov": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN002961/2024-EUe38/01",
+  "objavaDejanskaDatum": "2026-04-24T04:21:42.24",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1079047,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 509514,
+  "idObrazecPrej": 832468,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z",
+  "kratekOpis": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z od km 0+000 do km 6+909",
+  "referencnaStevilka": "203/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 16364401.21,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 16364401.21,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 18773328.24,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-04-23T10:22:14.603",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-04-24T04:21:42.24",
+  "objavaIdent": "JN002961/2024-EUe38/01",
+  "eFormsIdent": "10b12b4a-d290-4511-9fee-0223113eb2b6",
+  "eFormsFolderIdent": "b52f6e70-5b83-4705-864b-04a303bbf33f",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-39968",
+  "eFormsPublishedId": "282896-2026",
+  "eFormsPublishedDate": "2026-04-24T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-04-23T10:33:54.897",
+  "narocnik": [
+   {
+    "id": 1100245,
+    "idObrazec": 1079047,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 457095,
+    "idObrazec": 1079047,
+    "naslov": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z",
+    "opis": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z od km 0+000 do km 6+909",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 183321,
+    "idObrazec": 1079047,
+    "idObrazecSklop": 457095,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 16364401.21,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 536222,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 122831,
+    "naslov": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z od km 0+000 do km 6+909",
+    "internaStevilka": "000811/2024",
+    "datumSklenitev": "2024-07-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 457095
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 122831,
+    "opis": "1.\tDodatna dela:\n\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih in ekonomskih razlogov ter bi naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Ljubljana. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\n\nSprememba osnovne pogodbe je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (možnost izvajanja del v letu 2024 v dogovorjenem obsegu od 0.2+60 do km 2.1+120, kar predstavlja le 14,3 % pogodbenega obsega del zaradi zimskega obdobja prekinitve del v času od 7. 12. 2024 do 16. 3. 2025, izjemno neugodne vremenske razmere, ki so presegale povprečje padavin glede na dolgoletno povprečje, spremembe projekta meteorne kanalizacije ter odstranitev prometne opreme v SLP, ki je bila še v garanciji in jo je lahko odstranil le koncesionar, potreba po izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve, naknadno ugotovljene poškodbe optične instalacije MORS). \nSkladno z aneksom št. 1 se iz zgoraj navedenih razlogov podaljšujejo roki za dokončanje del in veljavnost osnovne pogodbe, kot sledi:\n-\trok za GOI dela: do 9. 8. 2025\n-\trok za evidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS: do 31. 1. 2026\n-\trok za dokončanje vseh pogodbenih del: do 8. 4. 2026\n-\trok za izpolnitev pogojev za izdajo Potrdila o izvedbi: do 8. 6. 2026\n-\tobdobje, za katero je sklenjena osnovna pogodba: do 22. 7. 2026\nPoleg tega sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

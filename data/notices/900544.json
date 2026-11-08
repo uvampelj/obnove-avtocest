@@ -1,0 +1,863 @@
+{
+ "row": {
+  "idObrazec": 900544,
+  "idDosje": 519914,
+  "naslov": "Obnova vozil in opreme",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN002193/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-04-01T08:58:11.92",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 900544,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 519914,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozil in opreme",
+  "kratekOpis": "Obnova vozil in opreme:\nSKLOP 1 - ACB POSTOJNA\nSKLOP 2 - ACB SLOVENSKE KONJICE\nSKLOP 3 - ACB LJUBLJANA\nSKLOP 4 - ACB HRUŠICA\nSKLOP 5 - ACB KOZINA\nSKLOP 6 - ACB VRANSKO\nSKLOP 7 - ACB NOVO MESTO\nSKLOP 8 - ACB MURSKA SOBOTA\n",
+  "referencnaStevilka": "000277/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifNarociloVrstaDodatno": 2,
+  "idSifCpv": 7367,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzY1NzYwOzI3Ny0yMDI0IFJBWlBJU05BIERPS1VNRU5UQUNJSkEuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2025-04-25T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=54645",
+  "datumDoPonudba": "2025-05-13T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-05-13T11:00:00",
+  "odpiranjePonudbKraj": "Avtomatsko v sistemu e-JN.",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 8,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 8,
+  "objavaEU": true,
+  "datumVnosa": "2025-03-31T08:44:56.54",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-01T08:58:11.92",
+  "datumDoVprasanjaKalk": "2025-04-25T08:00:00",
+  "objavaIdent": "JN002193/2025-EUe16/01",
+  "eFormsIdent": "48f4d11a-5958-46c8-9a9e-0de1c738f5ac",
+  "eFormsFolderIdent": "b40f9c34-8ef3-4ec9-96ce-5e027899d172",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-54645",
+  "eFormsPublishedId": "207531-2025",
+  "eFormsPublishedDate": "2025-04-01T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-03-31T10:01:40.703",
+  "narocnik": [
+   {
+    "id": 789891,
+    "idObrazec": 900544,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": " https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 3,
+    "utemeljitev": "Vsi razlogi za izključitev so našteti v razpisni dokumentaciji in obrazcu ESPD."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 277801,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 1 - ACB POSTOJNA",
+    "opis": "Obnova vozil in opreme v ACB POSTOJNA:\nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277802,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 2 - ACB SLOVENSKE KONJICE",
+    "opis": "Obnova vozil in opreme v ACB SLOVENSKE KONJICE:\nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "-\tOddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277803,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 3 - ACB LJUBLJANA",
+    "opis": "Obnova vozil in opreme v ACB LJUBLJANA: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277804,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 4 - ACB HRUŠICA",
+    "opis": "Obnova vozil in opreme v ACB HRUŠICA: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277805,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 5 - ACB KOZINA",
+    "opis": "Obnova vozil in opreme v ACB KOZINA: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277806,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 6 - ACB VRANSKO",
+    "opis": "Obnova vozil in opreme v ACB VRANSKO: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277807,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 7 - ACB NOVO MESTO",
+    "opis": "Obnova vozil in opreme v ACB NOVO MESTO: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 277808,
+    "idObrazec": 900544,
+    "naslov": "SKLOP 8 - ACB MURSKA SOBOTA",
+    "opis": "Obnova vozil in opreme v ACB MURSKA SOBOTA:\nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!\n",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Poklicna dejavnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Ekonomski in finančni položaj",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Tehnična in strokovna sposobnost",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze ",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

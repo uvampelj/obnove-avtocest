@@ -1,0 +1,202 @@
+{
+ "row": {
+  "idObrazec": 1125777,
+  "idDosje": 528284,
+  "naslov": "Celovita obnova ceste in objektov na odsekih AC A1 0051/0651 LJ (Kozarje)–Brezovica, 0052/0652 Brezovica–Vrhnika, 0053/0653 Vrhnika–Logatec, 0149 priključek Brezovica in 0150 priključek Vrhnika",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009434/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-06-30T04:19:23.963",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1125777,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 528284,
+  "idObrazecPrej": 975629,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Celovita obnova ceste in objektov na odsekih AC A1 0051/0651 LJ (Kozarje)–Brezovica, 0052/0652 Brezovica–Vrhnika, 0053/0653 Vrhnika–Logatec, 0149 priključek Brezovica in 0150 priključek Vrhnika",
+  "kratekOpis": "Celovita obnova ceste in objektov na odsekih AC A1 0051 LJ (Kozarje)-Brezovica od km 1,850 do km 2,408, 0651 LJ (Kozarje)-Brezovica od km 1,616 do km 2,182, 0052 Brezovica-Vrhnika od km 0,000 do km 5.866 in od km 6,405 do km 12,424, 0652 Brezovica-Vrhnika od km 0,000 do km 5.859 in od km 6,399 do km 12,402, 0053 Vrhnika-Logatec od km 0,000 do km 0,500, 0653 Vrhnika-Logatec od km 0,000 do km 0,500, 0149 priključek Brezovica od km 0,000 do km 1,083, 0150 priključek Vrhnika od km 0,000 do km do km 1,273 in ureditev PHO na odseku 0053 Vrhnika-Logatec od km 0,500 do km 1,120, 0653 Vrhnika-Logatec od km 0,820 do km 0,120",
+  "referencnaStevilka": "000306/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 144200000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000306/2025. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z283-05) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 144198878.52,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-06-29T08:27:41.65",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-06-30T04:19:23.963",
+  "objavaIdent": "JN009434/2025-EUe29/01",
+  "eFormsIdent": "91a29463-6e3a-4c48-a15b-f2674a140a9d",
+  "eFormsFolderIdent": "6259c165-6295-4141-9aeb-5e351290b15e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-66609",
+  "eFormsPublishedId": "447186-2026",
+  "eFormsPublishedDate": "2026-06-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-06-29T08:55:39.853",
+  "narocnik": [
+   {
+    "id": 1170202,
+    "idObrazec": 1125777,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 505054,
+    "idObrazec": 1125777,
+    "naslov": "Celovita obnova ceste in objektov na odsekih AC A1 0051/0651 LJ (Kozarje)–Brezovica, 0052/0652 Brezovica–Vrhnika, 0053/0653 Vrhnika–Logatec, 0149 priključek Brezovica in 0150 priključek Vrhnika",
+    "opis": "Celovita obnova ceste in objektov na odsekih AC A1 0051 LJ (Kozarje)-Brezovica od km 1,850 do km 2,408, 0651 LJ (Kozarje)-Brezovica od km 1,616 do km 2,182, 0052 Brezovica-Vrhnika od km 0,000 do km 5.866 in od km 6,405 do km 12,424, 0652 Brezovica-Vrhnika od km 0,000 do km 5.859 in od km 6,399 do km 12,402, 0053 Vrhnika-Logatec od km 0,000 do km 0,500, 0653 Vrhnika-Logatec od km 0,000 do km 0,500, 0149 priključek Brezovica od km 0,000 do km 1,083, 0150 priključek Vrhnika od km 0,000 do km do km 1,273 in ureditev PHO na odseku 0053 Vrhnika-Logatec od km 0,500 do km 1,120, 0653 Vrhnika-Logatec od km 0,820 do km 0,120",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 144200000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 229551,
+    "idObrazec": 1125777,
+    "idObrazecSklop": 505054,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 144198878.52,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 144198878.52,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 144198878.52,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 37419887.85,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 35
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 611804,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 611805,
+      "naziv": "TRGOGRAD trgovina in gradbeništvo, d.o.o., Litija",
+      "maticna": "5567548000",
+      "mesto": "Litija",
+      "idSifDrzava": 1,
+      "idSifNuts": 1272,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 171339,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 167632,
+    "naslov": "Celovita obnova ceste in objektov na odsekih AC A1 0051/0651 LJ (Kozarje)–Brezovica, 0052/0652 Brezovica–Vrhnika, 0053/0653 Vrhnika–Logatec, 0149 priključek Brezovica in 0150 priključek Vrhnika",
+    "internaStevilka": "000690/2026",
+    "datumSklenitev": "2026-06-02T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 505054
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

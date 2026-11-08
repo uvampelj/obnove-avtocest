@@ -1,0 +1,155 @@
+{
+ "row": {
+  "idObrazec": 1202202,
+  "idDosje": 471775,
+  "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000986/2023-EUe38/02",
+  "objavaDejanskaDatum": "2026-10-13T04:23:04.69",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1202202,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 471775,
+  "idObrazecPrej": 492698,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "kratekOpis": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "referencnaStevilka": "205/2026",
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 318,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2026-10-12T12:49:36.267",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-13T04:23:04.69",
+  "objavaIdent": "000986/2023-EUe38/02",
+  "eFormsIdent": "4d11f1c2-6106-4b06-b2e7-d4bb9b01aab5",
+  "eFormsFolderIdent": "a0804295-7c11-4949-8268-29cb90958b0d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "704841-2026",
+  "eFormsPublishedDate": "2026-10-13T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-10-12T13:24:53.987",
+  "narocnik": [
+   {
+    "id": 1282095,
+    "idObrazec": 1202202,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 318
+   },
+   {
+    "id": 7592
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 582745,
+    "idObrazec": 1202202,
+    "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "opis": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 318,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 46,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 318
+     },
+     {
+      "id": 7592
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 290498,
+    "idObrazec": 1202202,
+    "idObrazecSklop": 582745,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 739374.46,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 707885,
+      "naziv": "ESOTECH, družba za razvoj in izvajanje ekoloških in energetskih projektov, d.d.",
+      "maticna": "5693799000",
+      "mesto": "Velenje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 170080,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 224789,
+    "naslov": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+    "internaStevilka": "000932/2023",
+    "datumSklenitev": "2023-08-30T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 582745
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 224789,
+    "opis": "Aneks se sklepa zaradi določitve pogodbenega roka za izvedbo dodatnih del in podaljšanja obdobja, za katero se sklepa osnovna pogodba na podlagi 3. točke prvega odstavka 95. člena ZJN-3. Sprememba je potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti. Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen.\nMed trajanjem pogodbenega razmerja se je namreč pokazala potreba po izvedbi dodatnih del. Ker dodatnih del ni bilo mogoče izvesti v osnovnem roku, je bil določen rok za izvedbo dodatnih del do 31. 12. 2026. Posledično je bilo treba podaljšati tudi obdobje, za katero se sklepa osnovna pogodba, in sicer do 30. 6. 2026.\n\nAneks se sklepa tudi zaradi tudi zaradi dodatnih del na podlagi 2. točke prvega odstavka 95. člena ZJN-3.\nDodatna dela se nanašajo na vgradnjo dveh baterijskih hranilnikov (BHEE) na lokacijah Pokriti vkop Vipavski Križ in Kozina z namenom izboljšanja ekonomike fotovoltaične elektrarne (FVE) v trenutnih razmerah. \nIzvedba dodatnih del se odda obstoječemu izvajalcu pogodbenih del, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Izvedbe dodatnih del ni mogoče tehnično ločiti od prvotnega naročila, poleg tega pa so predmetna dodatna dela nujno potrebna za izboljšavo ekonomike fotovoltaične elektrarne v trenutnih razmerah. Zamenjava izvajalca bi poleg tega\nnaročniku povzročila tudi velike nevšečnosti in znatno podvajanje stroškov (stroški garancij, stojnine itd.). Dodatni stroški in nedvomno tudi dodatne zamude bi nastali zaradi uvedbe novega izvajalca v delo ter koordinacije s prejšnjim izvajalcem, ki bi bila za kvalitetno izvedbo del nujno potrebna. Tako bi moral naročnik za izvedbo zgoraj opisanih dodatnih del začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Navedeno je z vidika stroškov in porabe časa neracionalno, obenem pa bi povzročilo resne težave pri doseganju terminskega plana."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

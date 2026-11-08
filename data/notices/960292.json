@@ -1,0 +1,153 @@
+{
+ "row": {
+  "idObrazec": 960292,
+  "idDosje": 468531,
+  "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000170/2023-EUe38/03",
+  "objavaDejanskaDatum": "2025-11-21T05:12:27.53",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 960292,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 468531,
+  "idObrazecPrej": 484189,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "kratekOpis": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+  "referencnaStevilka": "233/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6471,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Dodatna dela niso mogla biti vključena v prvotno javno naročilo, saj se je potreba po njihovi izvedbi izkazala naknadno med izvajanjem osnovne pogodbe, in sicer zaradi razhajanj med projektno dokumentacijo in ponudbenim predračunom oz. napak v projektu za izvedbo (PZI), zaradi zahtev naročnika, ki so bile podane med izvedbo gradnje, in zaradi ugotovitve, da stanje na terenu ni enako pričakovanemu ali pa se je izkazalo, da projektna rešitev ni optimalna.\nIzvedba dodatnih del se je oddala obstoječemu izvajalcu pogodbenih del skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Izvedba dodatnih del ni mogoče tehnično ločiti od prvotnega naročila, poleg tega pa so predmetna dodatna dela nujno potrebna za dokončanje prvotno naročenega predmeta osnovne pogodbe. Zamenjava izvajalca bi poleg tega naročniku povzročila tudi velike nevšečnosti in znatno podvajanje stroškov (stroški garancij, stojnine itd.). Dodatni stroški in nedvomno tudi dodatne zamude bi nastali zaradi uvedbe novega izvajalca v delo ter koordinacije s prejšnjim izvajalcem, ki bi bila za kvalitetno izvedbo del nujno potrebna. Tako bi moral naročnik za izvedbo zgoraj opisanih dodatnih del začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca. Navedeno je z vidika stroškov in porabe časa neracionalno, obenem pa bi povzročilo resne težave pri doseganju terminskega plana.\nVključitev obstoječega izvajalca je najbolj racionalna rešitev tako s stališča stroškov kot tudi časovne izvedbe, s čimer je upravičena sklenitev aneksa s tem izvajalcem.",
+  "vrednostPosodobljenaSkupna": 2850685.96,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 3087754.75,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-11-20T12:40:32.567",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-11-21T05:12:27.53",
+  "objavaIdent": "000170/2023-EUe38/03",
+  "eFormsIdent": "cef51e2f-9cc1-4ff5-84b8-1674533de4a3",
+  "eFormsFolderIdent": "81733a4e-1178-4108-85b7-2aba3b07a00e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "775367-2025",
+  "eFormsPublishedDate": "2025-11-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-11-20T13:01:59.72",
+  "narocnik": [
+   {
+    "id": 939334,
+    "idObrazec": 960292,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6471
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1278
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 338593,
+    "idObrazec": 960292,
+    "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "opis": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6471,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-06-07T00:00:00",
+    "datumKonec": "2025-12-07T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6471
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1278
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 77449,
+    "idObrazec": 960292,
+    "idObrazecSklop": 338593,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 2850685.96,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 369582,
+      "naziv": "GODINA gradbeništvo in druge storitve d.o.o.",
+      "maticna": "2296225000",
+      "mesto": "Kozina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 120016,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 41820,
+    "naslov": "Obnova lokalnih centrov cestninskega nadzora: Sklop 2: Nanos in Videž",
+    "internaStevilka": "000747/2023",
+    "datumSklenitev": "2023-06-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 338593
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 41820,
+    "opis": "Predmet aneksa št. 2 so naslednja dodatna dela: \n-\tdodatna GOI dela na LCCN Videž:\n•\tfasaderska dela\n•\tkrovsko kleparska dela\n•\tsuhomontažna dela\n•\tstavbno pohištvo\n•\tnotranja oprema\n•\tstrojne inštalacije\n•\telektro inštalacije\n•\tzaščitni premaz\n•\tsistemski ključ\n-\tpreddela in zidarska dela na LCCN Nanos\n-\tvodovodno omrežje na LCCN Nanos\n-\tcestna razsvetljava na LCCN Nanos\n-\tdrsna vrata na LCCN Nanos\n-\tasfaltiranje brežine na LCCN Nanos\n-\trazširitev nadstrešnice na LCCN Nanos\n-\tstavbno pohištvo na LCCN Nanos\n-\tsuhomontažna dela na LCCN Nanos\n-\tnotranja oprema na LCCN Nanos\n-\telektro inštalacijska dela na LCCN Nanos\n-\tobrtniška dela na LCCN Nanos\n-\tobrtniška dela na LCCN Videž"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

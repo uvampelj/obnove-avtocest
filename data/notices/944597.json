@@ -1,0 +1,192 @@
+{
+ "row": {
+  "idObrazec": 944597,
+  "idDosje": 525397,
+  "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006912/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-09-24T04:20:00.363",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 944597,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 525397,
+  "idObrazecPrej": 939209,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "kratekOpis": "Tekom gradnje poslovne stavbe DARS so se pojavile potrebe po dodatnih delih, ki jih je potrebno izvesti po dokončanju faze izgradnje objekta.",
+  "referencnaStevilka": "000206/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "vrednostOcenjenaBrezDDV": 286115.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 286115.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 19,
+  "razlogOddajeBrezObjave": "V 17. točki 1. odst. 3. člena Gradbenega zakona je določeno, da je nadzornik pravna ali fizična oseba, ki kot udeleženec pri graditvi objektov izvaja nadzor nad gradnjo in izpolnjuje pogoje po zakonu, ki ureja arhitekturno in inženirsko dejavnost. V 15. členu GZ-1 so določene naloge nadzornika, med drugim je nadzornik odgovoren za izvajanje nadzora nad gradnjo tako, da se zagotovi izpolnjevanje zahtev iz tega zakona, preventivno delovanje in pravočasno preprečevanje napak. Po 10. odst. 15. člena GZ-1 je sicer med gradnjo mogoča zamenjava nadzornika ali vodje nadzora, vendar mora investitor ustavi gradnjo, dokler je ne prevzame novi nadzornik ali vodja nadzora. Zamenjava nadzora, torej izvajalca svetovalnih in inženirskih storitev za izgradnjo nove poslovne stavbe DARS, bi terjala ustavitev gradnje, kar bi za naročnika pomenilo dodatno podaljšanje roka za izgradnjo stavbe in vse v zvezi s tem povezane stroške, ki bi jih moral plačati izvajalcu gradnje (npr. zavarovanje gradbišča, najem strojev in opreme, prostorov, finančnega zavarovanja, gradbiščni kontejnerji, električni priključek, voda …). Kar pa je ključno, izvajanje dodatnih del, ki posegajo na dela v izvajanju oz. že izvedena dela, ki skupaj tvorijo objekt nove poslovne stavbe DARS, za katerega je bilo izdano eno gradbeno in kasneje še uporabno dovoljenje, mora nadzorovati isti inženir (nadzornik) zaradi zagotavljanja kontinuitete nadzora, strokovnosti in odgovornosti. Vodja nadzora namreč vodi in koordinira nadzor nad gradnjo v celoti, zato se te funkcije oz. odgovornosti ne da deliti in dodatnih del poveriti drugemu nadzorniku. Obstoječi nadzorni inženir ima namreč celovit vpogled v projekt, izvedena dela, uporabljene materiale, rešitve na terenu in morebitne tehnične zaplete in zanj tudi odgovarja. To bistveno zmanjša tveganje za napake, neskladja in podvajanja.",
+  "objavaEU": true,
+  "datumVnosa": "2025-09-22T14:00:51.853",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-09-24T04:20:00.363",
+  "objavaIdent": "JN006912/2025-EUe29/01",
+  "eFormsIdent": "2ef17fa5-411a-4e6d-8930-57e9d8d201da",
+  "eFormsFolderIdent": "e6da0a7e-57a7-47d6-a5f8-20ae5497d38e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "622892-2025",
+  "eFormsPublishedDate": "2025-09-24T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-09-22T14:05:35.203",
+  "narocnik": [
+   {
+    "id": 903928,
+    "idObrazec": 944597,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 323135,
+    "idObrazec": 944597,
+    "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+    "opis": "Tekom gradnje poslovne stavbe DARS so se pojavile potrebe po dodatnih delih, ki jih je potrebno izvesti po dokončanju faze izgradnje objekta.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 3,
+    "vrednostOcenjenaBrezDDV": 286115.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Cena 100 %",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 71786,
+    "idObrazec": 944597,
+    "idObrazecSklop": 323135,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 286115.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 286115.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 286115.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 17775.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 6.2,
+    "opisDelezOddajePodizvajalcem": "Strokovnjak za BIM, strokovni in finančni nadzor nad strojnimi instalacijami in opremo",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 341977,
+      "naziv": "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+      "maticna": "1782355000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 156662,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 341978,
+      "naziv": "PROCTOR gradbeništvo, inženiring, trgovina d.o.o.",
+      "maticna": "1527703000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 171690,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 37587,
+    "naslov": "Pogodba za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+    "internaStevilka": "000206/2025",
+    "datumSklenitev": "2025-09-19T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 323135
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

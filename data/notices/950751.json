@@ -1,0 +1,175 @@
+{
+ "row": {
+  "idObrazec": 950751,
+  "idDosje": 523979,
+  "naslov": "DOBAVA VERTIKALNE SIGNALIZACIJE",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005673/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-10-16T04:39:49.88",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 950751,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 523979,
+  "idObrazecPrej": 928095,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA VERTIKALNE SIGNALIZACIJE",
+  "kratekOpis": "Dobava vertikalne signalizacije za potrebe naročnika",
+  "referencnaStevilka": "000179/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3762,
+  "vrednostOcenjenaBrezDDV": 1238750.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 1219295.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-10-15T08:32:48.167",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-16T04:39:49.88",
+  "objavaIdent": "JN005673/2025-EUe29/01",
+  "eFormsIdent": "9fa7a6ea-4bc1-487e-8cd1-18c0f046cc04",
+  "eFormsFolderIdent": "a1793a22-4146-4ea1-9a8d-b284e8441b96",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-60133",
+  "eFormsPublishedId": "683224-2025",
+  "eFormsPublishedDate": "2025-10-16T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-15T08:54:32.703",
+  "narocnik": [
+   {
+    "id": 917773,
+    "idObrazec": 950751,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 329496,
+    "idObrazec": 950751,
+    "naslov": "DOBAVA VERTIKALNE SIGNALIZACIJE",
+    "opis": "Dobava vertikalne signalizacije za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3762,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 1238750.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 74455,
+    "idObrazec": 950751,
+    "idObrazecSklop": 329496,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1219295.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1219295.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1219295.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 353701,
+      "naziv": "MEBLO SIGNALIZACIJA, prometna signalizacija d.o.o. Nova Gorica",
+      "maticna": "6137903000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 153172,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 39408,
+    "naslov": "POGODBA ZA DOBAVO VERTIKALNE SIGNALIZACIJE",
+    "internaStevilka": "001171/2025",
+    "datumSklenitev": "2025-10-13T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 329496
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

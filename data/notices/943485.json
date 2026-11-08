@@ -1,0 +1,474 @@
+{
+ "row": {
+  "idObrazec": 943485,
+  "idDosje": 521975,
+  "naslov": "VZDRŽEVANJE NAPRAV ZA ODVODNJAVANJE",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003909/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-09-17T12:18:03.58",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 943485,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 521975,
+  "idObrazecPrej": 914540,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "VZDRŽEVANJE NAPRAV ZA ODVODNJAVANJE",
+  "kratekOpis": "Vzdrževanje naprav za odvodnjavanje za potrebe naročnika",
+  "referencnaStevilka": "000108/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifNarociloVrstaDodatno": 2,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 3000000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 2794113.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-09-17T11:43:32.023",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-09-17T12:18:03.58",
+  "objavaIdent": "JN003909/2025-SL2/01",
+  "eFormsIdent": "d82ca74e-f4dd-46ca-a9ea-42064941c4a1",
+  "eFormsFolderIdent": "9548c068-a01e-4f91-a728-18399988c453",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-57415",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-09-17T12:13:14.17",
+  "narocnik": [
+   {
+    "id": 901549,
+    "idObrazec": 943485,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6733
+   },
+   {
+    "id": 3636
+   },
+   {
+    "id": 5888
+   },
+   {
+    "id": 5917
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 322145,
+    "idObrazec": 943485,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje na območju AC baz Ljubljana, Hrušica, Novo mesto",
+    "opis": "Vzdrževanje naprav za odvodnjavanje za potrebe naročnika.",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 750000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     },
+     {
+      "id": 3636
+     },
+     {
+      "id": 5888
+     },
+     {
+      "id": 5917
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ]
+   },
+   {
+    "id": 322146,
+    "idObrazec": 943485,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje na območju AC baz Postojna in Kozina",
+    "opis": "Vzdrževanje naprav za odvodnjavanje za potrebe naročnika.",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 820000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     },
+     {
+      "id": 3636
+     },
+     {
+      "id": 5888
+     },
+     {
+      "id": 5917
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ]
+   },
+   {
+    "id": 322147,
+    "idObrazec": 943485,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje na območju AC baz Vransko, Slovenske Konjice",
+    "opis": "Vzdrževanje naprav za odvodnjavanje za potrebe naročnika.",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 670000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     },
+     {
+      "id": 3636
+     },
+     {
+      "id": 5888
+     },
+     {
+      "id": 5917
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ]
+   },
+   {
+    "id": 322148,
+    "idObrazec": 943485,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje na območju AC baz Maribor, Murska Sobota",
+    "opis": "Vzdrževanje naprav za odvodnjavanje za potrebe naročnika.",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 760000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     },
+     {
+      "id": 3636
+     },
+     {
+      "id": 5888
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 71414,
+    "idObrazec": 943485,
+    "idObrazecSklop": 322145,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 708603.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 708603.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 708603.0,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 340072,
+      "naziv": "IPI, izvajalski in projektantski inženiring, d.o.o.",
+      "maticna": "5111498000",
+      "mesto": "Rogaška Slatina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 126709,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 71421,
+    "idObrazec": 943485,
+    "idObrazecSklop": 322146,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 774228.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 774228.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 774228.0,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 340087,
+      "naziv": "IPI, izvajalski in projektantski inženiring, d.o.o.",
+      "maticna": "5111498000",
+      "mesto": "Rogaška Slatina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 126709,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 71424,
+    "idObrazec": 943485,
+    "idObrazecSklop": 322147,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 623773.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 623773.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 623773.5,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 340085,
+      "naziv": "IPI, izvajalski in projektantski inženiring, d.o.o.",
+      "maticna": "5111498000",
+      "mesto": "Rogaška Slatina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 126709,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 71425,
+    "idObrazec": 943485,
+    "idObrazecSklop": 322148,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 687508.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 687508.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 687508.5,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 340103,
+      "naziv": "IPI, izvajalski in projektantski inženiring, d.o.o.",
+      "maticna": "5111498000",
+      "mesto": "Rogaška Slatina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 126709,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 37273,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje, Sklop 1",
+    "internaStevilka": "001081/2025",
+    "datumSklenitev": "2025-09-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 322145
+     }
+    ]
+   },
+   {
+    "id": 37278,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje, Sklop 2",
+    "internaStevilka": "001081/2025-2",
+    "datumSklenitev": "2025-09-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 322146
+     }
+    ]
+   },
+   {
+    "id": 37279,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje, Sklop 3",
+    "internaStevilka": "001081/2025-3",
+    "datumSklenitev": "2025-09-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 322147
+     }
+    ]
+   },
+   {
+    "id": 37280,
+    "naslov": "Vzdrževanje naprav za odvodnjavanje, Sklop 4",
+    "internaStevilka": "001081/2025-4",
+    "datumSklenitev": "2025-09-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 322148
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

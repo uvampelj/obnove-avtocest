@@ -1,0 +1,176 @@
+{
+ "row": {
+  "idObrazec": 974994,
+  "idDosje": 524856,
+  "naslov": "STROJ ZA PRANJE PREDOROV",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006454/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-01-26T04:20:31.343",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 974994,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 524856,
+  "idObrazecPrej": 941675,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "STROJ ZA PRANJE PREDOROV",
+  "kratekOpis": "Dobava in servisiranje stroja za pranje predorov za potrebe naročnika",
+  "referencnaStevilka": "000221/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 5656,
+  "vrednostOcenjenaBrezDDV": 1094500.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 1051250.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-01-23T11:44:08.727",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-26T04:20:31.343",
+  "objavaIdent": "JN006454/2025-EUe29/01",
+  "eFormsIdent": "fc76a844-47be-4350-832a-436e915e14d7",
+  "eFormsFolderIdent": "ca5d8bc0-2fdd-499a-a03e-610f47afad35",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-61240",
+  "eFormsPublishedId": "56719-2026",
+  "eFormsPublishedDate": "2026-01-26T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-23T11:48:24.65",
+  "narocnik": [
+   {
+    "id": 970672,
+    "idObrazec": 974994,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 352220,
+    "idObrazec": 974994,
+    "naslov": "STROJ ZA PRANJE PREDOROV",
+    "opis": "Dobava in servisiranje stroja za pranje predorov za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 5656,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 72,
+    "vrednostOcenjenaBrezDDV": 1094500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 83197,
+    "idObrazec": 974994,
+    "idObrazecSklop": 352220,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 778550.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1051250.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1051250.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 2,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 399709,
+      "naziv": "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+      "maticna": "5670209000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 173975,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 46210,
+    "naslov": "STROJ ZA PRANJE PREDOROV",
+    "internaStevilka": "000079/2026",
+    "datumSklenitev": "2026-01-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 352220
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

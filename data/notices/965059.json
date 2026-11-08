@@ -1,0 +1,152 @@
+{
+ "row": {
+  "idObrazec": 965059,
+  "idDosje": 528560,
+  "naslov": "VZDRŽEVANJE VGRAJENIH SISTEMOV AKTIVNE POŽARNE ZAŠČITE (požarni centrali Hochiki in Advanced Electronics)",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN009638/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-12-10T09:11:31.663",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 965059,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 528560,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "VZDRŽEVANJE VGRAJENIH SISTEMOV AKTIVNE POŽARNE ZAŠČITE (požarni centrali Hochiki in Advanced Electronics)",
+  "kratekOpis": "VZDRŽEVANJE VGRAJENIH SISTEMOV AKTIVNE POŽARNE ZAŠČITE (požarni centrali Hochiki in Advanced Electronics)",
+  "referencnaStevilka": "000317/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7485,
+  "vrednostOcenjenaBrezDDV": 58000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDE3NjUyO1JEIGluIEVTUEQgIDMxNy0yMDI1LnppcA",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2026-01-05T08:00:00",
+  "varnostnoPreverjanjeZahtevano": false,
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=67017",
+  "datumDoPonudba": "2026-01-15T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 151,
+  "datumOdpiranje": "2026-01-15T12:00:00",
+  "odpiranjePonudbKraj": "elektronsko javno naročanje eJN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": false,
+  "datumVnosa": "2025-12-09T15:12:16.77",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-10T09:11:31.663",
+  "datumDoVprasanjaKalk": "2026-01-05T08:00:00",
+  "objavaIdent": "JN009638/2025-EUe16/01",
+  "eFormsIdent": "632e9046-8e73-4652-a794-adb7bc1c3797",
+  "eFormsFolderIdent": "27e6a7b7-869c-4bd8-ba07-9ac31558bfaf",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-67017",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-12-09T15:20:32.65",
+  "narocnik": [
+   {
+    "id": 949654,
+    "idObrazec": 965059,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 343297,
+    "idObrazec": 965059,
+    "naslov": "VZDRŽEVANJE VGRAJENIH SISTEMOV AKTIVNE POŽARNE ZAŠČITE (požarni centrali Hochiki in Advanced Electronics)",
+    "opis": "VZDRŽEVANJE VGRAJENIH SISTEMOV AKTIVNE POŽARNE ZAŠČITE (požarni centrali Hochiki in Advanced Electronics)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7485,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "vrednostOcenjenaBrezDDV": 58000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

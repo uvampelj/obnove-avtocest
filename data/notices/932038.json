@@ -1,0 +1,174 @@
+{
+ "row": {
+  "idObrazec": 932038,
+  "idDosje": 474977,
+  "naslov": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001787/2023-EUe38/01",
+  "objavaDejanskaDatum": "2025-08-04T04:21:10.193",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 932038,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 474977,
+  "idObrazecPrej": 488732,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+  "kratekOpis": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+  "referencnaStevilka": "173/2025",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8052,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba osnovne pogodbe (podaljšanje obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (projektiranje po ločeni pogodbi še ni zaključeno, posledično pa niso znane vse potrebne parcelacije). \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug) ostaja nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2025-07-31T14:47:41.277",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-04T04:21:10.193",
+  "objavaIdent": "001787/2023-EUe38/01",
+  "eFormsIdent": "85e012bd-3b71-40b0-8cac-3e8dcc741c1c",
+  "eFormsFolderIdent": "e06c7299-50bd-435c-a7cc-3cbb8c57c010",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "509453-2025",
+  "eFormsPublishedDate": "2025-08-04T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-31T14:57:32.683",
+  "narocnik": [
+   {
+    "id": 865216,
+    "idObrazec": 932038,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8052
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 311016,
+    "idObrazec": 932038,
+    "naslov": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+    "opis": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8052,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 8052
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 56921,
+    "idObrazec": 932038,
+    "idObrazecSklop": 311016,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 219000.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 84000.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 317370,
+      "naziv": "GEODETSKI ZAVOD CELJE, d.o.o.",
+      "maticna": "5066352000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 221268,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 317371,
+      "naziv": "GEOTOČKA IN 2GR, geodetsko svetovanje in storitve, d.o.o.",
+      "maticna": "3833399000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 226044,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 317372,
+      "naziv": "GEOFOTO podjetje za geodetske in računalniške storitve d.o.o.",
+      "maticna": "5669472000",
+      "mesto": "Slovenska Bistrica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSubjektPrs": 201098,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 33941,
+    "naslov": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+    "internaStevilka": "000845/2023",
+    "datumSklenitev": "2023-07-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 311016
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 33941,
+    "opis": "Predmet aneksa št. 1 je podaljšanje obdobja, za katero je sklenjena osnovna pogodba."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

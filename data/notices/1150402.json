@@ -1,0 +1,199 @@
+{
+ "row": {
+  "idObrazec": 1150402,
+  "idDosje": 560988,
+  "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001667/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-08-27T04:04:23.91",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1150402,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 560988,
+  "idObrazecPrej": 1016162,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "kratekOpis": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "referencnaStevilka": "000018/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8192,
+  "vrednostOcenjenaBrezDDV": 518000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudnikom je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil.",
+  "vrednostSkupna": 512223.3,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-08-25T15:07:59.24",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-27T04:04:23.91",
+  "objavaIdent": "JN001667/2026-EUe29/01",
+  "eFormsIdent": "1840205d-a810-4b90-96e9-cffa40015df1",
+  "eFormsFolderIdent": "12943da7-f6b9-4f48-a3f8-2e143e7de2ef",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-70520",
+  "eFormsPublishedId": "591280-2026",
+  "eFormsPublishedDate": "2026-08-27T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-25T15:17:57.023",
+  "narocnik": [
+   {
+    "id": 1214644,
+    "idObrazec": 1150402,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 529491,
+    "idObrazec": 1150402,
+    "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+    "opis": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8192,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "vrednostOcenjenaBrezDDV": 518000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 245341,
+    "idObrazec": 1150402,
+    "idObrazecSklop": 529491,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 512223.3,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 516550.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 512223.3,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 647367,
+      "naziv": "ARHEJ d.o.o., arheološke raziskave in druge intelektualne storitve, Sevnica",
+      "maticna": "1253239000",
+      "mesto": "Sevnica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1273,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 169364,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 647368,
+      "naziv": "ARHAT, arheološke raziskave, Aleš Tiran s.p.",
+      "maticna": "3957128000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 146956,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 647369,
+      "naziv": "ARHOS, storitve na področju kulture, d.o.o.",
+      "maticna": "3527816000",
+      "mesto": "Brežice",
+      "idSifDrzava": 1,
+      "idSifNuts": 1273,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 58453,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 181436,
+    "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+    "internaStevilka": "000840/2026",
+    "datumSklenitev": "2026-07-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 529491
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

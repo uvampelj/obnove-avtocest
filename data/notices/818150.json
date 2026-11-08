@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 818150,
+  "idDosje": 437990,
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 - 2024 Sklop 1: Izvedba rednih pregledov Sklop 2: Izvedba glavnih pregledov",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001514/2022-EUe38/01",
+  "objavaDejanskaDatum": "2024-06-05T08:53:02.91",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 818150,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 437990,
+  "idObrazecPrej": 448559,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 - 2024 Sklop 1: Izvedba rednih pregledov Sklop 2: Izvedba glavnih pregledov",
+  "kratekOpis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov",
+  "referencnaStevilka": "000026/2022",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 592078.52,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "1.\tse je zaradi nepredvidenega dogodka (poplave), izkazala potreba za izvedbo dodatnih glavnih pregledov mostov čez Savinjo;\n2.\tse je tekom izvedbe pogodbe izkazala potreba za izvedbo dodatnih glavnih pregledov premostitvenih objektov, ki so bili na novo zgrajeni v sklopu projekta povečanja kapacitete priključkov na območju BTC;\n3.\tse je izkazala potreba za najem specialnega vozila za pregled stanja poševnih zateg pri mostu čez Ljubljanico. \nZgoraj opisana nepredvidena dela je potrebno izvesti zaradi okoliščin, ki jih naročnik v postopku javnega naročila ni mogel predvideti. Sprememba pogodbe o izvedbi javnega naročila je tako skladna s tretjo točko prvega odstavka 95. člena ZJN-3.\n",
+  "vrednostPosodobljenaSkupna": 592078.52,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 592078.52,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-06-04T13:46:24.547",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-06-05T08:53:02.91",
+  "objavaIdent": "001514/2022-EUe38/01",
+  "eFormsIdent": "43af9b33-4515-406d-a7c6-24452b467263",
+  "eFormsFolderIdent": "e06e5cc6-0ac8-43c3-8f75-8215deee0905",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "331389-2024",
+  "eFormsPublishedDate": "2024-06-05T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-06-04T14:04:29.23",
+  "narocnik": [
+   {
+    "id": 630635,
+    "idObrazec": 818150,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8097
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 211649,
+    "idObrazec": 818150,
+    "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov",
+    "opis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2022-06-08T00:00:00",
+    "datumKonec": "2025-06-08T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 19959,
+    "idObrazec": 818150,
+    "idObrazecSklop": 211649,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 592078.52,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 97758,
+      "naziv": "GRADBENI INŠTITUT ZRMK d.o.o.",
+      "maticna": "1795490000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 97759,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 7099,
+    "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov",
+    "internaStevilka": "000940/2022",
+    "datumSklenitev": "2022-06-08T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 211649
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 7099,
+    "opis": "Aneks št. 2 k pogodbi DARS št. 940/2022 za Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov; dodatna dela"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

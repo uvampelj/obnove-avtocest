@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 893066,
+  "idDosje": 518901,
+  "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN001342/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-03-04T08:48:03.18",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 893066,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 518901,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+  "kratekOpis": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+  "referencnaStevilka": "000022/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzQ5Mzc2O1JEIDIyXzIwMjVfUEpOLnppcA",
+  "datumDoVprasanja": "2025-03-24T15:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=52978",
+  "datumDoPonudba": "2025-04-08T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2025-04-08T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-03-03T10:55:46.933",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-03-04T08:48:03.18",
+  "datumDoVprasanjaKalk": "2025-03-24T15:00:00",
+  "datumDoPonudbaKalk": "2025-04-11T10:00:00",
+  "objavaIdent": "JN001342/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "e64e2e14-c036-47ac-b385-07e8cbfe008d",
+  "eFormsFolderIdent": "aa047d49-8eb7-499a-ac12-5b02ef13e789",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-52978",
+  "eFormsPublishedId": "142461-2025",
+  "eFormsPublishedDate": "2025-03-04T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-03-03T11:02:08.56",
+  "narocnik": [
+   {
+    "id": 774559,
+    "idObrazec": 893066,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 5,
+    "utemeljitev": "Izključitveni pogoji po ZJN-3"
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 271652,
+    "idObrazec": 893066,
+    "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+    "opis": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 54,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Ekonomsko najugodnejšo ponudbo se izbere na podlagi točkovanja po merilih kot sledi:\n-Ponudbena cena (brez DDV) – največje možno število točk 80\n-Število zaposlenih kadrov pri ponudniku – največje možno število točk 16\n-Število dodatnih referenc geotehničnega nadzornika - največje možno število točk 4",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Blokada TRR",
+      "opis": "Gospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni (skupno število dni blokade na posameznem računu).",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejšo ponudbo se izbere na podlagi točkovanja po merilih kot sledi:\n-Ponudbena cena (brez DDV) – največje možno število točk 80\n-Število zaposlenih kadrov pri ponudniku – največje možno število točk 16\n-Število dodatnih referenc geotehničnega nadzornika - največje možno število točk 4"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

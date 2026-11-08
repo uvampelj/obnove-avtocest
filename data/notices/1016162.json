@@ -1,0 +1,149 @@
+{
+ "row": {
+  "idObrazec": 1016162,
+  "idDosje": 560988,
+  "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN001667/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-03-10T04:07:04.82",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1016162,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 560988,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "kratekOpis": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+  "referencnaStevilka": "000018/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8192,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDY0ODIwO0Rva3VtZW50YWNpamFfcG9ydGFsXzE4LTI2LnppcA",
+  "datumDoVprasanja": "2026-03-31T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=70520",
+  "datumDoPonudba": "2026-04-14T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2026-04-14T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudnikom je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil.",
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2026-03-09T09:48:05.953",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-10T04:07:04.82",
+  "datumDoVprasanjaKalk": "2026-03-31T12:00:00",
+  "objavaIdent": "JN001667/2026-EUe16/01",
+  "eFormsIdent": "d48e1189-8efb-4f14-95eb-17815c5acae3",
+  "eFormsFolderIdent": "12943da7-f6b9-4f48-a3f8-2e143e7de2ef",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-70520",
+  "eFormsPublishedId": "163754-2026",
+  "eFormsPublishedDate": "2026-03-10T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-03-09T10:08:21.067",
+  "narocnik": [
+   {
+    "id": 1022741,
+    "idObrazec": 1016162,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 394357,
+    "idObrazec": 1016162,
+    "naslov": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+    "opis": "Izvedba predhodnih arheoloških raziskav (testni jarki, izkopavanja, raziskave ob gradnji) na arheoloških najdiščih na prometni povezavi med A2 Ljubljana–Obrežje do priključka Maline (3. in 4. etapa)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8192,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

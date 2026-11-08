@@ -1,0 +1,136 @@
+{
+ "row": {
+  "idObrazec": 907266,
+  "idDosje": 518325,
+  "naslov": "Izboljšanje tornih lastnosti vozišč",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000844/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-04-23T14:44:22.707",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 907266,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 518325,
+  "idObrazecPrej": 888593,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izboljšanje tornih lastnosti vozišč",
+  "kratekOpis": "Izboljšanje tornih lastnosti vozišč",
+  "referencnaStevilka": "000312/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6723,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "datumVnosa": "2025-04-23T14:33:31.097",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-23T14:44:22.707",
+  "objavaIdent": "JN000844/2025-SL2/01",
+  "eFormsIdent": "bbfa9d2b-2e2e-4e9f-924d-0651801670dd",
+  "eFormsFolderIdent": "1fce604b-37ec-4e4e-8051-c99349d24fc8",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-52505",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-04-23T14:43:31.747",
+  "narocnik": [
+   {
+    "id": 806508,
+    "idObrazec": 907266,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6737
+   },
+   {
+    "id": 6733
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 284210,
+    "idObrazec": 907266,
+    "naslov": "Izboljšanje tornih lastnosti vozišč",
+    "opis": "Izboljšanje tornih lastnosti vozišč",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6723,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6737
+     },
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. "
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 48435,
+    "idObrazec": 907266,
+    "idObrazecSklop": 284210,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 3,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

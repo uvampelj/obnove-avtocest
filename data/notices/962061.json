@@ -1,0 +1,263 @@
+{
+ "row": {
+  "idObrazec": 962061,
+  "idDosje": 523488,
+  "naslov": "Dobava in montaža jeklenih varnostnih ograj",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005240/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-12-01T04:40:53.083",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 962061,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 523488,
+  "idObrazecPrej": 924960,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in montaža jeklenih varnostnih ograj",
+  "kratekOpis": "Dobava in montaža jeklenih varnostnih ograj, 9 sklopov",
+  "referencnaStevilka": "000140/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3657,
+  "vrednostOcenjenaBrezDDV": 3315000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 248473.9,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-11-27T14:59:28.553",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-01T04:40:53.083",
+  "objavaIdent": "JN005240/2025-EUe29/01",
+  "eFormsIdent": "ffe819e1-a532-47be-9e3f-0d3f2c3ba033",
+  "eFormsFolderIdent": "3cdfb784-f488-44e9-b68b-e39b906dc7fd",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-59504",
+  "eFormsPublishedId": "793271-2025",
+  "eFormsPublishedDate": "2025-12-01T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-11-27T15:12:18.97",
+  "narocnik": [
+   {
+    "id": 943175,
+    "idObrazec": 962061,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 340433,
+    "idObrazec": 962061,
+    "naslov": "JVO sistem IMEVA, tip H1W3, bankina",
+    "opis": "JVO sistem IMEVA, tip H1W3, bankina",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 66066.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Cena 100 %",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena 100 %"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 340441,
+    "idObrazec": 962061,
+    "naslov": "JVO sistem PRODIGY",
+    "opis": "JVO sistem PRODIGY",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3657,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 222893.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Cena 100 %",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena 100 %"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 78122,
+    "idObrazec": 962061,
+    "idObrazecSklop": 340433,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 65987.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 65987.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 65987.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 372904,
+      "naziv": "LIKO Industrija kovinske opreme, d.d. Liboje",
+      "maticna": "5206855000",
+      "mesto": "Petrovče",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 84959,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 78126,
+    "idObrazec": 962061,
+    "idObrazecSklop": 340441,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 182486.4,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 182486.4,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 182486.4,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 372907,
+      "naziv": "DELTABLOC, varnostne in protihrupne ograje d.o.o.",
+      "maticna": "7184590000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 257407,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 42268,
+    "naslov": "Pogodba za Dobava in montaža jeklenih varnostnih ograj, SKLOP 1: JVO sistem IMEVA, tip H1W3, bankina",
+    "internaStevilka": "001280/2025",
+    "datumSklenitev": "2025-11-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 340433
+     }
+    ]
+   },
+   {
+    "id": 42270,
+    "naslov": "Pogodba za Dobava in montaža jeklenih varnostnih ograj, SKLOP 9: JVO sistem PRODIGY",
+    "internaStevilka": "001281/2025",
+    "datumSklenitev": "2025-11-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 340441
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

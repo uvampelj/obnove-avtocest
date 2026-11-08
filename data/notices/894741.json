@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 894741,
+  "idDosje": 519148,
+  "naslov": "Obnova vozne površine na AC A1 0053 Vrhnika–Logatec od km 0,500 do km 8,200, vključno z ureditvijo sredinskega ločilnega pasu",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN001516/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-03-11T08:49:07.55",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 894741,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 519148,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozne površine na AC A1 0053 Vrhnika–Logatec od km 0,500 do km 8,200, vključno z ureditvijo sredinskega ločilnega pasu",
+  "kratekOpis": "Obnova vozne površine na AC A1 0053 Vrhnika–Logatec od km 0,500 do km 8,200, vključno z ureditvijo sredinskega ločilnega pasu",
+  "referencnaStevilka": "000032/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzUwNzcyO0Rva3VtZW50YWNpamEtcG9ydGFsLTMyLTI1LnppcA",
+  "datumDoVprasanja": "2025-04-01T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=53555",
+  "datumDoPonudba": "2025-04-15T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-04-15T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N47Z057) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-03-10T12:10:00.947",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-03-11T08:49:07.55",
+  "datumDoVprasanjaKalk": "2025-04-01T12:00:00",
+  "datumDoPonudbaKalk": "2025-04-23T12:00:00",
+  "objavaIdent": "JN001516/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "d674afb7-8756-4ee7-ba12-35c3931b7169",
+  "eFormsFolderIdent": "8ca66838-30b7-4589-b8ac-a4a937c9b263",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-53555",
+  "eFormsPublishedId": "155946-2025",
+  "eFormsPublishedDate": "2025-03-11T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-03-10T13:16:05.963",
+  "narocnik": [
+   {
+    "id": 778237,
+    "idObrazec": 894741,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 23,
+    "utemeljitev": "V priloženi razpisni dokumentaciji so določeni vsi obvezni zakonski razlogi za izključitev."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 273167,
+    "idObrazec": 894741,
+    "naslov": "Obnova vozne površine na AC A1 0053 Vrhnika–Logatec od km 0,500 do km 8,200, vključno z ureditvijo sredinskega ločilnega pasu",
+    "opis": "Obnova vozne površine na AC A1 0053 Vrhnika–Logatec od km 0,500 do km 8,200, vključno z ureditvijo sredinskega ločilnega pasu",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 2,
+      "opis": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

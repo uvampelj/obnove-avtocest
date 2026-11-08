@@ -1,0 +1,291 @@
+{
+ "row": {
+  "idObrazec": 812126,
+  "idDosje": 507150,
+  "naslov": "VZDRŽEVANJE NADZORNO KRMILNEGA SISTEMA V PREDORIH",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001251/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-05-14T08:50:52.65",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 812126,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 507150,
+  "idObrazecPrej": 793958,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "VZDRŽEVANJE NADZORNO KRMILNEGA SISTEMA V PREDORIH",
+  "kratekOpis": "Vzdrževanje nadzorno krmilnega sistema v predorih za potrebe naročnika",
+  "referencnaStevilka": "000012/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 999400.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 999370.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-05-09T14:58:53.387",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-05-14T08:50:52.65",
+  "objavaIdent": "JN001251/2024-EUe29/01",
+  "eFormsIdent": "14db3053-37e4-4fe0-ae4f-857626d195ba",
+  "eFormsFolderIdent": "84daa80e-9281-4af6-9a6d-62ea099351a1",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "283609-2024",
+  "eFormsPublishedDate": "2024-05-14T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-05-13T09:06:02.547",
+  "narocnik": [
+   {
+    "id": 616203,
+    "idObrazec": 812126,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 205558,
+    "idObrazec": 812126,
+    "naslov": "Sklop 1 - NKS Vransko, Kozina, Dragomelj, Hrušica, Slovenske Konjice",
+    "opis": "Vzdrževanje NKS Vransko, Kozina, Dragomelj, Hrušica, Slovenske Konjice za potrebe naročnika.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 846100.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 205559,
+    "idObrazec": 812126,
+    "naslov": "Sklop 2 - NKS Golo rebro - Pletovarje",
+    "opis": "Vzdrževanje NKS Golo rebro - Pletovarje za potrebe naročnika",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 153300.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 18053,
+    "idObrazec": 812126,
+    "idObrazecSklop": 205558,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 846090.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 846090.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 846090.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 87846,
+      "naziv": "ASIST avtomatizacija sistemov d.o.o.",
+      "maticna": "1194682000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.asist.si/sl/domov",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 18054,
+    "idObrazec": 812126,
+    "idObrazecSklop": 205559,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 153280.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 153280.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 153280.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 87864,
+      "naziv": "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+      "maticna": "5389984000",
+      "mesto": "Ptuj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "glavniURL": "http://www.tenzor.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 5598,
+    "naslov": "VZDRŽEVANJE NADZORNO KRMILNEGA SISTEMA V PREDORIH",
+    "internaStevilka": "000602/2024",
+    "datumSklenitev": "2024-05-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 205558
+     }
+    ]
+   },
+   {
+    "id": 5630,
+    "naslov": "VZDRŽEVANJE NADZORNO KRMILNEGA SISTEMA V PREDORIH",
+    "internaStevilka": "000603/2024",
+    "datumSklenitev": "2024-05-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 205559
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

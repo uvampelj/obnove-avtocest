@@ -1,0 +1,148 @@
+{
+ "row": {
+  "idObrazec": 968654,
+  "idDosje": 520062,
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN002285/2025-EUe38/01",
+  "objavaDejanskaDatum": "2025-12-24T05:25:34.22",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 968654,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 520062,
+  "idObrazecPrej": 902642,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "kratekOpis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "referencnaStevilka": "000038/2025",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7402,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 289455.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Tekom izvajanja pogodbe so bile potrebne dodatne storitve, saj se je projekt obnove ceste in objektov Slovenske Konjice – Dramlje v sodelovanju s pristojnim Ministrstvom za infrastrukturo spremenil, na način, da se je 31. 8. 2025 spremenil tip zapore ceste iz 1+1 v zaporo 2+1, kar je omogočilo delno odprtje ceste. Zapora 2+1, za katero je bilo treba izvajati dežurstvo avtovleke, je trajala do 3. 10. 2025, kar je več kot po osnovni pogodbi, ki je predvidevala dežurstvo do konca septembra 2025. Zaradi navedenega je izvajalec opravil 15 ur več dežurstva kot je bilo predvideno z osnovno pogodbo.",
+  "vrednostPosodobljenaSkupna": 289455.0,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 291180.0,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-12-23T09:06:26.627",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-24T05:25:34.22",
+  "objavaIdent": "JN002285/2025-EUe38/01",
+  "eFormsIdent": "a31646d6-e77c-44fa-803e-910184cef55d",
+  "eFormsFolderIdent": "ca31e1c0-b68c-481b-a550-5ebd543ac592",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "860285-2025",
+  "eFormsPublishedDate": "2025-12-24T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-12-23T09:09:12.95",
+  "narocnik": [
+   {
+    "id": 957644,
+    "idObrazec": 968654,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 346277,
+    "idObrazec": 968654,
+    "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+    "opis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 80677,
+    "idObrazec": 968654,
+    "idObrazecSklop": 346277,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 289455.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 386627,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.draganovic.com",
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 44188,
+    "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+    "internaStevilka": "000638/2025",
+    "datumSklenitev": "2025-04-04T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 346277
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 44188,
+    "opis": "Tekom izvajanja pogodbe so bile potrebne dodatne storitve, saj se je projekt obnove ceste in objektov Slovenske Konjice – Dramlje v sodelovanju s pristojnim Ministrstvom za infrastrukturo spremenil, na način, da se je 31. 8. 2025 spremenil tip zapore ceste iz 1+1 v zaporo 2+1, kar je omogočilo delno odprtje ceste. Zapora 2+1, za katero je bilo treba izvajati dežurstvo avtovleke, je trajala do 3. 10. 2025, kar je več kot po osnovni pogodbi, ki je predvidevala dežurstvo do konca septembra 2025. Zaradi navedenega je izvajalec opravil 15 ur več dežurstva kot je bilo predvideno z osnovno pogodbo."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

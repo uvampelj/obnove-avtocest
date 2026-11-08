@@ -1,0 +1,147 @@
+{
+ "row": {
+  "idObrazec": 863003,
+  "idDosje": 476454,
+  "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "002109/2023-EUe38/01",
+  "objavaDejanskaDatum": "2024-10-29T09:06:20.583",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 863003,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 476454,
+  "idObrazecPrej": 481897,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "kratekOpis": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "referencnaStevilka": "185/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8162,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba osnovne pogodbe (podaljšanje pogodbenega roka, vključitev valorizacijske klavzule in povrnitev stroškov izvajalcu iz naslova podaljšanja garancije za dobro izvedbo pogodbenih obveznosti) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (zaradi izrednega poplavnega dogodka dne 4. 8. 2023 in z njim povezanih dodatnih preveritev terminski potek postopka priprave in sprejema uredbe o DPN odstopa od predvidenega terminskega plana, kasnejši sprejem uredbe o DPN pa pomeni kasnejši nastanek pogodbene obveznosti izvajalca za oddajo strokovnih podlag). Iz razloga podaljšanja pogodbenega roka, saj se osnovna pogodba spreminja iz enoletne v večletno iz razlogov, na katere izvajalec nima vpliva, se v osnovno pogodbo vključi valorizacijska klavzula in se dogovori povrnitev stroškov iz naslova podaljšanja garancije za dobro izvedbo pogodbenih obveznosti. Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen (tj. dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os).",
+  "vrednostPosodobljenaSkupna": 561906.91,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 562763.82,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-10-28T13:21:17.653",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-29T09:06:20.583",
+  "objavaIdent": "002109/2023-EUe38/01",
+  "eFormsIdent": "e788d911-0d8d-48ab-a1ee-918122e0f613",
+  "eFormsFolderIdent": "0eb12352-b7a8-4002-b25a-0a7f050f3c8e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "656516-2024",
+  "eFormsPublishedDate": "2024-10-29T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-28T13:53:10.237",
+  "narocnik": [
+   {
+    "id": 710919,
+    "idObrazec": 863003,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": " http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8162
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 244398,
+    "idObrazec": 863003,
+    "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "opis": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8137,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-05-24T00:00:00",
+    "datumKonec": "2025-12-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 32784,
+    "idObrazec": 863003,
+    "idObrazecSklop": 244398,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 561906.91,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 169356,
+      "naziv": "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+      "maticna": "5444098000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 16000,
+    "naslov": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+    "internaStevilka": "000707/2023",
+    "datumSklenitev": "2023-05-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 244398
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 16000,
+    "opis": "Predmet aneksa št. 1 je podaljšanja pogodbenega roka."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

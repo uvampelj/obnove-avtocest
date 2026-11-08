@@ -1,0 +1,170 @@
+{
+ "row": {
+  "idObrazec": 857557,
+  "idDosje": 512468,
+  "naslov": "DOBAVA SVETLOBNE SIGNALIZACIJE",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005312/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-10-08T13:18:45.673",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 857557,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 512468,
+  "idObrazecPrej": 830565,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA SVETLOBNE SIGNALIZACIJE",
+  "kratekOpis": "Dobava svetlobne signalizacije cestne zapore za potrebe naročnika",
+  "referencnaStevilka": "000157/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3769,
+  "vrednostOcenjenaBrezDDV": 219100.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 149675.9,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-10-07T10:15:10.543",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-08T13:18:45.673",
+  "objavaIdent": "JN005312/2024-SL2/01",
+  "eFormsIdent": "2cd5ecc2-7c84-4fd0-8bbc-b2e25fa57560",
+  "eFormsFolderIdent": "1807af5a-cd5c-4642-8399-367b4c412ad2",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-43905",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-08T12:21:24.63",
+  "narocnik": [
+   {
+    "id": 698778,
+    "idObrazec": 857557,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 239581,
+    "idObrazec": 857557,
+    "naslov": "DOBAVA SVETLOBNE SIGNALIZACIJE",
+    "opis": "Dobava svetlobne signalizacije cestne zapore za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3769,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 219100.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 31181,
+    "idObrazec": 857557,
+    "idObrazecSklop": 239581,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 3,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 149675.9,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 187000.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 149675.9,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 160517,
+      "naziv": "Horizont CLAIR trgovsko podjetje d.o.o.",
+      "maticna": "5716691000",
+      "mesto": "Medvode",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.horizont-clair.si ",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 14670,
+    "naslov": "DOBAVA SVETLOBNE SIGNALIZACIJE",
+    "internaStevilka": "001022/2024",
+    "datumSklenitev": "2024-10-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 239581
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

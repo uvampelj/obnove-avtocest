@@ -1,0 +1,186 @@
+{
+ "row": {
+  "idObrazec": 832605,
+  "idDosje": 500910,
+  "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007948/2023-SL2/01",
+  "objavaDejanskaDatum": "2024-08-06T13:41:29.57",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 832605,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 500910,
+  "idObrazecPrej": 500910,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "kratekOpis": "Prenova ESO v predorih Debeli hrib in Mali vrh ",
+  "referencnaStevilka": "000197/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "vrednostOcenjenaBrezDDV": 2700000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 1881895.16,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-08-05T09:48:16.337",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-06T13:41:29.57",
+  "objavaIdent": "007948/2023-SL2/01",
+  "eFormsIdent": "313d5cd7-8692-40a4-b9a9-e10ee6056931",
+  "eFormsFolderIdent": "5dca11df-b14f-4b3f-8020-8d1a57c60def",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-33898",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-06T13:37:44",
+  "narocnik": [
+   {
+    "id": 664681,
+    "idObrazec": 832605,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3769
+   },
+   {
+    "id": 7017
+   },
+   {
+    "id": 3765
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 225967,
+    "idObrazec": 832605,
+    "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh ",
+    "opis": "Prenova ESO v predorih Debeli hrib in Mali vrh ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 2700000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV.",
+      "idSifPonderTip": 1
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 25504,
+    "idObrazec": 832605,
+    "idObrazecSklop": 225967,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1881895.16,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 2280676.29,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1881895.16,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 18
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 129613,
+      "naziv": "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+      "maticna": "5389984000",
+      "mesto": "Ptuj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 10746,
+    "naslov": "Prenova ESO v predorih Debeli hrib in Mali vrh ",
+    "internaStevilka": "000819/2024",
+    "datumSklenitev": "2024-07-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 225967
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

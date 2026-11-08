@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 880321,
+  "idDosje": 450773,
+  "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004799/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-01-14T08:45:59.31",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 880321,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 450773,
+  "idObrazecPrej": 459798,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+  "kratekOpis": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+  "referencnaStevilka": "229/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2025-01-10T13:41:31.45",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-01-14T08:45:59.31",
+  "objavaIdent": "004799/2022-EUe38/01",
+  "eFormsIdent": "17a2755b-7f72-46d2-beaa-0ceb8ce87044",
+  "eFormsFolderIdent": "ee5dd55a-3867-4151-85a4-1f24cdc7ca72",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "23772-2025",
+  "eFormsPublishedDate": "2025-01-14T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-01-10T14:08:04.65",
+  "narocnik": [
+   {
+    "id": 748261,
+    "idObrazec": 880321,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6737
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 260658,
+    "idObrazec": 880321,
+    "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+    "opis": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 29,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 39178,
+    "idObrazec": 880321,
+    "idObrazecSklop": 260658,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 12589015.56,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1883654.16,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 209911,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 209912,
+      "naziv": "STRABAG gradbene storitve d.o.o.",
+      "maticna": "5879566000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 59250,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 20722,
+    "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+    "internaStevilka": "1233/2022",
+    "datumSklenitev": "2022-09-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 260658
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 20722,
+    "opis": "1.\tDodatna dela:\nMed izvedbo del po osnovni pogodbi so se pojavile potrebe po izvedbi dodatnih del, ki niso bila vključena v prvotno javno naročilo, saj so se potrebe po njihovi izvedbi izkazale naknadno. \n\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča tako iz tehničnih razlogov kot tudi ne iz ekonomskih razlogov, saj bi zamenjava izvajalca naročniku povzročila tudi velike nevšečnosti in znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik začeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Hrušica. \n\nVse opisane okoliščine, ki imajo za posledico tudi nastanek stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem. \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba) je nadalje dopustna tudi na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti in zaradi katerih izvajalec pogodbenih obveznosti ni mogel dokončati v pogodbeno določenih rokih. \n\nTreba je podaljšati rok za izvedbo GOI del Faze 1 (za 12 dela zmožnih dni) in rok za pridobitev Potrdila o izvedbi (60 dni od sklenitve aneksa), kot izhaja iz 6. člena aneksa št. 1, in sicer zaradi neugodnih vremenskih razmer in potrebe po izvedbi dodatnih del.\n\nZaradi navedenih podaljšanj rokov za dokončanje del je treba podaljšati tudi obdobje, za katero je sklenjena osnovna pogodba, in sicer za 11 mesecev. \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica) ostaja nespremenjen.\n\n3.\tPodaljšanje garancijskega roka za izvedene asfaltne plasti:\nZaradi ugotovitve, da asfaltne plasti niso skladne z zahtevami naročnika, je treba podaljšati garancijski rok. Hkrati se je določilo, da izvajalec periodično - dvakrat letno (v mesecu aprilu in oktobru) izvaja monitoring vgrajenih asfaltnih plasti in da v primeru nastanka poškodb na lastne stroške le-te odpravi. \n\nSprememba osnovne pogodbe (podaljšanje garancijskega roka za izvedene asfaltne plasti) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti. Poleg tega sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica) ostaja nespremenjen.\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

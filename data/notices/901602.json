@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 901602,
+  "idDosje": 520062,
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN002285/2025-EUe25/01",
+  "objavaDejanskaDatum": "2025-04-03T08:59:47.837",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 901602,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 520062,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "kratekOpis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "standardnaUreditev": true,
+  "referencnaStevilka": "000038/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7402,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 289455.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 9,
+  "razlogOddajeBrezObjave": "Glede na dejstvo, da ima DARS z Draganović, d. o. o. Žalec, sklenjeno pogodbo 2129/2018 o sodelovanju na področju odstranjevanja ovir z AC in HC, pomoči na cesti in dela z avtodvigali, s pripadajočimi aneksi, ima v skladu s 46. členom, 1. odstavkom, 3. alineja točke c) izključno pravico za storitev odvoza poškodovanih in pokvarjenih vozil, pomoči na cesti in dela z avtodvigali na teritorialnem sklopu ACB Slovenske Konjice.",
+  "objavaEU": true,
+  "datumVnosa": "2025-04-02T11:42:45.303",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-03T08:59:47.837",
+  "objavaIdent": "JN002285/2025-EUe25/01",
+  "eFormsIdent": "f80a98b9-b833-4759-ba56-123adfcd0c47",
+  "eFormsFolderIdent": "ca31e1c0-b68c-481b-a550-5ebd543ac592",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "eFormsPublishedId": "216650-2025",
+  "eFormsPublishedDate": "2025-04-03T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-04-02T11:57:35.72",
+  "narocnik": [
+   {
+    "id": 791931,
+    "idObrazec": 901602,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 278790,
+    "idObrazec": 901602,
+    "naslov": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+    "opis": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "cena je edino merilo",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena je edino merilo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 46683,
+    "idObrazec": 901602,
+    "idObrazecSklop": 278790,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 289455.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 256817,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.draganovic.com",
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 26369,
+    "internaStevilka": "000038/2025",
+    "datumSklep": "2025-04-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 278790
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

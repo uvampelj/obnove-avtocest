@@ -1,0 +1,138 @@
+{
+ "row": {
+  "idObrazec": 853599,
+  "idDosje": 469997,
+  "naslov": "Javno naročilo vzdrževanja cestno-vremenskih postaj Vaisala, Luft in Davis",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000534/2023-EUe38/01",
+  "objavaDejanskaDatum": "2024-09-23T09:02:19.557",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 853599,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 469997,
+  "idObrazecPrej": 475229,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Javno naročilo vzdrževanja cestno-vremenskih postaj Vaisala, Luft in Davis",
+  "kratekOpis": "Aneks št. 1 k pogodbi DARS št. 546/2023 za Vzdrževanje cestno-vremenskih postaj - Sklop 1: Vzdrževanje cestno-vremenskih postaj VAISALA in Sklop 2: Vzdrževanje cestno-vremenskih postaj LUFFT",
+  "referencnaStevilka": "000176/2024",
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 4363,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 339350.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Naročnik zaradi okoliščin, ki so nastale po sklenitvi osnovne pogodbe, v okviru sklopa 1 potrebuje po en redni vzdrževalni servis za dodatnih 5 cestno-vremenskih postaj (izvedene in predane v uporabo po sklenitvi osnovne pogodbe), v okviru sklopov 1 in 2 pa potrebuje nadgradnjo strežnika VAISALA/LUFFT (pri skeniranju sistemov ugotovljeno, da je potrebna posodobitev na novejšo različico, ki bo podpirala zadostno varnost delovanja sistemov). Obstoječi izvajalec je edino podjetje v Sloveniji za tovrstno storitev ter pooblaščeno in avtorizirano s strani podjetja VAISALA/LUFFT. Drugi izvajalec teh storitev ne mora narediti, ker ni usposobljen ter pooblaščen s strani proizvajalca Vaisala in Lufft.",
+  "vrednostPosodobljenaSkupna": 339350.0,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 387718.0,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-09-19T16:28:41.46",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-09-23T09:02:19.557",
+  "objavaIdent": "000534/2023-EUe38/01",
+  "eFormsIdent": "7e7addf5-63a0-4fce-9d52-f7bf54e0e1ea",
+  "eFormsFolderIdent": "795060af-e3c5-4fe1-9448-4e4c50c85c9c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "570427-2024",
+  "eFormsPublishedDate": "2024-09-23T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-09-19T17:34:27.297",
+  "narocnik": [
+   {
+    "id": 689473,
+    "idObrazec": 853599,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 4363
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 235524,
+    "idObrazec": 853599,
+    "naslov": "Javno naročilo vzdrževanja cestno-vremenskih postaj Vaisala, Luft in Davis",
+    "opis": "Aneks št. 1 k pogodbi DARS št. 546/2023 za Vzdrževanje cestno-vremenskih postaj - Sklop 1: Vzdrževanje cestno-vremenskih postaj VAISALA in Sklop 2: Vzdrževanje cestno-vremenskih postaj LUFFT",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 4363,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 30,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 29402,
+    "idObrazec": 853599,
+    "idObrazecSklop": 235524,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 339350.0,
+    "idSifValutaIzbrana": 1
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 13588,
+    "naslov": "Pogodba za Vzdrževanje cestno-vremenskih postaj: Sklop 1: Vzdrževanje cestno-vremenskih postaj VAISALA, Sklop 2: Vzdrževanje cestno-vremenskih postaj LUFFT, Sklop 3: Vzdrževanje vremenskih postaj DAVIS",
+    "internaStevilka": "000546/2023",
+    "datumSklenitev": "2023-03-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 235524
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 13588,
+    "opis": "Dodatne storitve v sklopih 1 in 2, in sicer:\n- sklop 1: en redni vzdrževalni servis 5 naknadno postavljenih cestno-vremenskih postaj ter nadgradnja strežnika\n- sklop 2: nadgradnja strežnika"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

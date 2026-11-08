@@ -1,0 +1,144 @@
+{
+ "row": {
+  "idObrazec": 948856,
+  "idDosje": 366970,
+  "naslov": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v Republiki Sloveniji",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005607/2020-EUe38/01",
+  "objavaDejanskaDatum": "2025-10-09T04:58:07.447",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 948856,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 366970,
+  "idObrazecPrej": 379453,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v Republiki Sloveniji",
+  "kratekOpis": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v Republiki Sloveniji",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8234,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Podaljšanje pogodbenih rokov je bilo potrebno zaradi okoliščin, ki jih naročnik ni mogel predvideti. Navedene spremembe pogodbe ne spreminjajo splošne narave javnega naročila, saj je predmet naročila ostal nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2025-10-07T14:45:47.12",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-09T04:58:07.447",
+  "objavaIdent": "005607/2020-EUe38/01",
+  "eFormsIdent": "66b9b9fb-a6ce-4227-8d3e-2be221e494e2",
+  "eFormsFolderIdent": "7029947e-1ffa-405a-9fed-0a1bc62f041e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "662335-2025",
+  "eFormsPublishedDate": "2025-10-09T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-07T14:55:38.593",
+  "narocnik": [
+   {
+    "id": 913206,
+    "idObrazec": 948856,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8234
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 327573,
+    "idObrazec": 948856,
+    "naslov": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v Republiki Sloveniji",
+    "opis": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v Republiki Sloveniji",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8234,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2020-12-09T00:00:00",
+    "datumKonec": "2024-12-09T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 73751,
+    "idObrazec": 948856,
+    "idObrazecSklop": 327573,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 439800.0,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 350177,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.zag.si",
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 38787,
+    "naslov": "Strokovno tehnične storitve  pri gradnji in obnovah AC in HC",
+    "internaStevilka": "001590/2020",
+    "datumSklenitev": "2020-12-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 327573
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 38787,
+    "opis": "Aneks 1 k pogodbi DARS št. 1509/2020 za strokovno tehnične storitve  pri gradnji in obnovah AC in HC v RS; podaljšanje pogodbenega roka"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

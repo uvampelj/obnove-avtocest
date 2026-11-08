@@ -1,0 +1,212 @@
+{
+ "row": {
+  "idObrazec": 934020,
+  "idDosje": 521077,
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003157/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-08-12T04:38:46.677",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 934020,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 521077,
+  "idObrazecPrej": 908440,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "kratekOpis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "referencnaStevilka": "000099/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "vrednostOcenjenaBrezDDV": 7030000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z272) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 6995288.12,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-08-11T08:51:24.57",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-12T04:38:46.677",
+  "objavaIdent": "JN003157/2025-EUe29/01",
+  "eFormsIdent": "af730448-2418-4243-92b7-8fe6d09888c1",
+  "eFormsFolderIdent": "00083033-1d85-4105-b64c-55cc37eafcb6",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-56165",
+  "eFormsPublishedId": "526241-2025",
+  "eFormsPublishedDate": "2025-08-12T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-08-11T09:02:56.4",
+  "narocnik": [
+   {
+    "id": 870240,
+    "idObrazec": 934020,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6733
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 313030,
+    "idObrazec": 934020,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 39,
+    "vrednostOcenjenaBrezDDV": 7030000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 57664,
+    "idObrazec": 934020,
+    "idObrazecSklop": 313030,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 6995288.12,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 6995288.12,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 6995288.12,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 3101011.23,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 320987,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 35633,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 320988,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 34485,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+    "internaStevilka": "000989/2025",
+    "datumSklenitev": "2025-08-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 313030
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

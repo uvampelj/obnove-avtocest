@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 872472,
+  "idDosje": 514221,
+  "naslov": "Dobava čistila in razmaščevalca za pranje predorov",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006717/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-12-05T12:54:22.85",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 872472,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 514221,
+  "idObrazecPrej": 853445,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava čistila in razmaščevalca za pranje predorov",
+  "kratekOpis": "Dobava čistila in razmaščevalca za pranje predorov",
+  "referencnaStevilka": "000201/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 5106,
+  "vrednostOcenjenaBrezDDV": 117300.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 61500.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-12-05T12:40:45.46",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-12-05T12:54:22.85",
+  "objavaIdent": "JN006717/2024-SL2/01",
+  "eFormsIdent": "840ea64d-8915-4d65-ae5d-05a13ebf1d40",
+  "eFormsFolderIdent": "b33241f4-0042-4aad-bc43-80b5f881a7d3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-46224",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-12-05T12:49:14.353",
+  "narocnik": [
+   {
+    "id": 732678,
+    "idObrazec": 872472,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 253790,
+    "idObrazec": 872472,
+    "naslov": "Dobava čistila in razmaščevalca za pranje predorov",
+    "opis": "Dobava čistila in razmaščevalca za pranje predorov",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 5106,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 117300.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Dobava čistila in razmaščevalca za pranje predorov"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 35966,
+    "idObrazec": 872472,
+    "idObrazecSklop": 253790,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 37245.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 63285.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 61500.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 188456,
+      "naziv": "MAVRO INTERNATIONAL prodaja čistil d.o.o.",
+      "maticna": "8202915000",
+      "mesto": "Kresnice",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.mavro-int.com",
+      "idSifVelikost": 5,
+      "idSubjektPrs": 296959,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 18312,
+    "naslov": "Dobava čistila in razmaščevalca za pranje predorov",
+    "internaStevilka": "001210/2024",
+    "datumSklenitev": "2024-12-04T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 253790
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

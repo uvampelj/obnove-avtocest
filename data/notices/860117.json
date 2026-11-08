@@ -1,0 +1,197 @@
+{
+ "row": {
+  "idObrazec": 860117,
+  "idDosje": 511287,
+  "naslov": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN004378/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-10-18T10:17:32.68",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 860117,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 511287,
+  "idObrazecPrej": 822337,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+  "kratekOpis": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+  "referencnaStevilka": "000102/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7367,
+  "vrednostOcenjenaBrezDDV": 312650.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 275100.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-10-16T12:01:52.547",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-18T10:17:32.68",
+  "objavaIdent": "JN004378/2024-EUe29/01",
+  "eFormsIdent": "fbe616d8-8f69-4862-8dfc-d65929fc2b69",
+  "eFormsFolderIdent": "704a07a7-276d-4de1-a658-48ff5239f965",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-42413",
+  "eFormsPublishedId": "632937-2024",
+  "eFormsPublishedDate": "2024-10-18T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-17T08:25:43.493",
+  "narocnik": [
+   {
+    "id": 704454,
+    "idObrazec": 860117,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 241782,
+    "idObrazec": 860117,
+    "naslov": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+    "opis": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 312650.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV.\n",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 3
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 32060,
+    "idObrazec": 860117,
+    "idObrazecSklop": 241782,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 275100.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 275100.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 275100.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 55020.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 20.0,
+    "opisDelezOddajePodizvajalcem": "Vzdrževanje specialnih vozil cestninskega nadzora",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 165385,
+      "naziv": "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+      "maticna": "5670209000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.autocommerce.si",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 15357,
+    "naslov": "Vzdrževanje in popravila specialnih vozil cestninskega nadzora",
+    "internaStevilka": "001030/2024",
+    "datumSklenitev": "2024-10-08T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 241782
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "row": {
+  "idObrazec": 853630,
+  "idDosje": 489474,
+  "naslov": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "005405/2023-EUe29/01",
+  "objavaDejanskaDatum": "2024-09-23T09:02:21.697",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 853630,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 489474,
+  "idObrazecPrej": 489474,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+  "kratekOpis": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+  "referencnaStevilka": "000109/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 26700000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 26569760.06,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-09-20T08:09:42.797",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-09-23T09:02:21.697",
+  "objavaIdent": "005405/2023-EUe29/01",
+  "eFormsIdent": "b9f3636a-5617-4587-93c6-eeb9ed84b7f2",
+  "eFormsFolderIdent": "f15715b7-8c49-4f5b-8cd9-1f0b49db0478",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-29178",
+  "eFormsPublishedId": "568968-2024",
+  "eFormsPublishedDate": "2024-09-23T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-09-20T09:01:23.187",
+  "narocnik": [
+   {
+    "id": 689567,
+    "idObrazec": 853630,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6590
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 235559,
+    "idObrazec": 853630,
+    "naslov": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+    "opis": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 26700000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 29427,
+    "idObrazec": 853630,
+    "idObrazecSklop": 235559,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 26569760.06,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 26569760.06,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 26569760.06,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 228005.4,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": false,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 150925,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "glavniURL": "https://www.kolektor.com/",
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 150926,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1275,
+      "glavniURL": "https://www.cpk.si/",
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 150927,
+      "naziv": "GP KRK d. d.",
+      "mesto": "Krk",
+      "idSifDrzava": 95,
+      "idSifNuts": 831,
+      "glavniURL": "https://www.gp-krk.hr/hr/home.php",
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 13608,
+    "naslov": "Obnova ceste in objektov na delih odsekov na AC A1/0061 in A1/0661 Kozina-Črni Kal od km 0,270 do km 5,200 in 1640 počivališče Ravne",
+    "internaStevilka": "000916/2024",
+    "datumSklenitev": "2024-09-04T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 235559
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

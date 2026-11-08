@@ -1,0 +1,177 @@
+{
+ "row": {
+  "idObrazec": 923405,
+  "idDosje": 521291,
+  "naslov": "Vzdrževanje signalizacije in opreme",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003313/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-06-30T08:58:01.28",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 923405,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 521291,
+  "idObrazecPrej": 910043,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje signalizacije in opreme",
+  "kratekOpis": "Vzdrževanje signalizacije in opreme",
+  "referencnaStevilka": "000082/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 166000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "datumVnosa": "2025-06-30T08:55:19",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-30T08:58:01.28",
+  "objavaIdent": "JN003313/2025-SL2/01",
+  "eFormsIdent": "0feb81fd-54a5-4f28-a86a-99d79c36e059",
+  "eFormsFolderIdent": "8f673ad1-522a-4e00-aae1-15f401435f7d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-56454",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-30T08:57:39.65",
+  "narocnik": [
+   {
+    "id": 844901,
+    "idObrazec": 923405,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 301941,
+    "idObrazec": 923405,
+    "naslov": "Vzdrževanje signalnih tabel",
+    "opis": "Vzdrževanje signalnih tabel",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 99600.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje signalnih tabel"
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 301942,
+    "idObrazec": 923405,
+    "naslov": "Vzdrževanje, dobava in montaža kompresorskih postaj",
+    "opis": "Vzdrževanje, dobava in montaža kompresorskih postaj",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 66400.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje, dobava in montaža kompresorskih postaj"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 53762,
+    "idObrazec": 923405,
+    "idObrazecSklop": 301941,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1
+   },
+   {
+    "id": 53763,
+    "idObrazec": 923405,
+    "idObrazecSklop": 301942,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

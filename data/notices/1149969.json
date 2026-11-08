@@ -1,0 +1,169 @@
+{
+ "row": {
+  "idObrazec": 1149969,
+  "idDosje": 438993,
+  "naslov": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001738/2022-EUe38/01",
+  "objavaDejanskaDatum": "2026-08-25T04:24:02.98",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1149969,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 438993,
+  "idObrazecPrej": 455114,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+  "kratekOpis": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+  "referencnaStevilka": "143/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6647,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 15572093.14,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 15814160.09,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-08-24T13:11:39.98",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-25T04:24:02.98",
+  "objavaIdent": "001738/2022-EUe38/01",
+  "eFormsIdent": "99f820d9-f7be-4222-8090-73c403501907",
+  "eFormsFolderIdent": "839e376e-23e3-49f4-8d48-029bf49b9a4a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "586891-2026",
+  "eFormsPublishedDate": "2026-08-25T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-24T13:23:31.077",
+  "narocnik": [
+   {
+    "id": 1213699,
+    "idObrazec": 1149969,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7162
+   },
+   {
+    "id": 6647
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 529128,
+    "idObrazec": 1149969,
+    "naslov": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+    "opis": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 50,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7162
+     },
+     {
+      "id": 6647
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 245196,
+    "idObrazec": 1149969,
+    "idObrazecSklop": 529128,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 15572093.14,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 646677,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 646678,
+      "naziv": "GARNOL, inženiring, gradnje in kadri, d.o.o.",
+      "maticna": "5284830000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 27945,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 181353,
+    "naslov": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+    "internaStevilka": "001061/2022",
+    "datumSklenitev": "2022-07-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 529128
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 181353,
+    "opis": "1.\tDodatna dela:\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo, in zamenjava izvajalca ni mogoča iz razlogov, navedenih spodaj.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi LJUBLJANA. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba: \nZ aneksom št. 1 se podaljša/spremeni rok za: \n-\tevidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS na 15 dni od sklenitve aneksa št. 1\n-\tizpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, na 30 dni od sklenitve aneksa št. 1 in\n-\tpridobitev Potrdila o izvedbi na 60 dni od sklenitev aneksa št. 1.\n\nZaradi podaljšanja rokov se obdobje, za katero je sklenjena osnovna pogodba, podaljša 26 mesecev, to je do dne 21. 9. 2026.\n\nSpremembe osnovne pogodbe iz te točke so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po izvedbi dodatnih del in dolgotrajno usklajevanje s tem v zvezi). Poleg tega spremembe ne spreminjajo splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

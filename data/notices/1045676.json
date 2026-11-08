@@ -1,0 +1,178 @@
+{
+ "row": {
+  "idObrazec": 1045676,
+  "idDosje": 529255,
+  "naslov": "Dobava cestnih zastorov",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000171/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-04-13T04:23:16.94",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1045676,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 529255,
+  "idObrazecPrej": 975189,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava cestnih zastorov",
+  "kratekOpis": "Dobava cestnih zastorov za potrebe naročnika",
+  "referencnaStevilka": "000360/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3648,
+  "vrednostOcenjenaBrezDDV": 240000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 209400.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-04-10T14:32:31.41",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-04-13T04:23:16.94",
+  "objavaIdent": "JN000171/2026-EUe29/01",
+  "eFormsIdent": "5ac452af-69bd-4bb3-bc16-59e3e338cd96",
+  "eFormsFolderIdent": "25c2ece5-a9b3-41ed-8041-ec5191176707",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-67968",
+  "eFormsPublishedId": "250913-2026",
+  "eFormsPublishedDate": "2026-04-13T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-04-10T14:37:02.63",
+  "narocnik": [
+   {
+    "id": 1062213,
+    "idObrazec": 1045676,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 423437,
+    "idObrazec": 1045676,
+    "naslov": "Dobava cestnih zastorov",
+    "opis": "Dobava cestnih zastorov za potrebe naročnika",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3648,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 240000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 152112,
+    "idObrazec": 1045676,
+    "idObrazecSklop": 423437,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 209400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 209520.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 209400.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 498645,
+      "naziv": "IMEXA trgovina in storitve, d.o.o.",
+      "maticna": "5898617000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 77903,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 91976,
+    "naslov": "Pogodba za dobavo cestnih zastorov",
+    "internaStevilka": "000543/2026",
+    "datumSklenitev": "2026-04-10T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 423437
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

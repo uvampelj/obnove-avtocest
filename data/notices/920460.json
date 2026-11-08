@@ -1,0 +1,163 @@
+{
+ "row": {
+  "idObrazec": 920460,
+  "idDosje": 460307,
+  "naslov": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "007028/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-06-17T09:26:03.58",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 920460,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 460307,
+  "idObrazecPrej": 484679,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+  "kratekOpis": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+  "referencnaStevilka": "000115/2022",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 28490837.74,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Aneks št. 1 k pog. 796/2023 za izgradnjo priključka Dragomer na AC A1 Šentilj - Srmin, odsek 0052/0652 Brezovica - Vrhnika; dodatna dela, imenovanje dodatnega kadra, podaljšanje roka",
+  "objavaEU": true,
+  "datumVnosa": "2025-06-16T12:01:57.09",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-17T09:26:03.58",
+  "objavaIdent": "007028/2022-EUe38/01",
+  "eFormsIdent": "68ae3b39-e602-4de1-a067-b643d4d02507",
+  "eFormsFolderIdent": "07730d57-80e4-4fca-9751-f117f963bff6",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "390940-2025",
+  "eFormsPublishedDate": "2025-06-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-16T12:13:17.77",
+  "narocnik": [
+   {
+    "id": 837519,
+    "idObrazec": 920460,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6710
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 299068,
+    "idObrazec": 920460,
+    "naslov": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+    "opis": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-06-28T00:00:00",
+    "datumKonec": "2026-06-15T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 52886,
+    "idObrazec": 920460,
+    "idObrazecSklop": 299068,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 28490837.74,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 3500000.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 295903,
+      "naziv": "TRGOGRAD trgovina in gradbeništvo, d.o.o., Litija",
+      "maticna": "5567548000",
+      "mesto": "Litija",
+      "idSifDrzava": 1,
+      "idSifNuts": 1272,
+      "glavniURL": "http://www.trgograd.net",
+      "idSubjektPrs": 171339,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 295904,
+      "naziv": "GP KRK d.d., Krk, podružnica za gradnjo v Sloveniji",
+      "maticna": "6495532000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.gp-kr.hr",
+      "idSubjektPrs": 211579,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31059,
+    "naslov": "Priključek Dragomer na AC A1 Šentilj - Srmin, odsek 00520652 Brezovica - Vrhnika",
+    "internaStevilka": "000796/2023",
+    "datumSklenitev": "2023-06-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 299068
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31059,
+    "opis": "Aneks št. 1 k pog. 796/2023 za izgradnjo priključka Dragomer na AC A1 Šentilj - Srmin, odsek 0052/0652 Brezovica - Vrhnika; dodatna dela, imenovanje dodatnega kadra, podaljšanje roka"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

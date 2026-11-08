@@ -1,0 +1,147 @@
+{
+ "row": {
+  "idObrazec": 862642,
+  "idDosje": 159760,
+  "naslov": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "003218/2016-EUe38/01",
+  "objavaDejanskaDatum": "2024-10-28T09:18:40.51",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 862642,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 159760,
+  "idObrazecPrej": 164925,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "kratekOpis": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "referencnaStevilka": "211/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8192,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba osnovne pogodbe (sprememba pogodbenega roka za izvedbo del) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (obsežna strokovno-interpretativna dela tehničnega dela in strokovnih analiz, uredniška obravnava zelo obsežnih besedil, prezasedenost uredniške ekipe in avtorjev, dolgotrajno uredniško delo). Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Izvedba poizkopavalne obdelave arhivov najdišč za izvedena zaščitna arheološka izkopavanja na avtocestnih odsekih in posameznih lokacijah izkopavanj, kjer poizkopavalna obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP) ostaja nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2024-10-25T13:09:56.277",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-28T09:18:40.51",
+  "objavaIdent": "003218/2016-EUe38/01",
+  "eFormsIdent": "68b7de4d-1ed1-48ec-8ca1-dbdc99636810",
+  "eFormsFolderIdent": "492eb060-07bb-4d81-80ff-a479e7c6c84a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "653612-2024",
+  "eFormsPublishedDate": "2024-10-28T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-25T13:40:29.133",
+  "narocnik": [
+   {
+    "id": 709931,
+    "idObrazec": 862642,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8192
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 243936,
+    "idObrazec": 862642,
+    "naslov": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+    "opis": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8192,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2016-07-28T00:00:00",
+    "datumKonec": "2025-12-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 32736,
+    "idObrazec": 862642,
+    "idObrazecSklop": 243936,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 4821171.54,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1241112.73,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 168899,
+      "naziv": "JAVNI ZAVOD REPUBLIKE SLOVENIJE ZA VARSTVO KULTURNE DEDIŠČINE",
+      "maticna": "1423215000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 15945,
+    "naslov": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+    "internaStevilka": "628/2016",
+    "datumSklenitev": "2016-07-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 243936
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 15945,
+    "opis": "Predmet aneksa št. 4 je podaljšanja pogodbenega roka za izvedbo del."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

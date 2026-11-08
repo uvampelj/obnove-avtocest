@@ -1,0 +1,188 @@
+{
+ "row": {
+  "idObrazec": 1018543,
+  "idDosje": 528176,
+  "naslov": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009342/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-03-18T04:05:05.94",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1018543,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 528176,
+  "idObrazecPrej": 962004,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj",
+  "kratekOpis": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj.",
+  "referencnaStevilka": "000298/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifNarociloVrstaDodatno": 2,
+  "idSifCpv": 6756,
+  "vrednostOcenjenaBrezDDV": 700000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 681970.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-03-17T09:08:37.563",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-03-18T04:05:05.94",
+  "objavaIdent": "JN009342/2025-EUe29/01",
+  "eFormsIdent": "a593483c-4e23-448d-acab-e486768d9e68",
+  "eFormsFolderIdent": "3f4396af-a18f-46ac-a5f1-abe66518201b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-66448",
+  "eFormsPublishedId": "186898-2026",
+  "eFormsPublishedDate": "2026-03-18T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-03-17T09:13:46.183",
+  "narocnik": [
+   {
+    "id": 1027540,
+    "idObrazec": 1018543,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 397180,
+    "idObrazec": 1018543,
+    "naslov": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj",
+    "opis": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj.",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 6756,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 700000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ekonomsko najugodnejša ponudba, - ponudba z najnižjo vrednostjo v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 129532,
+    "idObrazec": 1018543,
+    "idObrazecSklop": 397180,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 4,
+    "steviloEPonudbe": 4,
+    "steviloMspPonudbe": 4,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 681970.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 682349.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 681970.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 462921,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 70234,
+    "naslov": "Zamenjava poškodovanih elementov različnih sistemov proti hrupnih ograj",
+    "internaStevilka": "000394/2026",
+    "datumSklenitev": "2026-03-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 397180
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

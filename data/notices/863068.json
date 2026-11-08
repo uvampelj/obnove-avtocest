@@ -1,0 +1,149 @@
+{
+ "row": {
+  "idObrazec": 863068,
+  "idDosje": 453511,
+  "naslov": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005371/2022-EUe38/01",
+  "objavaDejanskaDatum": "2024-10-29T08:34:09.363",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 863068,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 453511,
+  "idObrazecPrej": 479832,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+  "kratekOpis": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+  "referencnaStevilka": "63/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6711,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 2846372.0,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 3055260.68,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": false,
+  "datumVnosa": "2024-10-28T14:25:53.13",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-29T08:34:09.363",
+  "objavaIdent": "005371/2022-EUe38/01",
+  "eFormsIdent": "67097853-6992-44b7-ba92-405f640b3b13",
+  "eFormsFolderIdent": "f9bf080d-f9fb-4529-a023-812bf0138be2",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-28T15:07:47.41",
+  "narocnik": [
+   {
+    "id": 711035,
+    "idObrazec": 863068,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6711
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 244441,
+    "idObrazec": 863068,
+    "naslov": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+    "opis": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6711,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 20,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 32797,
+    "idObrazec": 863068,
+    "idObrazecSklop": 244441,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 2846372.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 1818893.14,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 169400,
+      "naziv": "PZG, podjetje za gradbeništvo d.o.o.",
+      "maticna": "3323463000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 16010,
+    "naslov": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+    "internaStevilka": "000629/2023",
+    "datumSklenitev": "2023-04-25T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 244441
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 16010,
+    "opis": "V času izvedbe pogodbenih del se je izkazalo, da je potrebno nekatere projektne rešitve prilagoditi novo nastalemu stanju, za kar je treba izvesti dodatna dela, ki presegajo pogodbeno določen obseg del, zato je izvajalec naročniku v skladu s 13. in 20. členom Splošnih pogojev pogodbe in Posebnih pogojev pogodbe (sestavni del osnovne pogodbe) posredoval zahtevke za dodatno naročena dela, ki se štejejo kot investicijska vzdrževalna dela in se izvajajo v skladu z Zakonom o cestah in Pravilnikom za izvedbo investicijskih vzdrževalnih del in vzdrževalnih del v javno korist na javnih cestah.\nNa območju preureditve priključka s Tržaške ceste je v različnih fazah izvedbe prišlo do potrebe po izvedbi dodatnih del, ki niso bila predvidena s projektom PZI in posledično niso ovrednotena v osnovnem pogodbenem popisu del, so pa nujno potrebna za izvedbo ostalih pogodbenih del. Na nastanek omenjenih del je vplivalo več dejavnikov, kot so: odločba predstavnice ZVKDS po izvedbi arheološkega nadzora in izvedbi arheoloških raziskav, ugotovitev zunanje kontrole kakovosti po potrebi vgradnje geotekstilije, kot ločilne plasti med temeljnimi tlemi in spodnjim ustrojem ceste, kar se je pokazalo šele v času izvajanja del, ko so bile odstranjene posamezne asfaltne plasti in nevezane nosilne plasti.\nV času izvajanja del je nadalje prišlo do potrebe po ureditvi celotne širine Tržaške ceste. V primeru, da se ureditev širine vozišča Tržaške ceste ne bi izvedla v celoti, priključevanje s pospeševalnega pasu na Tržaško cesto, zaradi razlik v niveletah obstoječe Tržaške ceste in novega pospeševalnega pasu, ki je predviden za izvedbo po pogodbi DARS d. d. št. 629/2023, ne bi bilo mogoče, kar vpliva na samo funkcionalnost izvedenega priključka. Hkrati bi lahko tako na obsegu del, ki je predviden za izvedbo po pogodbi DARS d. d. št. 629/2023, kot tudi na delu, kjer obnova projektno ni bila predvidena, prišlo do pospešenega propada vozišča na predvidenih prečnih prekopih in na stiku. \nV času izvajanja del je bila zaradi uvoza, zadostne širine pločnika in posledično lažjega vzdrževanja pločnika (strojno pluženje v zimskem času) na odseku AP Tržaška, km 1.160-3.240 s strani projektanta potrjena predlagana sprememba izvedbe asfalta iz enoslojnega (v debelini 5 cm) na dvoslojni asfalt v debelini 5+3 cm). Zahtevek za izvedbo dodatnih del izvajalca zajema tudi dodatna dela (dobava in montaža cevne varovalne ograje z vertikalnimi polnili ter dobavo in montažo talnih utripalcev z vsemi gradbenimi deli v desnem zavijalcu), ki so bila zaradi varnosti pred padcem v globino, varnega vzdrževanja in varnega vodenja pešcev in kolesarje na območju križišča Tržaška cesta, dodatno ugotovljena in naročena na I. komisijskem pregledu izvedenih del, 2. 10. 2023. Dodatno je izvedeno tudi podlivanje sidrnih plošč portalov (med temeljno konstrukcijo in konstrukcijo portala).\nDodatna dela, ki so predmet tega aneksa, niso bila predvidena v času oddaje ponudbe, zato jih ni bilo mogoče upoštevati pri oblikovanju ponudbene cene, so pa nujno potrebna za izvedbo predmeta pogodbe.\nDodatna dela se odda obstoječemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del naročnik moral pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). \n\nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela z obstoječim izvajalcem. \nSprememba pogodbe ne spreminja splošne narave javnega naročila, saj osnovni predmet pogodbe ostaja nespremenjen.\n\nSpremembe pogodbe (podaljšanje roka za izvedbo gradbenih del, podaljšanje rokov za pridobitev »Potrdila o prevzemu« in »Potrdila o izvedbi« ter podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (neugodne vremenske razmere (vročinski val, obilne padavine v obliki neviht in neurij), zaradi katerih izvajalec del (predvsem zemeljskih in asfalterskih) ni mogel izvesti skladno s potrjenim terminskim planom; naknadno ugotovljena potreba po izvedbi dodatnih del; daljši dobavni roki pridobitve materiala za izvedbo nekaterih dodatnih del od predvidenega).\nSpremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

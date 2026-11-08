@@ -1,0 +1,273 @@
+{
+ "row": {
+  "idObrazec": 881951,
+  "idDosje": 515016,
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007405/2024-EUe29/01",
+  "objavaDejanskaDatum": "2025-01-20T08:52:00.92",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 881951,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 515016,
+  "idObrazecPrej": 865062,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "kratekOpis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "referencnaStevilka": "000222/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "vrednostOcenjenaBrezDDV": 1077397.8,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 1077140.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-01-17T09:53:01.76",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-01-20T08:52:00.92",
+  "objavaIdent": "JN007405/2024-EUe29/01",
+  "eFormsIdent": "cf075b52-4edd-40f5-bb19-97b56439fb2e",
+  "eFormsFolderIdent": "e3f929ee-a6d8-4fde-a702-203f18caf9d3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-47395",
+  "eFormsPublishedId": "37249-2025",
+  "eFormsPublishedDate": "2025-01-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-01-17T10:10:49.183",
+  "narocnik": [
+   {
+    "id": 751692,
+    "idObrazec": 881951,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 261943,
+    "idObrazec": 881951,
+    "naslov": "Redni pregledi",
+    "opis": "Redni pregledi",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 215399.2,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027"
+     }
+    ]
+   },
+   {
+    "id": 261944,
+    "idObrazec": 881951,
+    "naslov": "Glavni pregledi",
+    "opis": "Glavni pregledi",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 861998.6,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027\t"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 39896,
+    "idObrazec": 881951,
+    "idObrazecSklop": 261943,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 215400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 215400.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 215400.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 212902,
+      "naziv": "GRADBENI INŠTITUT ZRMK d.o.o.",
+      "maticna": "1795490000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 222024,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 39898,
+    "idObrazec": 881951,
+    "idObrazecSklop": 261944,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 861740.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 861740.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 861740.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 64850.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 212917,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 21107,
+    "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027: redni pregledi",
+    "internaStevilka": "000164/2025",
+    "datumSklenitev": "2025-01-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 261943
+     }
+    ]
+   },
+   {
+    "id": 21108,
+    "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027: glavni pregledi",
+    "internaStevilka": "000165/2025",
+    "datumSklenitev": "2025-01-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 261944
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

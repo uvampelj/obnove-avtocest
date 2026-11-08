@@ -1,0 +1,176 @@
+{
+ "row": {
+  "idObrazec": 810460,
+  "idDosje": 500445,
+  "naslov": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007867/2023-SL2/01",
+  "objavaDejanskaDatum": "2024-04-30T09:56:12.41",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 810460,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 500445,
+  "idObrazecPrej": 500445,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+  "kratekOpis": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+  "referencnaStevilka": "000173/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7162,
+  "vrednostOcenjenaBrezDDV": 1440000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 1193799.44,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-04-29T16:18:01.5",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-04-30T09:56:12.41",
+  "objavaIdent": "007867/2023-SL2/01",
+  "eFormsIdent": "3d575700-01e7-4d87-aad5-63593cffa740",
+  "eFormsFolderIdent": "eefb1370-e8fb-4d96-a31d-bba5c8dc3be4",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-33754",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-04-29T16:37:14.44",
+  "narocnik": [
+   {
+    "id": 612141,
+    "idObrazec": 810460,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7162
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 204141,
+    "idObrazec": 810460,
+    "naslov": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+    "opis": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7162,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 1440000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 17477,
+    "idObrazec": 810460,
+    "idObrazecSklop": 204141,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 4,
+    "steviloEPonudbe": 4,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 3,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1193799.44,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1299521.91,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1193799.44,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 83636,
+      "naziv": "Kostak, komunalno in gradbeno podjetje, d.d.",
+      "maticna": "5156572000",
+      "mesto": "Krško",
+      "idSifDrzava": 1,
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 83637,
+      "naziv": "MONTERRA d.o.o.",
+      "mesto": "Rijeka",
+      "idSifDrzava": 95,
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 5105,
+    "naslov": "Sanacija vkopne brežine Cerovec-Lisičje na AC A2/0020 Malence-Šmarje Sap",
+    "internaStevilka": "000536/2024",
+    "datumSklenitev": "2024-04-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 204141
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

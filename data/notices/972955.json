@@ -1,0 +1,131 @@
+{
+ "row": {
+  "idObrazec": 972955,
+  "idDosje": 527715,
+  "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008884/2025-SL2/01",
+  "objavaDejanskaDatum": "2026-01-16T07:19:49.537",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 972955,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 527715,
+  "idObrazecPrej": 957939,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "kratekOpis": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+  "referencnaStevilka": "000271/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8132,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "datumVnosa": "2026-01-15T15:57:57.367",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-16T07:19:49.537",
+  "objavaIdent": "JN008884/2025-SL2/01",
+  "eFormsIdent": "c63e8970-b058-4420-b38b-ac7547536b30",
+  "eFormsFolderIdent": "7ae38ac7-674e-4243-bc08-264badae3766",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-65635",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-15T16:00:43.97",
+  "narocnik": [
+   {
+    "id": 966995,
+    "idObrazec": 972955,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 350296,
+    "idObrazec": 972955,
+    "naslov": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+    "opis": "Izvajanje nalog skladno z uredbo o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih za obdobje petih let",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8132,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 60,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "PC ponudbene cene (v EUR brez DDV, kot je razvidna iz obrazca ponudbe) max 90 točk",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 90.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "Dodatno ponujeni strokovnjak",
+      "opis": "PS  Dodatno ponujeni strokovnjak: Koordinator za varnost in zdravje pri delu max 10 točk",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 10.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 82404,
+    "idObrazec": 972955,
+    "idObrazecSklop": 350296,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 3,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

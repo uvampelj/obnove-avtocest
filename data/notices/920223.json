@@ -1,0 +1,144 @@
+{
+ "row": {
+  "idObrazec": 920223,
+  "idDosje": 457499,
+  "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "006296/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-06-13T20:04:29.877",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 920223,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 457499,
+  "idObrazecPrej": 796733,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "kratekOpis": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "referencnaStevilka": "000141/2022",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7033,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 650189.1,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Med izvedbo pogodbenih (gradbenih) del je bilo ugotovljeno, da je znak KOLONA, ki je krmiljen preko sistema KVS, pred izvozom Kranj vzhod amortiziran in je večkrat v okvari. Izvedba dodatnih del je potrebna za obvestilo uporabnikom/voznikom o pojavi zastojev na avtocesti, kar posledično pomeni zagotovitev varnosti uporabnikov/voznikov, niso pa bila ta dela vključena v prvotno javno naročilo.\nZa izvedbo dodatnih del se sklene aneks k pogodbi s prvotnim izvajalcem na podlagi 2. točke prvega odstavka 95. člena ZJN-3, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov, hkrati pa bi zamenjava izvajalca naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik začeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila pa bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nVse opisane okoliščine, ki imajo za posledico tudi nastanek nesorazmernih stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.",
+  "objavaEU": false,
+  "datumVnosa": "2025-06-13T14:14:29.76",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-13T20:04:29.877",
+  "objavaIdent": "006296/2022-EUe38/01",
+  "eFormsIdent": "9312a406-4748-4dc4-9fa0-f8322b48e189",
+  "eFormsFolderIdent": "5eb1bd57-47cf-4f4d-b7c3-f732b0a39224",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-13T14:34:07.143",
+  "narocnik": [
+   {
+    "id": 836896,
+    "idObrazec": 920223,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 298744,
+    "idObrazec": 920223,
+    "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "opis": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7033,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 52772,
+    "idObrazec": 920223,
+    "idObrazecSklop": 298744,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 650189.1,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 259615.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 295428,
+      "naziv": "ASIST avtomatizacija sistemov d.o.o.",
+      "maticna": "1194682000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31005,
+    "naslov": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+    "internaStevilka": "000325/2024",
+    "datumSklenitev": "2024-02-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 298744
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 31005,
+    "opis": "Predmet  aneksa št. 1 so dodatna dela v naslednji vsebini:\n-dobava grafičnega prikazovalnika – znak KOLONA, montaža le-tega na kovinsko konstrukcijo in integracija v KVS sistem (priklop, konfiguracija in zagon)."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

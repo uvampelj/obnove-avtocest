@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 1200378,
+  "idDosje": 242841,
+  "naslov": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "000889/2018-EUe38/01",
+  "objavaDejanskaDatum": "2026-10-07T04:08:14.157",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1200378,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 242841,
+  "idObrazecPrej": 258408,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+  "kratekOpis": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8157,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 175560.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Dokončanje del po predmetni pogodbi neposredno vezano na izvedbo gradbenih del pri izgradnji vzhodne cevi in sanaciji zahodne cevi predora Karavanke.",
+  "objavaEU": true,
+  "datumVnosa": "2026-10-06T08:22:45.883",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-07T04:08:14.157",
+  "objavaIdent": "000889/2018-EUe38/01",
+  "eFormsIdent": "196e47dc-116c-44e5-b59f-f94e67cdc882",
+  "eFormsFolderIdent": "2b21b35f-5cfe-447f-ace2-a88051a43f11",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "689699-2026",
+  "eFormsPublishedDate": "2026-10-07T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-10-06T08:35:09.147",
+  "narocnik": [
+   {
+    "id": 1277980,
+    "idObrazec": 1200378,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8157
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 579855,
+    "idObrazec": 1200378,
+    "naslov": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+    "opis": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 110,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 289325,
+    "idObrazec": 1200378,
+    "idObrazecSklop": 579855,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 175560.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 704138,
+      "naziv": "INŠTITUT ZA VARNOST LOZEJ d.o.o. Ajdovščina",
+      "maticna": "5703425000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSubjektPrs": 65372,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 224184,
+    "naslov": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+    "internaStevilka": "001504/2018",
+    "datumSklenitev": "2018-05-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 579855
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 224184,
+    "opis": "Podaljšanje pogodbenega roka."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "row": {
+  "idObrazec": 1113808,
+  "idDosje": 581959,
+  "naslov": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002581/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-06-19T04:08:35.45",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1113808,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 581959,
+  "idObrazecPrej": 1044207,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+  "kratekOpis": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+  "referencnaStevilka": "000061/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "vrednostOcenjenaBrezDDV": 283074.75,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 283951.5,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-06-18T11:22:03.007",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-06-19T04:08:35.45",
+  "objavaIdent": "JN002581/2026-EUe29/01",
+  "eFormsIdent": "533711df-ba92-4a29-972b-4e0f71c02866",
+  "eFormsFolderIdent": "1e10507d-75ea-4d44-8814-562d952f6006",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-71973",
+  "eFormsPublishedId": "421412-2026",
+  "eFormsPublishedDate": "2026-06-19T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-06-18T11:25:21.29",
+  "narocnik": [
+   {
+    "id": 1155353,
+    "idObrazec": 1113808,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 493014,
+    "idObrazec": 1113808,
+    "naslov": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+    "opis": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 284000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena+dodatna usposobljenost",
+      "opis": "Cena+dodatna usposobljenost",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 208645,
+    "idObrazec": 1113808,
+    "idObrazecSklop": 493014,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 283951.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 283951.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 283951.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 15000.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 588537,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 147023,
+    "naslov": "Izvedba izrednih pregledov premostitvenih objektov na cestah v upravljanju DARS v obdobju 2026 - 2028",
+    "internaStevilka": "000723/2026",
+    "datumSklenitev": "2026-06-16T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 493014
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

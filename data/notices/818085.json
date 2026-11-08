@@ -1,0 +1,209 @@
+{
+ "row": {
+  "idObrazec": 818085,
+  "idDosje": 498430,
+  "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007503/2023-EUe29/01",
+  "objavaDejanskaDatum": "2024-06-06T09:03:52.35",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 818085,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 498430,
+  "idObrazecPrej": 498430,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "kratekOpis": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "referencnaStevilka": "000203/2022",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 13700000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 12898182.02,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-06-04T12:20:07.943",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-06-06T09:03:52.35",
+  "objavaIdent": "007503/2023-EUe29/01",
+  "eFormsIdent": "a3b0dfe6-5cbf-4643-aa05-b19a5620a7dc",
+  "eFormsFolderIdent": "a7e7c009-2c65-46cd-a19a-a416470213f4",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-32781",
+  "eFormsPublishedId": "333465-2024",
+  "eFormsPublishedDate": "2024-06-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-06-04T16:22:55.58",
+  "narocnik": [
+   {
+    "id": 630471,
+    "idObrazec": 818085,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6402
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 211616,
+    "idObrazec": 818085,
+    "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "opis": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 32,
+    "vrednostOcenjenaBrezDDV": 13700000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 6
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 19946,
+    "idObrazec": 818085,
+    "idObrazecSklop": 211616,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 9,
+    "steviloEPonudbe": 9,
+    "steviloMspPonudbe": 5,
+    "steviloDopustno": 5,
+    "steviloNedopustno": 4,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 12898182.02,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 13688393.47,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 12898182.02,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 13
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 97910,
+      "naziv": "CBE, družba za gradnjo in inženiring, d.o.o.",
+      "maticna": "3976602000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 97911,
+      "naziv": "GP KRK d. d.",
+      "mesto": "Krk",
+      "idSifDrzava": 95,
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 7093,
+    "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "internaStevilka": "000636/2024",
+    "datumSklenitev": "2024-05-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 211616
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

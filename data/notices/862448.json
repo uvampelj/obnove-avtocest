@@ -1,0 +1,169 @@
+{
+ "row": {
+  "idObrazec": 862448,
+  "idDosje": 515463,
+  "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN007800/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-10-28T09:18:30.883",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 862448,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 515463,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+  "kratekOpis": "Dobava materiala za izvedbo debelo slojnih talnih označb za potrebe naročnika.",
+  "referencnaStevilka": "000170/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 1251,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzI0ODAzO1JhenBpc25hIGRva3VtZW50YWNpamEgMTcwLTIwMjQgKyBFU1BELnppcA",
+  "datumDoVprasanja": "2024-11-18T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=48003",
+  "datumDoPonudba": "2024-12-03T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2024-12-03T11:00:00",
+  "odpiranjePonudbKraj": "Elektronsko odpiranje ponudb preko portala e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-10-25T09:21:08.1",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-28T09:18:30.883",
+  "datumDoVprasanjaKalk": "2025-01-06T08:00:00",
+  "datumDoPonudbaKalk": "2025-02-04T09:00:00",
+  "objavaIdent": "JN007800/2024-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "142f49b3-a82a-46cd-8ccf-f5248be22e59",
+  "eFormsFolderIdent": "a5d1a16e-5248-47c2-833c-9fe028dfb64d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-48003",
+  "eFormsPublishedId": "653185-2024",
+  "eFormsPublishedDate": "2024-10-28T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-10-25T10:15:08.94",
+  "narocnik": [
+   {
+    "id": 709493,
+    "idObrazec": 862448,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "Skladno z razpisno dokumentacijo."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 243750,
+    "idObrazec": 862448,
+    "naslov": "DOBAVA MATERIALA ZA IZVEDBO DEBELO SLOJNIH TALNIH OZNAČB",
+    "opis": "Dobava materiala za izvedbo debelo slojnih talnih označb za potrebe naročnika.",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 1251,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponujena cena.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Skladno z razpisno dokumentacijo.",
+      "opis": "Skladno z razpisno dokumentacijo.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

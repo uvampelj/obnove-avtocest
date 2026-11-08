@@ -1,0 +1,246 @@
+{
+ "row": {
+  "idObrazec": 816169,
+  "idDosje": 510293,
+  "naslov": "Nabava 28 specialnih vozil cestninskega nadzora",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN003575/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-05-28T08:46:55.707",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 816169,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 510293,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nabava 28 specialnih vozil cestninskega nadzora",
+  "kratekOpis": "Nabava 28 specialnih vozil cestninskega nadzora",
+  "referencnaStevilka": "000007/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3327,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=Mjg1OTc4O1JEIGluIEVTUEQgMDA3LTIwMjQuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2024-06-24T10:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=41077",
+  "datumDoPonudba": "2024-07-09T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 181,
+  "datumOdpiranje": "2024-07-09T12:00:00",
+  "odpiranjePonudbKraj": "Elektronsko odpiranje ponudb na eJN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-05-27T12:09:53.653",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-05-28T08:46:55.707",
+  "datumDoVprasanjaKalk": "2024-07-30T10:00:00",
+  "datumDoPonudbaKalk": "2024-08-14T10:00:00",
+  "objavaIdent": "JN003575/2024-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "6d749f0a-39f2-4ea4-948b-0cbcd0957ccf",
+  "eFormsFolderIdent": "17fd6b54-675a-468d-96e8-a8db500a4dfd",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-41077",
+  "eFormsPublishedId": "313704-2024",
+  "eFormsPublishedDate": "2024-05-28T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-05-27T13:48:05.74",
+  "narocnik": [
+   {
+    "id": 625782,
+    "idObrazec": 816169,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 5,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 3,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 9,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 24,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 8,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 10,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 23,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 21,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 7,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 2,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 11,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 4,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 22,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 16,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 17,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 19,
+    "utemeljitev": "Razlog za izključitev"
+   },
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "Razlog za izključitev"
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 209418,
+    "idObrazec": 816169,
+    "naslov": "Nabava 28 specialnih vozil cestninskega nadzora",
+    "opis": "Nabava 28 specialnih vozil cestninskega nadzora",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3327,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 78,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 2,
+      "naziv": "LCC ",
+      "opis": "Ekonomsko najugodnejša je ponudba z najnižjo vrednostjo stroškov v življenjski dobi vozila, označena kot LCC."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "row": {
+  "idObrazec": 833330,
+  "idDosje": 367717,
+  "naslov": "Gradnja glavne ceste G 1-2 Hajdina - Ormož; odsek Markovci - Gorišnica - Ormož",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "005745/2020-EUe29/01",
+  "objavaDejanskaDatum": "2024-08-08T08:53:23.03",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 833330,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 367717,
+  "idObrazecPrej": 367717,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Gradnja glavne ceste G 1-2 Hajdina - Ormož; odsek Markovci - Gorišnica - Ormož",
+  "kratekOpis": "Gradnja glavne ceste G 1-2 Hajdina - Ormož; odsek Markovci - Gorišnica - Ormož",
+  "referencnaStevilka": "000170/2020",
+  "idSifPostopekVrsta": 2,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6708,
+  "vrednostOcenjenaBrezDDV": 69750000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 69394407.91,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-08-07T12:53:47.313",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-08T08:53:23.03",
+  "objavaIdent": "005745/2020-EUe29/01",
+  "eFormsIdent": "44f7132b-d200-465f-b1d5-cfbb5c780979",
+  "eFormsFolderIdent": "89cb930b-eddc-4703-9ec6-2b7d125e6bcc",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "479372-2024",
+  "eFormsPublishedDate": "2024-08-08T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-07T13:22:59.117",
+  "narocnik": [
+   {
+    "id": 666322,
+    "idObrazec": 833330,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6708
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 226572,
+    "idObrazec": 833330,
+    "naslov": "Gradnja glavne ceste G 1-2 Hajdina - Ormož; odsek Markovci - Gorišnica - Ormož",
+    "opis": "Gradnja glavne ceste G 1-2 Hajdina - Ormož; odsek Markovci - Gorišnica - Ormož",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 38,
+    "vrednostOcenjenaBrezDDV": 69750000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 2,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 25705,
+    "idObrazec": 833330,
+    "idObrazecSklop": 226572,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 6,
+    "steviloEPonudbe": 6,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 69394407.91,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 69740506.34,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 69394407.91,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 130266,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "glavniURL": "https://www.pomgrad.si/",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 130267,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "glavniURL": "https://www.voc-celje.si/",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 10913,
+    "naslov": "Gradnja glavne ceste G 1 2 Hajdina – Ormož; odsek Markovci-Gorišnica-Ormož",
+    "internaStevilka": "000843/2024",
+    "datumSklenitev": "2024-08-02T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 226572
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

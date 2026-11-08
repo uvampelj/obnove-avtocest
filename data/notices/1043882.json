@@ -1,0 +1,146 @@
+{
+ "row": {
+  "idObrazec": 1043882,
+  "idDosje": 476031,
+  "naslov": "Prevzem različnih odpadnih materialov, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "002036/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-04-07T04:07:24.92",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1043882,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 476031,
+  "idObrazecPrej": 487651,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Prevzem različnih odpadnih materialov, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+  "kratekOpis": "Prevzem različnih odpadnih materialov, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 9082,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 904000.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 1,
+  "spremembaOpis": "Med naročnikom DARS d. d. in izvajalcem SAUBERMACHER SLOVENIJA d.o.o. je bila 20. 7. 2023 sklenjena pogodba DARS d. d., št. 855/2023 za PREVZEM RAZLIČNIH ODPADNIH MATERIALOV, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki (v nadaljevanju: osnovna pogodba), v vrednosti 904.000,00 EUR brez DDV. Osnovna pogodba je bila sklenjena za obdobje 48 mesecev (tj. do 20. 7. 2027).\nIzvajalec je dne 26. 1. 2026 z dopisom št. 23_35 na naročnika naslovil predlog za vključitev novih podizvajalcev PREVOZI IN SPRAVILO LESA, GREGOR GODEC S.P. in GMD 1, rušenje objektov d.o.o. Za oba predlagana podizvajalca je izvajalec posredoval vso z osnovno pogodbo zahtevano dokumentacijo, preverjeno je bilo izpolnjevanje pogojev za sodelovanje in neobstoj izključitvenih razlogov. \nSprememba osnovne pogodbe je dopustna na podlagi 1. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba predvidena v prvotni dokumentaciji v zvezi z oddajo javnega naročila v jasnih, natančnih in nedvoumnih določbah (11. člen osnovne pogodbe).",
+  "objavaEU": true,
+  "datumVnosa": "2026-04-03T09:24:35.09",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-04-07T04:07:24.92",
+  "objavaIdent": "002036/2023-EUe38/01",
+  "eFormsIdent": "1a526787-07f2-48ba-9c6a-96eac38c2fe4",
+  "eFormsFolderIdent": "d75f226d-1632-48de-9de3-6be485622280",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "235603-2026",
+  "eFormsPublishedDate": "2026-04-07T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-04-03T09:31:38.3",
+  "narocnik": [
+   {
+    "id": 1058147,
+    "idObrazec": 1043882,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1280,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 9082
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 421539,
+    "idObrazec": 1043882,
+    "naslov": "Prevzem različnih odpadnih materialov, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+    "opis": "Prevzem različnih odpadnih materialov, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 9082,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 48,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 151440,
+    "idObrazec": 1043882,
+    "idObrazecSklop": 421539,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 904000.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 495738,
+      "naziv": "SAUBERMACHER SLOVENIJA storitve pri varstvu okolja, trgovina in transport d.o.o.",
+      "maticna": "5432391000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 174463,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 91557,
+    "naslov": "PREVZEM RAZLIČNIH ODPADNIH MATERIALOV, SKLOP 2 – Odpadki iz skupine odpadkov št. 16, SKLOP 3 – Gradbeni odpadki",
+    "internaStevilka": "000855/2023",
+    "datumSklenitev": "2023-07-20T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 421539
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 91557,
+    "opis": "S sklenitvijo aneksa št. 1 k pogodbi DARS, d. d., št. 855/2023 se vključita nova podizvajalca."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

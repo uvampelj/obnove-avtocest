@@ -1,0 +1,225 @@
+{
+ "row": {
+  "idObrazec": 986248,
+  "idDosje": 529031,
+  "naslov": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN010051/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-01-30T04:07:07.233",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 986248,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 529031,
+  "idObrazecPrej": 969141,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+  "kratekOpis": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+  "referencnaStevilka": "000279/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6591,
+  "vrednostOcenjenaBrezDDV": 82500000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 82496174.29,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 5,
+  "razlogOddajeBrezObjave": "V postopku oddaje javnega naročila za sanacijo zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) – Hrušica, ki se vodi po konkurenčnem postopku s pogajanji brez predhodne objave obvestila o javnem naročilu v skladu z določilom točke b) prvega odstavka 44. člena ZJN-3, so bili preko portala e-JN dne 4.11.2025 k oddaji ponudb povabljeni ponudniki, za katere je bilo v predhodno izvedenem omejenem postopku, objavljenem dne 3. 9. 2024 na Portalu javnih naročil pod št. JN006219/2024-EUe16/01 in na TED pod št.  527132-2024, ugotovljeno, da izpolnjujejo pogoje za sodelovanje, ki jih je naročnik določil v dokumentaciji v zvezi z oddajo javnega naročila in zanje ne obstajajo razlogi za izključitev ter so v predhodno izvedenem omejenem postopku predložili ponudbe v skladu s formalnimi zahtevami za postopek javnega naročanja, vendar so vse ponudbe presegale naročnikova zagotovljena sredstva.",
+  "objavaEU": true,
+  "datumVnosa": "2026-01-29T12:10:50.05",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-30T04:07:07.233",
+  "objavaIdent": "JN010051/2025-EUe29/01",
+  "eFormsIdent": "b6587d55-0805-4800-8dbf-1820288bfe75",
+  "eFormsFolderIdent": "4e4d8960-af67-4056-a405-aa39d2b32a1a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "70052-2026",
+  "eFormsPublishedDate": "2026-01-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-29T12:23:55.01",
+  "narocnik": [
+   {
+    "id": 983130,
+    "idObrazec": 986248,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 363739,
+    "idObrazec": 986248,
+    "naslov": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+    "opis": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6591,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 50,
+    "vrednostOcenjenaBrezDDV": 82500000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 103889,
+    "idObrazec": 986248,
+    "idObrazecSklop": 363739,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 1,
+    "steviloNeEuDrzave": 1,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 82496174.29,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 82496174.29,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 82496174.29,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 30000.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaEuProjekt": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 423123,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1275,
+      "glavniURL": "https://www.kolektor.com",
+      "idSifVelikost": 1,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 423124,
+      "naziv": "KOLEKTOR KOLING Inženiring, instalacije, proizvodnja d.o.o.",
+      "maticna": "1888188000",
+      "mesto": "Idrija",
+      "idSifDrzava": 1,
+      "idSifNuts": 1275,
+      "glavniURL": "https://www.kolektor.com",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "idSubjektPrs": 140506,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 423125,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "glavniURL": "https://www.ggd.si/",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 56600,
+    "naslov": "Sanacija zahodne cevi predora Karavanke s pripadajočo infrastrukturo, AC – A2 odsek 0001 Meja Avstrija (predor) - Hrušica",
+    "internaStevilka": "000279/2025",
+    "datumSklenitev": "2026-01-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 363739
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

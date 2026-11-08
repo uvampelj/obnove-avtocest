@@ -1,0 +1,160 @@
+{
+ "row": {
+  "idObrazec": 973525,
+  "idDosje": 379394,
+  "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+  "sifObrazecOznaka": "EUe39",
+  "sifObrazecKoda": "F39",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "007789/2020-EUe39/01",
+  "objavaDejanskaDatum": "2026-01-20T04:24:35.49",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 973525,
+  "idSifObrazec": 35,
+  "idSifObrazecVerzija": 35,
+  "idDosje": 379394,
+  "idObrazecPrej": 472799,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+  "kratekOpis": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+  "referencnaStevilka": "000241/2020",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6709,
+  "idSifPravnaPodlaga": 4,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 55450453.75,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks 1 k pogodbi DARS št. 460/2023 za izgradnjo hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B – Škalsko jezero in sklop H – Konovo; nepredvidena dela, več dela, podražitve, podaljšanje roka, nominacija podizvajalcev, menjava kadrov, vključitev obveznih dodatnih sestavin v osnovno pogodbo, zaradi sofinanciranja iz Evropskega sklada za regionalni razvoj",
+  "vrednostPosodobljenaSkupna": 55450453.75,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 55450453.75,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-01-19T10:06:43.333",
+  "sifObrazecKoda": "F39",
+  "sifObrazecOznaka": "EUe39",
+  "sifObrazecNaziv": "Obvestilo o spremembi – infrastrukturno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-20T04:24:35.49",
+  "objavaIdent": "007789/2020-EUe39/01",
+  "eFormsIdent": "f2c7bb2c-1811-4fea-b8a3-854ab177a2d6",
+  "eFormsFolderIdent": "e9c48a8d-4eb2-4101-aa9a-1c2f3a8e4e21",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "40816-2026",
+  "eFormsPublishedDate": "2026-01-20T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-19T10:21:55.87",
+  "narocnik": [
+   {
+    "id": 968041,
+    "idObrazec": 973525,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1270,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6613
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1270
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 350936,
+    "idObrazec": 973525,
+    "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+    "opis": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2023-03-01T00:00:00",
+    "datumKonec": "2026-09-01T00:00:00",
+    "financiraEU": true,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 82662,
+    "idObrazec": 973525,
+    "idObrazecSklop": 350936,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 55450453.75,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "sredstvaEuOpis": "sofinanciranje Evropskega sklada za regionalni razvoj v okviru Programa evropske kohezijske politike v obdobju 2021 – 2027 (PEKP 2021 – 2027)",
+    "obrazecOddajaEuProjekt": [
+     {
+      "id": 55
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 396860,
+      "naziv": "STRABAG gradbene storitve d.o.o.",
+      "maticna": "5879566000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.strabag.si",
+      "idSubjektPrs": 59250,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 45785,
+    "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+    "internaStevilka": "000460/2023",
+    "datumSklenitev": "2023-03-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 350936
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 45785,
+    "opis": "Aneks 1 k pogodbi DARS št. 460/2023 za izgradnjo hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B – Škalsko jezero in sklop H – Konovo; nepredvidena dela, več dela, podražitve, podaljšanje roka, nominacija podizvajalcev, menjava kadrov, vključitev obveznih dodatnih sestavin v osnovno pogodbo, zaradi sofinanciranja iz Evropskega sklada za regionalni razvoj"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

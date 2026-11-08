@@ -1,0 +1,166 @@
+{
+ "row": {
+  "idObrazec": 969720,
+  "idDosje": 498430,
+  "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "007503/2023-EUe38/01",
+  "objavaDejanskaDatum": "2025-12-31T06:00:48.003",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 969720,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 498430,
+  "idObrazecPrej": 818085,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "kratekOpis": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "referencnaStevilka": "000332/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 12898182.02,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Dodatna dela, ki so postala potrebna, čeprav niso bila vključena v prvotno javno naročilo, se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. \nPogodbena dela in dodatna dela v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov.\nV primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nVse opisane okoliščine upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.",
+  "objavaEU": true,
+  "datumVnosa": "2025-12-30T12:55:02.7",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-31T06:00:48.003",
+  "objavaIdent": "007503/2023-EUe38/01",
+  "eFormsIdent": "db3ed661-1199-450b-99b6-2496fc7a86b7",
+  "eFormsFolderIdent": "a7e7c009-2c65-46cd-a19a-a416470213f4",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-32781",
+  "eFormsPublishedId": "868904-2025",
+  "eFormsPublishedDate": "2025-12-31T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-12-30T13:52:52.54",
+  "narocnik": [
+   {
+    "id": 960299,
+    "idObrazec": 969720,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6402
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 347583,
+    "idObrazec": 969720,
+    "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "opis": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 32,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 6
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 81202,
+    "idObrazec": 969720,
+    "idObrazecSklop": 347583,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 12898182.02,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 388831,
+      "naziv": "CBE, družba za gradnjo in inženiring, d.o.o.",
+      "maticna": "3976602000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 388832,
+      "naziv": "GP KRK d. d.",
+      "mesto": "Krk",
+      "idSifDrzava": 95,
+      "idSifNuts": 831,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 44523,
+    "naslov": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+    "internaStevilka": "000636/2024",
+    "datumSklenitev": "2024-05-21T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 347583
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 44523,
+    "opis": "Predmet aneksa št. 1 so naslednja dodatna dela:\n-\tselitev tehnološke opreme \n-\tselitev premične opreme\n-\tzačasna delovna mesta in ureditev elektro inštalacij za začasna delovna mesta in tehnološko opremo\n-\tizčrpavanje plina\n-\tizdelava poda pri začasnih delovnih mestih \n-\tdela pri zamenjavi kritine prizidka upravne stavbe\n-\tdemontaža strojnih inštalacij \n-\tsenzorji odprtosti oken za centralni nadzorni sistem\n-\telektro inštalacija - razdelilec R-ZR\n-\tprestavitev obstoječe inštalacije in nadomestna omara\n-\tuvlek kabla za napajanje začasnih delovnih mest\n-\tprestavitev polnilnih mest\n-\tdodatna klimatska naprava\n-\tzeleni kontejner, pisarna - hišnik, trafo postaja, prestavitev kompresorja\n-\tprofilirana pločevina za čaše točkovnih temeljev\n-\tizkop za izvedbo temeljenja Objekta 7 (delavnice + ESV)\n-\tnadomestna gradbena omara - mehanične delavnice\n-\tureditev začasnega parkirišča\n-\ttelekomunikacijsko in podatkovno omrežje, domofon, videonadzor\n-\telektro kabelska kanalizacija\n-\tcentralni nadzorni sistem\n-\tALUPLAST cev\n-\tsteklene stene\n-\tkovinska požarna vrata"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

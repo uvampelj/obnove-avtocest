@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 986320,
+  "idDosje": 488398,
+  "naslov": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005094/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-01-29T13:17:08.767",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 986320,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 488398,
+  "idObrazecPrej": 812404,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+  "kratekOpis": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+  "referencnaStevilka": "000097/2023",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6708,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 3159765.94,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": false,
+  "datumVnosa": "2026-01-29T13:09:22.227",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-29T13:17:08.767",
+  "objavaIdent": "005094/2023-EUe38/01",
+  "eFormsIdent": "c7a4df7a-cfbf-4d66-a772-c68cee13a92c",
+  "eFormsFolderIdent": "7ffd6912-169a-4d0b-9060-c9a02a4e2138",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-28772",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-29T13:16:53.01",
+  "narocnik": [
+   {
+    "id": 983233,
+    "idObrazec": 986320,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6708
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 363978,
+    "idObrazec": 986320,
+    "naslov": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+    "opis": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6708,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 104098,
+    "idObrazec": 986320,
+    "idObrazecSklop": 363978,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 3159765.94,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 2309546.97,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 423402,
+      "naziv": "CVP, gradbeništvo in storitve d.o.o.",
+      "maticna": "3987388000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 56624,
+    "naslov": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+    "internaStevilka": "000573/2024",
+    "datumSklenitev": "2024-04-26T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 363978
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 56624,
+    "opis": "V času izvedbe pogodbenih del se je izkazalo, da je treba nekatere projektne rešitve prilagoditi novo nastalemu stanju, za kar je treba izvesti dodatna dela, ki presegajo pogodbeno določen obseg del. Potreba po dodatnih delih je nastala zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti, saj se je pokazala šele tekom izvajanja del po osnovni pogodbi (v času projektiranja ni bilo mogoče predvideti sprememb tehnične regulative ter sprememb na terenu, ki so se zgodile do sklenitve pogodbe, torej vseh potrebnih del za dokončanje projekta), so pa dodatna dela nujno potrebna za dokončanje predmeta pogodbe. Glede na navedeno jih naročnik ni mogel predvideti že pri oddaji prvotnega javnega naročila, izvajalec pa jih ni mogel upoštevati pri oblikovanju ponudbene cene v okviru svoje ponudbe.\nZa izvedbo dodatnih del se na podlagi 2. točke prvega odstavka 95. člena ZJN-3 sklene aneks k osnovni pogodbi s prvotnim izvajalcem, saj zamenjava izvajalca v konkretnem primeru ni mogoča iz ekonomskih in tehničnih razlogov. Pogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca bi prav tako naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela, prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje treba izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Postojna. \nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\nSprememba pogodbe (sprememba in podaljšanje pogodbenega roka za dokončanje GOI del Faze 2) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (zaradi potrebe po postavitvi zapor prometa po posameznih fazah glede na količino prometa na posameznem odseku in glede na vremenske razmere, vseh zapor prometa ni bilo mogoče izvesti do pričetka zimske sezone, v času zimske sezone pa ni ustreznih pogojev za izvajanje pogodbenih del). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\nSprememba pogodbe (podaljšanje pogodbenega roka za pridobitev Potrdila o izvedbi in pogodbenega roka za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (nastanek potrebe po izvedbi dodatnih del, usklajevanju njihove vsebine, sklenitvi aneksa, katerega predmet je tudi ugotovitev in naročilo dodatnih del, ter potreba po izvedbi dodatnih del). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

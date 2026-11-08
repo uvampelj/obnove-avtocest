@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 975547,
+  "idDosje": 529670,
+  "naslov": "Obnova obstoječih talnih označb",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN000509/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-01-28T04:04:51.46",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 975547,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 529670,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova obstoječih talnih označb",
+  "kratekOpis": "Obnova obstoječih talnih označb.",
+  "referencnaStevilka": "000374/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6735,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NDI1OTY5OzM3NC0yMDI1IFJBWlBJU05BIERPS1VNRU5UQUNJSkEuemlw",
+  "datumDoVprasanja": "2026-02-18T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=68028",
+  "datumDoPonudba": "2026-03-05T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 151,
+  "datumOdpiranje": "2026-03-05T11:00:00",
+  "odpiranjePonudbKraj": "Avtomatsko v sistemu e-JN.",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2026-01-27T08:48:49.31",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-28T04:04:51.46",
+  "datumDoVprasanjaKalk": "2026-02-18T08:00:00",
+  "datumDoPonudbaKalk": "2026-03-05T09:00:00",
+  "objavaIdent": "JN000509/2026-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "b7e259af-ac4e-4515-a271-018e8e2d0ab1",
+  "eFormsFolderIdent": "8147d231-5072-49ef-81ab-2853f8f03261",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-68028",
+  "eFormsPublishedId": "63228-2026",
+  "eFormsPublishedDate": "2026-01-28T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-01-27T08:56:00.25",
+  "narocnik": [
+   {
+    "id": 971688,
+    "idObrazec": 975547,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 352998,
+    "idObrazec": 975547,
+    "naslov": "Obnova obstoječih talnih označb",
+    "opis": "Obnova obstoječih talnih označb.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6735,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja vrednost v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja vrednost v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

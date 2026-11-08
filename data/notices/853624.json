@@ -1,0 +1,165 @@
+{
+ "row": {
+  "idObrazec": 853624,
+  "idDosje": 512230,
+  "naslov": "Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005083/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-09-20T08:17:53.717",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 853624,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 512230,
+  "idObrazecPrej": 830911,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "kratekOpis": "Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "referencnaStevilka": "000147/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8500,
+  "vrednostOcenjenaBrezDDV": 120000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 111400.0,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-09-20T07:53:44.32",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-09-20T08:17:53.717",
+  "objavaIdent": "JN005083/2024-SL2/01",
+  "eFormsIdent": "b98ccd3e-91b2-49b9-a9b5-a3185be2a91a",
+  "eFormsFolderIdent": "25c9b1ce-a533-4b9e-a7c1-8093903469e2",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-43554",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-09-20T08:00:28.517",
+  "narocnik": [
+   {
+    "id": 689537,
+    "idObrazec": 853624,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1280,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 235552,
+    "idObrazec": 853624,
+    "naslov": "Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "opis": "Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8500,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 120000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 29425,
+    "idObrazec": 853624,
+    "idObrazecSklop": 235552,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 111400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 111400.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 111400.0,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 150873,
+      "naziv": "MIKROGRAFIJA trgovina d.o.o.",
+      "maticna": "5636744000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "glavniURL": "https://www.mikrografija.si/",
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 13605,
+    "naslov": "Pogodba za \"Digitalizacija vročilnic za potrebe prekrškovnega organa Cestninski nadzor DARS\"",
+    "internaStevilka": "000966/2024",
+    "datumSklenitev": "2024-09-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 235552
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

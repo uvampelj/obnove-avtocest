@@ -1,0 +1,173 @@
+{
+ "row": {
+  "idObrazec": 814668,
+  "idDosje": 507076,
+  "naslov": "Sanacija območja betonarne na Vardi",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001147/2024-SL2/01",
+  "objavaDejanskaDatum": "2024-05-21T09:49:16.793",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 814668,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 507076,
+  "idObrazecPrej": 793320,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija območja betonarne na Vardi",
+  "kratekOpis": "Del objekta (betonski del) je treba porušiti, območje pa sanirati oziroma rekultivirati.",
+  "referencnaStevilka": "000220/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 165000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 113449.77,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-05-21T09:24:49.07",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-05-21T09:49:16.793",
+  "objavaIdent": "JN001147/2024-SL2/01",
+  "eFormsIdent": "26aece99-5584-4811-a309-9bc36be95071",
+  "eFormsFolderIdent": "e1ebfd87-c740-4e23-ae21-a8acf83fded6",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-05-21T09:33:10.86",
+  "narocnik": [
+   {
+    "id": 622155,
+    "idObrazec": 814668,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6402
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 207983,
+    "idObrazec": 814668,
+    "naslov": "Sanacija območja betonarne na Vardi",
+    "opis": "Del objekta (betonski del) je treba porušiti, območje pa sanirati oziroma rekultivirati.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 4,
+    "vrednostOcenjenaBrezDDV": 165000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 18756,
+    "idObrazec": 814668,
+    "idObrazecSklop": 207983,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 113449.77,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 164885.66,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 113449.77,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 2452.6,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 2.16,
+    "opisDelezOddajePodizvajalcem": "Ocena odpadka",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 91969,
+      "naziv": "GRAFIST, gradbeništvo, trgovina in storitve, d.o.o.",
+      "maticna": "1263293000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifVelikost": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 6229,
+    "naslov": "Pogodba Sanacija območja betonarne na Vardi",
+    "internaStevilka": "000629/2024",
+    "datumSklenitev": "2024-05-17T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 207983
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

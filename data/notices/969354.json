@@ -1,0 +1,133 @@
+{
+ "row": {
+  "idObrazec": 969354,
+  "idDosje": 526341,
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec 2. odsek Sklopa C in G",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007730/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-12-30T05:02:14.723",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 969354,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 526341,
+  "idObrazecPrej": 955772,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec 2. odsek Sklopa C in G",
+  "kratekOpis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec 2. odsek Sklopa C in G",
+  "referencnaStevilka": "000267/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8234,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-12-29T10:20:08.87",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-12-30T05:02:14.723",
+  "objavaIdent": "JN007730/2025-EUe29/01",
+  "eFormsIdent": "f2ca5a32-91d8-4dab-bcc4-5a0d0d80e60f",
+  "eFormsFolderIdent": "b45ebf2c-d0e6-4278-9345-584b23221738",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-63449",
+  "eFormsPublishedId": "868116-2025",
+  "eFormsPublishedDate": "2025-12-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-12-29T10:21:15.277",
+  "narocnik": [
+   {
+    "id": 959706,
+    "idObrazec": 969354,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 347227,
+    "idObrazec": 969354,
+    "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec 2. odsek Sklopa C in G",
+    "opis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec 2. odsek Sklopa C in G",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8234,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 76,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merila so ločena v Tehnični del in Finančni del in so naslednja:\nI.\nTehnični del sestavljajo (Ti):\n−\nakreditacija dodatnih laboratorijskih preiskav po SIST EN ISO/IEC 17025 (Si).\nII.\nFinančni del sestavlja:\n− ponudbena cena brez DDV, določena iz ponudbenega predračuna (Ci).\nPri skupni oceni sposobnosti ima Tehnični del največ 20 točk, Finančni del pa najmanj 80 točk.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Tehnični del in Finančni del",
+      "opis": "Merila so ločena v Tehnični del in Finančni del in so naslednja:\nI.\nTehnični del sestavljajo (Ti):\n−\nakreditacija dodatnih laboratorijskih preiskav po SIST EN ISO/IEC 17025 (Si).\nII.\nFinančni del sestavlja:\n− ponudbena cena brez DDV, določena iz ponudbenega predračuna (Ci)."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 80965,
+    "idObrazec": 969354,
+    "idObrazecSklop": 347227,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

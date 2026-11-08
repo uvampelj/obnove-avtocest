@@ -1,0 +1,153 @@
+{
+ "row": {
+  "idObrazec": 860908,
+  "idDosje": 437072,
+  "naslov": "Izvedba dodat. ukrepov 1. faze na oporni konstr. OZ-05 (VA6007) na AC A1/0065 Pesnica-Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova-MB (Ptujska) v km 0,000 do km 0,361; Sklop 2",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001275/2022-EUe38/02",
+  "objavaDejanskaDatum": "2024-10-21T12:36:56.563",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 860908,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 437072,
+  "idObrazecPrej": 455115,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba dodat. ukrepov 1. faze na oporni konstr. OZ-05 (VA6007) na AC A1/0065 Pesnica-Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova-MB (Ptujska) v km 0,000 do km 0,361; Sklop 2",
+  "kratekOpis": "Izvedba dodat. ukrepov 1. faze na oporni konstr. OZ-05 (VA6007) na AC A1/0065 Pesnica-Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova-MB (Ptujska) v km 0,000 do km 0,361; Sklop 2  Izvedba trajnih geotehničinih sider na »desnem delu« zidu, od stebra 59s do vključno stebra 129s (od profila 592 v km 14+260,00 do profila 607 v km 14+620,00)",
+  "referencnaStevilka": "41/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2024-10-18T13:06:52.423",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-21T12:36:56.563",
+  "objavaIdent": "001275/2022-EUe38/02",
+  "eFormsIdent": "75f56f95-a4d7-430d-a295-fa4de50b85d4",
+  "eFormsFolderIdent": "4cab2c6e-625e-4b24-a25f-12a21e0f014d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "635840-2024",
+  "eFormsPublishedDate": "2024-10-21T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-10-18T13:41:02.18",
+  "narocnik": [
+   {
+    "id": 706275,
+    "idObrazec": 860908,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6710
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1269
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 242525,
+    "idObrazec": 860908,
+    "naslov": "Izvedba dodat. ukrepov 1. faze na oporni konstr. OZ-05 (VA6007) na AC A1/0065 Pesnica-Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova-MB (Ptujska) v km 0,000 do km 0,361; Sklop 2",
+    "opis": "Izvedba dodat. ukrepov 1. faze na oporni konstr. OZ-05 (VA6007) na AC A1/0065 Pesnica-Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova-MB (Ptujska) v km 0,000 do km 0,361; Sklop 2  Izvedba trajnih geotehničinih sider na »desnem delu« zidu, od stebra 59s do vključno stebra 129s (od profila 592 v km 14+260,00 do profila 607 v km 14+620,00)",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2022-07-20T00:00:00",
+    "datumKonec": "2024-10-17T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 32269,
+    "idObrazec": 860908,
+    "idObrazecSklop": 242525,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 3358797.05,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 166338,
+      "naziv": "RAFAEL gradbena dejavnost d.o.o. Sevnica",
+      "maticna": "5617316000",
+      "mesto": "Sevnica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1273,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 166339,
+      "naziv": "GEODRILL podjetje za raziskovanje, proizvodnjo in trgovino d.o.o.",
+      "maticna": "5437288000",
+      "mesto": "Maribor",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 15520,
+    "naslov": "Izvedba dodatnih ukrepov 1. faze na oporni konstrukciji OZ-05 (VA6007) na AC A1/0065 Pesnica – Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova – Maribor (Ptujska) v km 0,000 do km 0,361; Sklop 2: Izvedba trajnih geotehničnih sider na »desnem delu« zidu, od stebra 59s do vključno stebra 129s (od profila 592 v km 14+260,00 do profila 607 v km 14+620,00)",
+    "internaStevilka": "001058/2022",
+    "datumSklenitev": "2022-07-20T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 242525
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 15520,
+    "opis": "Dodatna dela, ki so postala potrebna, se oddajo odda istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN- 3. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik začeti nov postopek oddaje javnega naročila. Ob tem bi bila za čas, ko na gradbišču ne bi bilo izvajalca, potrebna zapora objektov na avtocesti. S tem bi bila za daljši čas zmanjšana prometna varnost in pretočnost avtoceste in naročniku povzročeni stroški za zaporo ceste. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Prav tako bi bilo v primeru ugotovitve napak in pomanjkljivosti izvedenih del v času trajanja garancijskega roka nemogoče razmejiti odgovornost za napake, saj bi bilo zelo težko nedvoumno ugotoviti, kateri od obeh udeleženih izvajalcev je odgovoren za nastalo škodo. \nDodatna dela je potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oz. AC bazi Maribor. Vse opisane okoliščine, ki imajo za posledico tudi nastanek stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.\n\nSprememba pogodbe (podaljšanje rokov za dokončanje del) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (negotovo dejstvo, kdaj bo izvajalec prejel sklenjeno pogodbo in nepričakovana zahteva s strani organa za tehnična soglasja). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

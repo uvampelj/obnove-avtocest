@@ -1,0 +1,179 @@
+{
+ "row": {
+  "idObrazec": 1201578,
+  "idDosje": 646442,
+  "naslov": "Sanacijska dela po AC bazah",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN006509/2026-SL2/01",
+  "objavaDejanskaDatum": "2026-10-09T08:10:40.53",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1201578,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 646442,
+  "idObrazecPrej": 1147927,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacijska dela po AC bazah",
+  "kratekOpis": "Sanacijska dela po AC bazah, ki je razdeljeno na dva sklopa:\nSklop 1 - AC baza Novo mesto: Izvedba delne sanacije strojnih inštalacij v upravni stavbi\nSklop 2 - AC baza Kozina: Zamenjava stekel na kupoli",
+  "referencnaStevilka": "000141/2026",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7095,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "datumVnosa": "2026-10-08T15:34:00.933",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-10-09T08:10:40.53",
+  "objavaIdent": "JN006509/2026-SL2/01",
+  "eFormsIdent": "ec27d7f9-e9b2-4e4e-88a8-bbdf1eb5f02b",
+  "eFormsFolderIdent": "449c925d-d66f-418a-b6b6-3383ec6a6c95",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-78184",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-10-08T15:40:05.3",
+  "narocnik": [
+   {
+    "id": 1280544,
+    "idObrazec": 1201578,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7107
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 581844,
+    "idObrazec": 1201578,
+    "naslov": "Sklop 1 - AC baza Novo mesto: Izvedba delne sanacije strojnih inštalacij v upravni stavbi",
+    "opis": "Sklop 1 - AC baza Novo mesto: Izvedba delne sanacije strojnih inštalacij v upravni stavbi",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7095,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za sklop . \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za sklop.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7095
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena"
+     }
+    ]
+   },
+   {
+    "id": 581845,
+    "idObrazec": 1201578,
+    "naslov": "Sklop 2 - AC baza Kozina: Zamenjava stekel na kupoli",
+    "opis": "Sklop 2 - AC baza Kozina: Zamenjava stekel na kupoli",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7095,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za sklop . \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za sklop.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7107
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 290126,
+    "idObrazec": 1201578,
+    "idObrazecSklop": 581844,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   },
+   {
+    "id": 290128,
+    "idObrazec": 1201578,
+    "idObrazecSklop": 581845,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

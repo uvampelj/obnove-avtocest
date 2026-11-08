@@ -1,0 +1,188 @@
+{
+ "row": {
+  "idObrazec": 947705,
+  "idDosje": 521980,
+  "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN003911/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-10-02T14:51:35.71",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 947705,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 521980,
+  "idObrazecPrej": 919565,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce",
+  "kratekOpis": "Predmet javnega naročila je preplastitev priključka A2/0101 Hrušica od km 0,000 do km 0,725 in od km 0,835 do km 1,396 vključno z obnovo mostu čez Savo VA0287 od km 0,615 do km 0,671 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce od km 0,000 do km 0,009. \nPredmet javnega naročila je tudi preplastitev oz. zamenjava voziščne konstrukcije na delih platoja in povratno-dostopne ceste na platoju Karavanke (mali plato – A2/0453 od km 0,065 do km 0,206, območje Policije – A2/0453 od km 0,206 do km 0,322, veliki plato – A2/0453 od km 0,311 do km 0,590 in povratno-dostopna cesta – A2/0454 od km 0,556 do km 1,025 (krak A) in od km 1,054 do 1,074 (krak B)).",
+  "referencnaStevilka": "000080/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "vrednostOcenjenaBrezDDV": 3050000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 2792047.43,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-10-02T14:30:21.903",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-02T14:51:35.71",
+  "objavaIdent": "JN003911/2025-SL2/01",
+  "eFormsIdent": "912a84d3-aeda-466e-86be-cebfde811893",
+  "eFormsFolderIdent": "4f9fc706-8d9c-4596-8633-d6f7df540acc",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-57421",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-02T14:39:44.08",
+  "narocnik": [
+   {
+    "id": 910872,
+    "idObrazec": 947705,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 326597,
+    "idObrazec": 947705,
+    "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce",
+    "opis": "Predmet javnega naročila je preplastitev priključka A2/0101 Hrušica od km 0,000 do km 0,725 in od km 0,835 do km 1,396 vključno z obnovo mostu čez Savo VA0287 od km 0,615 do km 0,671 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce od km 0,000 do km 0,009. \nPredmet javnega naročila je tudi preplastitev oz. zamenjava voziščne konstrukcije na delih platoja in povratno-dostopne ceste na platoju Karavanke (mali plato – A2/0453 od km 0,065 do km 0,206, območje Policije – A2/0453 od km 0,206 do km 0,322, veliki plato – A2/0453 od km 0,311 do km 0,590 in povratno-dostopna cesta – A2/0454 od km 0,556 do km 1,025 (krak A) in od km 1,054 do 1,074 (krak B)).",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "vrednostOcenjenaBrezDDV": 3050000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 73350,
+    "idObrazec": 947705,
+    "idObrazecSklop": 326597,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 2792047.43,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 2792047.43,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 2792047.43,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 31769.35,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 347891,
+      "naziv": "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+      "maticna": "5143802000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 1283,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 347892,
+      "naziv": "GARNOL, inženiring, gradnje in kadri, d.o.o.",
+      "maticna": "5284830000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 27945,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 38500,
+    "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce",
+    "internaStevilka": "001135/2025",
+    "datumSklenitev": "2025-09-25T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 326597
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

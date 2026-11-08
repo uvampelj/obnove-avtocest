@@ -1,0 +1,153 @@
+{
+ "row": {
+  "idObrazec": 1145462,
+  "idDosje": 509502,
+  "naslov": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo, 0026/0626 Kronovo - Dobruška vas in priključek 0125 Kronovo",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN002956/2024-EUe38/01",
+  "objavaDejanskaDatum": "2026-08-06T04:24:03.787",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1145462,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 509502,
+  "idObrazecPrej": 832480,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo, 0026/0626 Kronovo - Dobruška vas in priključek 0125 Kronovo",
+  "kratekOpis": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo od km 0+600 do km 6+338, 0026/0626 Kronovo - Dobruška vas od km 0+000 do km 1+022 in priključek 0125 Kronovo od km 0+000 do km 1+388",
+  "referencnaStevilka": "000145/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 7675634.89,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2026-08-05T10:06:25.92",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-06T04:24:03.787",
+  "objavaIdent": "JN002956/2024-EUe38/01",
+  "eFormsIdent": "39f7f5db-c804-49b8-bf01-060611d91a93",
+  "eFormsFolderIdent": "fd73d4a0-4546-4b9e-8530-2eb54b197d2d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-39950",
+  "eFormsPublishedId": "545583-2026",
+  "eFormsPublishedDate": "2026-08-06T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-05T10:13:45.433",
+  "narocnik": [
+   {
+    "id": 1203384,
+    "idObrazec": 1145462,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 524651,
+    "idObrazec": 1145462,
+    "naslov": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo, 0026/0626 Kronovo - Dobruška vas in priključek 0125 Kronovo",
+    "opis": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo od km 0+600 do km 6+338, 0026/0626 Kronovo - Dobruška vas od km 0+000 do km 1+022 in priključek 0125 Kronovo od km 0+000 do km 1+388",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 28,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 6
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 243239,
+    "idObrazec": 1145462,
+    "idObrazecSklop": 524651,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 7675634.89,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 638643,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 180226,
+    "naslov": "Preplastitev voziščne konstrukcije na AC A2 0025/0625 Novo mesto - Kronovo od km 0+600 do km 6+338, 0026/0626 Kronovo - Dobruška vas od km 0+000 do km 1+022 in priključek 0125 Kronovo od km 0+000 do km 1+388",
+    "internaStevilka": "000817/2024",
+    "datumSklenitev": "2024-07-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 524651
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 180226,
+    "opis": "1.\tDodatna dela:\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo, in zamenjava izvajalca ni mogoča iz razlogov, navedenih spodaj.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, opravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba: \nZ aneksom št. 1 se podaljša rok za: \n-\tevidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS do 31. 12. 2025\n-\tdokončanje vseh pogodbenih del v roku 30 dni po sklenitvi tega aneksa\n-\tizpolnitev pogojev za izdajo Potrdila o izvedbi v roku 60 dni po sklenitvi tega aneksa\n\nZaradi podaljšanja rokov iz 3., 4. in 5. alineje 11. člena osnovne pogodbe se obdobje, za katero je sklenjena osnovna pogodba, podaljša iz predvidenih 18 mesecev na 28 mesecev (podaljšanje za 10 mesecev), to je do dne 22. 11. 2026.\n\nSpremembe osnovne pogodbe iz te točke so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve, pri čemer so se zaradi teh dodatnih del prestavili tudi roki za predajo pogodbene dokumentacije izvedenih del). Poleg tega spremembe ne spreminjajo splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

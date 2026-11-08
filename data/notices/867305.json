@@ -1,0 +1,160 @@
+{
+ "row": {
+  "idObrazec": 867305,
+  "idDosje": 393166,
+  "naslov": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "002076/2021-EUe38/01",
+  "objavaDejanskaDatum": "2024-11-18T08:56:10.813",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 867305,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 393166,
+  "idObrazecPrej": 409773,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+  "kratekOpis": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+  "referencnaStevilka": "189/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks št. 1 se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 5191926.37,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 5641360.5,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-11-15T12:07:35.027",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-18T08:56:10.813",
+  "objavaIdent": "002076/2021-EUe38/01",
+  "eFormsIdent": "b45a4cef-7786-4ee6-a05f-a4ce7c6549fc",
+  "eFormsFolderIdent": "d71498a6-767d-4627-89d2-340264f0fd96",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "699897-2024",
+  "eFormsPublishedDate": "2024-11-18T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-15T12:34:42.737",
+  "narocnik": [
+   {
+    "id": 721295,
+    "idObrazec": 867305,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6737
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 248989,
+    "idObrazec": 867305,
+    "naslov": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+    "opis": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 41,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 34349,
+    "idObrazec": 867305,
+    "idObrazecSklop": 248989,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 5191926.37,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 3666731.82,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 177943,
+      "naziv": "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+      "maticna": "5069041000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 177944,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 17072,
+    "naslov": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina-Črni Kal in 0062/0662 Črni Kal-Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+    "internaStevilka": "981/2021",
+    "datumSklenitev": "2021-07-14T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 248989
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 17072,
+    "opis": "V času izvedbe pogodbenih del se je izkazalo, da je treba nekatere projektne rešitve prilagoditi novo nastalemu dejanskemu stanju. Posledično so nastala dodatna dela, ki presegajo pogodbeno določen obseg del.\nDodatna dela so povezana s preplastitvijo in prometno ureditvijo na trasi oz. objektih in so potrebna za dokončanje pogodbenih obveznosti, niso pa bila predvidena v času oddaje prvotnega javnega naročila. Gradbena/obrtniška dela, ki niso bila predvidena s tehnično dokumentacijo (npr. izletna cona, obvarovanje obstoječih instalacij, roliranje brežin) in se jih izvede kot dodatna dela, je treba izvesti najkasneje istočasno z deli po prvotnem javnem naročilu, saj jih tehnično ni mogoče ločiti od prvotnega javnega naročila, prav tako se s tem naročniku preprečijo velike nevšečnosti in znatno povečanje stroškov (časovni zamiki gradnje, finančna bremenitev – stojnine, finančne bremenitve – zapore).\nDodatna dela se odda obstoječemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Ob tem bi bila za čas, ko na gradbišču ne bi bilo izvajalca, potrebna zapora objektov na avtocesti. S tem bi bila za daljši čas zmanjšana prometna varnost in pretočnost avtoceste in naročniku povzročeni stroški za zaporo ceste. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile).\nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela z obstoječim izvajalcem. \nSprememba pogodbe ne spreminja splošne narave javnega naročila, saj osnovni predmet pogodbe ostaja nespremenjen.\n\nSpremembe pogodbe (podaljšanje roka za izvedbo gradbenih del, podaljšanje roka za evidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS, podaljšanje roka za pridobitev Potrdila o izvedbi in podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (posledice nepričakovanega povečanja tovornega prometa zaradi gradnje drugega tira železniške proge, (kadrovske) posledice epidemije bolezni covid-19 ter potreba po izvedbi dodatnih del zaradi prilagoditve projektnih/tehničnih rešitev).\nSpremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

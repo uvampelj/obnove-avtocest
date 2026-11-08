@@ -1,0 +1,161 @@
+{
+ "row": {
+  "idObrazec": 830256,
+  "idDosje": 335637,
+  "naslov": "Izgradnja vzhodne cevi avtocestnega predora Karavanke",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "008921/2019-EUe38/01",
+  "objavaDejanskaDatum": "2024-07-25T09:17:02.483",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 830256,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 335637,
+  "idObrazecPrej": 341841,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izgradnja vzhodne cevi avtocestnega predora Karavanke",
+  "kratekOpis": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev",
+  "referencnaStevilka": "000037/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6612,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 0.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev",
+  "objavaEU": true,
+  "datumVnosa": "2024-07-24T13:42:43.863",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-07-25T09:17:02.483",
+  "objavaIdent": "008921/2019-EUe38/01",
+  "eFormsIdent": "bd8615ad-66a0-40d7-9079-0c059dace2f3",
+  "eFormsFolderIdent": "f206899b-8606-431f-92ad-e8bc880cf7ed",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "448318-2024",
+  "eFormsPublishedDate": "2024-07-25T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-07-24T13:50:06.167",
+  "narocnik": [
+   {
+    "id": 659436,
+    "idObrazec": 830256,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6612
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 223651,
+    "idObrazec": 830256,
+    "naslov": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev",
+    "opis": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2020-01-30T00:00:00",
+    "datumKonec": "2025-06-30T00:00:00",
+    "financiraEU": true,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 24565,
+    "idObrazec": 830256,
+    "idObrazecSklop": 223651,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": false,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 123574,
+      "naziv": "Cengiz İnşaat Sanayi ve Ticaret A.Ş.",
+      "mesto": "Üsküdar, İstanbul",
+      "idSifDrzava": 218,
+      "sifDrzavaNaziv": "Turčija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 10151,
+    "naslov": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev",
+    "internaStevilka": "000804/2024",
+    "datumSklenitev": "2024-07-19T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 223651
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 10151,
+    "opis": "Aneks št. 4 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, plačilo dodatnih opažev, nominacija podizvajalcev"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

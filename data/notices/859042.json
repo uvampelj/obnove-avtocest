@@ -1,0 +1,245 @@
+{
+ "row": {
+  "idObrazec": 859042,
+  "idDosje": 515016,
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN007405/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-10-14T09:21:26.27",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 859042,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 515016,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "kratekOpis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027;\nsklop 1: redni pregledi, sklop 2: glavni pregledi",
+  "referencnaStevilka": "000222/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzIyMTI5O1JhenBpc25hIGRva3VtZW50YWNpamEgMjIyLTIwMjQuemlw",
+  "datumDoVprasanja": "2024-11-05T14:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=47395",
+  "datumDoPonudba": "2024-11-19T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 36,
+  "datumOdpiranje": "2024-11-19T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 2,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 2,
+  "objavaEU": true,
+  "datumVnosa": "2024-10-11T11:01:44.917",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-10-14T09:21:26.27",
+  "datumDoVprasanjaKalk": "2024-11-05T14:00:00",
+  "datumDoPonudbaKalk": "2024-11-19T10:00:00",
+  "objavaIdent": "JN007405/2024-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "56f2203b-6e50-41a9-8514-655d8bd2ebd7",
+  "eFormsFolderIdent": "e3f929ee-a6d8-4fde-a702-203f18caf9d3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-47395",
+  "eFormsPublishedId": "618838-2024",
+  "eFormsPublishedDate": "2024-10-14T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-10-11T12:51:55.557",
+  "narocnik": [
+   {
+    "id": 702076,
+    "idObrazec": 859042,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "V priloženi razpisni dokumentaciji so določeni vsi obvezni zakonski razlogi za izključitev."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 240799,
+    "idObrazec": 859042,
+    "naslov": "Redni pregledi",
+    "opis": "Redni pregledi",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 1
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 240800,
+    "idObrazec": 859042,
+    "naslov": "Glavni pregledi",
+    "opis": "Glavni pregledi",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Se uporablja",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS v obdobju 2025–2027\t"
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

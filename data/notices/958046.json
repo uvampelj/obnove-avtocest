@@ -1,0 +1,153 @@
+{
+ "row": {
+  "idObrazec": 958046,
+  "idDosje": 455632,
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005983/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-11-14T04:44:12.97",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 958046,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 455632,
+  "idObrazecPrej": 469289,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "kratekOpis": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8076,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 5,
+  "spremembaOpis": "Spremeni se točka C.2.6.4 Informacije o sredstvih EU. Naročilo se nanaša na projekt, ki se financira s sredstvi EU. Za izvedbo projekta 3. razvojne osi sever, Velenje - Slovenj Gradec, sklop B - Škalsko jezero in sklop H - Konovo, je bil odobren finančni prispevek iz Evropskega sklada za regionalni razvoj. V okviru Aneksa št. 2 k pogodbi DARS št. 73/2023, so vključene obvezne dodatne sestavine v osnovno pogodbo z izvajalcem del zaradi sofinanciranja Evropskega sklada za regionalni razvoj v okviru Programa evropske kohezijske politike v obdobju 2021 - 2027 (PEKP 2021 - 2027).",
+  "objavaEU": true,
+  "datumVnosa": "2025-11-12T14:02:45.987",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-11-14T04:44:12.97",
+  "objavaIdent": "005983/2022-EUe38/01",
+  "eFormsIdent": "88c01afb-2b88-425e-b6ac-87f5eb67c082",
+  "eFormsFolderIdent": "e4ff30ca-e744-4a5e-9858-abe26f8ad269",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "756036-2025",
+  "eFormsPublishedDate": "2025-11-14T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-11-12T14:29:37.527",
+  "narocnik": [
+   {
+    "id": 934353,
+    "idObrazec": 958046,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8076
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 336584,
+    "idObrazec": 958046,
+    "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+    "opis": "Predmet razpisa je izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi, sever (2. odsek), sklop B - Škalsko jezero in sklop H - Konovo. Natančen obseg del je določen v projektni nalogi s prilogami (poglavje 2).",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8076,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": true,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 76760,
+    "idObrazec": 958046,
+    "idObrazecSklop": 336584,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 510250.0,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 366249,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 366250,
+      "naziv": "GRADBENI INŠTITUT ZRMK d.o.o.",
+      "maticna": "1795490000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 222024,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 41268,
+    "naslov": "Pogodba za izvedbo zunanje kontrole kakovosti pri izgradnji hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+    "internaStevilka": "73/2023",
+    "datumSklenitev": "2023-01-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 336584
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 41268,
+    "opis": "Spremeni se točka C.2.6.4 Informacije o sredstvih EU. Naročilo se nanaša na projekt in/ali program, ki se financira s sredstvi EU. Za izvedbo projekta 3. razvojne osi sever, Velenje - Slovenj Gradec, sklop B - Škalsko jezero in sklop H - Konovo, je bil odobren finančni prispevek iz Evropskega sklada za regionalni razvoj. V okviru Aneksa št. 2 k pogodbi DARS št. 73/2023, so vključene obvezne dodatne sestavine v osnovno pogodbo z izvajalcem del zaradi sofinanciranja Evropskega sklada za regionalni razvoj v okviru Programa evropske kohezijske politike v obdobju 2021 - 2027 (PEKP 2021 - 2027)."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

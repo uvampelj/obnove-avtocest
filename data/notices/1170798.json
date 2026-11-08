@@ -1,0 +1,144 @@
+{
+ "row": {
+  "idObrazec": 1170798,
+  "idDosje": 518977,
+  "naslov": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024/0624 Trebnje-Novo mesto V in priključek 0413 Novo mesto zahod",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN001373/2025-EUe38/01",
+  "objavaDejanskaDatum": "2026-08-28T04:07:09.07",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1170798,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 518977,
+  "idObrazecPrej": 927824,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024/0624 Trebnje-Novo mesto V in priključek 0413 Novo mesto zahod",
+  "kratekOpis": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024 Trebnje-Novo mesto V od km 6+802 do km 11+893, 0624 Trebnje- Novo mesto V od km 6+802 do km 11+900 in priključek 0413 Novo mesto zahod od km 0+000 do km 0+913",
+  "referencnaStevilka": "175/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 7697580.48,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2026-08-27T09:42:30.337",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-28T04:07:09.07",
+  "objavaIdent": "JN001373/2025-EUe38/01",
+  "eFormsIdent": "17797aed-8699-4c40-8282-41973addd0b1",
+  "eFormsFolderIdent": "b39e37a1-cba9-43cb-86e8-2c40307358ce",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-53309",
+  "eFormsPublishedId": "595740-2026",
+  "eFormsPublishedDate": "2026-08-28T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-27T09:46:40.57",
+  "narocnik": [
+   {
+    "id": 1235585,
+    "idObrazec": 1170798,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1274
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 549824,
+    "idObrazec": 1170798,
+    "naslov": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024/0624 Trebnje-Novo mesto V in priključek 0413 Novo mesto zahod",
+    "opis": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024 Trebnje-Novo mesto V od km 6+802 do km 11+893, 0624 Trebnje- Novo mesto V od km 6+802 do km 11+900 in priključek 0413 Novo mesto zahod od km 0+000 do km 0+913",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2025-06-24T00:00:00",
+    "datumKonec": "2026-11-30T00:00:00",
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 265615,
+    "idObrazec": 1170798,
+    "idObrazecSklop": 549824,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 7697580.48,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 668097,
+      "naziv": "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+      "maticna": "5069149000",
+      "mesto": "Novo mesto",
+      "idSifDrzava": 1,
+      "idSifNuts": 1274,
+      "idSubjektPrs": 49961,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 201536,
+    "naslov": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024 Trebnje-Novo mesto V od km 6+802 do km 11+893, 0624 Trebnje- Novo mesto V od km 6+802 do km 11+900 in priključek 0413 Novo mesto zahod od km 0+000 do km 0+913",
+    "internaStevilka": "000848/2025",
+    "datumSklenitev": "2025-06-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 549824
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 201536,
+    "opis": "1.\tDodatna dela:\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo, in zamenjava izvajalca ni mogoča iz razlogov, navedenih spodaj.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba: \nZ aneksom št. 1 se podaljša rok za: \n-\tevidentiranje vseh sprememb prometne signalizacije v aplikacijo WEPS do 24. 4. 2026\n-\tdokončanje vseh pogodbenih del v roku 30 dni po sklenitvi tega aneksa\n-\tizpolnitev pogojev za izdajo Potrdila o izvedbi v roku 60 dni po sklenitvi tega aneksa\n\nZaradi podaljšanja rokov iz 3., 4. in 5. alineje prvega odstavka 11. člena osnovne pogodbe se obdobje, za katero je sklenjena osnovna pogodba, podaljša do dne 30. 11. 2026.\n\nSpremembe osnovne pogodbe iz te točke so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (odprava pomanjkljivosti, ugotovljenih na podlagi zapisnika 1. komisijskega pregleda, potreba po izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve, predaja pogodbene dokumentacije po izvedbi dodatnih del). Poleg tega spremembe ne spreminjajo splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

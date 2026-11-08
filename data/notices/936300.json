@@ -1,0 +1,180 @@
+{
+ "row": {
+  "idObrazec": 936300,
+  "idDosje": 522161,
+  "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN004112/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-08-22T04:51:46.493",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 936300,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 522161,
+  "idObrazecPrej": 922577,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "kratekOpis": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+  "referencnaStevilka": "000127/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 129500.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 129500.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-08-21T09:15:53.927",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-22T04:51:46.493",
+  "objavaIdent": "JN004112/2025-EUe29/01",
+  "eFormsIdent": "36e95a6c-fc73-482c-88f0-e985502ba33d",
+  "eFormsFolderIdent": "c56df6c9-27db-43d9-b042-3bba5cd98020",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-57684",
+  "eFormsPublishedId": "549604-2025",
+  "eFormsPublishedDate": "2025-08-22T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-08-21T09:20:22.42",
+  "narocnik": [
+   {
+    "id": 875734,
+    "idObrazec": 936300,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 314993,
+    "idObrazec": 936300,
+    "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+    "opis": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 129500.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje predorskih požarnih vrat za osebne prehode"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 58327,
+    "idObrazec": 936300,
+    "idObrazecSklop": 314993,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 129500.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 129500.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 129500.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 324928,
+      "naziv": "SIMER PLUS proizvodnja d.o.o.",
+      "maticna": "3327795000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 149417,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 35152,
+    "naslov": "Vzdrževanje predorskih požarnih vrat za osebne prehode",
+    "internaStevilka": "001027/2025",
+    "datumSklenitev": "2025-08-20T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 314993
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

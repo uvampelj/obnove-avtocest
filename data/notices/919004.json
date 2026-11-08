@@ -1,0 +1,214 @@
+{
+ "row": {
+  "idObrazec": 919004,
+  "idDosje": 518901,
+  "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001342/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-06-12T09:05:54.14",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 919004,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 518901,
+  "idObrazecPrej": 900938,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+  "kratekOpis": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+  "referencnaStevilka": "000022/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8255,
+  "vrednostOcenjenaBrezDDV": 6090000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 6089510.7,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-06-10T15:13:42.437",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-12T09:05:54.14",
+  "objavaIdent": "JN001342/2025-EUe29/01",
+  "eFormsIdent": "a7644eef-ae62-45d9-8fca-a3dd19da69c6",
+  "eFormsFolderIdent": "aa047d49-8eb7-499a-ac12-5b02ef13e789",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-52978",
+  "eFormsPublishedId": "380026-2025",
+  "eFormsPublishedDate": "2025-06-12T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-11T09:07:54.223",
+  "narocnik": [
+   {
+    "id": 834409,
+    "idObrazec": 919004,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 297767,
+    "idObrazec": 919004,
+    "naslov": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj",
+    "opis": "Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8255,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 54,
+    "vrednostOcenjenaBrezDDV": 6090000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ekonomsko najugodnejšo ponudbo se izbere na podlagi točkovanja po merilih kot sledi:\n-Ponudbena cena (brez DDV) – največje možno število točk 80\n-Število zaposlenih kadrov pri ponudniku – največje možno število točk 16\n-Število dodatnih referenc geotehničnega nadzornika - največje možno število točk 4",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejšo ponudbo se izbere na podlagi točkovanja po merilih kot sledi:\n-Ponudbena cena (brez DDV) – največje možno število točk 80\n-Število zaposlenih kadrov pri ponudniku – največje možno število točk 16\n-Število dodatnih referenc geotehničnega nadzornika - največje možno število točk 4"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 52512,
+    "idObrazec": 919004,
+    "idObrazecSklop": 297767,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 6089510.7,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 6089510.7,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 6089510.7,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 184036.8,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 3.02,
+    "opisDelezOddajePodizvajalcem": "Geološko kartiranje – delno, odvzem reprezentativnih vzorcev kamnin za laboratorijske preiskave – delno, inženirsko geološka spremljava izvedbe objektov – delno",
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 294015,
+      "naziv": "IRGO CONSULTING d.o.o.",
+      "maticna": "1305212000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 127485,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 294016,
+      "naziv": "GEOTOČKA IN 2GR, geodetsko svetovanje in storitve, d.o.o.",
+      "maticna": "3833399000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 226044,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 294017,
+      "naziv": "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o.",
+      "maticna": "2074699000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 107199,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 294018,
+      "naziv": "ELEA IC projektiranje in svetovanje d.o.o.",
+      "maticna": "5522749000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 19672,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 30792,
+    "naslov": "Pogodba za Geološko geotehnična spremljava gradnje dvocevnih predorov Vodriž in Pusta gora ter več geotehničnih objektov na trasi sklopa E na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi)",
+    "internaStevilka": "000814/2025",
+    "datumSklenitev": "2025-06-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 297767
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

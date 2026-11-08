@@ -1,0 +1,146 @@
+{
+ "row": {
+  "idObrazec": 926247,
+  "idDosje": 523694,
+  "naslov": "Vzdrževanje in nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP)",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN005425/2025-EUe25/01",
+  "objavaDejanskaDatum": "2025-07-11T08:59:47.91",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 926247,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 523694,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje in nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP)",
+  "kratekOpis": "Vzdrževanje in nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP).",
+  "standardnaUreditev": true,
+  "referencnaStevilka": "000066/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8449,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 300204.31,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 9,
+  "razlogOddajeBrezObjave": "Obstoječi izvajalec Četrta pot d.o.o. ima izključne licenčne pravice nad ključnimi komponentami sistema, tako za strojno in programsko opremo. Glede na dejstvo, da je podjetje Četrta pot d.o.o. razvijalec programske rešitve in tudi strojne opreme, ocenjujemo da je edini možni izvajalec za navedeno vzdrževanje in razširitve sistema.\nPredmetnega naročila ne more izvesti drug izvajalec kot izvajalec Četrta pot d.o.o., odsotnost konkurence pa ni posledica neupravičenega omejevanja elementov javnega naročila. Zaradi navedenih okoliščin in zahtev se predmet javnega naročila odda po postopku s pogajanji brez predhodne objave izvajalcu Četrta pot d.o.o. na podlagi tretje alineje točke c) prvega odstavka 46. člena ZJN-3.",
+  "objavaEU": true,
+  "datumVnosa": "2025-07-10T07:28:28.5",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-11T08:59:47.91",
+  "objavaIdent": "JN005425/2025-EUe25/01",
+  "eFormsIdent": "e035384a-f3a5-4525-bd10-71054e8ee27b",
+  "eFormsFolderIdent": "067157c4-a01c-47be-9373-72d408ff41bd",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "eFormsPublishedId": "452143-2025",
+  "eFormsPublishedDate": "2025-07-11T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-10T07:40:31.247",
+  "narocnik": [
+   {
+    "id": 851991,
+    "idObrazec": 926247,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 305204,
+    "idObrazec": 926247,
+    "naslov": "Vzdrževanje in nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP)",
+    "opis": "Vzdrževanje in nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP).",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8449,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Končna ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost ponudbe v EUR brez DDV po izvedenih pogajanjih."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 54929,
+    "idObrazec": 926247,
+    "idObrazecSklop": 305204,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 300204.31,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 306945,
+      "naziv": "ČETRTA POT, avtomatska identifikacija, računalništvo in informatika, d.o.o.",
+      "maticna": "5337976000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1277,
+      "idSubjektPrs": 161994,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 32425,
+    "internaStevilka": "000066/2025",
+    "datumSklep": "2025-07-08T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 305204
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

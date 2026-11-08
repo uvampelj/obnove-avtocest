@@ -1,0 +1,159 @@
+{
+ "row": {
+  "idObrazec": 1170902,
+  "idDosje": 483496,
+  "naslov": "Obnova vozne površine na AC Turnišče-Razcep Dolga vas, Dolga vas-Lendava, Razcep Dolga vas in na HC H7-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004013/2023-EUe38/01",
+  "objavaDejanskaDatum": "2026-09-11T04:07:52.417",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1170902,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 483496,
+  "idObrazecPrej": 491021,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozne površine na AC Turnišče-Razcep Dolga vas, Dolga vas-Lendava, Razcep Dolga vas in na HC H7-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+  "kratekOpis": "Obnova vozne površine na AC Turnišče-Razcep Dolga vas, Dolga vas-Lendava, Razcep Dolga vas in na HC H7-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+  "referencnaStevilka": "169/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": true,
+  "datumVnosa": "2026-08-27T12:06:14.25",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-09-11T04:07:52.417",
+  "objavaIdent": "004013/2023-EUe38/01",
+  "eFormsIdent": "f85a8c49-4c5a-4334-aee6-3e353415891b",
+  "eFormsFolderIdent": "ed5bd07c-6383-49e2-b594-c3bbab9d1062",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "627829-2026",
+  "eFormsPublishedDate": "2026-09-11T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-09-10T09:50:41.43",
+  "narocnik": [
+   {
+    "id": 1235926,
+    "idObrazec": 1170902,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6346
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1268
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 549906,
+    "idObrazec": 1170902,
+    "naslov": "Obnova vozne površine na AC Turnišče-Razcep Dolga vas, Dolga vas-Lendava, Razcep Dolga vas in na HC H7-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+    "opis": "Obnova vozne površine na AC Turnišče-Razcep Dolga vas, Dolga vas-Lendava, Razcep Dolga vas in na HC H7-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 38,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6346
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1268
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 265654,
+    "idObrazec": 1170902,
+    "idObrazecSklop": 549906,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 18221585.28,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 673967,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 673968,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 35633,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 201593,
+    "naslov": "Obnova vozne površine na AC A5 0813/0913 Turnišče-Razcep Dolga vas, 0814/0914 Dolga vas-Lendava, 0183 Razcep Dolga vas in na HC H7 0815/0915 A5-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+    "internaStevilka": "000934/2023",
+    "datumSklenitev": "2023-08-31T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 549906
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 201593,
+    "opis": "Spremembe pogodbe (podaljšanje pogodbenega roka za pridobitev Potrdila o izvedbi in pogodbenega roka za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, in podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (zimska prekinitev izvajanja del, kasnejša uskladitev končne situacije od predvidenega, nastanek potrebe po izvedbi dodatnih del, za katera je bilo treba pridobiti ustrezno finančno vrednotenje, preveriti vsebinsko ustreznost del, uskladiti vsebino zahtevka med pogodbenima strankama in izvesti postopek sklenitve aneksa). Spremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\nV času izvajanja pogodbe se je izkazalo, da je treba izvesti dodatna dela, ki presegajo pogodbeno določen obseg del. Dodatno naročenih del v času sklenitve osnovne pogodbe ni bilo možno predvideti, posledično niso bila vključena v osnovno pogodbo in jih ni bilo mogoče upoštevati pri oblikovanju ponudbene cene, je pa ta dela treba izvesti za namen dokončanja pogodbenih obveznosti.\n\nDodatna dela se odda prvotnemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno podvajanje stroškov. Poleg navedenega bi v primeru zamenjave izvajalca za izvedbo dodatnih del moral naročnik pričeti nov postopek oddaje javnega naročila, rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela, prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Vse opisane okoliščine, ki imajo za posledico tudi nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

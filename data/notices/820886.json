@@ -1,0 +1,222 @@
+{
+ "row": {
+  "idObrazec": 820886,
+  "idDosje": 507340,
+  "naslov": "Dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN001291/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-06-17T08:51:37.577",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 820886,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 507340,
+  "idObrazecPrej": 801550,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju",
+  "kratekOpis": "Obseg razpisanih del je dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju na lokacijah CVP Dole, CVP Ponikve, CVP most Drava, CVP razcep Slivnica, CVP Zakl, CVP most Pirešica, CVP Framski potok, CVP Repnje, CVP razcep Koseze, CVP viadukt Kupetinci, CVP počivališče Dolinsko, CVP Koper Slavček, CVP Sežana zahod, CVP izvoz Vrhnika, CVP Trebnje, CVP Hajdina, skupaj z rednim in intervencijskim vzdrževanjem za obdobje 10 let po prevzemu cestno vremenskih postaj.",
+  "referencnaStevilka": "000201/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 4363,
+  "vrednostOcenjenaBrezDDV": 2038000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 2035354.48,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-06-14T08:27:34.237",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-06-17T08:51:37.577",
+  "objavaIdent": "JN001291/2024-EUe29/01",
+  "eFormsIdent": "0eda5137-630a-49f6-807c-e98624dd26a9",
+  "eFormsFolderIdent": "2c95522d-a18d-4c2e-8f99-7de655d6305f",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "357335-2024",
+  "eFormsPublishedDate": "2024-06-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-06-14T09:05:16.177",
+  "narocnik": [
+   {
+    "id": 637268,
+    "idObrazec": 820886,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3643
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 214011,
+    "idObrazec": 820886,
+    "naslov": "Dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju",
+    "opis": "Obseg razpisanih del je dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju na lokacijah CVP Dole, CVP Ponikve, CVP most Drava, CVP razcep Slivnica, CVP Zakl, CVP most Pirešica, CVP Framski potok, CVP Repnje, CVP razcep Koseze, CVP viadukt Kupetinci, CVP počivališče Dolinsko, CVP Koper Slavček, CVP Sežana zahod, CVP izvoz Vrhnika, CVP Trebnje, CVP Hajdina, skupaj z rednim in intervencijskim vzdrževanjem za obdobje 10 let po prevzemu cestno vremenskih postaj.",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 4363,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 144,
+    "vrednostOcenjenaBrezDDV": 2038000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 3643
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Ponudbena cena  v EUR brez DDV."
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "Razpolaganje z dodatnim strokovnim kadrom za vzdrževanje."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 20777,
+    "idObrazec": 820886,
+    "idObrazecSklop": 214011,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 2035354.48,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 2035354.48,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 2035354.48,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 718317.5,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 102269,
+      "naziv": "VNET, komunikacijski sistemi d.o.o.",
+      "maticna": "3714268000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 102270,
+      "naziv": "KIMEX trgovsko podjetje d.o.o. Ljubljana",
+      "maticna": "5461421000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 7738,
+    "naslov": "Dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju",
+    "internaStevilka": "000700/2024",
+    "datumSklenitev": "2024-06-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 214011
+     }
+    ]
+   },
+   {
+    "id": 7740,
+    "naslov": "Dobava in postavitev cestno vremenskih postaj (CVP) na AC omrežju - vzdrževanje",
+    "internaStevilka": "000699/2024",
+    "datumSklenitev": "2024-06-07T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 214011
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

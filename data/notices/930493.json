@@ -1,0 +1,526 @@
+{
+ "row": {
+  "idObrazec": 930493,
+  "idDosje": 524303,
+  "naslov": "Obnova vozil in opreme",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN005926/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-07-28T08:56:41.597",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 930493,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 524303,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozil in opreme",
+  "kratekOpis": "Obnova vozil in opreme:\nSKLOP 2 - ACB SLOVENSKE KONJICE\nSKLOP 3 - ACB LJUBLJANA\nSKLOP 4 - ACB HRUŠICA\nSKLOP 6 - ACB VRANSKO\nSKLOP 7 - ACB NOVO MESTO",
+  "referencnaStevilka": "000199/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7367,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=Mzg5OTk2OzE5OS0yMDI1IFJBWlBJU05BIERPS1VNRU5UQUNJSkEuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2025-08-14T08:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=60534",
+  "datumDoPonudba": "2025-08-26T09:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-08-26T11:00:00",
+  "odpiranjePonudbKraj": "Avtomatsko v sistemu e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 5,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 5,
+  "objavaEU": true,
+  "datumVnosa": "2025-07-25T10:26:53.89",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-28T08:56:41.597",
+  "datumDoVprasanjaKalk": "2025-08-14T08:00:00",
+  "objavaIdent": "JN005926/2025-EUe16/01",
+  "eFormsIdent": "6e47720a-7f0c-4f09-bce7-57e978c1ec40",
+  "eFormsFolderIdent": "9ebc2b28-c602-4c41-b468-02d7f5014c0a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-60534",
+  "eFormsPublishedId": "492096-2025",
+  "eFormsPublishedDate": "2025-07-28T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-07-25T10:49:48.087",
+  "narocnik": [
+   {
+    "id": 861665,
+    "idObrazec": 930493,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 309358,
+    "idObrazec": 930493,
+    "naslov": "SKLOP 2 - ACB SLOVENSKE KONJICE",
+    "opis": "Obnova vozil in opreme",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1270
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost oddane ponudbe v EUR brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 309359,
+    "idObrazec": 930493,
+    "naslov": "SKLOP 3 - ACB LJUBLJANA",
+    "opis": "Obnova vozil in opreme",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena (brez DDV)",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 309360,
+    "idObrazec": 930493,
+    "naslov": "SKLOP 4 -  ACB HRUŠICA",
+    "opis": "Obnova vozil in opreme",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena (brez DDV)",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 309361,
+    "idObrazec": 930493,
+    "naslov": "SKLOP 6 - ACB VRANSKO",
+    "opis": "Obnova vozil in opreme",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena (brez DDV)",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 309362,
+    "idObrazec": 930493,
+    "naslov": "SKLOP 7 - ACB NOVO MESTO",
+    "opis": "Obnova vozil in opreme",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ponudbena cena (brez DDV)",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

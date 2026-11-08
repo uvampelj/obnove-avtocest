@@ -1,0 +1,268 @@
+{
+ "row": {
+  "idObrazec": 973306,
+  "idDosje": 527602,
+  "naslov": "Sanacija uhajanja Radona ter JR - priključek Šentrupert",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008791/2025-SL2/01",
+  "objavaDejanskaDatum": "2026-01-16T13:32:54.697",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 973306,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 527602,
+  "idObrazecPrej": 957037,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija uhajanja Radona ter JR - priključek Šentrupert",
+  "kratekOpis": "Sanacija uhajanja Radona ter JR - priključek Šentrupert:\nSklop 1 - Sanacija uhajanja Radona na Avtocestni bazi Kozina\nSklop 2 - Sanacija poškodovanega kabla JR - priključek Šentrupert",
+  "referencnaStevilka": "000313/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifNarociloVrstaDodatno": 2,
+  "idSifCpv": 7016,
+  "vrednostOcenjenaBrezDDV": 41000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 34846.5,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2026-01-16T13:24:02.847",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-01-16T13:32:54.697",
+  "objavaIdent": "JN008791/2025-SL2/01",
+  "eFormsIdent": "037ea852-f00a-445d-8981-ffce80b33048",
+  "eFormsFolderIdent": "c32b9b10-2715-42d5-a5c7-29ff1fab0790",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-65463",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-01-16T13:32:09.46",
+  "narocnik": [
+   {
+    "id": 967615,
+    "idObrazec": 973306,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7017
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 350685,
+    "idObrazec": 973306,
+    "naslov": "Sanacija uhajanja Radona na Avtocestni bazi Kozina",
+    "opis": "Sanacija uhajanja Radona na Avtocestni bazi Kozina",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7016,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 11000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena vrednost v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7017
+     },
+     {
+      "id": 7016
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba v EUR brez DDV."
+     }
+    ]
+   },
+   {
+    "id": 350686,
+    "idObrazec": 973306,
+    "naslov": "Sanacija poškodovanega kabla JR - priključek Šentrupert",
+    "opis": "Sanacija poškodovanega kabla JR - priključek Šentrupert",
+    "idSifNarociloVrsta": 3,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7016,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "vrednostOcenjenaBrezDDV": 30000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudba v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7017
+     },
+     {
+      "id": 7016
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba v EUR brez DDV"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 82569,
+    "idObrazec": 973306,
+    "idObrazecSklop": 350685,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 10863.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 10863.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 10863.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 396317,
+      "naziv": "ASTECH d.o.o., servisiranje strojnih instalacij",
+      "maticna": "1661078000",
+      "mesto": "Logatec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 229198,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 82576,
+    "idObrazec": 973306,
+    "idObrazecSklop": 350686,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 23983.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 23983.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 23983.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 396321,
+      "naziv": "TEGAR storitve in trgovina, d.o.o.",
+      "maticna": "2333821000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 171700,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 45721,
+    "naslov": "Sanacija uhajanja Radona ter JR priključek Šentrupert\nSKLOP 1 - Sanacija Uhajanja Radona na Avtocestni bazi Kozina",
+    "internaStevilka": "000048/2026",
+    "datumSklenitev": "2026-01-15T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 350685
+     }
+    ]
+   },
+   {
+    "id": 45722,
+    "naslov": "Sanacija uhajanja Radona ter JR priključek Šentrupert\nSklop 2 - Sanacija poškodovanega kabla JR - priključek Šentrupert",
+    "internaStevilka": "000049/2026",
+    "datumSklenitev": "2026-01-15T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 350686
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

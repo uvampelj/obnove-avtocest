@@ -1,0 +1,159 @@
+{
+ "row": {
+  "idObrazec": 908440,
+  "idDosje": 521077,
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN003157/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-04-29T09:10:13.427",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 908440,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 521077,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "kratekOpis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+  "referencnaStevilka": "000099/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": true,
+  "zaupniDokumentiURL": "https://www.enarocanje.si/api/datoteka/get?id=MzcyMjcxO0Rva3VtZW50YWNpamEtcG9ydGFsLTk5LTI1LnppcA",
+  "datumDoVprasanja": "2025-05-19T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=56165",
+  "datumDoPonudba": "2025-06-03T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-06-03T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z272) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-04-28T14:38:19.287",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-29T09:10:13.427",
+  "datumDoVprasanjaKalk": "2025-05-19T12:00:00",
+  "objavaIdent": "JN003157/2025-EUe16/01",
+  "eFormsIdent": "a0027a8b-ed0d-437a-a863-83bdec1f6b7e",
+  "eFormsFolderIdent": "00083033-1d85-4105-b64c-55cc37eafcb6",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-56165",
+  "eFormsPublishedId": "276337-2025",
+  "eFormsPublishedDate": "2025-04-29T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-04-28T14:54:34.817",
+  "narocnik": [
+   {
+    "id": 809708,
+    "idObrazec": 908440,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6733
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 285649,
+    "idObrazec": 908440,
+    "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027; Območje AC baz: Vransko in Slovenske Konjice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 39,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

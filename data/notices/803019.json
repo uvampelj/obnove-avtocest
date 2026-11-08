@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 803019,
+  "idDosje": 454051,
+  "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005493/2022-EUe38/01",
+  "objavaDejanskaDatum": "2024-04-02T08:08:25.63",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 803019,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 454051,
+  "idObrazecPrej": 464532,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "kratekOpis": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "referencnaStevilka": "171/2022",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6647,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 544762.27,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba pogodbe (podaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po izvedbi nepredvidenih del, ki so povzročila spremembo terminskega plana). Sprememba ne spreminja splošne narave javnega naročila, saj predmet pogodbe (tj. izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper – Izola v priključku Semedela) ostaja nespremenjen.",
+  "objavaEU": false,
+  "datumVnosa": "2024-03-30T12:46:24.54",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-04-02T08:08:25.63",
+  "objavaIdent": "005493/2022-EUe38/01",
+  "eFormsIdent": "adc5c8cc-6ca8-4f9b-9b5b-5ffd6b4754b6",
+  "eFormsFolderIdent": "2fcda520-d8e9-4e37-91ee-7de4e3248057",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-03-30T12:58:56.81",
+  "narocnik": [
+   {
+    "id": 594449,
+    "idObrazec": 803019,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6647
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 196681,
+    "idObrazec": 803019,
+    "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "opis": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2022-09-23T00:00:00",
+    "datumKonec": "2024-03-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 5
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 15278,
+    "idObrazec": 803019,
+    "idObrazecSklop": 196681,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 544762.27,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 67413,
+      "naziv": "ADRIAING Podjetje za proizvodnjo, storitve, inženiring in prodajo, d.o.o. Koper",
+      "maticna": "5520401000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 3757,
+    "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "internaStevilka": "1219/2022",
+    "datumSklenitev": "2022-09-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 196681
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 3757,
+    "opis": "Predmet aneksa je podaljšanje obdobja, za katero je sklenjena osnovna pogodba "
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

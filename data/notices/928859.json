@@ -1,0 +1,166 @@
+{
+ "row": {
+  "idObrazec": 928859,
+  "idDosje": 437799,
+  "naslov": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001370/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-07-18T13:51:02.903",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 928859,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 437799,
+  "idObrazecPrej": 452862,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+  "kratekOpis": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+  "referencnaStevilka": "119/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 3065056.71,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 3170494.19,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": false,
+  "datumVnosa": "2025-07-18T13:28:41.057",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-18T13:51:02.903",
+  "objavaIdent": "001370/2022-EUe38/01",
+  "eFormsIdent": "89425525-37c0-4b1c-9105-b7d942f70629",
+  "eFormsFolderIdent": "3c9dca41-e4bf-4266-8bad-1705c0320cab",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-18T13:45:05.24",
+  "narocnik": [
+   {
+    "id": 857752,
+    "idObrazec": 928859,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3655
+   },
+   {
+    "id": 9233
+   },
+   {
+    "id": 8137
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1269
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 307539,
+    "idObrazec": 928859,
+    "naslov": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+    "opis": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 38,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 55683,
+    "idObrazec": 928859,
+    "idObrazecSklop": 307539,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 3065056.71,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 311228,
+      "naziv": "CVP, gradbeništvo in storitve d.o.o.",
+      "maticna": "3987388000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 93131,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 311229,
+      "naziv": "OBRT-OPREMA inženiring d.o.o., Ljubljana",
+      "maticna": "1488538000",
+      "mesto": "Ljubljana - Šentvid",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 219231,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 32983,
+    "naslov": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+    "internaStevilka": "001042/2022",
+    "datumSklenitev": "2022-07-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 307539
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 32983,
+    "opis": "1.\tDodatna dela:\nMed izvedbo del po osnovni pogodbi se je pojavila potreba po izvedbi dodatnih del, ki niso bila vključena v prvotno javno naročilo, saj se je potreba po njihovi izvedbi izkazala naknadno. Pri pregledu vgrajenih betonskih protihrupnih panelov je bilo ugotovljeno, da obstaja dvom o zadostni vpetosti panelov v obstoječe HEA-140 stebre ter da je posledično vprašljiva stabilnost z novimi protihrupnimi paneli obnovljenih dveh PHO. \n\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Pogodbena dela in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov.\nV primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Dodatna dela je potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oziroma AC bazi Slovenske Konjice. \n\nVse opisane okoliščine, ki imajo za posledico tudi nastanek stroškov naročniku, opravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje roka za dokončanje gradbenih del, roka za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, in roka za pridobitev Potrdila o izvedbi ter obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po izvedbi dodatnih del in usklajevanja glede dodatnih del). \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)) ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "row": {
+  "idObrazec": 923343,
+  "idDosje": 517914,
+  "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000513/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-07-17T09:07:38.177",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 923343,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 517914,
+  "idObrazecPrej": 893107,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "kratekOpis": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica od km 4+200 do km 9+500 in 0461 priključka Slov. Bistrica - sever od km 0+000 do km 1+155, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "referencnaStevilka": "000305/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 39560000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000305/2024. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N06Z114-01) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "vrednostSkupna": 33323420.65,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-06-27T15:55:08.293",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-17T09:07:38.177",
+  "objavaIdent": "JN000513/2025-EUe29/01",
+  "eFormsIdent": "3ab22242-694b-446b-a813-dfc9c76b6641",
+  "eFormsFolderIdent": "00af86c2-2601-43e9-bc1b-66299e0abda3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-51882",
+  "eFormsPublishedId": "467057-2025",
+  "eFormsPublishedDate": "2025-07-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-16T08:28:29.723",
+  "narocnik": [
+   {
+    "id": 844721,
+    "idObrazec": 923343,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1269
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 301865,
+    "idObrazec": 923343,
+    "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+    "opis": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica od km 4+200 do km 9+500 in 0461 priključka Slov. Bistrica - sever od km 0+000 do km 1+155, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 39560000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 53728,
+    "idObrazec": 923343,
+    "idObrazecSklop": 301865,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 5,
+    "steviloEPonudbe": 5,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 5,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 33323420.65,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 39517279.85,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 33323420.65,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 4
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 309432,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 35633,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 309433,
+      "naziv": "HERING d. d.",
+      "mesto": "Široki Brijeg",
+      "idSifDrzava": 18,
+      "idSifVelikost": 1,
+      "idSubjektTujec": 3030,
+      "sifDrzavaNaziv": "Bosna in Hercegovina"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 32732,
+    "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica od km 4+200 do km 9+500 in 0461 priključka Slov. Bistrica - sever od km 0+000 do km 1+155, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+    "internaStevilka": "000853/2025",
+    "datumSklenitev": "2025-06-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 301865
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

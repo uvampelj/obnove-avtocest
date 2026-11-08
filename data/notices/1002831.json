@@ -1,0 +1,256 @@
+{
+ "row": {
+  "idObrazec": 1002831,
+  "idDosje": 528174,
+  "naslov": "Vzdrževanje varovalnih ograj",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN009297/2025-SL2/01",
+  "objavaDejanskaDatum": "2026-02-24T12:01:32.547",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1002831,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 528174,
+  "idObrazecPrej": 961968,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje varovalnih ograj",
+  "kratekOpis": "Vzdrževanje varovalnih ograj",
+  "referencnaStevilka": "000320/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3656,
+  "vrednostOcenjenaBrezDDV": 193920.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 193350.75,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2026-02-24T11:34:50.377",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-02-24T12:01:32.547",
+  "objavaIdent": "JN009297/2025-SL2/01",
+  "eFormsIdent": "4655e989-cb38-4a90-aa90-a63870e05a88",
+  "eFormsFolderIdent": "0f302673-b015-41d8-baad-b97e371ec220",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-66442",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-02-24T11:40:36.893",
+  "narocnik": [
+   {
+    "id": 1006186,
+    "idObrazec": 1002831,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 381104,
+    "idObrazec": 1002831,
+    "naslov": "Aluminijasta varovalna ograja",
+    "opis": "Aluminijasta varovalna ograja",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3656,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 136870.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje varovalnih ograj"
+     }
+    ]
+   },
+   {
+    "id": 381105,
+    "idObrazec": 1002831,
+    "naslov": "Jeklena pocinkana in plastificirana varovalna ograja",
+    "opis": "Jeklena pocinkana in plastificirana varovalna ograja",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3656,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 57050.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Vzdrževanje varovalnih ograj"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 117441,
+    "idObrazec": 1002831,
+    "idObrazecSklop": 381104,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 136394.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 136394.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 136394.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 438351,
+      "naziv": "PEKOVEC, Proizvodnja kovinskih izdelkov, d.o.o.",
+      "maticna": "6567584000",
+      "mesto": "Volčja Draga",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 133761,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 117442,
+    "idObrazec": 1002831,
+    "idObrazecSklop": 381105,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 56956.25,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 56956.25,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 56956.25,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 438349,
+      "naziv": "PEKOVEC, Proizvodnja kovinskih izdelkov, d.o.o.",
+      "maticna": "6567584000",
+      "mesto": "Volčja Draga",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 133761,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 58567,
+    "naslov": "Vzdrževanje varovalnih ograj, sklop 1: aluminijasta varovalna ograja, sklop 2: jeklena pocinkana in plastificirana varovalna ograja",
+    "internaStevilka": "000177/2026",
+    "datumSklenitev": "2026-02-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 381104
+     },
+     {
+      "id": 381105
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

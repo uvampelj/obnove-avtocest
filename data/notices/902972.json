@@ -1,0 +1,167 @@
+{
+ "row": {
+  "idObrazec": 902972,
+  "idDosje": 520258,
+  "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN002485/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-04-09T09:45:07.927",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 902972,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 520258,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "kratekOpis": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "referencnaStevilka": "000261/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 7017,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": true,
+  "zaupniDokumentiURL": "https://www.enarocanje.si/api/datoteka/get?id=MzY3OTQ5O0Rva3VtZW50YWNpamEtcG9ydGFsLTI2MS0yNC56aXA",
+  "datumDoVprasanja": "2025-05-14T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=54831",
+  "datumDoPonudba": "2025-05-28T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-05-28T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000261/2024. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N60Z034) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-04-08T10:03:34.76",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-09T09:45:07.927",
+  "datumDoVprasanjaKalk": "2025-05-14T12:00:00",
+  "datumDoPonudbaKalk": "2025-06-06T12:00:00",
+  "objavaIdent": "JN002485/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "fbaed84e-68aa-42bd-9e05-84a74619e8cf",
+  "eFormsFolderIdent": "c050cd97-f87a-45e2-b9ba-775146a22fd0",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-54831",
+  "eFormsPublishedId": "229923-2025",
+  "eFormsPublishedDate": "2025-04-09T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-04-08T13:01:35.717",
+  "narocnik": [
+   {
+    "id": 795278,
+    "idObrazec": 902972,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 3769
+   },
+   {
+    "id": 3765
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1275
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 280288,
+    "idObrazec": 902972,
+    "naslov": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+    "opis": "Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 7017,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 11,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja skupna ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 3769
+     },
+     {
+      "id": 3765
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja skupna ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

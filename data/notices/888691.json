@@ -1,0 +1,182 @@
+{
+ "row": {
+  "idObrazec": 888691,
+  "idDosje": 515889,
+  "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008133/2024-EUe29/01",
+  "objavaDejanskaDatum": "2025-02-17T08:49:21.173",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 888691,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 515889,
+  "idObrazecPrej": 865840,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+  "kratekOpis": "Vzdrževanje ventilacije v predorih za potrebe naročnika.",
+  "referencnaStevilka": "000248/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 667480.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 667308.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-02-13T08:39:42.28",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-02-17T08:49:21.173",
+  "objavaIdent": "JN008133/2024-EUe29/01",
+  "eFormsIdent": "965e64bd-1838-4b88-938f-1e857ff0e960",
+  "eFormsFolderIdent": "f673b5b5-42f8-4387-8c57-e70fdf7d15e7",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-47996",
+  "eFormsPublishedId": "104466-2025",
+  "eFormsPublishedDate": "2025-02-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-02-13T14:36:41.3",
+  "narocnik": [
+   {
+    "id": 765980,
+    "idObrazec": 888691,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 267323,
+    "idObrazec": 888691,
+    "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+    "opis": "Vzdrževanje ventilacije v predorih za potrebe naročnika.",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 667480.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 5434
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 42536,
+    "idObrazec": 888691,
+    "idObrazecSklop": 267323,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 667308.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 667308.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 667308.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 233664,
+      "naziv": "KLIMA CELJE Industrija aerotermičnih naprav d.d.",
+      "maticna": "5035490000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "glavniURL": "http://www.klima-celje.si",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 149497,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 23141,
+    "naslov": "VZDRŽEVANJE VENTILACIJE V PREDORIH",
+    "internaStevilka": "000269/2025",
+    "datumSklenitev": "2025-02-12T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 267323
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

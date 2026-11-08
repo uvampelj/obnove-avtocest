@@ -1,0 +1,264 @@
+{
+ "row": {
+  "idObrazec": 1001517,
+  "idDosje": 527166,
+  "naslov": "Dobava vozil za pregled ceste",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN008446/2025-EUe29/01",
+  "objavaDejanskaDatum": "2026-02-23T04:25:58.647",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1001517,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 527166,
+  "idObrazecPrej": 953389,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava vozil za pregled ceste",
+  "kratekOpis": "Dobava vozil za pregled ceste\nSklop 1 - Lahko tovorno vozilo, skupne mase 3,5t – dolga kabina, s signalno tablo na kesonu in naletnim mehom (LV 4)\nSklop 2 - Lahko tovorno vozilo, skupne mase 3,5t - dolga kabina, s signalno tablo na kesonu (LV 5)",
+  "referencnaStevilka": "000266/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3380,
+  "vrednostOcenjenaBrezDDV": 2351000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 2344392.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-02-18T12:05:34.693",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-02-23T04:25:58.647",
+  "objavaIdent": "JN008446/2025-EUe29/01",
+  "eFormsIdent": "8863d6f9-a63f-4cec-9a05-df76a7268e2d",
+  "eFormsFolderIdent": "8bfcc014-2244-49c4-bd51-0f9a51e9bfa0",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-64758",
+  "eFormsPublishedId": "126099-2026",
+  "eFormsPublishedDate": "2026-02-23T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-02-20T13:43:50.297",
+  "narocnik": [
+   {
+    "id": 1003256,
+    "idObrazec": 1001517,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 379683,
+    "idObrazec": 1001517,
+    "naslov": "Sklop 1 - Lahko tovorno vozilo, skupne mase 3,5t – dolga kabina, s signalno tablo na kesonu in naletnim mehom (LV 4)",
+    "opis": "Sklop 1 - Lahko tovorno vozilo, skupne mase 3,5t – dolga kabina, s signalno tablo na kesonu in naletnim mehom (LV 4)",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3380,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 43,
+    "vrednostOcenjenaBrezDDV": 1032000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za posamezni sklop. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za posamezni sklop.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 3380
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za posamezni sklop. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za posamezni sklop."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 379684,
+    "idObrazec": 1001517,
+    "naslov": "Sklop 2 - Lahko tovorno vozilo, skupne mase 3,5t - dolga kabina, s signalno tablo na kesonu (LV 5)",
+    "opis": "Sklop 2 - Lahko tovorno vozilo, skupne mase 3,5t - dolga kabina, s signalno tablo na kesonu (LV 5)",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3380,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 43,
+    "vrednostOcenjenaBrezDDV": 1319000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za posamezni sklop. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za posamezni sklop.",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 3380
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba za posamezni sklop. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV za posamezni sklop."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 116892,
+    "idObrazec": 1001517,
+    "idObrazecSklop": 379683,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1027692.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1027692.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1027692.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 436058,
+      "naziv": "BENUSSI, podjetje za trgovino, d.o.o.",
+      "maticna": "6272070000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 16312,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 116893,
+    "idObrazec": 1001517,
+    "idObrazecSklop": 379684,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1316700.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1316700.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1316700.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 436057,
+      "naziv": "BENUSSI, podjetje za trgovino, d.o.o.",
+      "maticna": "6272070000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 16312,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 58221,
+    "naslov": "Dobava vozil za pregled ceste, Sklop 1 - Lahko tovorno vozilo, skupne mase 3,5t – dolga kabina, s signalno tablo na kesonu in naletnim mehom (LV 4) in Sklop 2 - Lahko tovorno vozilo, skupne mase 3,5t - dolga kabina, s signalno tablo na kesonu (LV 5)",
+    "internaStevilka": "000086/2026",
+    "datumSklenitev": "2026-01-22T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 379683
+     },
+     {
+      "id": 379684
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

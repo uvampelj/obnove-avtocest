@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 933690,
+  "idDosje": 454051,
+  "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005493/2022-EUe38/02-P01",
+  "objavaDejanskaDatum": "2025-08-08T09:35:33.56",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 933690,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 454051,
+  "idObrazecPrej": 933542,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "kratekOpis": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "referencnaStevilka": "193/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6647,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": false,
+  "idSifPopravekRazlog": 2,
+  "popravekOpis": "Naročnik objavlja popravek opisa sprememb v oddelku F2 - opis sprememb.",
+  "datumVnosa": "2025-08-08T07:36:52.663",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-08T09:35:33.56",
+  "objavaIdent": "005493/2022-EUe38/02-P01",
+  "idObrazecPrejPopravek": 933542,
+  "eFormsIdent": "bbcfb6dc-36ae-4711-ab91-54d83b64d9d6",
+  "eFormsFolderIdent": "2fcda520-d8e9-4e37-91ee-7de4e3248057",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-08-08T07:50:27.037",
+  "narocnik": [
+   {
+    "id": 869167,
+    "idObrazec": 933690,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6647
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 312717,
+    "idObrazec": 933690,
+    "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "opis": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2022-09-23T00:00:00",
+    "datumKonec": "2025-07-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6647
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 57548,
+    "idObrazec": 933690,
+    "idObrazecSklop": 312717,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 544762.27,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 320468,
+      "naziv": "ADRIAING Podjetje za proizvodnjo, storitve, inženiring in prodajo, d.o.o. Koper",
+      "maticna": "5520401000",
+      "mesto": "Koper - Capodistria",
+      "idSifDrzava": 1,
+      "idSifNuts": 1279,
+      "idSubjektPrs": 103498,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 34394,
+    "naslov": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+    "internaStevilka": "1219/2022",
+    "datumSklenitev": "2022-09-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 312717
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 34394,
+    "opis": "1.\tDodatna dela:\nV povezavi s prevezavo fekalnega kolektorja se je med izvedbo del pojavila potreba po dodatnih delih, ki so potrebna za popolno izvedbo in dokončanje pogodbenih obveznosti po osnovni pogodbi. Pri teh dodatnih delih gre za spremembo v načinu izvedbe zgoraj opisanih del, ki jih ni mogoče izvesti na način, kot je bil prvotno predviden s projektno dokumentacijo PZI, zato jih naročnik tudi ni mogel vključiti v osnovno pogodbo. \n\nIz tehničnih in ekonomskih razlogov zamenjava izvajalca v konkretnem primeru ni mogoča, zato se izvedba zgoraj navedenih dodatnih del odda obstoječemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. Dodatna dela, ki niso bila predvidena s projektno dokumentacijo PZI (kot so zamenjava odseka cevi, ki je bila sploščena, spajanje cevi z INOX spojkami, izvedba čelne stene kinete, obdelava neravnin v ceveh, vgradnja cevi drugačnega premera, kot je bilo predvideno v projektu, zahtevnejše čiščenje kanalizacije od predvidenega), je treba izvesti v okviru prvotnega javnega naročila, saj jih tehnično ni mogoče ločiti, s čimer se lahko prepreči nevšečnosti in povečanje/podvajanje stroškov (časovni zamiki izvedbe del, finančna bremenitev zaradi ne obratovanje predorov in zapor ipd.). \n\nV primeru zamenjave izvajalca za izvedbo opisanih dodatnih del bi moral namreč naročnik začeti nov postopek oddaje javnega naročila. Ob tem bi bilo za celoten čas do ponovne uspešne vzpostavitve nekaterih krakov kanalizacije potrebno podaljšanje zapore kanalizacije. S tem bi bila za daljši čas zmanjšana varnost in pretočnost kanalizacije ter naročniku povzročeni stroški za prečrpavanje kanalizacije. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Poleg tega bi prvotni izvajalec lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, delovne sile, ponovnih zapor ipd.). Prav tako bi bilo v primeru ugotovitve napak in pomanjkljivosti, izvedenih v času trajanja garancijskega roka, nemogoče razmejiti odgovornosti za napake, saj bi bilo zelo težko nedvoumno ugotoviti, kateri od obeh udeleženih izvajalcev je odgovoren za nastalo škodo. \n\nNa podlagi vseh navedenih okoliščin je vključitev izbranega izvajalca najbolj racionalna rešitev tako s stališča stroškov kot tudi časovne izvedbe, s čimer je upravičena sklenitev aneksa z obstoječim izvajalcem. \n\n2.\tPodaljšanje rokov za dokončanje del in obdobja, za katero je sklenjena osnovna pogodba:\nSprememba osnovne pogodbe (podaljšanje rokov za dokončanje del – rok za pridobitev Potrdila o izvedbi in rok za izpolnitev vseh pogojev, potrebnih za izdajo Potrdila o prevzemu, in obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (novonastale okoliščine v kineti fekalnega kolektorja, ki jih je bilo treba raziskati in po potrebi sanirati, ter neustrezni vremenski pogoji in nerazpoložljivost zadostnega števila delavcev za zapiranje kanalizacijskega sistema). \n\nSprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe (izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper – Izola v priključku Semedela) ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

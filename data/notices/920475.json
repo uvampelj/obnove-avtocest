@@ -1,0 +1,211 @@
+{
+ "row": {
+  "idObrazec": 920475,
+  "idDosje": 444925,
+  "naslov": "Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; 2 sklopa",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "003330/2022-EUe29/02",
+  "objavaDejanskaDatum": "2025-06-17T09:20:56.65",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 920475,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 444925,
+  "idObrazecPrej": 444925,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; 2 sklopa",
+  "kratekOpis": "Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; sklop 2",
+  "referencnaStevilka": "000029/2022",
+  "idSifPostopekVrsta": 2,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 31500000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 32597622.87,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-06-16T12:25:26.733",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-06-17T09:20:56.65",
+  "objavaIdent": "003330/2022-EUe29/02",
+  "eFormsIdent": "8bf37021-b92d-4569-9cdd-6db0ed24bd25",
+  "eFormsFolderIdent": "afbde5b8-a51e-4ca4-a797-f45d08303f32",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "390885-2025",
+  "eFormsPublishedDate": "2025-06-17T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-06-16T12:41:04.52",
+  "narocnik": [
+   {
+    "id": 837553,
+    "idObrazec": 920475,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6402
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 299091,
+    "idObrazec": 920475,
+    "naslov": "Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; sklop 2",
+    "opis": "Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; sklop 2",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2025-06-09T00:00:00",
+    "datumKonec": "2028-06-09T00:00:00",
+    "vrednostOcenjenaBrezDDV": 31500000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "cena",
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 52896,
+    "idObrazec": 920475,
+    "idObrazecSklop": 299091,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 32597622.87,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 32597622.87,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 32597622.87,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 4720000.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 295974,
+      "naziv": "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+      "maticna": "5143497000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.kolektor.si",
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "idSubjektPrs": 79474,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 295975,
+      "naziv": "PETRIČ Proizvodnja in trgovina d.o.o.",
+      "maticna": "5565316000",
+      "mesto": "Ajdovščina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.petric.si",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 205577,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 31061,
+    "naslov": "Predmet: Izvedba dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; sklop 2",
+    "internaStevilka": "000816/2025",
+    "datumSklenitev": "2025-06-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 299091
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "row": {
+  "idObrazec": 907287,
+  "idDosje": 517674,
+  "naslov": "Vzdrževanje korozijske katodne zaščite",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000284/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-04-24T07:46:03.503",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 907287,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 517674,
+  "idObrazecPrej": 882335,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje korozijske katodne zaščite",
+  "kratekOpis": "Vzdrževanje korozijske katodne zaščite",
+  "referencnaStevilka": "000301/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 127150.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 124910.2,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-04-23T14:55:03.437",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-04-24T07:46:03.503",
+  "objavaIdent": "JN000284/2025-SL2/01",
+  "eFormsIdent": "4196d86c-ff60-4168-8378-6963ef5e2a90",
+  "eFormsFolderIdent": "73714e7e-279a-4408-afd1-f5ff804f1477",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-51513",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-04-23T15:00:32.047",
+  "narocnik": [
+   {
+    "id": 806563,
+    "idObrazec": 907287,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 284229,
+    "idObrazec": 907287,
+    "naslov": "Vzdrževanje korozijske katodne zaščite",
+    "opis": "Vzdrževanje korozijske katodne zaščite",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 127150.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. ",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Merilo za izbor ponudbe je ekonomsko najugodnejša ponudba. \nEkonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV. \n"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 48440,
+    "idObrazec": 907287,
+    "idObrazecSklop": 284229,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 124910.2,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 124910.2,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 124910.2,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 268389,
+      "naziv": "CPS, družba za korozijsko katodno zaščito, d.o.o.",
+      "maticna": "5307546000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 37946,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 27893,
+    "naslov": "Vzdrževanje korozijske katodne zaščite",
+    "internaStevilka": "000611/2025",
+    "datumSklenitev": "2025-03-26T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 284229
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

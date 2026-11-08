@@ -1,0 +1,163 @@
+{
+ "row": {
+  "idObrazec": 954012,
+  "idDosje": 527251,
+  "naslov": "Opravljanje strokovno svetovalnih in inženirskih storitev v zvezi z obravnavo novonastalih okoliščin med izgradnjo Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecKoda": "F25",
+  "sifPostopekFazaNaziv": "Predhodna transparentnost",
+  "objavaIdent": "JN008568/2025-EUe25/01",
+  "objavaDejanskaDatum": "2025-10-30T05:12:45.443",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 954012,
+  "idSifObrazec": 21,
+  "idSifObrazecVerzija": 21,
+  "idDosje": 527251,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Opravljanje strokovno svetovalnih in inženirskih storitev v zvezi z obravnavo novonastalih okoliščin med izgradnjo Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+  "kratekOpis": "Opravljanje strokovno svetovalnih in inženirskih storitev v zvezi z obravnavo novonastalih okoliščin med izgradnjo Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+  "standardnaUreditev": true,
+  "referencnaStevilka": "000248/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8102,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 399600.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 4,
+  "razlogOddajeBrezObjave": "Zaradi neločljive tehnične povezanosti med obstoječimi in nadaljnjimi strokovno svetovalnimi storitvami, se novo naročilo za dokončanje projekta odda po postopku s pogajanji brez predhodne objave, v skladu z drugo alinejo točke c) 46. člena ZJN-3.\nV skladu s 3. in 15. členom bi zamenjava nadzora, torej izvajalca svetovalnih in inženirskih storitev za izgradnjo Polnega priključka na Celovški cesti terjala ustavitev gradnje, kar bi za naročnika pomenilo dodatno podaljšanje roka za izgradnjo priključka in vse v zvezi s tem povezane stroške, ki bi jih moral plačati izvajalcu gradnje. Kar pa je ključno, izvajanje del, ki posegajo na dela v izvajanju oz. že izvedena dela, ki skupaj tvorijo priključek, za katerega je bilo izdano eno gradbeno dovoljenje, mora nadzorovati isti inženir (nadzornik) zaradi zagotavljanja kontinuitete nadzora, strokovnosti in odgovornosti. Vodja nadzora namreč vodi in koordinira nadzor nad gradnjo v celoti, zato se te funkcije oz. odgovornosti ne da deliti in dodatnih del poveriti drugemu nadzorniku. Obstoječi nadzorni inženir ima namreč celovit vpogled v projekt, izvedena dela, uporabljene materiale, rešitve na terenu in morebitne tehnične zaplete in zanj tudi odgovarja. To bistveno zmanjša tveganje za napake, neskladja in podvajanja.\nObstoječi izvajalec že razpolaga z vsemi potrebnimi znanji, izkušnjami in vpogledom v projekt ter je od samega začetka vključen v projekt od faze zasnove, preko priprave projektnih rešitev, do uspešne izvedbe gradbenih del. Poleg tega ima izvajalec že vzpostavljeno projektno ekipo z ustreznimi strokovnjaki, ki so že vključeni v obstoječe delovne tokove in imajo izkušnje z vsemi ostalimi deležniki projekta ter lahko edini zagotovi nemoteno nadaljevanje strokovno svetovalnih storitev brez tveganja izgube informacij.\nGlede na kompleksnost investicije in dosedanje izvedene faze je nadaljnje sodelovanje z obstoječim izvajalcem potrebno tudi zaradi naslednjih ključnih tehničnih razlogov kot je  celovit vpogled v projektno dokumentacijo, neprekinjeno spremljanje izvedbe, Poznavanje izvedenih sprememb in prilagoditev, vzpostavljena koordinacija z deležniki,  poznavanje zahtevnih tehničnih rešitev in vodenje odprtih tehničnih postopkov. \nKot je razvidno iz zgornjih pojasnil, predmetnega naročila ne more izvesti drug, kot le obstoječi izvajalec, odsotnost konkurence pa ni posledica neupravičenega omejevanja elementov javnega naročila.",
+  "objavaEU": true,
+  "datumVnosa": "2025-10-27T12:15:16.45",
+  "sifObrazecKoda": "F25",
+  "sifObrazecOznaka": "EUe25",
+  "sifObrazecNaziv": "Prostovoljno obvestilo za predhodno transparentnost – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-30T05:12:45.443",
+  "objavaIdent": "JN008568/2025-EUe25/01",
+  "eFormsIdent": "655ec0b8-135d-49b1-866c-6811e2620d0c",
+  "eFormsFolderIdent": "2bcf75ca-ff3a-459e-bc9f-dcb67d8e47fc",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 5,
+  "eFormsPublishedId": "717855-2025",
+  "eFormsPublishedDate": "2025-10-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-29T12:29:03.077",
+  "narocnik": [
+   {
+    "id": 925198,
+    "idObrazec": 954012,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 332811,
+    "idObrazec": 954012,
+    "naslov": "Opravljanje strokovno svetovalnih in inženirskih storitev v zvezi z obravnavo novonastalih okoliščin med izgradnjo Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+    "opis": "Opravljanje strokovno svetovalnih in inženirskih storitev v zvezi z obravnavo novonastalih okoliščin med izgradnjo Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8102,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 127,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Merilo za izbor ponudbe je končna ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Merilo za izbor ponudbe je končna ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 75393,
+    "idObrazec": 954012,
+    "idObrazecSklop": 332811,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 399600.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 119333.2,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 29.86,
+    "opisDelezOddajePodizvajalcem": "Vodja projekta in GG nadzor ter nadzor strojnih del",
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 360450,
+      "naziv": "ZIL inženiring, družba za razvoj, inženiring in vodenje investicij, d.o.o.",
+      "maticna": "5227020000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 25593,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 360451,
+      "naziv": "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+      "maticna": "5075742000",
+      "mesto": "Nova Gorica",
+      "idSifDrzava": 1,
+      "idSifNuts": 1278,
+      "idSubjektPrs": 190575,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 40264,
+    "internaStevilka": "000248/2025",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 332811
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

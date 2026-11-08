@@ -1,0 +1,176 @@
+{
+ "row": {
+  "idObrazec": 932800,
+  "idDosje": 522140,
+  "naslov": "SANACIJA IZTROŠENIH POŽARNIH CENTRAL V PREDORIH",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN004033/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-08-07T14:33:45.767",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 932800,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 522140,
+  "idObrazecPrej": 915755,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "SANACIJA IZTROŠENIH POŽARNIH CENTRAL V PREDORIH",
+  "kratekOpis": "Sanacija iztrošenih požarnih central v predorih za potrebe naročnika",
+  "referencnaStevilka": "000125/2025",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 1,
+  "idSifNarociloVrstaDodatno": 3,
+  "idSifCpv": 7573,
+  "vrednostOcenjenaBrezDDV": 143550.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 142312.5,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2025-08-05T09:45:50.1",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-07T14:33:45.767",
+  "objavaIdent": "JN004033/2025-SL2/01",
+  "eFormsIdent": "59be978f-cd34-47af-b666-6992f7aad04f",
+  "eFormsFolderIdent": "01240561-fa2e-48d9-b5b1-a5b7320d7772",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-57571",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-08-07T13:29:39.367",
+  "narocnik": [
+   {
+    "id": 866915,
+    "idObrazec": 932800,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7022
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 311829,
+    "idObrazec": 932800,
+    "naslov": "SANACIJA IZTROŠENIH POŽARNIH CENTRAL V PREDORIH",
+    "opis": "Sanacija iztrošenih požarnih central v predorih za potrebe naročnika",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 3,
+    "idSifCpv": 7573,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 12,
+    "vrednostOcenjenaBrezDDV": 143550.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponujena cena",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7022
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja cena"
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 57144,
+    "idObrazec": 932800,
+    "idObrazecSklop": 311829,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 142312.5,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 142312.5,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 142312.5,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 320351,
+      "naziv": "A KODA PLUS, tehnična oprema objektov d.o.o.",
+      "maticna": "6377459000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "http://www.akoda.si",
+      "idSifVelikost": 5,
+      "idSubjektPrs": 170437,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 34116,
+    "naslov": "SANACIJA IZTROŠENIH POŽARNIH CENTRAL V PREDORIH",
+    "internaStevilka": "000997/2025",
+    "datumSklenitev": "2025-08-05T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 311829
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

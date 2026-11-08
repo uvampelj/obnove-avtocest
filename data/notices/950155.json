@@ -1,0 +1,165 @@
+{
+ "row": {
+  "idObrazec": 950155,
+  "idDosje": 448963,
+  "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A1 Meja A- Šentilj -Dragučova, A1 Dragučova-MB (Ptujska), A5 Dragučova-Lenart in razcep Dragučova",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004341/2022-EUe38/01",
+  "objavaDejanskaDatum": "2025-10-14T05:04:43.39",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 950155,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 448963,
+  "idObrazecPrej": 459809,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A1 Meja A- Šentilj -Dragučova, A1 Dragučova-MB (Ptujska), A5 Dragučova-Lenart in razcep Dragučova",
+  "kratekOpis": "Preplastitev voziščne konstrukcije na odsekih AC A1 Šentilj-Pesnica, Pesnica-Dragučova, Dragučova-MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor - Sever",
+  "referencnaStevilka": "130/2025",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Sprememba osnovne pogodbe (podaljšanje roka za dokončanje gradbenih del, podaljšanje roka za pridobitev potrdila o izvedbi ter podaljšanje obdobja, za katero je sklenjena osnovna pogodba) je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti. \nDo potrebe za podaljšanje roka za izvedbo gradbenih del je prišlo zaradi neugodnih vremenskih razmer in pogojev ter obdobja zimske službe. Zaradi podaljšanja vmesnega roka za izvedbo gradbenih del ter zaradi prekinitve del v zimskem času je prišlo do zamika tudi drugih pogodbenih rokov. Zamuda je nastala pri realizaciji pogodbenega roka za pridobitev potrdila o izvedbi. Zamik se je zgodil zaradi razjasnitve dodatnih preiskav na asfaltnih zmeseh, kjer je prihajalo do odstopanj v meritvah med NKK in ZKK. Zaradi razjasnitve in obračuna odbitkov je bilo potrebno izvesti dodatne preiskave asfaltnih zmesi.\nZaradi podaljšanja vmesnih rokov za izvedbo pogodbenih obveznosti je bilo posledično treba podaljšati tudi obdobje, za katero se sklepa osnovna pogodba. Osnovna pogodba se sklepa za predvideno obdobje 24 mesecev. Ker v tem času še niso bile izpolnjene vse pogodbene obveznosti (izdaja potrdila o izvedbi), je bilo treba podaljšati obdobje, za katero je sklenjena osnovna pogodba, in sicer za dodatnih 12 mesecev, kar pomeni, da se je časovno obdobje podaljšalo iz 24 mesecev na 36 mesecev. \nV konkretnem pogodbenem razmerju pravočasna izpolnitev pogodbe ni bila določena kot bistvena sestavina pogodbe. V takem primeru izvajalec tudi po izteku pogodbe lahko izpolni svojo obveznost, naročnik pa zahteva njeno izpolnitev oz. pogodba ostaja v veljavi vse dotlej, dokler ni izpolnjen predmet pogodbe, kar je bistvena vsebina pogodbe. Iz konkludentnih ravnanj obeh pogodbenih strank izhaja, da sta si obe pogodbeni stranki ves čas prizadevali za izpolnitev pogodbe, ne glede na to, da so se pogodbene obveznosti izvajale tudi izven obdobja, za katero je bila sklenjena pogodba. Navedeno kaže na to, da je tudi v podaljšanem obdobju (tj. po poteku predvidenega obdobja), obstajala volja izvajalca za izvedbo del. Poleg tega je bilo obdobje, ki je bilo v pogodbi določeno za izpolnitev vseh pogodbenih obveznosti, le predvideno.\nSprememba tudi ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen.",
+  "objavaEU": true,
+  "datumVnosa": "2025-10-13T12:49:06.723",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-14T05:04:43.39",
+  "objavaIdent": "004341/2022-EUe38/01",
+  "eFormsIdent": "ef7bb96c-fc83-4e04-b42f-58f0f6c7a40c",
+  "eFormsFolderIdent": "995228c4-76be-48ca-acca-df71ab8fa82b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "674828-2025",
+  "eFormsPublishedDate": "2025-10-14T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-13T13:26:24.153",
+  "narocnik": [
+   {
+    "id": 916419,
+    "idObrazec": 950155,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6737
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1269
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 328887,
+    "idObrazec": 950155,
+    "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A1 Meja A- Šentilj -Dragučova, A1 Dragučova-MB (Ptujska), A5 Dragučova-Lenart in razcep Dragučova",
+    "opis": "Preplastitev voziščne konstrukcije na odsekih AC A1 Šentilj-Pesnica, Pesnica-Dragučova, Dragučova-MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor - Sever",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6737
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 74248,
+    "idObrazec": 950155,
+    "idObrazecSklop": 328887,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 16390638.45,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 3933753.23,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 3933753.23,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 352573,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 352574,
+      "naziv": "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+      "maticna": "5511941000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 35633,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 39222,
+    "naslov": "Preplastitev voziščne konstrukcije na odsekih AC A1 Šentilj-Pesnica, Pesnica-Dragučova, Dragučova-MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor – Sever",
+    "internaStevilka": "001234/2022",
+    "datumSklenitev": "2022-09-28T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 328887
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 39222,
+    "opis": "Predmet aneksa št. 1 je podaljšanje pogodbenega roka za izvedbo del, podaljšanje pogodbenega roka za pridobitev potrdila o izvedbi in podaljšanje obdobja, za katero je sklenjena osnovna pogodba."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

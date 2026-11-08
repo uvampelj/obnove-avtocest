@@ -1,0 +1,144 @@
+{
+ "row": {
+  "idObrazec": 838235,
+  "idDosje": 405363,
+  "naslov": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo, ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "004605/2021-EUe38/01",
+  "objavaDejanskaDatum": "2024-08-29T13:29:02.53",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 838235,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 405363,
+  "idObrazecPrej": 431506,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo, ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+  "kratekOpis": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo, ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+  "referencnaStevilka": "000044/2021",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6710,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 1507448.33,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": false,
+  "datumVnosa": "2024-08-29T12:08:52.003",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-29T13:29:02.53",
+  "objavaIdent": "004605/2021-EUe38/01",
+  "eFormsIdent": "7a67e665-810e-4cad-b213-1607c50a4aab",
+  "eFormsFolderIdent": "4ad9e5d9-2133-4a92-9f99-818a0dd8e1b1",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-29T12:39:53.93",
+  "narocnik": [
+   {
+    "id": 677416,
+    "idObrazec": 838235,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6710
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 230856,
+    "idObrazec": 838235,
+    "naslov": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo, ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+    "opis": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo, ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6710,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 33,
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 27816,
+    "idObrazec": 838235,
+    "idObrazecSklop": 230856,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 1507448.33,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 141531,
+      "naziv": "DELTABLOC, varnostne in protihrupne ograje d.o.o.",
+      "maticna": "7184590000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 12255,
+    "naslov": "Obnova protihrupnih ograj na AC A1 0644 Blagovica–Krtina, HC H4 0776 Ajdovščina–Selo ter 0778 Selo–Vogrsko, HC H2 0032 Pesnica–Maribor in AC A2 0602 Hrušica–Lipce",
+    "internaStevilka": "21/2022",
+    "datumSklenitev": "2022-01-05T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 230856
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 12255,
+    "opis": "Dodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so pogodbena dela in dodatna dela v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru ni mogoča iz tehničnih razlogov, poleg tega pa bi naročniku povzročila velike nevšečnosti in znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik začeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Vse opisane okoliščine, ki imajo za posledico tudi nastanek stroškov naročniku, opravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem.  \n\nSpremembi osnovne pogodbe (podaljšanje roka za pridobitev Potrdila o izvedbi in podaljšanje obdobja, za katero je sklenjena osnovna pogodba) sta dopustni na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer sta spremembi potrebni zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti. Spremembi ne spreminjata splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen. Glede na to, da je izvajalec izvedel vsa dela po osnovni pogodbi in s tem izpolnil pogoje za pridobitev potrdila o prevzemu, ni pa še sklenjen aneks za dodatna, več, manj in opuščena dela, je potrebno podaljšati rok za pridobitev Potrdila o izvedbi. Glede na podaljšanje roka za pridobitev Potrdila o izvedbi in še potrebnih aktivnosti za zaključek pogodbenih obveznosti je treba podaljšati tudi obdobje, za katero je sklenjena osnovna pogodba. \n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

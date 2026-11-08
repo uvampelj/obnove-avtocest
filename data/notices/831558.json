@@ -1,0 +1,130 @@
+{
+ "row": {
+  "idObrazec": 831558,
+  "idDosje": 310710,
+  "naslov": "Vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite Hochiki, Ademco Vista, Esser, Detectomat in Summit Companies",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "003562/2019-EUe38/01",
+  "objavaDejanskaDatum": "2024-08-16T08:34:47.153",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 831558,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 310710,
+  "idObrazecPrej": 320037,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite Hochiki, Ademco Vista, Esser, Detectomat in Summit Companies",
+  "kratekOpis": "Aneks 1 k pog. DARS št. 943/2019 za vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite za sklop Esser in Detectomat",
+  "referencnaStevilka": "000830/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7485,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "podaljšanje pogodbenega roka zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti",
+  "objavaEU": false,
+  "datumVnosa": "2024-07-30T14:37:52.247",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-16T08:34:47.153",
+  "objavaIdent": "003562/2019-EUe38/01",
+  "eFormsIdent": "90c8ee2b-afce-4906-b21c-10c972a90a15",
+  "eFormsFolderIdent": "6418cad5-d1de-4b4d-919f-edc86cbafa7a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-08-16T08:22:21.82",
+  "narocnik": [
+   {
+    "id": 662149,
+    "idObrazec": 831558,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7485
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 224794,
+    "idObrazec": 831558,
+    "naslov": "Aneks 1 k pog. DARS št. 943/2019 za vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite za sklop Esser in Detectomat",
+    "opis": "podaljšanje pogodbenega roka zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7366,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2019-07-31T00:00:00",
+    "datumKonec": "2024-12-31T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 25171,
+    "idObrazec": 831558,
+    "idObrazecSklop": 224794,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 11399,
+    "naslov": "Aneks 1 k pog. DARS št. 943/2019 za vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite za sklop Esser in Detectomat",
+    "internaStevilka": "000830/2024",
+    "datumSklenitev": "2024-07-29T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 224794
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 11399,
+    "opis": "podaljšanje pogodbenega roka zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

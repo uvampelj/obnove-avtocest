@@ -1,0 +1,148 @@
+{
+ "row": {
+  "idObrazec": 927504,
+  "idDosje": 523893,
+  "naslov": "Izvajanje meritev svetlobno odbojnih in kromatičnih lastnosti prometne signalizacije",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN005572/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-07-16T08:56:35.59",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 927504,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 523893,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvajanje meritev svetlobno odbojnih in kromatičnih lastnosti prometne signalizacije",
+  "kratekOpis": "Izvajanje meritev svetlobno odbojnih in kromatičnih lastnosti prometne signalizacije",
+  "referencnaStevilka": "000180-2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8157,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=Mzg3NTk2O1JEIG9iamF2YV8xODAtMjAyNS56aXA",
+  "datumDoVprasanja": "2025-08-08T15:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=60021",
+  "datumDoPonudba": "2025-08-19T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 120,
+  "datumOdpiranje": "2025-08-19T12:00:00",
+  "odpiranjePonudbKraj": "ejn",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-07-15T10:09:00.433",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-16T08:56:35.59",
+  "datumDoVprasanjaKalk": "2025-08-08T15:00:00",
+  "objavaIdent": "JN005572/2025-EUe16/01",
+  "eFormsIdent": "ae4bc07b-6391-4738-8c9d-be045bc8cbc7",
+  "eFormsFolderIdent": "e743b7ec-36c3-4756-8f11-41e1746a796c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-60021",
+  "eFormsPublishedId": "464160-2025",
+  "eFormsPublishedDate": "2025-07-16T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-07-15T10:17:15.61",
+  "narocnik": [
+   {
+    "id": 854693,
+    "idObrazec": 927504,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 306192,
+    "idObrazec": 927504,
+    "naslov": "Izvajanje meritev svetlobno odbojnih in kromatičnih lastnosti prometne signalizacije",
+    "opis": "Izvajanje meritev svetlobno odbojnih in kromatičnih lastnosti prometne signalizacije",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8157,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "najnižja vrednost dopustne ponudbe",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "najnižja vrednost dopustne ponudbe"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

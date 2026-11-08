@@ -1,0 +1,182 @@
+{
+ "row": {
+  "idObrazec": 786630,
+  "idDosje": 506224,
+  "naslov": "Spremljanje stanja geotehničnih objektov na avtocestah in hitrih cestah v upravljanju DARS za obdobje 10 let",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN000460/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-01-29T10:23:34.32",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 786630,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 506224,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Spremljanje stanja geotehničnih objektov na avtocestah in hitrih cestah v upravljanju DARS za obdobje 10 let",
+  "kratekOpis": "Spremljanje stanja geotehničnih objektov na avtocestah in hitrih cestah v upravljanju DARS za obdobje 10 let",
+  "referencnaStevilka": "000265/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8097,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MjYyNjkwO1JhenBpc25hIGRva3VtZW50YWNpamEgMjY1LTIwMjMuemlw",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2024-02-16T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=35725",
+  "datumDoPonudba": "2024-03-01T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 123,
+  "datumOdpiranje": "2024-03-01T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-01-26T12:51:18.05",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-01-29T10:23:34.32",
+  "datumDoVprasanjaKalk": "2024-02-16T12:00:00",
+  "objavaIdent": "JN000460/2024-EUe16/01",
+  "eFormsIdent": "650f0f45-5581-4ea0-972e-ab8920681307",
+  "eFormsFolderIdent": "5711e42e-00d4-4776-b102-cb1bcfe2bd8d",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "eFormsPublishedId": "58080-2024",
+  "eFormsPublishedDate": "2024-01-29T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-01-26T13:11:59.353",
+  "narocnik": [
+   {
+    "id": 557205,
+    "idObrazec": 786630,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "V priloženi razpisni dokumentaciji so določeni vsi obvezni zakonski razlogi za izključitev."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 173185,
+    "idObrazec": 786630,
+    "naslov": "Spremljanje stanja geotehničnih objektov na avtocestah in hitrih cestah v upravljanju DARS za obdobje 10 let",
+    "opis": "Spremljanje stanja geotehničnih objektov na avtocestah in hitrih cestah v upravljanju DARS za obdobje 10 let",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 123,
+    "ponovljenoNarocilo": false,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifKrajOmejitev": 2
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "opis": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 3,
+      "opis": "Spremljanje stanja geotehničnih objektov"
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "row": {
+  "idObrazec": 932329,
+  "idDosje": 421401,
+  "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C – Škale",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "007299/2021-EUe29/02",
+  "objavaDejanskaDatum": "2025-08-04T05:01:42.107",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 932329,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 421401,
+  "idObrazecPrej": 421401,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C – Škale",
+  "kratekOpis": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C – Škale",
+  "referencnaStevilka": "000186/2021",
+  "idSifPostopekVrsta": 2,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "vrednostOcenjenaBrezDDV": 99000000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 98989688.57,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-08-01T13:55:26.617",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-08-04T05:01:42.107",
+  "objavaIdent": "007299/2021-EUe29/02",
+  "eFormsIdent": "e32c691e-eb85-4026-b33e-49a1b26b8717",
+  "eFormsFolderIdent": "ff61f8e4-5163-4fb3-aae2-228b40b6dc27",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "508288-2025",
+  "eFormsPublishedDate": "2025-08-04T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-08-01T14:16:33.753",
+  "narocnik": [
+   {
+    "id": 865817,
+    "idObrazec": 932329,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6402
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 311181,
+    "idObrazec": 932329,
+    "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C – Škale",
+    "opis": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C – Škale",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2025-07-31T00:00:00",
+    "datumKonec": "2029-05-31T00:00:00",
+    "vrednostOcenjenaBrezDDV": 99000000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "cena",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 56989,
+    "idObrazec": 932329,
+    "idObrazecSklop": 311181,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 3,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 2,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 98989688.57,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 98989688.57,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 98989688.57,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": true,
+    "dosezenoMesto": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 3640449.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": false,
+    "okoljskiVidik": true,
+    "zelenoNarocanje": true,
+    "eticniVidik": false,
+    "obrazecOddajaOkoljskiVidik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecOddajaOkoljskiVidikPredmet": [
+     {
+      "id": 14
+     }
+    ],
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 317858,
+      "naziv": "POMGRAD, gradbeno podjetje d.d.",
+      "maticna": "5459001000",
+      "mesto": "Murska Sobota",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 1,
+      "kotacija": false,
+      "idSubjektPrs": 102346,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 33997,
+    "naslov": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug, na 3. razvojni osi sever; sklop C - Škale",
+    "internaStevilka": "000976/2025",
+    "datumSklenitev": "2025-07-31T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 311181
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

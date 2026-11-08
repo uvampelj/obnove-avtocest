@@ -1,0 +1,204 @@
+{
+ "row": {
+  "idObrazec": 947465,
+  "idDosje": 518168,
+  "naslov": "Sanacija iztrošenih baterij v predorih",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN000748/2025-EUe38/01",
+  "objavaDejanskaDatum": "2025-10-03T04:49:54.62",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 947465,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 518168,
+  "idObrazecPrej": 919087,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija iztrošenih baterij v predorih",
+  "kratekOpis": "Sanacija iztrošenih baterij v predorih, razdeljeno na dva sklopa:\nSklop 1 - Sanacija iztrošenih baterij naprave Socomec\nSklop 2 - Sanacija iztrošenih baterij naprave Mides",
+  "referencnaStevilka": "000262/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7592,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 316615.6,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Naročnik in izvajalec MIDES INTERNATIONAL d.o.o. sta dne 3. 6. 2025 sklenila pogodbo DARS št. 798/2025 (v nadaljevanju: osnovna pogodba), s katero je naročnik oddal, izvajalec pa prevzel izvedbo naslednjih del: Sanacija iztrošenih baterij v predorih, sklop 2 – Sanacija iztrošenih baterij naprave Mides v vrednosti 144.464,00 EUR brez DDV za obdobje 6 mesecev od datuma sklenitve pogodbe tj. do 3. 12. 2025.\nZa kompletno sanacijo iztrošenih baterij naprave Mides v PC Trojane vzhod je potrebnih še dodatnih 20 baterij, ker je na tej lokaciji iztrošenih še 20 baterij, poleg 132 iztrošenih baterij, ki so bile zajete z osnovno pogodbo.",
+  "vrednostPosodobljenaSkupna": 144464.0,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 149784.0,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-10-02T09:11:17.3",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-03T04:49:54.62",
+  "objavaIdent": "JN000748/2025-EUe38/01",
+  "eFormsIdent": "3642b55b-692b-4a1f-8239-9a44f2a38062",
+  "eFormsFolderIdent": "2845c54b-4eda-4725-b33f-f93f3366764e",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-52282",
+  "eFormsPublishedId": "647446-2025",
+  "eFormsPublishedDate": "2025-10-03T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-02T09:13:55.57",
+  "narocnik": [
+   {
+    "id": 910281,
+    "idObrazec": 947465,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 326228,
+    "idObrazec": 947465,
+    "naslov": "Sanacija iztrošenih baterij naprave Socomec",
+    "opis": "Sklop 1 - Sanacija iztrošenih baterij naprave Socomec",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7592,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 326229,
+    "idObrazec": 947465,
+    "naslov": "Sanacija iztrošenih baterij naprave Mides",
+    "opis": "Sklop 2 - Sanacija iztrošenih baterij naprave Mides",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7592,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 6,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 73208,
+    "idObrazec": 947465,
+    "idObrazecSklop": 326228,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 172151.6,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 347417,
+      "naziv": "SOCOMEC SICON podjetje za proizvodnjo in prodajo elektronskih in elektrotehničnih sistemov d.o.o.",
+      "maticna": "5315158000",
+      "mesto": "Kranj",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 201246,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 73209,
+    "idObrazec": 947465,
+    "idObrazecSklop": 326229,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 144464.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 347418,
+      "naziv": "MIDES INTERNATIONAL inženiring sistemov za neprekinjeno napajanje d.o.o.",
+      "maticna": "5594120000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 141482,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 38423,
+    "naslov": "Sanacija iztrošenih baterij naprave Socomec, sklop 1",
+    "internaStevilka": "000799/2025",
+    "datumSklenitev": "2025-06-03T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 326228
+     }
+    ]
+   },
+   {
+    "id": 38424,
+    "naslov": "Sanacija iztrošenih baterij naprave Mides, sklop 2",
+    "internaStevilka": "000798/2025",
+    "datumSklenitev": "2025-06-03T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 326229
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 38424,
+    "opis": "Skladno z 2. točko 1. odstavka 95. člena ZJN-3 se sklene aneks št. 1 k osnovni pogodbi za dodatne storitve – dodatnih 20 kos postavke 2. iz ponudbenega predračuna v skupni vrednosti 5.320,00 EUR brez DDV. Nova pogodbena vrednost znaša 149.784,00 EUR brez DDV."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

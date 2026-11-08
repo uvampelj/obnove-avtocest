@@ -1,0 +1,152 @@
+{
+ "row": {
+  "idObrazec": 1142269,
+  "idDosje": 645759,
+  "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN005927/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-07-24T04:05:08.673",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1142269,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 645759,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "kratekOpis": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+  "referencnaStevilka": "000112/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 3637,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NTgzNjQ3O1JEIG9iamF2YSAxMTItMjAyNi56aXA",
+  "datumDoVprasanja": "2026-08-11T11:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=77260",
+  "datumDoPonudba": "2026-08-27T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2026-08-27T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-23T08:13:00.453",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-24T04:05:08.673",
+  "datumDoVprasanjaKalk": "2026-09-07T11:00:00",
+  "datumDoPonudbaKalk": "2026-09-22T10:00:00",
+  "objavaIdent": "JN005927/2026-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "c10ceb63-03b7-43bf-8823-afb1692287eb",
+  "eFormsFolderIdent": "c282ddfe-9ed0-428f-81cb-0c88b13f2d0b",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-77260",
+  "eFormsPublishedId": "514464-2026",
+  "eFormsPublishedDate": "2026-07-24T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-07-23T08:20:03.62",
+  "narocnik": [
+   {
+    "id": 1196202,
+    "idObrazec": 1142269,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 521600,
+    "idObrazec": 1142269,
+    "naslov": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+    "opis": "CISTERNA ZA PRANJE CESTIŠČ NA SISTEMU ABROL",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 3637,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 52,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

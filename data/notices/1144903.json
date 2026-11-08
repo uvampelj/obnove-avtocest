@@ -1,0 +1,151 @@
+{
+ "row": {
+  "idObrazec": 1144903,
+  "idDosje": 518991,
+  "naslov": "Obnova vozne površine razcepa Ljubljana (Zadobrova)",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN001362/2025-EUe38/01",
+  "objavaDejanskaDatum": "2026-08-03T13:21:52.303",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1144903,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 518991,
+  "idObrazecPrej": 928114,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozne površine razcepa Ljubljana (Zadobrova)",
+  "kratekOpis": "Predmet javnega naročila je preplastitev priključka A1/146 Lj. Zadobrova – krak A od km 0,000 do km 0,749 in krak C od km 1,383 do km 2,361 in krak D od km 2,450 do km 3,161 ter obnova AC A1 0462 Priključek Lj. Industrijska Cona Moste (BTC) – krak C od km 0,256 do km 0,357.",
+  "referencnaStevilka": "000113/2026",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 1865427.71,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "objavaEU": false,
+  "datumVnosa": "2026-08-03T12:58:23.653",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-08-03T13:21:52.303",
+  "objavaIdent": "JN001362/2025-EUe38/01",
+  "eFormsIdent": "91e15de5-eb13-40c5-a954-41b23257ddfb",
+  "eFormsFolderIdent": "0f261b95-f9a4-41a5-aad7-196e355ae36c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "ejnIdent": "JN-53327",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-08-03T13:02:25.85",
+  "narocnik": [
+   {
+    "id": 1202121,
+    "idObrazec": 1144903,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 524017,
+    "idObrazec": 1144903,
+    "naslov": "Obnova vozne površine razcepa Ljubljana (Zadobrova)",
+    "opis": "Predmet javnega naročila je preplastitev priključka A1/146 Lj. Zadobrova – krak A od km 0,000 do km 0,749 in krak C od km 1,383 do km 2,361 in krak D od km 2,450 do km 3,161 ter obnova AC A1 0462 Priključek Lj. Industrijska Cona Moste (BTC) – krak C od km 0,256 do km 0,357.",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 242963,
+    "idObrazec": 1144903,
+    "idObrazecSklop": 524017,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 1865427.71,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 637553,
+      "naziv": "STRABAG gradbene storitve d.o.o.",
+      "maticna": "5879566000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 59250,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 637554,
+      "naziv": "STRABAG za građevinske poslove, d.o.o.",
+      "mesto": "Zagreb",
+      "idSifDrzava": 95,
+      "idSifNuts": 838,
+      "idSubjektTujec": 3070,
+      "sifDrzavaNaziv": "Hrvaška"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 180068,
+    "naslov": "Preplastitev priključka A1/146 Lj. Zadobrova – krak A od km 0,000 do km 0,749 in krak C od km 1,383 do km 2,361 in krak D od km 2,450 do km 3,161 ter obnova AC A1 0462 Priključek Lj. Industrijska Cona Moste (BTC) – krak C od km 0,256 do km 0,357",
+    "internaStevilka": "000878/2025",
+    "datumSklenitev": "2025-07-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 524017
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 180068,
+    "opis": "1.\tDodatna dela:\nDodatna dela se oddajo istemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3, saj so potrebna, čeprav niso bila vključena v prvotno javno naročilo, in zamenjava izvajalca ni mogoča iz razlogov, navedenih spodaj.\nPogodbena dela (prvotno naročilo) in dodatna dela so v taki medsebojni povezanosti, da v primeru, da bi jih izvajala dva različna izvajalca, ni mogoče zagotoviti ustrezne kakovosti del. Povezanost pogodbenih in dodatnih del narekuje pridobitev enovite garancije, s katero izključno en izvajalec jamči za odpravo napak v času garancijske dobe. Zamenjava izvajalca v konkretnem primeru tako ni mogoča iz ekonomskih in tehničnih razlogov, kot so zahteve glede zamenljivosti ali interoperabilnosti z obstoječo opremo, storitvami ali inštalacijami, naročenimi v okviru prvotnega javnega naročila. \nPoleg navedenega bi zamenjava izvajalca naročniku povzročila velike nevšečnosti ali znatno povečanje stroškov. V primeru zamenjave izvajalca za izvedbo dodatnih del bi moral naročnik pričeti nov postopek oddaje javnega naročila. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). \nDodatna dela je nadalje potrebno izvesti tudi za zagotovitev prometne varnosti pri izvajanju del vzdrževanja DARS d. d. tako med izvedbo del po osnovni pogodbi kot tudi po predaji AC odseka v upravljanje in vzdrževanje DARS d. d. oz. AC bazi Ljubljana. \nVse opisane okoliščine, ki imajo za posledico tudi nastanek nepotrebnih in dodatnih stroškov naročniku, upravičujejo sklenitev aneksa št. 1 za dodatna dela s prvotnim izvajalcem.  \n\n2.\tPodaljšanje roka za dokončanje del in obdobja: \nZ aneksom št. 1 se podaljšuje rok za izvedbo GOI del za postavko »Ostali odseki na območju ljubljanskega obroča in razcepov«, in sicer v roku 12 dni sukcesivno oz. najkasneje do 30. 4. 2026.\n\nZaradi podaljšanja zgoraj navedenega roka se podaljšuje tudi obdobje, za katero je sklenjena osnovna pogodba, iz predvidenih 12 mesecev na 14 mesecev (tj. do 1. 9. 2026).\n\nSprememba osnovne pogodbe je dopustna na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer je sprememba potrebna zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (potreba po spremembi faznost izvedbe GOI del za postavko »Ostali odseki na območju ljubljanskega obroča in razcepov«, ki se izvede po dokončanju GOI del v osnovni pogodbi, vezana na avtocestni priključek Lj. – Zadobrova, z namenom zmanjšanja prometne obremenitve in ob upoštevanju ugodnih vremenskih razmer ter potreba po izvedbi dodatnih del zaradi prilagoditve projektne/tehnične rešitve). Sprememba ne spreminja splošne narave javnega naročila, saj predmet osnovne pogodbe ostaja nespremenjen."
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

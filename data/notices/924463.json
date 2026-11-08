@@ -1,0 +1,415 @@
+{
+ "row": {
+  "idObrazec": 924463,
+  "idDosje": 519914,
+  "naslov": "Obnova vozil in opreme",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN002193/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-07-04T09:27:01.407",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 924463,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 519914,
+  "idObrazecPrej": 900544,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova vozil in opreme",
+  "kratekOpis": "Obnova vozil in opreme:\nSKLOP 1 - ACB POSTOJNA\nSKLOP 2 - ACB SLOVENSKE KONJICE\nSKLOP 3 - ACB LJUBLJANA\nSKLOP 4 - ACB HRUŠICA\nSKLOP 5 - ACB KOZINA\nSKLOP 6 - ACB VRANSKO\nSKLOP 7 - ACB NOVO MESTO\nSKLOP 8 - ACB MURSKA SOBOTA",
+  "referencnaStevilka": "000277/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifNarociloVrstaDodatno": 2,
+  "idSifCpv": 7367,
+  "vrednostOcenjenaBrezDDV": 464640.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 125400.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-07-03T07:11:22.7",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-04T09:27:01.407",
+  "objavaIdent": "JN002193/2025-EUe29/01",
+  "eFormsIdent": "2b99c13e-5f9b-4272-8dde-bcba2a381d89",
+  "eFormsFolderIdent": "b40f9c34-8ef3-4ec9-96ce-5e027899d172",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-54645",
+  "eFormsPublishedId": "434358-2025",
+  "eFormsPublishedDate": "2025-07-04T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-07-03T07:24:39.24",
+  "narocnik": [
+   {
+    "id": 847599,
+    "idObrazec": 924463,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 303231,
+    "idObrazec": 924463,
+    "naslov": "SKLOP 1 - ACB POSTOJNA",
+    "opis": "Obnova vozil in opreme v ACB POSTOJNA:\nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "vrednostOcenjenaBrezDDV": 80160.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 303235,
+    "idObrazec": 924463,
+    "naslov": "SKLOP 5 - ACB KOZINA",
+    "opis": "Obnova vozil in opreme v ACB KOZINA: \nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "vrednostOcenjenaBrezDDV": 21600.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   },
+   {
+    "id": 303238,
+    "idObrazec": 924463,
+    "naslov": "SKLOP 8 - ACB MURSKA SOBOTA",
+    "opis": "Obnova vozil in opreme v ACB MURSKA SOBOTA:\nPotencialni ponudniki si morajo pred oddajo ponudbe ogledati vozila in opremo, navedeno v Poglavju 2 za ponujeni sklop, v nasprotnem primeru bo naročnik njegovo ponudbo izločil kot nedopustno. Vse stroške in odgovornost v zvezi z ogledom prevzame ponudnik sam.\nZa potencialne ponudnike bo tako organiziran ogled v tednu od 8. 4. 2025 do 17. 4. 2025. Za ogled se mora potencialni ponudnik predhodno najaviti kontaktni osebi naročnika po telefonu v delovnem času med 8. in 14. uro. Kontaktni podatki so navedeni v točki 8. Poglavja 1. Kot dokazilo opravljenega ogleda morajo ponudniki v ponudbo obvezno priložiti IZJAVO 2-POTRDILO O OGLEDU iz Poglavja 6!",
+    "idSifNarociloVrsta": 1,
+    "idSifNarociloVrstaDodatno": 2,
+    "idSifCpv": 7367,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 14,
+    "vrednostOcenjenaBrezDDV": 36000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7367
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Vrednost najnižje dopustne ponudbe brez DDV",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 60.0
+     },
+     {
+      "idSifOddajaMerilo": 2,
+      "opis": "Oddaljenost lokacije delavnice ponudnika od lokacije AC baze",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 40.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 54314,
+    "idObrazec": 924463,
+    "idObrazecSklop": 303231,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 76200.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 76200.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 76200.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 303734,
+      "naziv": "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna",
+      "maticna": "1570307000",
+      "mesto": "Postojna",
+      "idSifDrzava": 1,
+      "idSifNuts": 1275,
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 110940,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 54315,
+    "idObrazec": 924463,
+    "idObrazecSklop": 303235,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 19800.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 19800.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 19800.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 303740,
+      "naziv": "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna",
+      "maticna": "1570307000",
+      "mesto": "Postojna",
+      "idSifDrzava": 1,
+      "idSifNuts": 1275,
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 110940,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 54316,
+    "idObrazec": 924463,
+    "idObrazecSklop": 303238,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 29400.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 29400.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 29400.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 303743,
+      "naziv": "AVTO CENTER MAKOTER, servis in trgovina d.o.o.",
+      "maticna": "5358701000",
+      "mesto": "Ljutomer",
+      "idSifDrzava": 1,
+      "idSifNuts": 1268,
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 104747,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 32042,
+    "naslov": "OBNOVA VOZIL IN OPREME\nSKLOP 1 - ACB POSTOJNA\nSKLOP 5 - ACB KOZINA",
+    "internaStevilka": "000882/2025",
+    "datumSklenitev": "2025-07-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 303231
+     },
+     {
+      "id": 303235
+     }
+    ]
+   },
+   {
+    "id": 32043,
+    "naslov": "OBNOVA VOZIL IN OPREME\nSKLOP 8 - ACB MURSKA SOBOTA",
+    "internaStevilka": "000883/2025",
+    "datumSklenitev": "2025-07-01T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 303238
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

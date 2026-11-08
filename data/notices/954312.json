@@ -1,0 +1,200 @@
+{
+ "row": {
+  "idObrazec": 954312,
+  "idDosje": 526350,
+  "naslov": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007709/2025-EUe29/01",
+  "objavaDejanskaDatum": "2025-10-28T11:59:31.313",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": false
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 954312,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 526350,
+  "idObrazecPrej": 947146,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS",
+  "kratekOpis": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS\nSklop 1 - Nadgradnja in vzdrževanje aplikativnega programa DARS EIS\nSklop 2 - Nadgradnja in vzdrževanje periferne opreme DARS EIS",
+  "referencnaStevilka": "000244/2025",
+  "idSifPostopekVrsta": 6,
+  "idSifNarociloVrsta": 2,
+  "idSifNarociloVrstaDodatno": 1,
+  "idSifCpv": 308,
+  "vrednostOcenjenaBrezDDV": 183740.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 176070.0,
+  "idSifValutaSkupna": 1,
+  "idSifRazlogOddajeBrezObjave": 5,
+  "razlogOddajeBrezObjave": "V predhodno (neuspešno) izvedenem postopku oddaje predmetnega javnega naročila, ki je bilo objavljeno dne 26. 2. 2025 na Portalu javnih naročil pod številko objave JN001217/2025-SL1/01, je bila prejeta ena e-ponudba, ki je bila ocenjena kot nedopustna, ker brez bistvenih sprememb očitno ni ustrezala potrebam in zahtevam naročnika, ki so bile določene v dokumentaciji v zvezi z oddajo javnega naročila. K oddaji ponudbe je bil zato vabljen kandidat, ki je v predhodnem postopku edini oddal (neustrezno) ponudbo, to je AMIBIT, energetski sistemi, d.o.o.",
+  "objavaEU": false,
+  "datumVnosa": "2025-10-28T10:27:16.86",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-10-28T11:59:31.313",
+  "objavaIdent": "JN007709/2025-EUe29/01",
+  "eFormsIdent": "45c2c8f9-e67a-4525-9172-c4972e9b0308",
+  "eFormsFolderIdent": "5b0cd38f-6e82-4ca0-afb9-ccfa0fe92b8f",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-10-28T10:30:18.02",
+  "narocnik": [
+   {
+    "id": 925832,
+    "idObrazec": 954312,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7274
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 333043,
+    "idObrazec": 954312,
+    "naslov": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS",
+    "opis": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS\nSklop 1 - Nadgradnja in vzdrževanje aplikativnega programa DARS EIS\nSklop 2 - Nadgradnja in vzdrževanje periferne opreme DARS EIS",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 308,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "vrednostOcenjenaBrezDDV": 183740.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV",
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 7274
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Ekonomsko najugodnejša ponudba je tista ponudba, v kateri bo ponujena najnižja cena v EUR brez DDV"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopNamen": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 75472,
+    "idObrazec": 954312,
+    "idObrazecSklop": 333043,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 176070.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 176070.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 176070.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 359556,
+      "naziv": "AMIBIT, energetski sistemi, d.o.o.",
+      "maticna": "6930808000",
+      "mesto": "Velenje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 111099,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 40228,
+    "naslov": "Nadgradnja in vzdrževanje aplikativnega programa ter periferne opreme DARS EIS",
+    "internaStevilka": "001205/2025",
+    "datumSklenitev": "2025-10-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 333043
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "row": {
+  "idObrazec": 891111,
+  "idDosje": 392297,
+  "naslov": "Rekonstrukcija priključka Leskovškove ceste na hitro cesto H3",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "001918/2021-EUe38/01",
+  "objavaDejanskaDatum": "2025-02-25T08:47:40.843",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 891111,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 392297,
+  "idObrazecPrej": 413983,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Rekonstrukcija priključka Leskovškove ceste na hitro cesto H3",
+  "kratekOpis": "Rekonstrukcija priključka Leskovškove ceste na hitro cesto H3",
+  "referencnaStevilka": "209/2024",
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6647,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 2,
+  "spremembaOpis": "Aneks se sklepa na podlagi 2. in 3. točke prvega odstavka 95. člena ZJN-3",
+  "vrednostPosodobljenaSkupna": 10541656.17,
+  "idSifValutaPosodobljenaSkupna": 1,
+  "vrednostPoSpremembah": 10694239.81,
+  "idSifValutaPoSpremembah": 1,
+  "objavaEU": true,
+  "datumVnosa": "2025-02-21T13:41:50.817",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-02-25T08:47:40.843",
+  "objavaIdent": "001918/2021-EUe38/01",
+  "eFormsIdent": "20038ce9-2c78-4762-b56d-12e007b6972b",
+  "eFormsFolderIdent": "6c3bf146-5806-41b9-abf5-12619dc5eb70",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "125767-2025",
+  "eFormsPublishedDate": "2025-02-25T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-02-21T15:01:40.93",
+  "narocnik": [
+   {
+    "id": 770809,
+    "idObrazec": 891111,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6647
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 270008,
+    "idObrazec": 891111,
+    "naslov": "Rekonstrukcija priključka Leskovškova ceste na hitro cesto H3 ",
+    "opis": "Rekonstrukcija priključka Leskovškova ceste na hitro cesto H3 ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6647,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2021-08-18T00:00:00",
+    "datumKonec": "2025-02-04T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 43261,
+    "idObrazec": 891111,
+    "idObrazecSklop": 270008,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 9295044.91,
+    "idSifValutaIzbrana": 1,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 237692,
+      "naziv": "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+      "maticna": "3512592000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 197635,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 237693,
+      "naziv": "MARKOMARK NIVAL graditeljstvo d.o.o.",
+      "maticna": "2210258000",
+      "mesto": "Hajdina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1269,
+      "idSubjektPrs": 36183,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 237694,
+      "naziv": "REMONT obrtno gradbeno podjetje, d.d.",
+      "maticna": "5066816000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSubjektPrs": 73287,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 23738,
+    "naslov": "Rekonstrukcija priključka Leskovškova ceste na hitro cesto H3 ",
+    "internaStevilka": "1068/2021",
+    "datumSklenitev": "2021-08-18T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 270008
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 23738,
+    "opis": "V času izvedbe pogodbenih del se je izkazalo, da je treba nekatere projektne rešitve prilagoditi novo nastalemu dejanskemu stanju. Posledično so nastala dodatna dela, ki presegajo pogodbeno določen obseg del.\nDodatna dela so povezana z razširitvijo priključka, rekonstrukcijo nadvoza, izvedbo nove sovprežne konstrukcije nadvoza, izgradnjo jeklenih portalov in ostalimi deli ter so potrebna za dokončanje pogodbenih obveznosti, niso pa bila predvidena v času oddaje prvotnega javnega naročila.\nGradbena/obrtniška dela, ki niso bila predvidena s tehnično dokumentacijo (kot npr. porušitev kabelske kanalizacije in odvozom na deponijo; varovanje HC z montažnimi elementi; izvedba dodatnih komunalnih prevezav/navezav; oteženi izkopi za potrebe izvedbe temelja opornika ob obstoječem objektu nadvoza 4-1 in HC; zamenjava obstoječih infrastrukturnih komunalnih vodov; izvedba novih komunalnih vodov; novi dostop (iz PST) do vojašnice Edvarda Peperka…), je bilo treba izvesti najkasneje istočasno z deli po prvotnem javnem naročilu, saj jih skladno z 2. točko 1. odstavka 95. člena ZJN-3 tehnično ni bilo mogoče ločiti od prvotnega javnega naročila, ker so se s tem naročniku preprečile nevšečnosti in povečanje stroškov (časovni zamiki gradnje, finančna bremenitev – stojnine, finančne bremenitve – zapore …).\nDodatna dela se odda prvotnemu izvajalcu skladno z 2. točko prvega odstavka 95. člena ZJN-3. V primeru zamenjave izvajalca za izvedbo zgoraj opisanih dodatnih del bi moral namreč naročnik pričeti nov postopek oddaje javnega naročila. Ob tem bi bila za čas, ko na gradbišču ne bi bilo izvajalca, potrebna zapora objektov na avtocesti. S tem bi bila za daljši čas zmanjšana prometna varnost in pretočnost avtoceste in naročniku povzročeni stroški za zaporo ceste. Rok izvedbe predmetnega naročila bi se podaljšal za čas pridobivanja novega izvajalca, ki bi izvedel dodatna dela. Prvotni izvajalec pa bi lahko zahteval povračilo stroškov, ki bi mu nastali v času, ko z izvedbo del ni mogel nadaljevati (kot npr. stroški zavarovanj, garancij, stojnin mehanizacije in delovne sile). Prav tako bi bilo v primeru ugotovitve napak in pomanjkljivosti izvedenih del v času trajanja garancijskega roka nemogoče razmejiti odgovornost za napake, saj bi bilo zelo težko nedvoumno ugotoviti, kateri od obeh udeleženih izvajalcev je odgovoren za nastalo škodo.\nOpisane okoliščine, ki bi imele za posledico nastanek nesorazmernih stroškov naročniku, upravičujejo sklenitev aneksa za dodatna dela s prvotnim izvajalcem. \nSprememba pogodbe ne spreminja splošne narave javnega naročila, saj osnovni predmet pogodbe ostaja nespremenjen.\n\nSpremembe pogodbe (podaljšanje roka za izvedbo gradbenih del, podaljšanje roka za izpolnitev pogojev, potrebnih za izdajo Potrdila o prevzemu in podaljšanje roka za pridobitev Potrdila o izvedbi ter podaljšanje obdobja, za katero je sklenjena osnovna pogodba) so dopustne na podlagi 3. točke prvega odstavka 95. člena ZJN-3, in sicer so spremembe potrebne zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti (neugodne vremenske razmere, ki so onemogočile izvedbo del v prvotno dogovorjenem roku, nezmožnost pravočasne izvedbe nekaterih del zaradi nepričakovanega časovnega zamika odobritve zapor objekta ter potreba po izvedbi dodatnih del zaradi prilagoditve projektnih/tehničnih rešitev).\nSpremembe ne spreminjajo splošne narave javnega naročila, saj predmet pogodbe ostaja nespremenjen.\n\n"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

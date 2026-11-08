@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 836776,
+  "idDosje": 513299,
+  "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN006001/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-08-26T08:51:10.59",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 836776,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 513299,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "kratekOpis": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+  "referencnaStevilka": "000154/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8509,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMzc3O1JEMTU0XzI0LnppcA",
+  "datumDoVprasanja": "2024-09-11T16:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=44868",
+  "datumDoPonudba": "2024-10-02T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2024-10-02T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-08-23T10:29:08.167",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-08-26T08:51:10.59",
+  "datumDoVprasanjaKalk": "2024-09-11T16:00:00",
+  "objavaIdent": "JN006001/2024-EUe16/01",
+  "eFormsIdent": "6154a2c8-553c-4b4e-9653-a20147bfe538",
+  "eFormsFolderIdent": "87a391c0-ba34-423d-aa39-edc60d736c17",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-44868",
+  "eFormsPublishedId": "510171-2024",
+  "eFormsPublishedDate": "2024-08-26T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-08-23T10:52:32.757",
+  "narocnik": [
+   {
+    "id": 674228,
+    "idObrazec": 836776,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1280,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "Izključitveni razlogi skladno z ZJN-3"
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 229864,
+    "idObrazec": 836776,
+    "naslov": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "opis": "Priprava in distribucija dokumentacije »ZUP« za potrebe prekrškovnega organa Cestninski nadzor DARS",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8509,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Skupno število dni blokade na posameznem računu",
+      "opis": "b)\tGospodarski subjekt v zadnjih 6 mesecih, pred skrajnim rokom za oddajo ponudbe na podlagi predmetnega javnega naročila, ni imel blokiranega posameznega računa več kot 15 dni ",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Cena",
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 100.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

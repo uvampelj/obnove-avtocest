@@ -1,0 +1,132 @@
+{
+ "row": {
+  "idObrazec": 863779,
+  "idDosje": 412772,
+  "naslov": "Vzdrževanje video nadzornega sistema in avtomatske detekcije prometa v predorih in PV",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "005877/2021-EUe38/01",
+  "objavaDejanskaDatum": "2024-11-05T19:20:26.597",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 863779,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 412772,
+  "idObrazecPrej": 430125,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje video nadzornega sistema in avtomatske detekcije prometa v predorih in PV",
+  "kratekOpis": "Aneks št. 1, DARS št. 1065/2024 k pog. DARS št. 1454/2021; povečanje pogodbene vrednosti",
+  "referencnaStevilka": "001065/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7507,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "povečanje pogodbene vrednosti zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti in se jim izogniti. podrobna obrazložitev razlogov je razvidna iz sklepa uprave o sklenitvi aneksa z dne 8. 10. 2024, št. 000200/2024",
+  "objavaEU": true,
+  "datumVnosa": "2024-11-04T09:05:46.57",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-11-05T19:20:26.597",
+  "objavaIdent": "005877/2021-EUe38/01",
+  "eFormsIdent": "d1fb795f-d203-4be2-98aa-73a33e0fdf1b",
+  "eFormsFolderIdent": "0f7c73c6-b8b1-4567-938c-b5e791040082",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "670426-2024",
+  "eFormsPublishedDate": "2024-11-05T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-11-04T09:15:25.757",
+  "narocnik": [
+   {
+    "id": 712799,
+    "idObrazec": 863779,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 7507
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 245490,
+    "idObrazec": 863779,
+    "naslov": "Aneks št. 1, DARS št. 1065/2024 k pog. DARS št. 1454/2021",
+    "opis": "Aneks št. 1, DARS št. 1065/2024 k pog. DARS št. 1454/2021; povečanje pogodbene vrednosti",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7366,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2024-10-23T00:00:00",
+    "datumKonec": "2025-04-22T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 33309,
+    "idObrazec": 863779,
+    "idObrazecSklop": 245490,
+    "oddanoSkupini": false,
+    "vrednostIzbrana": 102000.0,
+    "idSifValutaIzbrana": 1
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 16269,
+    "naslov": "Aneks št. 1, DARS št. 1065/2024 ",
+    "internaStevilka": "001065/2024",
+    "datumSklenitev": "2024-10-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 245490
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 16269,
+    "opis": "povečanje pogodbene vrednosti zaradi okoliščin, ki jih skrben naročnik ni mogel predvideti in se jim izogniti. podrobna obrazložitev razlogov je razvidna iz sklepa uprave o sklenitvi aneksa z dne 8. 10. 2024, št. 000200/2024"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

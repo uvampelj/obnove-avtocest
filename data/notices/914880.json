@@ -1,0 +1,158 @@
+{
+ "row": {
+  "idObrazec": 914880,
+  "idDosje": 349926,
+  "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "002395/2020-EUe38/01",
+  "objavaDejanskaDatum": "2025-05-28T09:06:12.41",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 914880,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 349926,
+  "idObrazecPrej": 369099,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "kratekOpis": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "referencnaStevilka": "000280/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8107,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 475000.0,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 3,
+  "spremembaOpis": "Aneks št. 1 k pogodbi DARS št. 1401/2020 za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS; dodatne storitve; podaljšanje pogodbenih rokov",
+  "objavaEU": true,
+  "datumVnosa": "2025-05-27T08:37:59.6",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-05-28T09:06:12.41",
+  "objavaIdent": "002395/2020-EUe38/01",
+  "eFormsIdent": "6cd444cf-9764-4c67-ade9-739886c9d9bf",
+  "eFormsFolderIdent": "0844a200-ae2e-4318-ba08-13e1397796df",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "342964-2025",
+  "eFormsPublishedDate": "2025-05-28T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-05-27T09:08:49.85",
+  "narocnik": [
+   {
+    "id": 824655,
+    "idObrazec": 914880,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 8228
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1276
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 293180,
+    "idObrazec": 914880,
+    "naslov": "Aneks št. 1 k pogodbi DARS št. 1401/2020 za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS; dodatne storitve; podaljšanje pogodbenih rokov",
+    "opis": "Aneks št. 1 k pogodbi DARS št. 1401/2020 za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS; dodatne storitve; podaljšanje pogodbenih rokov",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8097,
+    "idSifTrajanjeTip": 1,
+    "datumZacetek": "2020-09-24T00:00:00",
+    "datumKonec": "2034-10-29T00:00:00",
+    "financiraEU": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 51188,
+    "idObrazec": 914880,
+    "idObrazecSklop": 293180,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 475000.0,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 284910,
+      "naziv": "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+      "maticna": "1782355000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.axis.si",
+      "idSubjektPrs": 156662,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 284911,
+      "naziv": "PROCTOR gradbeništvo, inženiring, trgovina d.o.o.",
+      "maticna": "1527703000",
+      "mesto": "Trzin",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSubjektPrs": 171690,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 29664,
+    "naslov": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS\n",
+    "internaStevilka": "001401/2020",
+    "datumSklenitev": "2020-09-24T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 293180
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 29664,
+    "opis": "Aneks št. 1 k pogodbi DARS št. 1401/2020 za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS; dodatne storitve; podaljšanje pogodbenih rokov"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

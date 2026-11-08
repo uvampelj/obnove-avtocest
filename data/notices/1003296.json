@@ -1,0 +1,149 @@
+{
+ "row": {
+  "idObrazec": 1003296,
+  "idDosje": 517143,
+  "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecKoda": "F38",
+  "sifPostopekFazaNaziv": "Sprememba pogodbe",
+  "objavaIdent": "JN009192/2024-EUe38/01",
+  "objavaDejanskaDatum": "2026-02-26T04:22:02.863",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 1003296,
+  "idSifObrazec": 34,
+  "idSifObrazecVerzija": 34,
+  "idDosje": 517143,
+  "idObrazecPrej": 880742,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "kratekOpis": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila",
+  "referencnaStevilka": "000233/2024",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8870,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 4916027.17,
+  "idSifValutaSkupna": 1,
+  "idSifSpremembaRazlog": 5,
+  "spremembaOpis": "Manj dela, zmanjša se pogodbena vrednost, saj sistem ne potrebuje nadgradnje licence",
+  "objavaEU": true,
+  "datumVnosa": "2026-02-25T11:43:32.803",
+  "sifObrazecKoda": "F38",
+  "sifObrazecOznaka": "EUe38",
+  "sifObrazecNaziv": "Obvestilo o spremembi – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-02-26T04:22:02.863",
+  "objavaIdent": "JN009192/2024-EUe38/01",
+  "eFormsIdent": "3ab227c0-450f-40f1-afe3-3c1a4d64faa0",
+  "eFormsFolderIdent": "3c65de33-c0e8-408f-9dd4-690f5159e33a",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 4,
+  "eFormsPublishedId": "135777-2026",
+  "eFormsPublishedDate": "2026-02-26T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-02-25T11:47:37",
+  "narocnik": [
+   {
+    "id": 1006906,
+    "idObrazec": 1003296,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si",
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 381542,
+    "idObrazec": 1003296,
+    "naslov": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+    "opis": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8870,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 39,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 117557,
+    "idObrazec": 1003296,
+    "idObrazecSklop": 381542,
+    "oddanoSkupini": true,
+    "vrednostIzbrana": 4916027.17,
+    "idSifValutaIzbrana": 1,
+    "oddajaPodizvajalcem": true,
+    "ocenaOddajePodizvajalcem": true,
+    "vrednostOddajePodizvajalcem": 632500.0,
+    "idSifValutaOddajePodizvajalcem": 1,
+    "predvidenDelezOddajePodizvajalcem": true,
+    "delezOddajePodizvajalcem": 12.0,
+    "opisDelezOddajePodizvajalcem": "Inplementacija, razvoj in testiranje programske opreme",
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 439120,
+      "naziv": "TELEKOM SLOVENIJE, d.d.",
+      "maticna": "5014018000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSubjektPrs": 235985,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 58634,
+    "naslov": "Pogodba za Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+    "internaStevilka": "000233/2024",
+    "datumSklenitev": "2025-01-13T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 381542
+     }
+    ]
+   }
+  ],
+  "obrazecSprememba": [
+   {
+    "idObrazecPogodba": 58634,
+    "opis": "Manj dela, zmanjša se pogodbena vrednost, saj sistem ne potrebuje nadgradnje licence"
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "row": {
+  "idObrazec": 877909,
+  "idDosje": 514554,
+  "naslov": "Vzdrževanje požarnih vrat v predorih",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007021/2024-EUe29/01",
+  "objavaDejanskaDatum": "2024-12-30T08:50:42.587",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 877909,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 514554,
+  "idObrazecPrej": 855747,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Vzdrževanje požarnih vrat v predorih",
+  "kratekOpis": "Predmet postopka je vzdrževanje obstoječih požarnih vrat v predorih (redno vzdrževanje, sanacija napak oziroma okvar ter dobava in zamenjava okvarjenih delov, ki so vgrajeni na opremi in so predmet tega javnega naročila). Požarna vrata so nameščena na SOS niše, elektro niše ter v prečnikih za prehode med cevmi predorov. V sklopu 1 je zajeto vzdrževanje požarnih vrat SOS niš ter vrat za osebne prehode, sklop 2 pa zajema vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih).",
+  "referencnaStevilka": "000224/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 6037,
+  "vrednostOcenjenaBrezDDV": 218200.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 87000.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2024-12-27T08:38:50.047",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-12-30T08:50:42.587",
+  "objavaIdent": "JN007021/2024-EUe29/01",
+  "eFormsIdent": "3342dbcb-d737-439f-b0d7-4b1b6cab2864",
+  "eFormsFolderIdent": "2c190430-9074-4436-a747-2a254e65d73c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-46650",
+  "eFormsPublishedId": "797040-2024",
+  "eFormsPublishedDate": "2024-12-30T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-12-27T08:46:00.527",
+  "narocnik": [
+   {
+    "id": 743805,
+    "idObrazec": 877909,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 258344,
+    "idObrazec": 877909,
+    "naslov": "Vzdrževanje predorskih vrat za osebne prehode",
+    "opis": "V sklopu 1 je zajeto vzdrževanje požarnih vrat SOS niš ter vrat za osebne prehode.",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6037,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "vrednostOcenjenaBrezDDV": 92000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6037
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 258345,
+    "idObrazec": 877909,
+    "naslov": "Vzdrževanje hidravličnih predorskih vrat v prečnikih predorov",
+    "opis": "Vzdrževanje hidravličnih vrat prečnikov za prehode med levo in desno cevjo predora, za potrebe intervencij (prehodov ujetih vozil v predoru ter gasilskih vozil ob intervencijah oziroma požarih.",
+    "idSifNarociloVrsta": 2,
+    "idSifNarociloVrstaDodatno": 1,
+    "idSifCpv": 6037,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6037
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 1,
+      "stevilo": 1.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 37903,
+    "idObrazec": 877909,
+    "idObrazecSklop": 258344,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 87000.0,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 87000.0,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 87000.0,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 203417,
+      "naziv": "SIMER PLUS proizvodnja d.o.o.",
+      "maticna": "3327795000",
+      "mesto": "Celje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1280,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 149417,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 37904,
+    "idObrazec": 877909,
+    "idObrazecSklop": 258345,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 19782,
+    "naslov": "Pogodba za Vzdrževanje požarnih vrat v predorih, sklop 1: Vzdrževanje predorskih vrat za osebne prehode",
+    "internaStevilka": "001264/2024",
+    "datumSklenitev": "2024-12-23T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 258344
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

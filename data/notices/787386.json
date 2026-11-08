@@ -1,0 +1,169 @@
+{
+ "row": {
+  "idObrazec": 787386,
+  "idDosje": 491236,
+  "naslov": "Sanacija odvodnje na območju Dragotincev",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "005728/2023-SL2/01",
+  "objavaDejanskaDatum": "2024-01-30T14:11:52.02",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 787386,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 491236,
+  "idObrazecPrej": 491236,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Sanacija odvodnje na območju Dragotincev",
+  "kratekOpis": "Sanacija odvodnje na območju Dragotincev",
+  "referencnaStevilka": "000163/2023",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "vrednostOcenjenaBrezDDV": 153000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 134437.6,
+  "idSifValutaSkupna": 1,
+  "datumVnosa": "2024-01-30T13:14:11.74",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-01-30T14:11:52.02",
+  "objavaIdent": "005728/2023-SL2/01",
+  "eFormsIdent": "cba9f047-e211-4140-875a-284529bf28a9",
+  "eFormsFolderIdent": "0a1db5c3-daeb-4fb4-9b5a-04bfb0919740",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-29873",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2024-01-30T13:57:52.853",
+  "narocnik": [
+   {
+    "id": 558989,
+    "idObrazec": 787386,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecCpv": [
+   {
+    "id": 6590
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1268
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 173769,
+    "idObrazec": 787386,
+    "naslov": "Sanacija odvodnje na območju Dragotincev",
+    "opis": "Sanacija odvodnje na območju Dragotincev",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 18,
+    "vrednostOcenjenaBrezDDV": 153000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1268
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 754,
+    "idObrazec": 787386,
+    "idObrazecSklop": 173769,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 2,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 134437.6,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 152200.51,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 134437.6,
+    "idSifValutaIzbrana": 1,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 6686,
+      "naziv": "IPI, izvajalski in projektantski inženiring, d.o.o.",
+      "maticna": "5111498000",
+      "mesto": "Rogaška Slatina",
+      "idSifDrzava": 1,
+      "idSifNuts": 1271,
+      "idSifVelikost": 5,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 441,
+    "naslov": "Sanacija odvodnje na območju Dragotincev",
+    "internaStevilka": "000049/2024",
+    "datumSklenitev": "2024-01-19T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 173769
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

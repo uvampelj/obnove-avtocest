@@ -1,0 +1,150 @@
+{
+ "row": {
+  "idObrazec": 929540,
+  "idDosje": 524168,
+  "naslov": "Dobava zaščitnih rokavic",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN005844/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-07-24T09:14:00.98",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 929540,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 524168,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Dobava zaščitnih rokavic",
+  "kratekOpis": "Namen naročila je izbira dobavitelja, ki bo dobavljal zaščitne rokavice, ki jih delavci potrebujejo za zagotovitev varnosti in zdravja pri delu. Delodajalec je v skladu z Zakonom o varnosti in zdravju pri delu (Uradni list RS, št. 43/11) ter Pravilnikom o osebni varovalni opremi, ki jo delavci uporabljajo pri delu (Uradni list RS, št. 89/99, 39/05 in 181/21), dolžan vsem delavcem zagotoviti osebno varovalno opremo na podlagi izdelane ocene tveganj za varnost in zdravje pri delu.",
+  "referencnaStevilka": "000205/2025",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 2,
+  "idSifCpv": 995,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=Mzg5MTkwO1JEIDIwNS0yMDI1LnppcA",
+  "datumDoVprasanja": "2025-08-08T15:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=60375",
+  "datumDoPonudba": "2025-08-26T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2025-08-26T12:00:00",
+  "odpiranjePonudbKraj": "eJN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-07-22T12:16:19.82",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-07-24T09:14:00.98",
+  "datumDoVprasanjaKalk": "2025-08-08T15:00:00",
+  "datumDoPonudbaKalk": "2025-08-26T10:00:00",
+  "objavaIdent": "JN005844/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "d334916f-bf48-459d-9bbd-41bb0827c42d",
+  "eFormsFolderIdent": "ed3fef58-dadd-4d5c-9e44-571c20941183",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-60375",
+  "eFormsPublishedId": "484114-2025",
+  "eFormsPublishedDate": "2025-07-24T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-07-22T14:58:00.51",
+  "narocnik": [
+   {
+    "id": 859417,
+    "idObrazec": 929540,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 308320,
+    "idObrazec": 929540,
+    "naslov": "Dobava zaščitnih rokavic",
+    "opis": "Namen naročila je izbira dobavitelja, ki bo dobavljal zaščitne rokavice, ki jih delavci potrebujejo za zagotovitev varnosti in zdravja pri delu. Delodajalec je v skladu z Zakonom o varnosti in zdravju pri delu (Uradni list RS, št. 43/11) ter Pravilnikom o osebni varovalni opremi, ki jo delavci uporabljajo pri delu (Uradni list RS, št. 89/99, 39/05 in 181/21), dolžan vsem delavcem zagotoviti osebno varovalno opremo na podlagi izdelane ocene tveganj za varnost in zdravje pri delu.",
+    "idSifNarociloVrsta": 2,
+    "idSifCpv": 995,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Cena 100 %",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": false,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Cena 100 %"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

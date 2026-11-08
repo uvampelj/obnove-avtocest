@@ -1,0 +1,399 @@
+{
+ "row": {
+  "idObrazec": 884547,
+  "idDosje": 517913,
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni  mreži Republike Slovenije v letih 2025, 2026 in 2027: Sklop 1, Sklop  2, Sklop 3, Sklop 4",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN000512/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-01-29T08:54:10.223",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 884547,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 517913,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni  mreži Republike Slovenije v letih 2025, 2026 in 2027: Sklop 1, Sklop  2, Sklop 3, Sklop 4",
+  "kratekOpis": "Predmet javnega naročila so večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027.\nVečja vzdrževalna dela na voziščih avtocest in hitrih cest, ki so v upravljanju DARS d. d., se bodo izvajala ločeno v štirih sklopih, pri čemer obsega:\nSklop 1: območje AC baz: Ljubljana, Novo mesto in Hrušica \nSklop 2: območje AC baz: Postojna in Kozina\nSklop 3: območje AC baz: Vransko in Slovenske Konjice\nSklop 4: območje AC baz: Maribor in Murska Sobota \n",
+  "referencnaStevilka": "000294/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6737,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MzQyNDIwO0Rva3VtZW50YWNpamEtUG9ydGFsLnppcA",
+  "datumDoVprasanja": "2025-02-13T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=51878",
+  "datumDoPonudba": "2025-02-27T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-02-27T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N00Z265 za sklop 1, N00Z266 za sklop 2, N00Z267 za sklop 3 in N00Z268 za sklop 4) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "sklopiDelitev": true,
+  "stSklopovEnegaPonudnika": 4,
+  "sklopiPonudbaZaVse": false,
+  "stSklopovOddanoEnemuPonudniku": 4,
+  "objavaEU": true,
+  "datumVnosa": "2025-01-28T13:54:02.643",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-01-29T08:54:10.223",
+  "datumDoVprasanjaKalk": "2025-02-13T12:00:00",
+  "datumDoPonudbaKalk": "2025-02-27T12:00:00",
+  "objavaIdent": "JN000512/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "80f818bd-fb45-47b5-8d85-c71569f0d8e1",
+  "eFormsFolderIdent": "e87119ca-f03a-4028-a476-cecb0b40b2de",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-51878",
+  "eFormsPublishedId": "60289-2025",
+  "eFormsPublishedDate": "2025-01-29T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-01-28T14:31:42.937",
+  "narocnik": [
+   {
+    "id": 757320,
+    "idObrazec": 884547,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1280
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "V priloženi razpisni dokumentaciji so določeni vsi obvezni zakonski razlogi za izključitev."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 264081,
+    "idObrazec": 884547,
+    "naslov": "Območje AC baze: Ljubljana, Novo mesto in Hrušica",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027;Sklop 1: območje AC baze: Ljubljana, Novo mesto in Hrušica ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1280
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 264082,
+    "idObrazec": 884547,
+    "naslov": "Območje AC baze: Postojna in Kozina",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 2: območje AC baz: Postojna in Kozina",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1275
+     },
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 264083,
+    "idObrazec": 884547,
+    "naslov": "Območje AC baze: Vransko in Slovenske Konjice",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 3: območje AC baz: Vransko in Slovenske Konjice",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   },
+   {
+    "id": 264084,
+    "idObrazec": 884547,
+    "naslov": "Območje AC baze: Maribor in Murska Sobota",
+    "opis": "Večja vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2025, 2026 in 2027, Sklop 4: območje AC baz: Maribor in Murska Sobota ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6737,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 42,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopCpv": [
+     {
+      "id": 6733
+     }
+    ],
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Vsi pogoji so določeni v priloženi razpisni dokumentaciji.",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

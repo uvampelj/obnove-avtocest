@@ -1,0 +1,112 @@
+{
+ "row": {
+  "idObrazec": 898002,
+  "idDosje": 518013,
+  "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu  čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2  0002/0602 Hrušica–Lipce",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecKoda": "SL2",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN000576/2025-SL2/01",
+  "objavaDejanskaDatum": "2025-03-21T09:10:37.587",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": null
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 898002,
+  "idSifObrazec": 39,
+  "idSifObrazecVerzija": 39,
+  "idDosje": 518013,
+  "idObrazecPrej": 890442,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu  čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2  0002/0602 Hrušica–Lipce",
+  "kratekOpis": "Predmet javnega naročila je preplastitev priključka A2/0101 Hrušica od km 0,000 do km 0,725 in od km 0,835 do km 1,396 vključno z obnovo mostu čez Savo VA0287 od km 0,615 do km 0,671 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce od km 0,000 do km 0,009. \nPredmet javnega naročila je tudi preplastitev oz. zamenjava voziščne konstrukcije na delih platoja in povratno-dostopne ceste na platoju Karavanke (mali plato – A2/0453 od km 0,065 do km 0,206, območje Policije – A2/0453 od km 0,206 do km 0,322, veliki plato – A2/0453 od km 0,311 do km 0,590 in povratno-dostopna cesta – A2/0454 od km 0,556 do km 1,025 (krak A) in od km 1,054 do 1,074 (krak B)).\n",
+  "referencnaStevilka": "000300/2024",
+  "idSifPostopekVrsta": 7,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6346,
+  "idSifPravnaPodlaga": 5,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil. Poglavje 6 v elektronski obliki izdelani s sistemom iPIS (šifra predračuna N70Z020) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "datumVnosa": "2025-03-21T07:33:40.627",
+  "sifObrazecKoda": "SL2",
+  "sifObrazecOznaka": "SL2",
+  "sifObrazecNaziv": "Obvestilo o oddaji naročila male vrednosti -  splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-03-21T09:10:37.587",
+  "objavaIdent": "JN000576/2025-SL2/01",
+  "eFormsIdent": "ab9fa743-0bc6-47f3-9f06-8a216f9b8f44",
+  "eFormsFolderIdent": "58e65ae2-a89b-4b81-8978-c842d34a3cbf",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-52048",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2025-03-21T07:58:21.49",
+  "narocnik": [
+   {
+    "id": 784878,
+    "idObrazec": 898002,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1277
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 275723,
+    "idObrazec": 898002,
+    "naslov": "Preplastitev priključka A2/0101 Hrušica vključno z obnovo mostu  čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2  0002/0602 Hrušica–Lipce",
+    "opis": "Predmet javnega naročila je preplastitev priključka A2/0101 Hrušica od km 0,000 do km 0,725 in od km 0,835 do km 1,396 vključno z obnovo mostu čez Savo VA0287 od km 0,615 do km 0,671 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce od km 0,000 do km 0,009. \nPredmet javnega naročila je tudi preplastitev oz. zamenjava voziščne konstrukcije na delih platoja in povratno-dostopne ceste na platoju Karavanke (mali plato – A2/0453 od km 0,065 do km 0,206, območje Policije – A2/0453 od km 0,206 do km 0,322, veliki plato – A2/0453 od km 0,311 do km 0,590 in povratno-dostopna cesta – A2/0454 od km 0,556 do km 1,025 (krak A) in od km 1,054 do 1,074 (krak B)).\n",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6346,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 24,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifSporazum": 1,
+    "direktivaCistaVozila": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 45491,
+    "idObrazec": 898002,
+    "idObrazecSklop": 275723,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

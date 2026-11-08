@@ -1,0 +1,165 @@
+{
+ "row": {
+  "idObrazec": 884586,
+  "idDosje": 517914,
+  "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN000513/2025-EUe16/01",
+  "objavaDejanskaDatum": "2025-01-29T08:54:10.527",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 884586,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 517914,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "kratekOpis": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica od km 4+200 do km 9+500 in 0461 priključka Slov. Bistrica - sever od km 0+000 do km 1+155, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+  "referencnaStevilka": "000305/2024",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6402,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": true,
+  "zaupniDokumentiURL": "https://www.enarocanje.si/api/datoteka/get?id=MzQyNDc3O0Rva3VtZW50YWNpamEtcG9ydGFsLTMwNS0yNC56aXA",
+  "datumDoVprasanja": "2025-02-19T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=51882",
+  "datumDoPonudba": "2025-03-05T12:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2025-03-05T13:00:00",
+  "odpiranjePonudbKraj": "https://ejn.gov.si/",
+  "idSifDinamicniNabavniSistem": 1,
+  "dodatnaInfo": "Ponudniku je na voljo dokumentacija v zvezi z oddajo javnega naročila na Portalu javnih naročil, razen Poglavja 9, ki je dostopno ponudnikom v elektronski obliki na Portalu naročnika DARS d. d., spletni naslov www.dars.si, v rubriki javna naročila; pregled večjih javnih naročil, interna številka javnega naročila 000305/2024. Poglavje 6 v elektronski obliki izdelani s sistemom PIS (šifra predračuna N06Z114) lahko ponudniki pridobijo na spletnem naslovu https://ipis.dars.si preko anonimnega dostopa za ponudnike.",
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2025-01-28T14:27:35.27",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2025-01-29T08:54:10.527",
+  "datumDoVprasanjaKalk": "2025-02-19T12:00:00",
+  "datumDoPonudbaKalk": "2025-03-14T12:00:00",
+  "objavaIdent": "JN000513/2025-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "f6e20aa6-98ca-43d3-9677-3a27fa85b3eb",
+  "eFormsFolderIdent": "00af86c2-2601-43e9-bc1b-66299e0abda3",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-51882",
+  "eFormsPublishedId": "60926-2025",
+  "eFormsPublishedDate": "2025-01-29T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2025-01-28T14:47:04.273",
+  "narocnik": [
+   {
+    "id": 757370,
+    "idObrazec": 884586,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1269
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 5,
+    "utemeljitev": "Vsi razlogi za izključitev so našteti v razpisni dokumentaciji in obrazcu ESPD."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 264091,
+    "idObrazec": 884586,
+    "naslov": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica in 0461 priključka Slov. Bistrica - sever, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+    "opis": "Obnova ceste in objektov na AC A1 0036/0636 Fram-Slov. Bistrica od km 4+200 do km 9+500 in 0461 priključka Slov. Bistrica - sever od km 0+000 do km 1+155, vključno z zamenjavo viadukta Devina VA0065 in rekonstrukcijo viadukta VA0361",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 36,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "meriloOpis": "Najnižja ponudbena cena v EUR brez DDV.",
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": false,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "Najnižja ponudbena cena v EUR brez DDV."
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

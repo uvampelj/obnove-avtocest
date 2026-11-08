@@ -1,0 +1,186 @@
+{
+ "row": {
+  "idObrazec": 787519,
+  "idDosje": 506326,
+  "naslov": "Izgradnja navezave Luke Koper na AC omrežje – Srminska vpadnica",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN000577/2024-EUe16/01",
+  "objavaDejanskaDatum": "2024-02-02T09:05:23.46",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-08",
+ "form": {
+  "id": 787519,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 506326,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izgradnja navezave Luke Koper na AC omrežje – Srminska vpadnica",
+  "kratekOpis": "Srminska vpadnica se na vzhodni strani navezuje na krak 3 razcepa Srmin, na zahodni strani pa na obstoječi most čez reko Rižano in krožno križišče Rižana. Trasa po celotni dolžini poteka severno od razširjene tovorne železniške postaje Koper, na severu pa meji najprej na kmetijska zemljišča, v nadaljevanju pa na objekte podjetja Petrol, d.d. \nPredvidena je izgradnja dvopasovnice z dvema voznima pasovoma širine po 3,25 m in dvema robnima pasovoma širine po 0,25 m. Širine bankin ob voznem pasu so 1,50 m. Širina hodnika za pešce znaša 1,50 m, širina bankine ob hodniku za pešce pa 0,50 m. Gradnja vpadnice obsega novogradnjo ceste od križišča v nadaljevanju izvoza iz kraka 3 razcepa Srmin proti Luki Koper do obstoječega parkirišča Petrol, od obstoječega parkirišča dalje se izvede rekonstrukcija obstoječe dostopne ceste do Terminala Petrol. V sklopu izgradnje se izvede širitev mostov na vhodu na terminal Petrol in mosta na trasi Srminske vpadnice, pod katerima potekajo produktovodi v lasti Petrola. Skladno s projektnimi pogoji podjetja Petrol, d.d. se za potrebe izvedbe povečanja zmogljivosti  izvede tudi podaljšanje objektov z izvedbo dodatne kinete, kar posledično zahteva še izvedbo dveh podpornih zidov. Izvede se še rekonstrukcija mosta čez reko Rižano s sanacijo zgornje površine voziščne plošče in zamenjavo robnih vencev in ograj. Projekt predvideva še zaščito in preureditev obstoječih komunalnih vodov oz. izgradnjo novih komunalnih vodov. Predvidena je izgradnja vodovoda, cestne razsvetljave, elektrovodov, telekomunikacijskih inštalacij, spremenljive prometno informacijske signalizacije, postavitev portala za elektronsko cestninjenje tovornih vozil in meteorne kanalizacije ter dveh zadrževalnih bazenov odpadne vode. ",
+  "referencnaStevilka": "000227/2023",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 3,
+  "idSifCpv": 6590,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=MjYzNDkzO1JEXzAwMDIyN18yMDIzLnppcA",
+  "idSifJezikDokumentacija": 1,
+  "datumDoVprasanja": "2024-02-29T12:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=35748",
+  "datumDoPonudba": "2024-03-14T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 1,
+  "obdobjeVeljavnostPonudbe": 150,
+  "datumOdpiranje": "2024-03-14T12:00:00",
+  "odpiranjePonudbKraj": "Elektronsko javno naročanje eJN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2024-01-30T16:53:27.203",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2024-02-02T09:05:23.46",
+  "datumDoVprasanjaKalk": "2024-02-29T12:00:00",
+  "datumDoPonudbaKalk": "2024-03-26T10:00:00",
+  "objavaIdent": "JN000577/2024-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "3f819109-1746-4018-95e6-9ef0f98e13f4",
+  "eFormsFolderIdent": "fcb1de5d-6e44-49f6-aa7d-19f322b94895",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "eFormsPublishedId": "71913-2024",
+  "eFormsPublishedDate": "2024-02-02T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2024-01-31T15:28:23.607",
+  "narocnik": [
+   {
+    "id": 559287,
+    "idObrazec": 787519,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1276,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1279
+   }
+  ],
+  "obrazecIzkljucitev": [
+   {
+    "idSifIzkljucitevRazlog": 15,
+    "utemeljitev": "V priloženi razpisni dokumentaciji so določeni vsi obvezni zakonski razlogi za izključitev."
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 173916,
+    "idObrazec": 787519,
+    "naslov": "Izgradnja navezave Luke Koper na AC omrežje – Srminska vpadnica",
+    "opis": "Srminska vpadnica se na vzhodni strani navezuje na krak 3 razcepa Srmin, na zahodni strani pa na obstoječi most čez reko Rižano in krožno križišče Rižana. Trasa po celotni dolžini poteka severno od razširjene tovorne železniške postaje Koper, na severu pa meji najprej na kmetijska zemljišča, v nadaljevanju pa na objekte podjetja Petrol, d.d. \nPredvidena je izgradnja dvopasovnice z dvema voznima pasovoma širine po 3,25 m in dvema robnima pasovoma širine po 0,25 m. Širine bankin ob voznem pasu so 1,50 m. Širina hodnika za pešce znaša 1,50 m, širina bankine ob hodniku za pešce pa 0,50 m. Gradnja vpadnice obsega novogradnjo ceste od križišča v nadaljevanju izvoza iz kraka 3 razcepa Srmin proti Luki Koper do obstoječega parkirišča Petrol, od obstoječega parkirišča dalje se izvede rekonstrukcija obstoječe dostopne ceste do Terminala Petrol. V sklopu izgradnje se izvede širitev mostov na vhodu na terminal Petrol in mosta na trasi Srminske vpadnice, pod katerima potekajo produktovodi v lasti Petrola. Skladno s projektnimi pogoji podjetja Petrol, d.d. se za potrebe izvedbe povečanja zmogljivosti  izvede tudi podaljšanje objektov z izvedbo dodatne kinete, kar posledično zahteva še izvedbo dveh podpornih zidov. Izvede se še rekonstrukcija mosta čez reko Rižano s sanacijo zgornje površine voziščne plošče in zamenjavo robnih vencev in ograj. Projekt predvideva še zaščito in preureditev obstoječih komunalnih vodov oz. izgradnjo novih komunalnih vodov. Predvidena je izgradnja vodovoda, cestne razsvetljave, elektrovodov, telekomunikacijskih inštalacij, spremenljive prometno informacijske signalizacije, postavitev portala za elektronsko cestninjenje tovornih vozil in meteorne kanalizacije ter dveh zadrževalnih bazenov odpadne vode. ",
+    "idSifNarociloVrsta": 3,
+    "idSifCpv": 6590,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 27,
+    "podaljsanje": false,
+    "ponovljenoNarocilo": false,
+    "financiraEU": true,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 3,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVrsta": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 2,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     },
+     {
+      "idSifPogojVrsta": 3,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo",
+      "idSifPogojUporaba": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "naziv": "Skladno z razpisno dokumentacijo",
+      "opis": "Skladno z razpisno dokumentacijo"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopInovativnoNarocanje": [
+     {
+      "id": 8
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopSocialnoNarocanje": [
+     {
+      "id": 7
+     }
+    ],
+    "obrazecSklopZelenoNarocanje": [
+     {
+      "id": 7
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}
