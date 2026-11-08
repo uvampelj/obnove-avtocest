@@ -114,26 +114,31 @@ def parse_warranty(text: str) -> list[list]:
 
 
 # Vrsta dela, na katero se garancija nanaša (ključi kot v build.CATEGORIES).
-SUBJECT_CATS = [
+SUBJECT_CATS = [   # predmet roka dobi prvo ujemajočo se vrsto
+    ("oprema", re.compile(r"ozna[čc]b|signaliz|portal|folij|\bRA\s?\d|znak|razsvetl", re.I)),
+    ("hrup", re.compile(r"hrup", re.I)),
+    ("ograje", re.compile(r"ograj|JVO|BVO", re.I)),
+    ("predori", re.compile(r"predor", re.I)),
     ("vozisce", re.compile(r"asfalt|obrabn|vozi[sš][čc]n\w* konstr|zgornj\w* ustroj|bitumen|plast|vozi[sš][čc]e\b", re.I)),
     ("objekti", re.compile(r"objekt|most|nadvoz|podvoz|viadukt|konstrukc|hidroizol|beton|zid|prepust|galerij|dilatac|le[žz]i[šs][čc]|protikoroz", re.I)),
-    ("predori", re.compile(r"predor", re.I)),
-    ("ograje", re.compile(r"ograj|JVO|BVO", re.I)),
-    ("hrup", re.compile(r"hrup", re.I)),
     ("odvodnjavanje", re.compile(r"odvodnj|kanaliz|odcejal|lovil", re.I)),
-    ("oprema", re.compile(r"ozna[čc]b|signaliz|razsvetl|elektro|oprem|naprav|sistem|strojn", re.I)),
+    ("oprema", re.compile(r"elektro|oprem|naprav|sistem|strojn", re.I)),
 ]
 GENERAL = re.compile(r"ostal|\bvs[ae]\b|celotn|drug|dela\b", re.I)
+
+
+def subject_category(subject: str) -> str | None:
+    return next((key for key, rx in SUBJECT_CATS if rx.search(subject)), None)
 
 
 def term_for(terms: list[list], category: str) -> float | None:
     """Rok, ki velja za dano vrsto dela: ujemanje po predmetu, sicer splošni rok, sicer najkrajši rok."""
     if not terms:
         return None
-    matched = [y for s, y in terms if any(key == category and rx.search(s) for key, rx in SUBJECT_CATS)]
+    matched = [y for s, y in terms if subject_category(s) == category]
     if matched:
         return max(matched)
-    general = [y for s, y in terms if GENERAL.search(s) and not any(rx.search(s) for _, rx in SUBJECT_CATS)]
+    general = [y for s, y in terms if GENERAL.search(s) and subject_category(s) is None]
     if general:
         return max(general)
     return min(y for _, y in terms)

@@ -43,10 +43,21 @@ FIRM = re.compile(
 NOT_FIRM = re.compile(r"^(?:naziv|polni|naslov|mati[čc]n|dav[čc]n|TRR|podizvajal|poleg|izvajal|naro[čc]nik|pogodb|in|ter)\b", re.I)
 
 
+GENERIC = {"CESTNO", "CESTNA", "PODJETJE", "GRADBENO", "GRADBENI", "GRADBENA", "GP", "CP", "SGP", "INŠTITUT", "INSTITUT",
+           "ZAVOD", "DRUŽBA", "DRUZBA", "SKUPINA", "GROUP", "INŽENIRING", "INZENIRING", "PROJEKT", "PROJEKTIRANJE", "D", "O"}
+
+
+def firm_stem(key: str) -> str:
+    """Prva značilna beseda imena: »KOLEKTOR CPG« → KOLEKTOR, »CESTNO PODJETJE PTUJ« → PTUJ."""
+    words = [w for w in key.split() if w not in GENERIC and len(w) >= 3]
+    return words[0] if words else key
+
+
 def subcontractors(text: str, exclude: set[str]) -> list[str]:
     """Imena podizvajalcev iz odlomkov pogodbe; izključi izvajalce in naročnika."""
     if not text:
         return []
+    stems = {firm_stem(key) for key in exclude}
     out: list[str] = []
     for start in SUB_START.finditer(text):
         window = text[start.end(): start.end() + 900]
@@ -62,8 +73,10 @@ def subcontractors(text: str, exclude: set[str]) -> list[str]:
             name = re.sub(r"\s+", " ", match.group(1)).strip(" ,.;:")
             if NOT_FIRM.match(name) or BUYER.search(name):
                 continue
+            if re.search(r"\d{4}\s?\d{4}|\bbank", name, re.I):   # transakcijski račun »… pri … banka d.d.«
+                continue
             key = firm_key(name)
-            if len(key) < 3 or key in exclude or not re.search(r"[A-ZČŠŽ]{2}", key):
+            if len(key) < 3 or key in exclude or firm_stem(key) in stems or not re.search(r"[A-ZČŠŽ]{2}", key):
                 continue
             if name not in out and key not in {firm_key(n) for n in out}:
                 out.append(name)

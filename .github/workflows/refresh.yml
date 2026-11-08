@@ -1,9 +1,20 @@
 name: Osveži podatke
 
 on:
+  # Enkrat na dan: register pogodb ima več tisoč zapisov in skenov za OCR, zato zajem traja več dni;
+  # potem vsak zagon prenese le novosti.
   schedule:
-    - cron: "10 5 * * 1"
+    - cron: "10 3 * * *"
   workflow_dispatch:
+    inputs:
+      pogodbe:
+        description: "Samo te pogodbe iz registra (id-ji, ločeni z vejico); prazno pomeni vse nove"
+        required: false
+        default: ""
+      minute:
+        description: "Časovni proračun za pogodbe (minute)"
+        required: false
+        default: "120"
   push:
     branches: [main]
     paths:
@@ -43,11 +54,13 @@ jobs:
           sudo apt-get install -y -q --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-slv
 
       - name: Prenesi nove objave DARS s portala javnih naročil
+        if: ${{ !inputs.pogodbe }}
         run: python -m pipeline.collect
 
       - name: Prenesi nove pogodbe iz registra pogodb
         env:
-          CONTRACT_MINUTES: "120"
+          CONTRACT_MINUTES: ${{ inputs.minute || '120' }}
+          CONTRACT_IDS: ${{ inputs.pogodbe }}
         run: python -m pipeline.contracts
 
       - name: Shrani nove objave in pogodbe v repozitorij

@@ -29,8 +29,14 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTRACTS = ROOT / "data" / "contracts"
 
 KEYWORD = re.compile(r"garanc|jamstven|podizvajal", re.I)
+PRIORITY = re.compile(r"garancijsk\w*\s+(?:rok|dob)", re.I)   # sam garancijski rok, ne bančna garancija
 MIN_TEXT = 1500      # manj znakov besedila pomeni sken brez besedilnega sloja
 MAX_OCR_PAGES = 40
+SCALE = 2400         # daljša stranica slike strani v pikslih (~200 dpi za A4); skeni z napačno velikostjo strani
+                     # bi sicer dali več deset milijonov pikslov in tesseract bi obstal
+PAGE_TIMEOUT = 120   # sekund za eno stran
+OCR_DEADLINE = 600   # sekund za vso pogodbo; preostale strani preskočimo
+OCR_ENV = {**os.environ, "OMP_THREAD_LIMIT": "1"}   # več vzporednih tesseractov brez prepletanja niti
 BEFORE, AFTER, MAX_EXCERPT = 400, 1500, 20000
 
 
@@ -49,41 +55,68 @@ def pdf_text(path: Path) -> tuple[str, int]:
     match = re.search(r"^Pages:\s+(\d+)", info.stdout, re.M)
     if match:
         pages = int(match.group(1))
-    result = subprocess.run(["pdftotext", "-enc", "UTF-8", str(path), "-"], capture_output=True, text=True,
+    result = subprocess.run(["pdftotext", "-layout", "-enc", "UTF-8", str(path), "-"], capture_output=True, text=True,
                             errors="replace", timeout=300)
     return result.stdout, pages
 
 
-def ocr_page(image: Path) -> str:
-    result = subprocess.run(["tesseract", str(image), "-", "-l", "slv", "--psm", "3"], capture_output=True,
-                            text=True, errors="replace", timeout=300)
+def ocr_page(image: Path, deadline: float) -> str | None:
+    """Besedilo strani; None, če je zmanjkalo časa."""
+    left = min(PAGE_TIMEOUT, deadline - time.monotonic())
+    if left < 5:
+        return None
+    try:
+        result = subprocess.run(["tesseract", str(image), "-", "-l", "slv", "--psm", "3"], capture_output=True,
+                                text=True, errors="replace", timeout=left, env=OCR_ENV)
+    except subprocess.TimeoutExpired:
+        return None
     return result.stdout
 
 
 def ocr(path: Path, pages: int, workdir: Path) -> str:
     last = min(pages or MAX_OCR_PAGES, MAX_OCR_PAGES)
-    subprocess.run(["pdftoppm", "-r", "200", "-gray", "-png", "-f", "1", "-l", str(last), str(path),
-                    str(workdir / "p")], check=True, capture_output=True, timeout=900)
-    images = sorted(workdir.glob("p*.png"))
-    with ThreadPoolExecutor(max_workers=os.cpu_count() or 2) as pool:
-        texts = list(pool.map(ocr_page, images))
-    for image in images:
-        image.unlink()
-    return "\n".join(texts)
+    pages_dir = Path(tempfile.mkdtemp(dir=workdir))
+    try:
+        subprocess.run(["pdftoppm", "-scale-to", str(SCALE), "-gray", "-png", "-f", "1", "-l", str(last),
+                        str(path), str(pages_dir / "p")], check=True, capture_output=True, timeout=600)
+        images = sorted(pages_dir.glob("p*.png"))
+        deadline = time.monotonic() + OCR_DEADLINE
+        with ThreadPoolExecutor(max_workers=os.cpu_count() or 2) as pool:
+            texts = list(pool.map(lambda image: ocr_page(image, deadline), images))
+    finally:
+        shutil.rmtree(pages_dir, ignore_errors=True)
+    missing = sum(text is None for text in texts)
+    text = "\n".join(text or "" for text in texts)
+    if missing and len(re.sub(r"\s", "", text)) < MIN_TEXT:
+        raise RuntimeError(f"OCR ni uspel na {missing} od {len(texts)} strani")
+    return text
 
 
 def excerpt(text: str) -> str:
-    """Odlomki okoli omemb garancije (z uvodom pogodbe, kjer je številka pogodbe)."""
+    """Odlomki okoli omemb garancije in podizvajalcev (z uvodom pogodbe, kjer je številka pogodbe).
+
+    Najprej vzamemo okolico garancijskega roka, nato podizvajalce, nato ostale omembe, dokler ne
+    dosežemo omejitve dolžine; odlomki ostanejo v vrstnem redu pogodbe.
+    """
     text = re.sub(r"[ \t\xa0]+", " ", text)
-    spans = [(0, min(len(text), 800))]
+    windows = [(0, 0, min(len(text), 800))]
     for match in KEYWORD.finditer(text):
-        start, end = max(0, match.start() - BEFORE), min(len(text), match.end() + AFTER)
-        if start <= spans[-1][1]:
+        rank = 1 if PRIORITY.match(text, match.start()) else 2 if match.group(0).lower().startswith("podiz") else 3
+        windows.append((rank, max(0, match.start() - BEFORE), min(len(text), match.end() + AFTER)))
+    chosen: list[tuple[int, int]] = []
+    used = 0
+    for _, start, end in sorted(windows):
+        if used + (end - start) > MAX_EXCERPT:
+            continue
+        chosen.append((start, end))
+        used += end - start
+    spans: list[tuple[int, int]] = []
+    for start, end in sorted(chosen):
+        if spans and start <= spans[-1][1]:
             spans[-1] = (spans[-1][0], max(spans[-1][1], end))
         else:
             spans.append((start, end))
-    out = "\n…\n".join(text[a:b].strip() for a, b in spans)
-    return out[:MAX_EXCERPT]
+    return "\n…\n".join(text[a:b].strip() for a, b in spans)[: MAX_EXCERPT + 200]
 
 
 def register_meta(detail: dict, row: dict) -> dict:
@@ -143,7 +176,12 @@ def main() -> int:
         print(f"Register je vrnil le {len(rows)} pogodb DARS, pričakovanih je vsaj 2000. Ustavljam.", file=sys.stderr)
         return 1
     works = [row for row in rows if is_works(row)]
-    todo = [row for row in rows if not (CONTRACTS / f"{row['id']}.json").exists()]
+    # CONTRACT_IDS: samo navedene pogodbe (tudi že prenesene), npr. za ponovni poskus ali preverjanje.
+    only = {item.strip() for item in os.environ.get("CONTRACT_IDS", "").split(",") if item.strip()}
+    if only:
+        todo = [row for row in rows if str(row["id"]) in only]
+    else:
+        todo = [row for row in rows if not (CONTRACTS / f"{row['id']}.json").exists()]
     # Najprej pogodbe za gradnje (PDF), nato ostali zapisi registra; znotraj najnovejši najprej.
     todo.sort(key=lambda r: r.get("objavaDejanskaDatum") or "", reverse=True)
     todo.sort(key=lambda r: not is_works(r))
@@ -158,9 +196,13 @@ def main() -> int:
                 print(f"Časovna omejitev: preostalo {len(todo) - done - failed} pogodb za naslednji zagon.")
                 break
             try:
+                tick = time.monotonic()
                 detail = portal.contract(row["id"])
                 meta = register_meta(detail, row)
                 text, source, pages = read_files(portal, meta["files"], workdir) if is_works(row) else ("", None, 0)
+                if only or source == "ocr":
+                    print(f"Pogodba {row['id']}: {source or 'register'}, {pages} strani, {len(text)} znakov, "
+                          f"{time.monotonic() - tick:.0f} s", flush=True)
             except Exception as error:  # poskusi znova ob naslednjem zagonu
                 failed += 1
                 print(f"Pogodbe {row['id']} ni bilo mogoče prebrati: {error}", file=sys.stderr)
