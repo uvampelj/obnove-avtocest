@@ -46,10 +46,11 @@ function dateSl(iso) {
   return `${+d}. ${+m}. ${y}`;
 }
 function years(g) {
-  const s = num1.format(g);
-  if (g < 1) return `${s} leta`;
-  const whole = Math.round(g);
-  return `${s} ${whole === 1 ? 'leto' : whole === 2 ? 'leti' : whole <= 4 ? 'leta' : 'let'}`;
+  const r = Math.round(g * 10) / 10;
+  const s = num1.format(r);
+  if (!Number.isInteger(r)) return `${s} leta`;
+  const n = r % 100;
+  return `${s} ${n === 1 ? 'leto' : n === 2 ? 'leti' : n === 3 || n === 4 ? 'leta' : 'let'}`;
 }
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const theme = () => document.documentElement.dataset.theme
