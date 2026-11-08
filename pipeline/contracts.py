@@ -32,6 +32,7 @@ KEYWORD = re.compile(r"garanc|jamstven|podizvajal", re.I)
 PRIORITY = re.compile(r"garancijsk\w*\s+(?:rok|dob)", re.I)   # sam garancijski rok, ne bančna garancija
 MIN_TEXT = 1500      # manj znakov besedila pomeni sken brez besedilnega sloja
 MAX_OCR_PAGES = 40
+VERSION = 2          # postopek branja PDF; starejše zapise pogodb za gradnje preberemo znova
 SCALE = 2400         # daljša stranica slike strani v pikslih (~200 dpi za A4); skeni z napačno velikostjo strani
                      # bi sicer dali več deset milijonov pikslov in tesseract bi obstal
 PAGE_TIMEOUT = 120   # sekund za eno stran
@@ -103,20 +104,22 @@ def excerpt(text: str) -> str:
     for match in KEYWORD.finditer(text):
         rank = 1 if PRIORITY.match(text, match.start()) else 2 if match.group(0).lower().startswith("podiz") else 3
         windows.append((rank, max(0, match.start() - BEFORE), min(len(text), match.end() + AFTER)))
-    chosen: list[tuple[int, int]] = []
-    used = 0
-    for _, start, end in sorted(windows):
-        if used + (end - start) > MAX_EXCERPT:
-            continue
-        chosen.append((start, end))
-        used += end - start
     spans: list[tuple[int, int]] = []
-    for start, end in sorted(chosen):
-        if spans and start <= spans[-1][1]:
-            spans[-1] = (spans[-1][0], max(spans[-1][1], end))
+    for _, start, end in sorted(windows):
+        trial = _union(spans + [(start, end)])
+        if sum(b - a for a, b in trial) <= MAX_EXCERPT:
+            spans = trial
+    return "\n…\n".join(text[a:b].strip() for a, b in spans)
+
+
+def _union(spans: list[tuple[int, int]]) -> list[tuple[int, int]]:
+    out: list[tuple[int, int]] = []
+    for start, end in sorted(spans):
+        if out and start <= out[-1][1]:
+            out[-1] = (out[-1][0], max(out[-1][1], end))
         else:
-            spans.append((start, end))
-    return "\n…\n".join(text[a:b].strip() for a, b in spans)[: MAX_EXCERPT + 200]
+            out.append((start, end))
+    return out
 
 
 def register_meta(detail: dict, row: dict) -> dict:
@@ -164,6 +167,19 @@ def read_files(portal: Portal, files: list[dict], workdir: Path) -> tuple[str, s
     return "\n".join(texts), source, total
 
 
+def outdated(row: dict) -> bool:
+    """Zapisa še ni ali pa je pogodba za gradnje prebrana s starejšim postopkom (VERSION)."""
+    path = CONTRACTS / f"{row['id']}.json"
+    if not path.exists():
+        return True
+    if not is_works(row):
+        return False
+    try:
+        return json.loads(path.read_text(encoding="utf-8")).get("v", 1) < VERSION
+    except ValueError:
+        return True
+
+
 def main() -> int:
     for tool in ("pdftotext", "pdfinfo", "pdftoppm", "tesseract"):
         if not shutil.which(tool):
@@ -181,7 +197,7 @@ def main() -> int:
     if only:
         todo = [row for row in rows if str(row["id"]) in only]
     else:
-        todo = [row for row in rows if not (CONTRACTS / f"{row['id']}.json").exists()]
+        todo = [row for row in rows if outdated(row)]
     # Najprej pogodbe za gradnje (PDF), nato ostali zapisi registra; znotraj najnovejši najprej.
     todo.sort(key=lambda r: r.get("objavaDejanskaDatum") or "", reverse=True)
     todo.sort(key=lambda r: not is_works(r))
@@ -207,7 +223,7 @@ def main() -> int:
                 failed += 1
                 print(f"Pogodbe {row['id']} ni bilo mogoče prebrati: {error}", file=sys.stderr)
                 continue
-            record = {"meta": meta, "fetched": datetime.now(timezone.utc).date().isoformat()}
+            record = {"meta": meta, "fetched": datetime.now(timezone.utc).date().isoformat(), "v": VERSION}
             if source:
                 record.update({"source": source, "pages": pages, "text": excerpt(text) if text.strip() else ""})
             (CONTRACTS / f"{row['id']}.json").write_text(json.dumps(record, ensure_ascii=False, indent=1), encoding="utf-8")

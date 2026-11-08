@@ -20,14 +20,14 @@ Stran je neodvisen prikaz javnih podatkov in ni uradna storitev DARS. Ponovitev 
 
 ## Kako se osvežuje
 
-[`refresh.yml`](.github/workflows/refresh.yml) vsak ponedeljek ob 5.10 UTC:
+[`refresh.yml`](.github/workflows/refresh.yml) vsak dan ob 3.10 UTC:
 
 1. prenese seznam vseh objav DARS s portala javnih naročil in shrani nove objave o oddaji in spremembah v [`data/notices`](data/notices) (vsako enkrat, objave se ne spreminjajo),
 2. prenese nove zapise iz registra pogodb v [`data/contracts`](data/contracts); pri pogodbah za gradnje prebere PDF (pdftotext, pri skeniranih tesseract OCR) in shrani odlomke o garanciji in podizvajalcih,
 3. nove podatke shrani v repozitorij,
 4. zgradi `web/data/obnove.json` in `web/data/forenzika.json` ter objavi stran.
 
-Če portal vrne nenavadno malo objav ali spodleti več kot 10 % prenosov, se zbiranje ustavi; že prenesene objave se shranijo, stran se zgradi iz shranjenih podatkov. Branje pogodb ima časovno omejitev (120 min), preostanek se nadaljuje ob naslednjem zagonu. GitHub o neuspešnem zagonu pošlje e-pošto. Portal prosi, naj se avtomatizirano črpanje sproži največ dvakrat dnevno, zato ob spremembi kode (push) teče le gradnja strani.
+Če portal vrne nenavadno malo objav ali spodleti več kot 10 % prenosov, se zbiranje ustavi; že prenesene objave se shranijo, stran se zgradi iz shranjenih podatkov. Branje pogodb ima časovno omejitev (300 min), preostanek se nadaljuje ob naslednjem zagonu; prvi zajem registra (okoli 3300 zapisov, polovica skeniranih pogodb za gradnje) zato traja nekaj dni, potem vsak zagon prenese le novosti. Ročni zagon (*Run workflow*) lahko z vnosom `pogodbe` znova prenese samo izbrane pogodbe. GitHub o neuspešnem zagonu pošlje e-pošto. Portal prosi, naj se avtomatizirano črpanje sproži največ dvakrat dnevno, zato ob spremembi kode (push) teče le gradnja strani.
 
 Ročni zagon: **Actions → Osveži podatke → Run workflow**.
 

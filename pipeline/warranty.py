@@ -101,13 +101,51 @@ def _terms(pre: str, clause: str) -> list[list]:
     return terms[:12]
 
 
+HAS_SUBJECT = re.compile(r"\bza\s+\w{3,}", re.I)
+ITEM = re.compile(r"^\s*(?:[-–•·©*eoa]|\d{1,2}[.)])\s+za\s+\w{3,}", re.I)
+
+
+def _realign(clause: str) -> str:
+    """Pri skenih z besedilnim slojem je rok včasih vrstico nad svojo alinejo:
+
+        e 3 leta,
+        e za prometno signalizacijo ...
+          razreda RA3 ........ 10 let,
+        e za portalno konstrukcijo ... folijo
+
+    Vrstico z rokom brez predmeta pripnemo naslednji alineji, če ta nima svojega roka in prejšnja
+    vrstica ne čaka na rok (sicer je rok le nadaljevanje prelomljene prejšnje alineje).
+    """
+    lines = clause.split("\n")
+    out: list[str] = []
+    waiting = False   # prejšnja vrstica ima predmet brez roka
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        duration = DURATION.search(line)
+        if duration and not waiting and not HAS_SUBJECT.search(line[: duration.start()]):
+            j = i + 1
+            while j < min(len(lines), i + 3) and not lines[j].strip():
+                j += 1
+            if j < len(lines) and ITEM.match(lines[j]) and not DURATION.search(lines[j]):
+                out.append(lines[j].rstrip() + " " + line.strip())
+                waiting = False
+                i = j + 1
+                continue
+        if line.strip():
+            waiting = bool(HAS_SUBJECT.search(line)) and not duration
+        out.append(line)
+        i += 1
+    return "\n".join(out)
+
+
 def parse_warranty(text: str) -> list[list]:
     """Seznam [predmet, leta] iz člena o garancijskem roku; prazen, če člena ni ali ni rokov."""
     if not text:
         return []
     text = SPELLED.sub(r"\1", re.sub(r"[ \t\xa0]+", " ", text))
     for pre, clause in _clauses(text):
-        terms = _terms(pre, clause)
+        terms = _terms(pre, _realign(clause))
         if terms:
             return terms
     return []
