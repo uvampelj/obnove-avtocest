@@ -49,7 +49,24 @@ TRAIL = re.compile(r"(?:\s+(?:pa|in|ter|od|po|je|znaša))+$", re.I)
 def _junk(token: str) -> bool:
     """OCR pikčastih vodil (»........«) da besede iz črk n, a, e, o."""
     letters = [c for c in token.lower() if c.isalpha()]
+    if len(letters) >= 15 and len(set(letters)) / len(letters) < 0.35:   # »ississicissssevsacv…«
+        return True
     return len(letters) >= 3 and sum(c in "naeo" for c in letters) / len(letters) >= 0.75
+
+
+# Šum OCR v besedi: »StrojNo<OPreMO«, »GaE5« (velika črka sredi male besede, znaki < > | { }).
+GARBLE = re.compile(r"[<>{}|\\]|(?<=[a-zčšž])[A-ZČŠŽ]")
+
+
+def _clean_tail(text: str) -> str:
+    """Odreže predmet pri prvem očitnem šumu OCR in kratke ostanke na koncu."""
+    match = GARBLE.search(text)
+    if match and match.start() >= 3:
+        text = text[: match.start()]
+    words = text.split()
+    while words and len(re.sub(r"\W", "", words[-1])) <= 2 and not re.search(r"\d", words[-1]):
+        words.pop()
+    return " ".join(words).strip(" ,;:-–—(.")
 
 
 def _subject(raw: str) -> str:
@@ -65,7 +82,7 @@ def _subject(raw: str) -> str:
     for _ in range(4):
         text = LEAD.sub("", text.strip(" ,;:-–—()"))
     text = re.sub(r"^za\s+", "", text, flags=re.I)
-    text = TRAIL.sub("", text)
+    text = _clean_tail(TRAIL.sub("", text))
     return text[:90].strip(" ,;:-–—(")
 
 
