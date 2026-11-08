@@ -83,6 +83,28 @@ class Portal:
         response = self._request("GET", f"/arhiv/{id_obrazec}")
         return html_to_text(decode(response))
 
+    def contracts(self, maticna: str = DARS, page: int = 1000) -> list[dict]:
+        """Register pogodb (objavljene pogodbe in dodatki od leta 2015)."""
+        rows: list[dict] = []
+        start = 0
+        while True:
+            body = {"startRow": start, "endRow": start + page, "sortModel": [], "filterModel": {}, "narocnikMaticna": maticna}
+            batch = self._request("POST", "/api/pogodba/pogodbaGetGridList", json=body).json().get("data") or []
+            rows.extend(batch)
+            if len(batch) < page:
+                break
+            start += page
+        return rows
+
+    def contract(self, id_pogodba: int) -> dict:
+        return self._request("GET", "/api/pogodba/pogodbaGet", params={"id": id_pogodba}).json()
+
+    def file(self, url: str) -> bytes:
+        """Priloga s portala (npr. podpisana pogodba v PDF)."""
+        if not url.startswith(BASE + "/"):
+            raise ValueError(f"Priloga ni na portalu: {url}")
+        return self._request("GET", url[len(BASE):]).content
+
 
 def decode(response: requests.Response) -> str:
     content_type = response.headers.get("Content-Type", "")
