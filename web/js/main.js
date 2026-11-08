@@ -1,5 +1,7 @@
 // Obnove avtocest: filtri, zemljevid in podrobnosti pogodb DARS iz portala javnih naročil.
 
+import { renderTimeline } from './timeline.js';
+
 const CAT_COLORS = {
   light: {
     gradnja: '#6b5bd6', vozisce: '#c8401a', objekti: '#2a78d6', predori: '#4d4b44', hrup: '#1baf7a',
@@ -27,6 +29,15 @@ const PHASE = {
   oddaja: 'oddaja', neposredna: 'neposredna oddaja', sprememba: 'le objava spremembe',
   aneksi: 'aneksi brez povezane prvotne oddaje',
 };
+// Oznake nekonsistentnosti pri paru del na istem mestu (pipeline/forensics.py).
+const FLAGS = {
+  g: ['v garanciji', 'poznejše delo je naročeno v garancijski dobi prejšnjega'],
+  i: ['isti izvajalec', 'isti izvajalec je znova plačan za isto mesto v svoji garancijski dobi'],
+  r: ['po rekonstrukciji', 'ista dela manj kot 8 let po rekonstrukciji ali novogradnji'],
+  p: ['drugo ime', 'ista vrsta dela pod drugim imenom pogodbe'],
+};
+const FLAG_ORDER = ['i', 'g', 'r', 'p'];
+const VIEWS = ['map', 'timeline', 'network', 'forensics'];
 
 const $ = (sel) => document.querySelector(sel);
 const num = new Intl.NumberFormat('sl-SI', { maximumFractionDigits: 0 });
@@ -52,6 +63,12 @@ function years(g) {
   const n = r % 100;
   return `${s} ${n === 1 ? 'leto' : n === 2 ? 'leti' : n === 3 || n === 4 ? 'leta' : 'let'}`;
 }
+// »po 1 letu«, »po 3 letih«, »po 2,5 leta«
+function after(g) {
+  const r = Math.round(g * 10) / 10;
+  if (!Number.isInteger(r)) return `po ${num1.format(r)} leta`;
+  return `po ${num1.format(r)} ${r === 1 ? 'letu' : 'letih'}`;
+}
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const theme = () => document.documentElement.dataset.theme
   || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
@@ -71,13 +88,19 @@ let repeated = new Set();
 let map;
 let popup;
 let showUnlocated = false;
+let EXTRA = null;          // forenzika.json (mreža in kazalniki), naloži se ob prvem odprtju pogleda
+const views = {};          // naloženi moduli pogledov Mreža in Forenzika
 
 function defaults() {
   return {
     cats: new Set(CATS.map((c) => c.key)), y0: YMIN, y1: YMAX, roads: null, q: '', firm: '',
     rep: 'all', gap: 10, same: true, approx: true, annex: false, color: 'cat', sel: null, at: null,
+    flags: new Set(FLAG_ORDER), heat: false, view: 'map', road: null, zoomKm: null, tlScroll: null,
   };
 }
+
+const flagOk = (pair) => [...(pair.flags || '')].some((f) => state.flags.has(f));
+const flagText = (flags) => FLAG_ORDER.filter((f) => flags.includes(f)).map((f) => FLAGS[f][1]).join('; ');
 
 // --- URL ----------------------------------------------------------------------------------
 
@@ -89,7 +112,11 @@ function writeHash() {
   if (state.roads) h.set('cesta', [...state.roads].join(','));
   if (state.q) h.set('q', state.q);
   if (state.firm) h.set('izvajalec', state.firm);
-  if (state.rep !== 'all') h.set('ponovitve', '1');
+  if (state.view !== 'map') h.set('pogled', state.view);
+  if (state.view === 'timeline' && state.road) h.set('os', state.road);
+  if (state.rep !== 'all') h.set('ponovitve', state.rep === 'flag' ? 'n' : '1');
+  if (state.flags.size !== FLAG_ORDER.length) h.set('zastavice', [...state.flags].join('') || '-');
+  if (state.heat) h.set('toplota', '1');
   if (state.gap !== d.gap) h.set('razmik', state.gap);
   if (!state.same) h.set('vse', '1');
   if (!state.approx) h.set('natancno', '1');
@@ -111,7 +138,11 @@ function readHash() {
   if (h.get('cesta')) s.roads = new Set(h.get('cesta').split(','));
   s.q = h.get('q') || '';
   s.firm = h.get('izvajalec') || '';
-  s.rep = h.get('ponovitve') ? 'only' : 'all';
+  s.rep = h.get('ponovitve') === 'n' ? 'flag' : h.get('ponovitve') ? 'only' : 'all';
+  if (h.get('zastavice')) s.flags = new Set([...h.get('zastavice')].filter((f) => FLAGS[f]));
+  s.heat = !!h.get('toplota');
+  s.view = VIEWS.includes(h.get('pogled')) ? h.get('pogled') : 'map';
+  s.road = h.get('os') || null;
   if (h.get('razmik')) s.gap = Number(h.get('razmik')) || s.gap;
   s.same = !h.get('vse');
   s.approx = !h.get('natancno');
@@ -136,14 +167,15 @@ function baseMatch(p) {
 }
 
 const PRECISE = new Set(['km', 'objekt']);
+function preciseOk(pair) {
+  return state.approx || (PRECISE.has(byId.get(pair.self)?.p) && PRECISE.has(byId.get(pair.other)?.p));
+}
+
 function pairOk(pair) {
-  if (pair.gap > state.gap || (state.same && !pair.same)) return false;
-  if (!state.approx) {
-    const a = byId.get(pair.self);
-    const b = byId.get(pair.other);
-    if (!PRECISE.has(a?.p) || !PRECISE.has(b?.p)) return false;
-  }
-  return true;
+  if (state.rep === 'flag') {
+    if (!flagOk(pair)) return false;
+  } else if (pair.gap > state.gap || (state.same && !pair.same)) return false;
+  return preciseOk(pair);
 }
 
 function applyFilters() {
@@ -153,7 +185,7 @@ function applyFilters() {
   for (const p of base) {
     if ((pairsOf.get(p.i) || []).some((pair) => pairOk(pair) && ids.has(pair.other))) repeated.add(p.i);
   }
-  visible = state.rep === 'only' ? base.filter((p) => repeated.has(p.i)) : base;
+  visible = state.rep !== 'all' ? base.filter((p) => repeated.has(p.i)) : base;
 }
 
 function update({ fit = false } = {}) {
@@ -161,8 +193,77 @@ function update({ fit = false } = {}) {
   syncControls();
   updateMap();
   renderRail();
+  renderView();
   writeHash();
-  if (fit && state.sel) focus(byId.get(state.sel));
+  if (fit && state.sel && state.view === 'map') focus(byId.get(state.sel));
+}
+
+// --- pogledi --------------------------------------------------------------------------------
+
+function flaggedLater() {
+  // Poznejša dela v označenih parih (za obrobo v časovnici).
+  const out = new Map();
+  const ids = new Set(visible.map((p) => p.i));
+  for (const p of visible) {
+    for (const pair of pairsOf.get(p.i) || []) {
+      if (!pair.later || !pair.flags || !flagOk(pair) || !preciseOk(pair) || !ids.has(pair.other)) continue;
+      const prev = out.get(p.i) || '';
+      const merged = FLAG_ORDER.filter((f) => prev.includes(f) || pair.flags.includes(f)).join('');
+      out.set(p.i, merged);
+    }
+  }
+  return out;
+}
+
+function renderView() {
+  document.body.dataset.view = state.view;
+  $('#timeline').hidden = state.view !== 'timeline';
+  $('#wide').hidden = !['network', 'forensics'].includes(state.view);
+  $('#view-network').hidden = state.view !== 'network';
+  $('#view-forensics').hidden = state.view !== 'forensics';
+  if (state.view === 'timeline') {
+    renderTimeline($('#timeline'), {
+      roads: DATA.roads, list: visible.filter((p) => p.lr && (state.approx || PRECISE.has(p.p))), YMIN, YMAX, state,
+      project: (id) => byId.get(id), colorOf, money, years, flagText,
+      flaggedLater: flaggedLater(), highlight: highlighted(),
+      onSelect: (id) => { state.sel = id; state.at = null; update(); showTab('rail'); },
+      rerender: () => { renderView(); writeHash(); },
+    });
+  } else if (state.view === 'network' || state.view === 'forensics') {
+    openWide(state.view);
+  }
+}
+
+const viewApi = {
+  project: (id) => byId.get(id),
+  get catLabel() { return catLabel; },
+  colorOf,
+  money,
+  theme,
+  openProject: (id) => { state.view = 'map'; state.sel = id; state.at = null; update({ fit: true }); showTab('rail'); },
+  filterFirm: (name) => { state.view = 'map'; state.firm = name; state.sel = null; state.at = null; update(); showTab('map'); },
+};
+
+async function openWide(view) {
+  const el = $(view === 'network' ? '#view-network' : '#view-forensics');
+  if (views[view]) return;
+  views[view] = 'loading';
+  el.innerHTML = '<p class="wide-loading">Nalagam …</p>';
+  try {
+    if (!EXTRA) {
+      EXTRA = await fetch('data/forenzika.json').then((r) => {
+        if (!r.ok) throw new Error(r.status);
+        return r.json();
+      });
+    }
+    const mod = await import(view === 'network' ? './network.js' : './forensics.js');
+    el.innerHTML = '';
+    mod.render(el, EXTRA, viewApi);
+    views[view] = mod;
+  } catch (error) {
+    views[view] = null;
+    el.innerHTML = `<p class="wide-loading">Pogleda ni bilo mogoče naložiti (${esc(error.message)}).</p>`;
+  }
 }
 
 function buildFilters() {
@@ -223,6 +324,12 @@ function buildFilters() {
   $('#f-same').onchange = (e) => { state.same = e.target.checked; update(); };
   $('#f-approx').onchange = (e) => { state.approx = e.target.checked; update(); };
   $('#f-annex').onchange = (e) => { state.annex = e.target.checked; update(); };
+  $('#f-heat').onchange = (e) => { state.heat = e.target.checked; update(); };
+  $('#f-flags').onchange = (e) => {
+    const f = e.target.value;
+    if (e.target.checked) state.flags.add(f); else state.flags.delete(f);
+    update();
+  };
   $('#reset').onclick = () => { state = defaults(); update(); map?.fitBounds(SLOVENIA, { padding: 20 }); };
   $('#download').onclick = downloadCsv;
 }
@@ -250,6 +357,9 @@ function syncControls() {
   $('#f-same').checked = state.same;
   $('#f-approx').checked = state.approx;
   $('#f-annex').checked = state.annex;
+  $('#f-heat').checked = state.heat;
+  document.querySelectorAll('#f-flags input').forEach((i) => { i.checked = state.flags.has(i.value); });
+  document.querySelectorAll('#views [data-view]').forEach((b) => b.classList.toggle('is-on', b.dataset.view === state.view));
   if (document.activeElement !== $('#f-q')) $('#f-q').value = state.q;
   if (document.activeElement !== $('#f-firm')) $('#f-firm').value = state.firm;
   renderLegend();
@@ -275,11 +385,42 @@ function features() {
       .sort((a, b) => (a.d || '').localeCompare(b.d || ''))
       .map((p) => ({
         type: 'Feature',
-        properties: { i: p.i, c: p.cat, y: p.y || YMIN, p: p.p },
+        properties: { i: p.i, c: p.cat, y: p.y || YMIN, p: p.p, dir: p.dir || 0 },
         geometry: { type: 'MultiLineString', coordinates: p.g },
       })),
   };
 }
+
+// Toplotna karta: točke vsakih ~150 m vzdolž del, ki imajo ponovitev (ali nekonsistentnost) po filtrih;
+// teža je število takih parov.
+function heatPoints() {
+  const ids = new Set(visible.map((p) => p.i));
+  const feats = [];
+  for (const p of visible) {
+    if (!p.g || !(state.approx || PRECISE.has(p.p))) continue;
+    const n = (pairsOf.get(p.i) || []).filter((pair) => pairOk(pair) && ids.has(pair.other)).length;
+    if (!n) continue;
+    for (const line of p.g) {
+      for (let k = 0; k < line.length - 1; k++) {
+        const [x0, y0] = line[k];
+        const [x1, y1] = line[k + 1];
+        const meters = Math.hypot((x1 - x0) * 77000, (y1 - y0) * 111000);
+        const steps = Math.max(1, Math.round(meters / 150));
+        for (let s = 0; s < steps; s++) {
+          const t = s / steps;
+          feats.push({ type: 'Feature', properties: { w: n }, geometry: { type: 'Point', coordinates: [x0 + (x1 - x0) * t, y0 + (y1 - y0) * t] } });
+        }
+      }
+    }
+  }
+  return { type: 'FeatureCollection', features: feats };
+}
+
+// Smeri vožnje (šifri 00xx in 06xx) zamaknemo levo in desno od osi; črte so usmerjene v smer naraščajočih km.
+const OFFSET = ['interpolate', ['linear'], ['zoom'],
+  10, 0,
+  13, ['match', ['get', 'dir'], 1, 4, 2, -4, 0],
+  16, ['match', ['get', 'dir'], 1, 9, 2, -9, 0]];
 
 function highlighted() {
   if (state.sel) return [state.sel, ...(pairsOf.get(state.sel) || []).map((x) => x.other)];
@@ -289,23 +430,35 @@ function highlighted() {
 function addLayers() {
   const t = theme();
   map.addSource('works', { type: 'geojson', data: features() });
+  map.addSource('heat', { type: 'geojson', data: { type: 'FeatureCollection', features: [] } });
   const width = ['interpolate', ['linear'], ['zoom'], 6, 1.8, 9, 3, 12, 5, 15, 8];
   const wider = (n) => ['interpolate', ['linear'], ['zoom'], 6, 1.8 + n, 9, 3 + n, 12, 5 + n, 15, 8 + n];
   map.addLayer({
+    id: 'heat', type: 'heatmap', source: 'heat', layout: { visibility: 'none' },
+    paint: {
+      'heatmap-weight': ['interpolate', ['linear'], ['get', 'w'], 1, 0.35, 6, 1],
+      'heatmap-intensity': ['interpolate', ['linear'], ['zoom'], 6, 0.7, 13, 2.2],
+      'heatmap-radius': ['interpolate', ['linear'], ['zoom'], 6, 7, 10, 16, 14, 34],
+      'heatmap-color': ['interpolate', ['linear'], ['heatmap-density'],
+        0, 'rgba(255,240,200,0)', 0.15, 'rgba(253,215,140,0.55)', 0.4, '#f6a04d', 0.7, '#e0532a', 1, '#a3001b'],
+      'heatmap-opacity': 0.9,
+    },
+  });
+  map.addLayer({
     id: 'works-case', type: 'line', source: 'works',
     layout: { 'line-cap': 'round', 'line-join': 'round' },
-    paint: { 'line-color': PAINT[t].ring, 'line-width': wider(2.5), 'line-opacity': 0.85 },
+    paint: { 'line-color': PAINT[t].ring, 'line-width': wider(2.5), 'line-opacity': 0.85, 'line-offset': OFFSET },
   });
   map.addLayer({
     id: 'works-hl', type: 'line', source: 'works', filter: ['in', ['get', 'i'], ['literal', []]],
     layout: { 'line-cap': 'round', 'line-join': 'round' },
-    paint: { 'line-color': PAINT[t].ink, 'line-width': wider(5) },
+    paint: { 'line-color': PAINT[t].ink, 'line-width': wider(5), 'line-offset': OFFSET },
   });
   map.addLayer({
     id: 'works', type: 'line', source: 'works',
     layout: { 'line-cap': 'round', 'line-join': 'round' },
     paint: {
-      'line-color': colorExpr(), 'line-width': width,
+      'line-color': colorExpr(), 'line-width': width, 'line-offset': OFFSET,
       'line-opacity': ['match', ['get', 'p'], ['odsek', 'kraj'], 0.7, 0.95],
     },
   });
@@ -316,6 +469,11 @@ function updateMap() {
   map.getSource('works').setData(features());
   map.setPaintProperty('works', 'line-color', colorExpr());
   map.setFilter('works-hl', ['in', ['get', 'i'], ['literal', highlighted()]]);
+  map.setLayoutProperty('heat', 'visibility', state.heat ? 'visible' : 'none');
+  if (state.heat) map.getSource('heat').setData(heatPoints());
+  const dim = state.heat ? 0.4 : 1;
+  map.setPaintProperty('works', 'line-opacity', ['match', ['get', 'p'], ['odsek', 'kraj'], 0.7 * dim, 0.95 * dim]);
+  map.setPaintProperty('works-case', 'line-opacity', 0.85 * dim);
 }
 
 function initMap() {
@@ -335,7 +493,8 @@ function initMap() {
     if (!p) return;
     const more = ids.length > 1 ? `<div class="tip-meta">na tem mestu ${ids.length} pogodb, kliknite za seznam</div>` : '';
     popup.setLngLat(e.lngLat).setHTML(
-      `<div class="tip-title">${esc(p.t)}</div><div class="tip-meta">${p.y ?? ''} · ${money(p.vf ?? p.v)} · ${esc(catLabel[p.cat])}</div>${more}`,
+      `<div class="tip-title">${esc(p.t)}</div><div class="tip-meta">${p.y ?? ''} · ${money(p.vf ?? p.v)} · ${esc(catLabel[p.cat])}</div>`
+      + `${p.lr ? `<div class="tip-meta">${esc(lrText(p))}${p.dir ? ` · smer ${p.dir}` : ''}</div>` : ''}${more}`,
     ).addTo(map);
   });
   map.on('mouseleave', 'works', () => { map.getCanvas().style.cursor = ''; popup.remove(); });
@@ -400,6 +559,52 @@ function bars(list) {
   return `<svg class="bars" viewBox="0 0 ${w} ${h}" role="img" aria-label="Vrednost pogodb po letih">${rects}<text x="4" y="10">${money(max)}</text></svg>`;
 }
 
+function flagTags(flags) {
+  return FLAG_ORDER.filter((f) => (flags || '').includes(f))
+    .map((f) => `<span class="tag flag flag-${f}" title="${esc(FLAGS[f][1])}">${FLAGS[f][0]}</span>`).join('');
+}
+const lrText = (p) => (p.lr || []).map(([r, a, b]) => `${r} km ${num1.format(a)}–${num1.format(b)}`).join(', ');
+function addYears(iso, y) {
+  const d = new Date(`${iso}T00:00:00`);
+  d.setMonth(d.getMonth() + Math.round(y * 12));
+  return `${d.getMonth() + 1}. ${d.getFullYear()}`;
+}
+
+function warrantyBlock(p) {
+  const pdf = (p.src || []).find(([label]) => label.startsWith('Pogodba'));
+  const link = pdf ? ` <a href="${esc(pdf[1])}" target="_blank" rel="noopener">pogodba (PDF)</a>` : '';
+  if (p.gw?.length) {
+    const ocr = (p.rg || []).some((r) => r.src === 'ocr');
+    return `<ul class="warranty">${p.gw.map(([s, y]) => `<li><b>${years(y)}</b><span>${esc(s)}</span></li>`).join('')}</ul>
+      <p class="hint">Iz člena o garancijskem roku v pogodbi${ocr ? ', prebrano z OCR' : ''};${link}.
+      ${p.wy && p.d ? `Za glavno vrsto dela velja ${years(p.wy)}, torej vsaj do ${addYears(p.d, p.wy)} (rok teče od prevzema del).` : ''}</p>`;
+  }
+  if (p.rg?.length) return `<p class="hint">Pogodba je v registru pogodb, garancijskega roka v besedilu ni bilo mogoče prebrati.${link}</p>`;
+  if ((p.y || 0) >= 2015) return '<p class="hint">Pogodba ni bila najdena v registru pogodb.</p>';
+  return '<p class="hint">Register pogodb na portalu vsebuje pogodbe od leta 2015.</p>';
+}
+
+function registerText(p) {
+  return (p.rg || []).map((r) => {
+    const annexSum = (r.a || []).reduce((s, a) => s + (a[1] || 0), 0);
+    return `${r.no ? `št. ${esc(r.no)}, ` : ''}sklenjena ${dateSl(r.d)}${r.to ? `, do ${dateSl(r.to)}` : ''}${r.v ? `, ${moneyFull(r.v)}` : ''}`
+      + `${r.a?.length ? `<br><span class="hint">${r.a.length} ${r.a.length === 1 ? 'dodatek' : r.a.length === 2 ? 'dodatka' : r.a.length < 5 ? 'dodatki' : 'dodatkov'} v registru${annexSum ? `, skupaj ${moneyFull(annexSum)}` : ''}</span>` : ''}`;
+  }).join('<br>');
+}
+
+function flaggedPairs() {
+  const ids = new Set(visible.map((p) => p.i));
+  const out = [];
+  for (const p of visible) {
+    for (const pair of pairsOf.get(p.i) || []) {
+      if (!pair.later || !pair.flags || !flagOk(pair) || !preciseOk(pair) || !ids.has(pair.other)) continue;
+      out.push({ later: p, earlier: byId.get(pair.other), pair });
+    }
+  }
+  const rank = (f) => Math.min(...[...f].map((c) => FLAG_ORDER.indexOf(c)));
+  return out.sort((a, b) => rank(a.pair.flags) - rank(b.pair.flags) || a.pair.gap - b.pair.gap);
+}
+
 function summary() {
   const located = visible.filter((p) => p.g).length;
   const v = visible.reduce((s, p) => s + (p.v || 0), 0);
@@ -424,6 +629,8 @@ function summary() {
   const topFirms = [...firms.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
   const unlocated = visible.filter((p) => !p.g).sort((a, b) => (b.vf ?? b.v ?? 0) - (a.vf ?? a.v ?? 0));
   const biggest = [...visible].sort((a, b) => (b.vf ?? b.v ?? 0) - (a.vf ?? a.v ?? 0)).slice(0, 8);
+  const flagged = flaggedPairs();
+  const withWarranty = visible.filter((p) => p.gw?.length).length;
 
   return `
     <h2>Pregled izbora</h2>
@@ -435,9 +642,15 @@ function summary() {
     </div>
     <h3>Vrednost po letih (po aneksih)</h3>
     ${bars(visible)}
+    <h3>Nekonsistentnosti · ${num.format(flagged.length)}</h3>
+    <p class="sub">Pari na istem mestu, ki jih je težje pojasniti: ${FLAG_ORDER.filter((f) => state.flags.has(f)).map((f) => FLAGS[f][0]).join(', ') || 'nobena oznaka ni izbrana'}. Garancijski rok je znan za ${num.format(withWarranty)} pogodb v izboru.</p>
+    ${flagged.length ? `<ul class="list">${flagged.slice(0, 10).map((x) => item(x.later,
+      ` ${flagTags(x.pair.flags)}<span>${after(x.pair.gap)} (prej ${x.earlier.y}${x.pair.wy ? `, garancija ${years(x.pair.wy)}` : ''})</span>`)).join('')}</ul>`
+      : '<p class="empty">V izboru ni označenih parov.</p>'}
+    ${flagged.length > 10 && state.rep !== 'flag' ? `<button class="link more" type="button" data-flag-only>Prikaži le nekonsistentna dela</button>` : ''}
     <h3>Ponovitve na istem mestu · ${num.format(pairs.length)}</h3>
     ${pairs.length ? `<ul class="list">${pairs.slice(0, 12).map((x) => item(x.later,
-      ` <span class="tag warn">po ${years(x.gap)}</span><span>prej ${x.earlier.y}: ${money(x.earlier.vf ?? x.earlier.v)}</span>`)).join('')}</ul>`
+      ` <span class="tag warn">${after(x.gap)}</span><span>prej ${x.earlier.y}: ${money(x.earlier.vf ?? x.earlier.v)}</span>`)).join('')}</ul>`
       : `<p class="empty">V izboru ni del, ki bi se prekrivala v manj kot ${years(state.gap)}${state.same ? ' z isto vrsto dela' : ''}.</p>`}
     ${pairs.length > 12 ? `<button class="link more" type="button" data-rep-only>Prikaži le ponovljena dela (${num.format(repeated.size)})</button>` : ''}
     <h3>Največji izvajalci</h3>
@@ -474,18 +687,22 @@ function detail(p) {
         ${p.k === 'aneksi' ? `<dt>Skupaj aneksi</dt><dd class="num">${moneyFull(p.vf)}</dd>` : `<dt>Vrednost ob oddaji</dt><dd class="num">${moneyFull(p.v)}</dd>`}
         ${p.e ? `<dt>Ocenjena vrednost</dt><dd class="num">${moneyFull(p.e)}</dd>` : ''}
         ${p.m?.length && p.k !== 'aneksi' ? `<dt>Po aneksih</dt><dd class="num">${moneyFull(p.vf)}${growth != null ? ` <span class="${growth > 0 ? 'up' : ''}">(${growth > 0 ? '+' : ''}${num1.format(growth)} %)</span>` : ''}</dd>` : ''}
-        <dt>Izvajalec</dt><dd>${(p.w || []).map(esc).join('<br>') || '–'}</dd>
+        <dt>Izvajalec</dt><dd>${(p.w || []).map(esc).join('<br>') || '–'}${(p.w || []).length > 1 ? '<br><span class="hint">skupna ponudba</span>' : ''}</dd>
+        ${p.sub?.length ? `<dt>Podizvajalci</dt><dd>${p.sub.map(esc).join('<br>')}</dd>` : p.rg?.length ? '<dt>Podizvajalci</dt><dd class="hint">v pogodbi niso navedeni ali jih ni bilo mogoče prebrati</dd>' : ''}
         <dt>Ponudbe</dt><dd>${p.b ?? '–'}${bidTag}</dd>
+        ${p.rg?.length ? `<dt>Register pogodb</dt><dd>${registerText(p)}</dd>` : ''}
         <dt>Lokacija</dt><dd>${(p.s || []).map(sectionText).join('<br>') || 'ni navedena ali ni prepoznana'}</dd>
+        ${p.lr ? `<dt>Na osi ceste</dt><dd>${esc(lrText(p))}${p.dir ? `, smer ${p.dir === 1 ? '00xx' : '06xx'}` : ''} <button class="link inline-link" type="button" data-timeline>na časovnici</button></dd>` : ''}
         ${p.p ? `<dt>Natančnost</dt><dd>${PRECISION[p.p]}</dd>` : ''}
-        <dt>Garancija</dt><dd>ni v objavi; določena je v pogodbi${p.doc ? ` (<a href="${esc(p.doc)}" target="_blank" rel="noopener">razpisna dokumentacija</a>)` : ''}</dd>
       </dl>
+      <h3>Garancija</h3>
+      ${warrantyBlock(p)}
       ${p.x ? `<p class="note">${esc(p.x)}</p>` : ''}
       ${p.m?.length ? `<h3>Aneksi in spremembe · ${p.m.length}</h3><ul class="mods">${p.m.map((m) => `
         <li><div class="head"><a href="${esc(m.u)}" target="_blank" rel="noopener">${dateSl(m.d)}</a><span>${m.a ? `+${money(m.a)}` : ''}${m.v0 ? money(m.v0) : ''}${m.v1 ? ` → ${money(m.v1)}` : ''}</span></div>${m.x ? `<p>${esc(m.x)}</p>` : ''}</li>`).join('')}</ul>` : ''}
       <h3>Na istem mestu · ${partners.length}</h3>
       ${partners.length ? `<ul class="list">${partners.map((x) => item(x.p,
-        ` <span class="tag${pairOk(x) ? ' warn' : ''}">${x.later ? 'prej' : 'pozneje'} za ${years(x.gap)}</span><span>${num1.format(x.overlap / 1000)} km skupaj</span>`)).join('')}</ul>`
+        ` <span class="tag${pairOk(x) ? ' warn' : ''}">${x.later ? 'prej' : 'pozneje'} za ${years(x.gap)}</span>${flagTags(x.flags)}<span>${num1.format(x.overlap / 1000)} km skupaj${x.wy ? ` · garancija prejšnjega ${years(x.wy)}` : ''}</span>`)).join('')}</ul>`
         : `<p class="empty">${p.g ? 'V 15 letih pred ali po tej pogodbi ni drugih umeščenih del, ki bi se prekrivala s tem mestom.' : 'Pogodba ni umeščena, zato prekrivanj ni mogoče preveriti.'}</p>`}
       <h3>Viri</h3>
       <div class="sources">${(p.src || []).map(([label, url]) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`).join('')}</div>
@@ -511,7 +728,7 @@ function renderRail() {
 
 function bindRail() {
   $('#rail').addEventListener('click', (e) => {
-    const target = e.target.closest('[data-id],[data-back],[data-firm],[data-unlocated],[data-rep-only]');
+    const target = e.target.closest('[data-id],[data-back],[data-firm],[data-unlocated],[data-rep-only],[data-flag-only],[data-timeline]');
     if (!target) return;
     if (target.dataset.id) {
       state.sel = Number(target.dataset.id);
@@ -530,6 +747,14 @@ function bindRail() {
     } else if ('repOnly' in target.dataset) {
       state.rep = 'only';
       update();
+    } else if ('flagOnly' in target.dataset) {
+      state.rep = 'flag';
+      update();
+    } else if ('timeline' in target.dataset) {
+      state.view = 'timeline';
+      state.road = null;
+      update();
+      showTab('map');
     }
   });
 }
@@ -537,15 +762,19 @@ function bindRail() {
 // --- CSV ------------------------------------------------------------------------------------
 
 function downloadCsv() {
-  const cols = ['id', 'datum', 'vrsta', 'naslov', 'ceste', 'odseki', 'natancnost', 'vrednost_oddaja_eur', 'vrednost_po_aneksih_eur',
-    'aneksi', 'izvajalci', 'ponudbe', 'ponovitve', 'povezava'];
+  const cols = ['id', 'datum', 'vrsta', 'naslov', 'ceste', 'odseki', 'km_os', 'natancnost', 'vrednost_oddaja_eur', 'vrednost_po_aneksih_eur',
+    'aneksi', 'izvajalci', 'podizvajalci', 'ponudbe', 'garancija', 'ponovitve', 'nekonsistentnosti', 'povezava'];
   const q = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
-  const rows = visible.map((p) => [
-    p.i, p.d, catLabel[p.cat], p.t, (p.r || []).join(' '),
-    (p.s || []).map((s) => sectionText(s).replace(/&[a-z#0-9]+;/g, '')).join(' | '), p.p || '',
-    p.v ?? '', p.vf ?? '', p.m?.length || 0, (p.w || []).join(' | '), p.b ?? '',
-    (pairsOf.get(p.i) || []).filter(pairOk).length, (p.src?.[0] || [])[1] || '',
-  ].map(q).join(';'));
+  const rows = visible.map((p) => {
+    const pairs = pairsOf.get(p.i) || [];
+    const flags = [...new Set(pairs.filter((x) => x.later).flatMap((x) => [...x.flags]))].map((f) => FLAGS[f][0]).join(' | ');
+    return [
+      p.i, p.d, catLabel[p.cat], p.t, (p.r || []).join(' '),
+      (p.s || []).map((s) => sectionText(s).replace(/&[a-z#0-9]+;/g, '')).join(' | '), lrText(p), p.p || '',
+      p.v ?? '', p.vf ?? '', p.m?.length || 0, (p.w || []).join(' | '), (p.sub || []).join(' | '), p.b ?? '',
+      (p.gw || []).map(([s, y]) => `${y} let: ${s}`).join(' | '), pairs.filter(pairOk).length, flags, (p.src?.[0] || [])[1] || '',
+    ].map(q).join(';');
+  });
   const blob = new Blob([`﻿${cols.join(';')}\n${rows.join('\n')}\n`], { type: 'text/csv;charset=utf-8' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
@@ -574,15 +803,16 @@ function prepare(data) {
     p.search = [p.t, p.x, ...(p.s || []).flatMap((s) => [s.a, s.b, ...(s.named || [])])].join(' ').toLowerCase();
     byId.set(p.i, p);
   }
-  for (const [a, b, gap, overlap, same] of data.repeats) {
+  for (const [a, b, gap, overlap, same, wy, flags] of data.repeats) {
     if (!byId.has(a) || !byId.has(b)) continue;
     if (!pairsOf.has(a)) pairsOf.set(a, []);
     if (!pairsOf.has(b)) pairsOf.set(b, []);
-    pairsOf.get(a).push({ self: a, other: b, gap, overlap, same: !!same, later: false });
-    pairsOf.get(b).push({ self: b, other: a, gap, overlap, same: !!same, later: true });
+    const common = { gap, overlap, same: !!same, wy: wy || null, flags: flags || '' };
+    pairsOf.get(a).push({ self: a, other: b, ...common, later: false });
+    pairsOf.get(b).push({ self: b, other: a, ...common, later: true });
   }
   const m = data.meta;
-  $('#stamp').textContent = `zadnja objava ${dateSl(m.newest)} · ${num.format(m.projects)} pogodb`;
+  $('#stamp').textContent = `zadnja objava ${dateSl(m.newest)} · ${num.format(m.projects)} pogodb${m.warranty ? ` · ${num.format(m.warranty)} z garancijo` : ''}`;
 }
 
 async function main() {
@@ -599,6 +829,14 @@ async function main() {
   $('#loading').hidden = true;
 
   $('#open-method').onclick = () => $('#method').showModal();
+  $('#views').onclick = (e) => {
+    const b = e.target.closest('[data-view]');
+    if (!b) return;
+    state.view = b.dataset.view;
+    update({ fit: state.view === 'map' && !!state.sel });
+    if (state.view === 'map') { showTab('map'); setTimeout(() => map?.resize(), 0); }
+    if (state.view === 'timeline') showTab('map');
+  };
   document.querySelectorAll('.tabs button').forEach((b) => { b.onclick = () => showTab(b.dataset.tab); });
   $('#toggle-theme').onclick = () => {
     const next = theme() === 'dark' ? 'light' : 'dark';
@@ -607,10 +845,11 @@ async function main() {
     map.setStyle(STYLES[next]);
     buildFilters();
     update();
+    for (const mod of Object.values(views)) if (mod && mod !== 'loading') mod.update?.(viewApi);
   };
   window.addEventListener('hashchange', () => {
     const next = readHash();
-    if (next.sel !== state.sel) { state = next; update({ fit: true }); }
+    if (next.sel !== state.sel || next.view !== state.view) { state = next; update({ fit: true }); }
   });
 }
 

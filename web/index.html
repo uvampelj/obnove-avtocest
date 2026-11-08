@@ -12,6 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
   <link href="css/app.css" rel="stylesheet">
+  <link href="css/views.css" rel="stylesheet">
   <script>
     (() => {
       try {
@@ -29,6 +30,12 @@
         <span>Obnove avtocest</span>
       </a>
       <p class="tagline">Javna naročila DARS za dela na avtocestah in hitrih cestah od leta 2009</p>
+      <nav class="views" id="views" aria-label="Pogled">
+        <button type="button" data-view="map">Zemljevid</button>
+        <button type="button" data-view="timeline">Časovnica</button>
+        <button type="button" data-view="network">Mreža</button>
+        <button type="button" data-view="forensics">Forenzika</button>
+      </nav>
       <p class="stamp" id="stamp"></p>
       <div class="top-actions">
         <button class="ghost" id="open-method" type="button">Metodologija</button>
@@ -68,9 +75,10 @@
 
         <section class="group">
           <h3>Ponovitve na istem mestu</h3>
-          <div class="segment" id="f-rep" role="group" aria-label="Prikaz ponovitev">
-            <button type="button" data-v="all">Vse pogodbe</button>
-            <button type="button" data-v="only">Le ponovljena dela</button>
+          <div class="segment three" id="f-rep" role="group" aria-label="Prikaz ponovitev">
+            <button type="button" data-v="all">Vse</button>
+            <button type="button" data-v="only">Ponovljena</button>
+            <button type="button" data-v="flag">Nekonsistentna</button>
           </div>
           <label class="inline">Razmik manj kot
             <select id="f-gap">
@@ -83,6 +91,17 @@
           </label>
           <label class="check"><input type="checkbox" id="f-same"> le ista vrsta dela</label>
           <p class="filter-note">Ponovitev pomeni, da se umeščeni deli dveh pogodb prekrivajo vsaj 300 m. To še ne pomeni napake: glej Metodologijo.</p>
+        </section>
+
+        <section class="group">
+          <h3>Nekonsistentnosti</h3>
+          <div class="flag-list" id="f-flags">
+            <label class="check"><input type="checkbox" value="g"> <span class="flag-dot g"></span>v garancijski dobi prejšnjega dela</label>
+            <label class="check"><input type="checkbox" value="i"> <span class="flag-dot i"></span>isti izvajalec v svoji garancijski dobi</label>
+            <label class="check"><input type="checkbox" value="r"> <span class="flag-dot r"></span>ponovno manj kot 8 let po rekonstrukciji ali novogradnji</label>
+            <label class="check"><input type="checkbox" value="p"> <span class="flag-dot p"></span>ista vrsta dela pod drugim imenom</label>
+          </div>
+          <p class="filter-note">Velja za izbiro »Nekonsistentna«, toplotno karto in časovnico. Pravila so v Metodologiji.</p>
         </section>
 
         <section class="group">
@@ -110,6 +129,7 @@
           </div>
           <label class="check"><input type="checkbox" id="f-approx"> vključi približno umeščene (cel odsek, okolica kraja)</label>
           <label class="check"><input type="checkbox" id="f-annex"> le pogodbe z aneksi</label>
+          <label class="check"><input type="checkbox" id="f-heat"> toplotna karta ponovitev</label>
         </section>
 
         <section class="group">
@@ -120,7 +140,13 @@
       <section class="stage" aria-label="Zemljevid">
         <div id="map"></div>
         <div class="legend" id="legend"></div>
+        <div class="timeline" id="timeline" hidden></div>
         <div class="loading" id="loading">Nalagam podatke …</div>
+      </section>
+
+      <section class="wide" id="wide" hidden>
+        <div class="wide-pane" id="view-network" hidden></div>
+        <div class="wide-pane" id="view-forensics" hidden></div>
       </section>
 
       <aside class="rail" id="rail" aria-live="polite"></aside>
@@ -135,11 +161,13 @@
     <div class="prose">
       <h3>Vir podatkov</h3>
       <p>Vse pogodbe so iz <a href="https://www.enarocanje.si/" target="_blank" rel="noopener">portala javnih naročil</a>: obvestila DARS o oddaji naročila, o neposredni oddaji in o spremembah pogodb (aneksih) od leta 2009. Upoštevana so naročila gradenj. Vsak zapis ima povezavo na izvirno objavo. Vir: Javne informacije Slovenije – portal javnih naročil.</p>
+      <p>Iz <b>registra pogodb</b> na istem portalu so podpisane pogodbe od leta 2015 z vsemi izvajalci (tudi partnerji v skupni ponudbi) in dodatki (aneksi). Iz besedila pogodbe preberemo člen o garancijskem roku in seznam podizvajalcev. Približno polovica pogodb je skeniranih, zato jih beremo z optičnim prepoznavanjem znakov (OCR), ki se lahko zmoti; vsak zapis ima povezavo na PDF pogodbe.</p>
       <h3>Kaj ni zajeto</h3>
       <ul>
         <li>Dela, ki jih DARS izvede z lastnimi vzdrževalnimi bazami ali v okviru letnih vzdrževalnih pogodb brez posebne objave.</li>
         <li>Evidenčna naročila pod pragom objave (gradnje pod 80.000 EUR brez DDV).</li>
-        <li>Garancijski roki. Ti niso v objavah, ampak v razpisni dokumentaciji in pogodbah. Kjer je razpisna dokumentacija na portalu, je zapis povezan nanjo.</li>
+        <li>Garancijski roki pogodb pred letom 2015 (register pogodb še ni obstajal) in pogodb, kjer roka v besedilu ni bilo mogoče prebrati.</li>
+        <li>Neuspešni ponudniki (objave navajajo le število ponudb) in lastniške povezave med podjetji.</li>
       </ul>
       <h3>Umestitev na zemljevid</h3>
       <p>DARS v objavah navaja ceste (A1, H4), šifre odsekov (npr. 0036, nasprotna smer 0636), imena odsekov po priključkih (»Fram–Slovenska Bistrica«) in kilometre znotraj odseka. Imena priključkov poiščemo v OpenStreetMap, pot med njima po osi ceste, kilometre pa odmerimo od prvega priključka. Lega je zato <strong>približna</strong>:</p>
@@ -157,7 +185,18 @@
         <li>ena pogodba je lahko za eno smer, druga za drugo,</li>
         <li>pri približno umeščenih zapisih je prekrivanje lahko le navidezno.</li>
       </ul>
-      <p>Močnejši znak je ista vrsta dela na istem mestu v času, ko bi morala še veljati garancija prejšnjega izvajalca. Za to je treba preveriti pogodbo prejšnjega posla.</p>
+      <h3>Nekonsistentnosti</h3>
+      <p>Med ponovitvami posebej označimo pare, ki jih je težje pojasniti:</p>
+      <ul>
+        <li><b>v garancijski dobi</b>: poznejša pogodba je sklenjena, preden bi se iztekel garancijski rok prejšnje. Rok vzamemo iz pogodbe prejšnjega dela za isto vrsto dela (npr. vozišče, objekt), sicer splošni rok. Garancija začne teči ob prevzemu del, torej po podpisu pogodbe, zato je ocena previdna: dejanski rok se izteče še pozneje.</li>
+        <li><b>isti izvajalec v garancijski dobi</b>: kot zgoraj, poznejše delo pa je dobil isti izvajalec. Odprava napak v garancijski dobi bi morala biti na njegove stroške.</li>
+        <li><b>po rekonstrukciji</b>: prejšnja pogodba je rekonstrukcija, celovita obnova ali novogradnja, poznejša pa ista vrsta dela na istem mestu manj kot 8 let pozneje. Projektna doba voziščne konstrukcije je 20 let, obrabne plasti 10 do 15 let.</li>
+        <li><b>pod drugim imenom</b>: pogodbi imata različna naslova in drugačno glavno vrsto dela, opis prejšnje pa vsebuje vrsto dela poznejše (npr. »investicijsko vzdrževanje« in pozneje »obnova vozišča«).</li>
+        <li><b>sočasna ločena naročila</b>: ista vrsta dela na istem mestu v manj kot letu dni v ločenih postopkih z različnima naslovoma (možna razdrobitev naročila).</li>
+      </ul>
+      <p>Toplotna karta kaže, kje se takšni pari zgostijo. Časovnica za izbrano cesto kaže vsa dela po kilometrih in letih; senca pod delom je njegov garancijski rok. Kilometri so izmerjeni po osi v OpenStreetMap in se lahko za nekaj sto metrov razlikujejo od DARS-ove stacionaže. Na zemljevidu sta pri večji povečavi smeri vožnje (šifri 00xx in 06xx) zamaknjeni levo in desno od osi.</p>
+      <h3>Mreža in forenzika</h3>
+      <p>Mreža povezuje podjetja, ki so nastopila v skupni ponudbi ali kot podizvajalci, in naročnike. Forenzični pogled uporablja kazalnike, s katerimi revizorji javnih naročil izbirajo primere za pregled: Benfordov zakon za prve števke zneskov, razmerje med pogodbeno in ocenjeno vrednostjo, delež naročil z eno ponudbo, koncentracijo trga (HHI), rotacijo zmagovalcev, rast vrednosti z aneksi in kopičenje vrednosti tik pod zakonskimi pragovi. Povezava ali kazalnik nista dokaz dogovarjanja ali korupcije.</p>
       <h3>Vrednosti</h3>
       <p>Vrednosti so brez DDV, kot so navedene v objavah. »Končna« vrednost upošteva zadnji objavljeni aneks. Vrednost iz objave o oddaji ni nujno enaka izplačanemu znesku.</p>
       <h3>Odgovornost</h3>
@@ -166,6 +205,7 @@
   </dialog>
 
   <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
   <script type="module" src="js/main.js"></script>
 </body>
 </html>

@@ -5,11 +5,16 @@ Interaktivni zemljevid javnih naročil DARS za dela na avtocestah in hitrih cest
 **Stran:** https://uvampelj.github.io/obnove-avtocest/
 
 - pogodbe za gradnje iz obvestil o oddaji, neposrednih oddajah in spremembah pogodb na portalu javnih naročil
-- lega na avtocesti iz šifer odsekov, imen priključkov in kilometrov v objavah
+- lega na avtocesti iz šifer odsekov, imen priključkov in kilometrov v objavah; smeri vožnje ločeno
+- garancijski roki, partnerji v skupni ponudbi, podizvajalci in dodatki iz podpisanih pogodb v registru pogodb (od 2015, skenirane z OCR)
 - aneksi z zneski in razlogi, končna vrednost po aneksih
 - ponovitve: pogodbe, katerih dela se na zemljevidu prekrivajo, z razmikom v letih in filtrom za isto vrsto dela
+- nekonsistentnosti: delo v garancijski dobi prejšnjega (tudi isti izvajalec), ponovna dela kmalu po rekonstrukciji, ista dela pod drugim imenom, sočasna ločena naročila
+- toplotna karta ponovitev in časovnica (prostorsko-časovni diagram) po kilometrih ceste z garancijskimi sencami
+- mreža izvajalcev, partnerjev, podizvajalcev in naročnikov
+- forenzični kazalniki: Benfordov zakon, pogodbena proti ocenjeni vrednosti, ena ponudba, koncentracija trga (HHI), rotacija zmagovalcev, rast z aneksi, kopičenje pod pragovi
 - filtri po vrsti dela, letu, cesti, izvajalcu in besedilu; povezava vsebuje filtre, izbor se prenese kot CSV
-- vsak zapis ima povezavo na izvirno objavo, novejši tudi na razpisno dokumentacijo
+- vsak zapis ima povezavo na izvirno objavo in pogodbo v PDF
 
 Stran je neodvisen prikaz javnih podatkov in ni uradna storitev DARS. Ponovitev na istem mestu sama po sebi ni dokaz nepravilnosti: razlogi so opisani na strani pod gumbom **Metodologija**.
 
@@ -18,10 +23,11 @@ Stran je neodvisen prikaz javnih podatkov in ni uradna storitev DARS. Ponovitev 
 [`refresh.yml`](.github/workflows/refresh.yml) vsak ponedeljek ob 5.10 UTC:
 
 1. prenese seznam vseh objav DARS s portala javnih naročil in shrani nove objave o oddaji in spremembah v [`data/notices`](data/notices) (vsako enkrat, objave se ne spreminjajo),
-2. zapiše stanje v [`status/latest.json`](status/latest.json) in nove objave shrani v repozitorij,
-3. zgradi `web/data/obnove.json` in objavi stran.
+2. prenese nove zapise iz registra pogodb v [`data/contracts`](data/contracts); pri pogodbah za gradnje prebere PDF (pdftotext, pri skeniranih tesseract OCR) in shrani odlomke o garanciji in podizvajalcih,
+3. nove podatke shrani v repozitorij,
+4. zgradi `web/data/obnove.json` in `web/data/forenzika.json` ter objavi stran.
 
-Če portal vrne nenavadno malo objav ali spodleti več kot 10 % prenosov, se posel ustavi in prejšnja različica strani ostane objavljena. GitHub o neuspešnem zagonu pošlje e-pošto. Portal prosi, naj se avtomatizirano črpanje sproži največ dvakrat dnevno.
+Če portal vrne nenavadno malo objav ali spodleti več kot 10 % prenosov, se zbiranje ustavi; že prenesene objave se shranijo, stran se zgradi iz shranjenih podatkov. Branje pogodb ima časovno omejitev (120 min), preostanek se nadaljuje ob naslednjem zagonu. GitHub o neuspešnem zagonu pošlje e-pošto. Portal prosi, naj se avtomatizirano črpanje sproži največ dvakrat dnevno, zato ob spremembi kode (push) teče le gradnja strani.
 
 Ročni zagon: **Actions → Osveži podatke → Run workflow**.
 
@@ -42,8 +48,13 @@ Os avtocest, priključki in naselja iz OpenStreetMap so v `data/osm.json`. Obnov
 |---|---|
 | `pipeline/portal.py` | dostop do portala javnih naročil (seznam objav, JSON novih obrazcev, arhiv starih) |
 | `pipeline/collect.py` | izbor in prenos objav o oddaji gradenj in spremembah pogodb v `data/notices` |
+| `pipeline/contracts.py` | register pogodb, branje PDF in OCR pogodb za gradnje v `data/contracts` |
 | `pipeline/parse.py` | razčlenitev treh oblik objav (2009-2015, 2016-2023, eForms od 2023) |
+| `pipeline/warranty.py` | garancijski roki iz člena pogodbe |
+| `pipeline/firms.py` | imena izvajalcev, podizvajalci iz pogodbe |
 | `pipeline/locate.py` | umestitev odsekov in kilometrov na os ceste iz OpenStreetMap |
+| `pipeline/linear.py` | kilometri vzdolž ceste za časovnico in smer črt |
+| `pipeline/forensics.py` | povezava z registrom, nekonsistentnosti, statistični kazalniki, mreža |
 | `pipeline/build.py` | pogodbe z aneksi, vrste del, ponovitve, izhod v `web/data` |
 | `pipeline/osm.py` | prenos osi avtocest, priključkov, objektov in naselij iz OpenStreetMap |
 | `web/` | statična stran (MapLibre, brez gradnje) |
@@ -52,7 +63,8 @@ Os avtocest, priključki in naselja iz OpenStreetMap so v `data/osm.json`. Obnov
 
 - Lega je približna. Natančnost (km, cel odsek, objekt, kraj) je zapisana pri vsakem zapisu. Približno polovica pogodb ni umeščena, ker ne navaja odseka (npr. vzdrževanje na območju več AC baz).
 - Zajeta so le naročila, objavljena na portalu. Dela lastnih vzdrževalnih baz DARS in evidenčna naročila niso zajeta.
-- Garancijski roki niso v objavah. So v razpisni dokumentaciji (vzorec pogodbe) in v pogodbah; to je naslednji korak.
+- Garancijski roki so znani le za pogodbe iz registra pogodb (od 2015), kjer je bilo člen mogoče prebrati; OCR se lahko zmoti, zato je ob vsakem roku povezava na PDF.
+- Kazalniki in nekonsistentnosti so rdeče zastavice za pregled, ne dokaz nepravilnosti. Neuspešni ponudniki in lastniške povezave med podjetji niso v uporabljenih odprtih podatkih.
 
 ## Viri in licenca podatkov
 

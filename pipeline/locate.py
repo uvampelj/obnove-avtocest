@@ -40,6 +40,21 @@ def dist(a, b) -> float:
     return math.hypot((a[0] - b[0]) * LON_M, (a[1] - b[1]) * LAT_M)
 
 
+# Predpone v imenih OSM, ki jih DARS izpušča (»Ljubljana - Tomačevo« → »Tomačevo«).
+TARGET_PREFIX = {"ljubljana", "maribor", "lj", "mb", "gorenje", "dolenje", "zgornje", "spodnje", "velike", "male", "veliki", "mali"}
+# DARS-ova imena priključkov, ki jih OSM imenuje drugače (normalizirana imena).
+ALIASES = {
+    "smartinska": "ljubljana nove jarse", "lj smartinska": "ljubljana nove jarse",
+    "litijska": "ljubljana bizovik", "dunajska": "ljubljana bezigrad", "dolenjska": "ljubljana rudnik",
+    "karavanke": "hrusica", "mmp gruskovje": "gruskovje",
+}
+# Priključki, ki jih v OSM ni pod imenom ali imajo dvoumno ime (»Ljubljana - vzhod«): točka (lon, lat).
+POINTS = {
+    "zaloska": (14.574, 46.057), "barjanska": (14.496, 46.026), "trzaska": (14.462, 46.036),
+    "arja vas": (15.2167, 46.2333), "podtabor": (14.31, 46.32),
+}
+
+
 class Network:
     def __init__(self, osm: dict):
         self.coord: dict[int, tuple[float, float]] = {}
@@ -118,12 +133,20 @@ class Network:
             return 3
         if len(query) >= 5 and (target.startswith(query) or query.startswith(target)):
             return 2
+        # »Tomačevo« ↔ »Ljubljana - Tomačevo«, »Škofije« ↔ »Zgornje Škofije«
+        first, _, rest = target.partition(" ")
+        if rest and first in TARGET_PREFIX and (rest == query or rest.startswith(query + " ")):
+            return 3
         return 0
 
     def candidates(self, name: str, road: str | None) -> list[dict]:
         base, side = norm(name)
         if not base or len(base) < 3:
             return []
+        base = ALIASES.get(base, base)
+        if base in POINTS:
+            node = self.snap(POINTS[base], road, 5000)
+            return [{"node": node, "pt": self.coord[node], "score": 3, "label": name}] if node is not None else []
         out = []
         for j in self.junctions:
             if road and road not in j["refs"]:
@@ -316,7 +339,23 @@ def km_value(whole: str, frac: str) -> float:
 
 
 def base_code(code: int) -> int:
-    return code - 600 if 600 <= code < 1200 else code
+    """Šifra odseka v osnovni smeri. DARS ima pare 00xx/06xx (A1, A2, H3), 03xx/07xx (H4) in 08xx/09xx (A5)."""
+    if 600 <= code < 700:
+        return code - 600
+    if 700 <= code < 800:
+        return code - 400
+    if 900 <= code < 1000:
+        return code - 100
+    return code
+
+
+def direction(code: int) -> int | None:
+    """1 = osnovna smer (00xx, 03xx, 08xx), 2 = nasprotna (06xx, 07xx, 09xx); priključki (01xx …) nimajo smeri."""
+    if code < 100 or 300 <= code < 400 or 800 <= code < 900:
+        return 1
+    if 600 <= code < 800 or 900 <= code < 1000:
+        return 2
+    return None
 
 
 def is_year(code: str) -> bool:
@@ -353,7 +392,7 @@ def read(text: str) -> dict:
         if i + 1 < len(mentions):
             stop = min(stop, mentions[i + 1]["pos"] - mention["end"])
         tail = CITY_PREFIX.sub("", tail[:stop])
-        pm = PAIR.match(tail.lstrip(" :–-"))
+        pm = PAIR.match(tail.lstrip(" :–-("))
         if pm:
             a, b = clean_name(pm.group(1)), clean_name(pm.group(2))
             if a and b:
@@ -426,6 +465,8 @@ class Locator:
         for mention in info["mentions"]:
             for code in mention["codes"]:
                 base = base_code(code)
+                if 100 <= base < 300:  # šifre priključkov in razcepov (0146, 0187) niso odseki
+                    continue
                 if mention["names"]:
                     self.code_names[base][mention["names"]] += 1
                 road = mention["road"] or default_road
@@ -442,7 +483,7 @@ class Locator:
             if road is None and base is not None and self.code_road[base]:
                 road = max(self.code_road[base].items(), key=lambda kv: kv[1])[0]
             names = mention["names"]
-            if names is None and base is not None and self.code_names[base]:
+            if names is None and base is not None and not 100 <= base < 300 and self.code_names[base]:
                 names = max(self.code_names[base].items(), key=lambda kv: kv[1])[0]
             if names is None:
                 continue

@@ -10,7 +10,12 @@ from datetime import date, datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from .locate import LAT_M, LON_M, Locator, Network, read
+from .firms import norm_title, short_firm
+from .forensics import flag_pairs, forensics, link_contracts, load_contracts
+from .warranty import term_for
+from .forensics import network as firm_network
+from .linear import Linear
+from .locate import LAT_M, LON_M, Locator, Network, direction, read
 from .parse import clean, parse
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,6 +23,7 @@ NOTICES = ROOT / "data" / "notices"
 OSM = ROOT / "data" / "osm.json"
 STATUS = ROOT / "status" / "latest.json"
 OUT = ROOT / "web" / "data" / "obnove.json"
+OUT_FORENSICS = ROOT / "web" / "data" / "forenzika.json"
 
 CATEGORIES = [
     ("gradnja", "Novogradnje, priključki, širitve",
@@ -66,30 +72,6 @@ def ident_keys(*idents: str) -> set[tuple[int, int]]:
     return out
 
 
-LEGAL = re.compile(r"\b(?:d\.\s?d\.|d\.\s?o\.\s?o\.|s\.\s?p\.|k\.\s?d\.|d\.n\.o\.|GmbH|AG|S\.p\.A\.|a\.s\.|Kft\.?)(?=\W|$)", re.I)
-ALIASES = {"SGP POMGRAD": "POMGRAD"}
-
-
-def short_firm(name: str) -> str:
-    """Kratko ime izvajalca za seštevke: »CGP, družba za ..., d.d.« → »CGP«."""
-    first = LEGAL.sub("", name.split(",")[0]).strip(" .-")
-    words = first.split()
-    caps = []
-    for word in words:
-        letters = re.sub(r"[^A-Za-zČŠŽĆĐčšžćđ]", "", word)
-        if letters and letters.isupper() and (len(letters) >= 2 or caps):
-            caps.append(word)
-        else:
-            break
-    short = " ".join(caps) if caps and len(" ".join(caps)) >= 3 and len(caps) < len(words) else first
-    short = re.sub(r"\s+", " ", short).strip(" .-") or name
-    return ALIASES.get(short.upper(), short)
-
-
-def norm_title(title: str) -> str:
-    return re.sub(r"[^a-zčšž0-9]+", " ", (title or "").lower()).strip()
-
-
 def is_works(rec: dict) -> bool:
     if rec["kind"] == "gradnje":
         return True
@@ -119,10 +101,9 @@ def directions(p: dict) -> set[str]:
     out = set()
     for s in p.get("sections") or []:
         for code in s.get("codes") or []:
-            if code < 600:
-                out.add("L")
-            elif code < 1200:
-                out.add("D")
+            d = direction(code)
+            if d:
+                out.add("L" if d == 1 else "D")
     return out
 
 
@@ -141,7 +122,8 @@ def densify(lines) -> list[tuple[float, float]]:
     return pts
 
 
-def overlaps(projects: list[dict]) -> list[list]:
+def overlaps(projects: list[dict]) -> tuple[list[list], list[list]]:
+    """Pari pogodb na istem mestu: ponovitve (1-15 let narazen) in sočasna ločena naročila (pod 1 leto)."""
     shapes = []
     for p in projects:
         if not p["geometry"] or p["precision"] not in ("km", "odsek", "objekt", "kraj"):
@@ -155,7 +137,7 @@ def overlaps(projects: list[dict]) -> list[list]:
             grid[(int(x // CELL), int(y // CELL))].append((x, y))
         shapes.append((p, pts, (min(xs), min(ys), max(xs), max(ys)), grid))
 
-    pairs = []
+    pairs, splits = [], []
     for i in range(len(shapes)):
         pa, pts_a, box_a, _ = shapes[i]
         for j in range(i + 1, len(shapes)):
@@ -165,8 +147,14 @@ def overlaps(projects: list[dict]) -> list[list]:
             if pa["date"] is None or pb["date"] is None:
                 continue
             gap = years_between(pa["date"], pb["date"])
-            # Pod enim letom gre skoraj vedno za sklope ali anekse istega posla, ne za ponovitev.
-            if gap > 15 or gap < 1:
+            if gap > 15:
+                continue
+            # Pod enim letom gre večinoma za sklope ali anekse istega posla, ne za ponovitev; ločena
+            # naročila iste vrste dela na istem mestu z različnim naslovom so kazalnik razdrobitve.
+            simultaneous = gap < 1
+            if simultaneous and (pa["dosje"] == pb["dosje"] or pa["cats"][0] != pb["cats"][0]
+                                 or pa["cats"][0] in ("gradnja", "drugo") or "aneksi" in (pa["phase"], pb["phase"])
+                                 or SequenceMatcher(None, norm_title(pa["title"]), norm_title(pb["title"])).ratio() > 0.8):
                 continue
             if "aneksi" in (pa["phase"], pb["phase"]) and pa.get("contract") and pa.get("contract") == pb.get("contract"):
                 continue
@@ -193,6 +181,9 @@ def overlaps(projects: list[dict]) -> list[list]:
             shorter = min(len(pts_a), len(pts_b)) * STEP
             if shared >= 300 or (shorter and shared / shorter >= 0.4 and shared >= 100):
                 first, second = (pa, pb) if pa["date"] <= pb["date"] else (pb, pa)
+                if simultaneous:
+                    splits.append([first["id"], second["id"], int(round(gap * 365.25)), int(round(shared, -1))])
+                    continue
                 # Ista vrsta dela; novogradnja, ki ji sledi gradnja na istem mestu, ni ponovitev obnove.
                 same = first["cats"][0] == second["cats"][0] and first["cats"][0] not in ("gradnja", "drugo")
                 if same and first["phase"] == "aneksi" and second["phase"] == "aneksi":
@@ -201,7 +192,7 @@ def overlaps(projects: list[dict]) -> list[list]:
                 if same and gap < 3 and SequenceMatcher(None, norm_title(first["title"]), norm_title(second["title"])).ratio() > 0.8:
                     same = False
                 pairs.append([first["id"], second["id"], round(gap, 1), int(round(shared, -1)), int(same)])
-    return pairs
+    return pairs, splits
 
 
 # --- glavni del ---------------------------------------------------------------------------------
@@ -420,6 +411,14 @@ def compact_project(p: dict) -> dict:
             "x": m["note"], "u": m["url"]}.items() if v not in (None, "")} for m in p["mods"]],
         "n": p.get("contract"),
         "src": p["sources"], "doc": p["docs"], "x": description(p),
+        # Garancijski roki [predmet, leta], podizvajalci, vpis v registru pogodb, km na cesti, smer vožnje.
+        "gw": p.get("warranty"), "wy": term_for(p.get("warranty") or [], p["cats"][0]), "sub": p.get("subs"),
+        "rg": [{k: v for k, v in {
+            "no": r["number"], "d": r["signed"], "to": r["to"], "v": round(r["value"]) if r["value"] else None,
+            "src": r["source"], "a": [[a["d"], round(a["v"]) if a["v"] else None, a["t"]] for a in r["annexes"]],
+        }.items() if v not in (None, [], "")} for r in p.get("register") or []],
+        "lr": p.get("lr"),
+        "dir": {frozenset("L"): 1, frozenset("D"): 2}.get(frozenset(directions(p)), 0) or None,
     }
     return {k: v for k, v in out.items() if v not in (None, [], "")}
 
@@ -430,9 +429,13 @@ def main() -> int:
         print("Ni shranjenih objav. Najprej zaženite python -m pipeline.collect.", file=sys.stderr)
         return 1
     projects = build_projects(records)
+    contracts = load_contracts()
+    linked = link_contracts(projects, contracts)
+    print(f"Pogodb v registru: {len(contracts)}, povezanih z objavami: {linked['linked']}, z garancijskim rokom: {linked['warranty']}")
 
     network = Network(json.loads(OSM.read_text(encoding="utf-8")))
     locator = Locator(network)
+    linear = Linear(network)
     infos = {}
     for p in projects:
         infos[p["id"]] = read(f"{p['title']}\n{p['text']}")
@@ -443,9 +446,13 @@ def main() -> int:
         p["roads"] = info["roads"]
         lines, precision, sections = locator.locate(info)
         p["geometry"], p["precision"], p["sections"] = lines, precision, sections
+        p["lr"] = linear.ranges(lines) if lines else None
+        p["geometry"] = linear.orient(lines, p["lr"])
         located += lines is not None
 
-    repeats = overlaps(projects)
+    repeats, splits = overlaps(projects)
+    by_id = {p["id"]: p for p in projects}
+    flag_pairs(repeats, by_id)
     projects.sort(key=lambda p: (p["date"] or "", p["id"]))
 
     status = json.loads(STATUS.read_text(encoding="utf-8")) if STATUS.exists() else {}
@@ -453,21 +460,29 @@ def main() -> int:
     data = {
         "meta": {
             "built": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "checked": status.get("checked"),
             "newest": (status.get("newest_notice") or "")[:10] or None,
             "notices": len(records),
             "projects": len(projects),
             "located": located,
+            "contracts": linked["linked"],
+            "warranty": linked["warranty"],
             "years": [min(years), max(years)] if years else None,
             "categories": [{"key": key, "label": label} for key, label, _ in CATEGORIES],
         },
+        "roads": linear.summary(),
         "projects": [compact_project(p) for p in projects],
         "repeats": repeats,
+        "splits": splits,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    extra = {"forensics": forensics(projects, repeats, splits, contracts), "network": firm_network(projects, contracts)}
+    OUT_FORENSICS.write_text(json.dumps(extra, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    flags = extra["forensics"]["flags"]["count"]
     print(f"Objav: {len(records)}, pogodb: {len(projects)}, umeščenih: {located}, "
-          f"parov na istem mestu: {len(repeats)}, {OUT.stat().st_size / 1e6:.1f} MB")
+          f"parov na istem mestu: {len(repeats)} (v garanciji {flags.get('g', 0)}, po rekonstrukciji {flags.get('r', 0)}, "
+          f"drugo ime {flags.get('p', 0)}), sočasnih: {len(splits)}, {OUT.stat().st_size / 1e6:.1f} MB + "
+          f"{OUT_FORENSICS.stat().st_size / 1e6:.1f} MB, mreža: {len(extra['network']['nodes'])} vozlišč")
     return 0
 
 
