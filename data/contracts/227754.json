@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 227754,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745417,
+  "idDosje": 453258,
+  "title": "Pogodba za prevzem različnih odpadnih materialov iz naslova vzdrževalnih del ali kot posledica drugih dogodkov (po nezgodah in podobno), sklop 2: Odpadni materiali iz pesklovov",
+  "procurement": "Prevzem različnih odpadnih materialov iz naslova vzdrževalnih del ali kot posledica drugih dogodkov (po nezgodah in podobno), sklop 1: Odpadna plastika, sklop 2: Odpadni materiali iz peskolovov",
+  "kind": 1,
+  "value": 538740.0,
+  "signed": "2022-12-14",
+  "from": "2022-12-14",
+  "to": "2026-12-13",
+  "number": "001535/2022",
+  "contractors": [
+   "EKOREL, ekološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005392/2022-C01/POG-227754",
+  "published": "2022-12-20",
+  "files": [
+   {
+    "name": "Sklop 2_145_2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODMwNDtTa2xvcCAyXzE0NV8yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

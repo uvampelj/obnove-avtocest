@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 241120,
+  "type": "DOD",
+  "prev": 134840,
+  "idObrazec": 772789,
+  "idDosje": 312808,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1435/2019",
+  "procurement": "Hladna plastika in barve,Steklene kroglice",
+  "kind": 2,
+  "value": 12670.68,
+  "signed": "2023-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HELIOS Tovarna barv, lakov in umetnih smol Količevo, d.o.o."
+  ],
+  "contractor_ids": [
+   "5043212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004267/2019-C01/DOD-241120",
+  "published": "2023-06-17",
+  "files": [
+   {
+    "name": "Aneks št. 1, DARS št. 763-2023,podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MzU2OTtBbmVrcyDFoXQuIDEsIERBUlMgxaF0LiA3NjMtMjAyMyxwb2RwaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 28063,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641759,
+  "idDosje": 13244,
+  "title": "Pregledi in popravila aparatov za točenje goriva",
+  "procurement": "Pregledi in popravila aparatov za točenje goriva",
+  "kind": 1,
+  "value": 160186.0,
+  "signed": "2015-12-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL TEHNOLOGIJA, d.o.o."
+  ],
+  "contractor_ids": [
+   "1779192000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV8241/2015/POG-28063",
+  "published": "2015-12-30",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI4MDYzO3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

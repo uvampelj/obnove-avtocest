@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 460663,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1147729,
+  "idDosje": 623839,
+  "title": "Vzdrževanje UPS naprav CENTIEL in ABB, zamenjava AKU",
+  "procurement": "Vzdrževanje UPS naprav CENTIEL in ABB, zamenjava AKU",
+  "kind": 1,
+  "value": 903270.92,
+  "signed": "2026-08-11",
+  "from": "2026-08-11",
+  "to": "2029-08-11",
+  "number": "000878/2026",
+  "contractors": [
+   "MIDES INTERNATIONAL inženiring sistemov za neprekinjeno napajanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5594120000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004247/2026-POG/01",
+  "published": "2026-08-14",
+  "files": [
+   {
+    "name": "R_Pogodba 878-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg3OTc4O1JfUG9nb2RiYSA4NzgtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

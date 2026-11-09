@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166086,
+  "type": "DOD",
+  "prev": 120240,
+  "idObrazec": 771742,
+  "idDosje": 278703,
+  "title": "Aneks št.1 k pogodbi DARS št. 51/2019: \"Izdelava strokovnih podlag za zagotovitev ustreznih migracijskih koridorjev velikih zveri in drugih vrst velikih sesalcev na AC odseku Vrhnika-Postojna\" - zavezanec za DDV ",
+  "procurement": "Izdelava strokovnih podlag za zagotovitev ustreznih migracijskih koridorjev velikih zveri in drugih vrst velikih sesalcev na AC odseku Vrhnika-Postojna",
+  "kind": 1,
+  "value": 6556.0,
+  "signed": "2019-10-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VISOKA ŠOLA ZA VARSTVO OKOLJA, VELENJE"
+  ],
+  "contractor_ids": [
+   "2257092000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007211/2018-X01/DOD-166086",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št.1 k pog. 51-1-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjA4NjthbmVrcyDFoXQuMSBrIHBvZy4gNTEtMS1PSy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

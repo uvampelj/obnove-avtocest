@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 388514,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1041967,
+  "idDosje": 528219,
+  "title": "Pogodba za Dobavo letne mehanizacije in opreme - SKLOP 1: Univerzalno delovno vozilo moči nad 230 Kw z opremo (3 kom)",
+  "procurement": "Dobava letne mehanizacije in opreme",
+  "kind": 2,
+  "value": 1877580.0,
+  "signed": "2026-03-23",
+  "from": "2026-03-23",
+  "to": "2027-02-23",
+  "number": "000449/2026",
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009349/2025-POG/01",
+  "published": "2026-03-30",
+  "files": [
+   {
+    "name": "Pogodba za objavo SKLOP 1 449-2026 za 309-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDg5NzQwO1BvZ29kYmEgemEgb2JqYXZvIFNLTE9QIDEgNDQ5LTIwMjYgemEgMzA5LTIwMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

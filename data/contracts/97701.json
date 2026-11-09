@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 97701,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 672917,
+  "idDosje": 241622,
+  "title": "Dobava PVC vreč",
+  "procurement": "Dobava PVC vreč",
+  "kind": 2,
+  "value": 54900.0,
+  "signed": "2018-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PIRMIT predelava in reciklaža plastike d.o.o."
+  ],
+  "contractor_ids": [
+   "1701134000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000607/2018-X01/POG-97701",
+  "published": "2018-05-07",
+  "files": [
+   {
+    "name": "pogodba 1410-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk3NzAxO3BvZ29kYmEgMTQxMC0yMDE4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

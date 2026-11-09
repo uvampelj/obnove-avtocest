@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90769,
+  "type": "DOD",
+  "prev": 77944,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 641/2017 za analizo in projekcijo vzdržnosti poslovanja in odplačevanja dolgov družbe DARS d.d.",
+  "procurement": "Analiza in projekcija vzdržnosti poslovanja in odplačevanja dolgov družbe DARS d.d.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-01-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KF FINANCE, družba za cenitve in finančno svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "6579744000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-01-30",
+  "files": [
+   {
+    "name": "Aneks št. 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNzY5O0FuZWtzIMWhdC4gMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

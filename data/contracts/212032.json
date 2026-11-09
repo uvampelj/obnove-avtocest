@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 212032,
+  "type": "DOD",
+  "prev": 110745,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 221/2018: Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 1: Rekonstrukcija priključka Leskoškove ceste",
+  "procurement": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 1: Rekonstrukcija priključka Leskoškove ceste",
+  "kind": 1,
+  "value": 74652.02,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-31",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMjAzMjtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

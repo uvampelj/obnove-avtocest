@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 58200,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654532,
+  "idDosje": 170683,
+  "title": "Nabava pisarniškega pohištva, naprav, orodja in ostale opreme",
+  "procurement": "Pisarniško in ostalo pohištvo,Fotoaparati in daljnogledi,Orodje in naprave,Bela tehnika in ostalo,Čajna kuhinja,Kovinsko pohištvo",
+  "kind": 2,
+  "value": 128193.61,
+  "signed": "2017-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATLAS OPREMA d.o.o.",
+   "FOTO BESENIČAR d.o.o.",
+   "LESNINA MG OPREMA, d.d., Ljubljana",
+   "PRIMAT d.d."
+  ],
+  "contractor_ids": [
+   "5730716000",
+   "3915263000",
+   "5662257000",
+   "5041473000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005818/2016-X01/POG-58200",
+  "published": "2017-01-10",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU4MjAwO3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

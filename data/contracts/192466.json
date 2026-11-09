@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192466,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725624,
+  "idDosje": 400380,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve in delovanja sistema e-Vinjeta",
+  "procurement": "Izvajanje inženirskih storitev v postopkih vzpostavitve in delovanja sistema e-Vinjeta",
+  "kind": 1,
+  "value": 992933.6,
+  "signed": "2021-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003494/2021-C01/POG-192466",
+  "published": "2021-09-22",
+  "files": [
+   {
+    "name": "Pogodba-1123-2021-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjQ2NjtQb2dvZGJhLTExMjMtMjAyMS1vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

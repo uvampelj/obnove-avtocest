@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 227917,
+  "type": "DOD",
+  "prev": 137219,
+  "idObrazec": 772918,
+  "idDosje": 310560,
+  "title": "Aneks št. 1, DARS št. 1554/2022 k pog. DARS št. 1489/2019",
+  "procurement": "Zalivanje reg in razpok",
+  "kind": 3,
+  "value": 23443.65,
+  "signed": "2022-12-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POSSEHL POSEBNE GRADNJE d.o.o."
+  ],
+  "contractor_ids": [
+   "5312841000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003463/2019-C01/DOD-227917",
+  "published": "2022-12-21",
+  "files": [
+   {
+    "name": "Aneks st. 1, DARS št. 1554-2022 k pog DARS 1489-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODQ3MTtBbmVrcyBzdC4gMSwgREFSUyDFoXQuIDE1NTQtMjAyMiBrIHBvZyBEQVJTIDE0ODktMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

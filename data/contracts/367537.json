@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 367537,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1019573,
+  "idDosje": 529372,
+  "title": "Servisiranje kombiniranih vozil Toyota",
+  "procurement": "Servisiranje kombiniranih vozil Toyota",
+  "kind": 1,
+  "value": 79592.8,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2029-03-16",
+  "number": "000418/2026",
+  "contractors": [
+   "TOYOTA CENTER LJUBLJANA, podjetje za prodajo in servisiranje motornih vozil, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "2041928000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000236/2026-POG/01",
+  "published": "2026-03-19",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 418-2026_TCLJ_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY3NzU4O1BvZ29kYmEgREFSUyDFoXQuIDQxOC0yMDI2X1RDTEpfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

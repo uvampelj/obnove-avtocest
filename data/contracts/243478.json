@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 243478,
+  "type": "DOD",
+  "prev": 210741,
+  "idObrazec": 780100,
+  "idDosje": 431178,
+  "title": "Aneks 1 k pog. 796/2022 za preureditev parkirnih prostorov za prodajo vinjet na CUT Gruškovje ob AC Draženci - MMP Gruškovje; dodatna dela, več in manj dela, nominacija podizvajalcev, podaljšanje roka, menjava kadrov",
+  "procurement": "Preureditev parkirnih prostorov za prodajo vinjet na CUT Gruškovje ob AC Draženci - MMP Gruškovje",
+  "kind": 3,
+  "value": 83225.14,
+  "signed": "2023-07-18",
+  "from": "2023-07-18",
+  "to": "2023-11-28",
+  "number": "000843/2023",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "AGM NEMEC, podjetje za proizvodnjo, trgovino in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "1824325000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000089/2022-X01/DOD-243478",
+  "published": "2023-07-21",
+  "files": [
+   {
+    "name": "podpisan aneks 1_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjE3Njtwb2RwaXNhbiBhbmVrcyAxX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

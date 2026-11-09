@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 312428,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 920650,
+  "idDosje": 518900,
+  "title": "Vzdrževanje stabilnih gasilnih sistemov: SKLOP 1 – Vzdrževanje elektro dela stabilnih gasilnih sistemov BONPET s požarnimi centralami ZARJA Elektronika in celotnih sistemov za gašenje s plinom INERGEN proizvajalca ZARJA Elektronika",
+  "procurement": "Vzdrževanje stabilnih gasilnih sistemov",
+  "kind": 1,
+  "value": 90276.95,
+  "signed": "2025-06-12",
+  "from": "2025-10-09",
+  "to": "2031-01-09",
+  "number": "000824/2025",
+  "contractors": [
+   "ZARJA ELEKTRONIKA proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o."
+  ],
+  "contractor_ids": [
+   "5521475000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001341/2025-POG/01",
+  "published": "2025-06-17",
+  "files": [
+   {
+    "name": "Pogodba Zarja 23_25 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzgyMTUyO1BvZ29kYmEgWmFyamEgMjNfMjUgUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

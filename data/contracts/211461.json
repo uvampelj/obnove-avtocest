@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 211461,
+  "type": "DOD",
+  "prev": 169113,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1614/2020 - »Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom«",
+  "procurement": "Aneks št. 2 k pogodbi DARS št. 1614/2020 - »Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom«",
+  "kind": 2,
+  "value": 287874.32,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1587714000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-24",
+  "files": [
+   {
+    "name": "R Aneks 872-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMTQ2MTtSIEFuZWtzIDg3Mi0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

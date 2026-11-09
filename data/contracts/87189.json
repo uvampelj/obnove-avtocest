@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 87189,
+  "type": "DOD",
+  "prev": 81679,
+  "idObrazec": 769688,
+  "idDosje": 212178,
+  "title": "DOBAVA IN MONTAŽA SILOSOV IN AVTOMATSKEGA SISTEMA ZA PRIPRAVO RAZTOPIN KLORIDOV",
+  "procurement": "DOBAVA IN MONTAŽA SILOSOV IN AVTOMATSKEGA SISTEMA ZA PRIPRAVO RAZTOPIN KLORIDOV",
+  "kind": 3,
+  "value": 36495.78,
+  "signed": "2017-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TIMCO CONSULTING trgovina, inženiring, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1277049000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006494/2017-Q01/DOD-87189",
+  "published": "2017-12-20",
+  "files": [
+   {
+    "name": "Aneks št.1 - 1020-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3MTg5O0FuZWtzIMWhdC4xIC0gMTAyMC0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

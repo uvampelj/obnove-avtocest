@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310467,
+  "type": "DOD",
+  "prev": 27396,
+  "idObrazec": 914802,
+  "idDosje": 72172,
+  "title": "Aneks št. 2 k pog. DARS št. 797/2015 za izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v 6-pasovnico) in za priključek Brezovica za fazo izdelave projekta PGD in PZI; več dela, podaljšanje roka, nominacija dodatnih kadrov, opuščene storitve, sporazumna razveza",
+  "procurement": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v 6-pasovnico) in za priključek Brezovica za fazo izdelave projekta za pridobitev gradbenega dovoljenja (PGD) in fazo.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-05-07",
+  "from": "2015-10-02",
+  "to": "2025-08-07",
+  "number": "000797/2015",
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7104/2015/POG-27396-D01",
+  "published": "2025-05-26",
+  "files": [
+   {
+    "name": "aneks 2 k pog 797-2015 - podpisan za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NDUxO2FuZWtzIDIgayBwb2cgNzk3LTIwMTUgLSBwb2RwaXNhbiB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

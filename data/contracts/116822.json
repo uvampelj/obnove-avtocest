@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 116822,
+  "type": "DOD",
+  "prev": 110747,
+  "idObrazec": 771217,
+  "idDosje": 242987,
+  "title": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste",
+  "procurement": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-11-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000934/2018-C01/DOD-116822",
+  "published": "2018-12-24",
+  "files": [
+   {
+    "name": "Aneks-1-220-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjgyMjtBbmVrcy0xLTIyMC0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

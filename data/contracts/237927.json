@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 237927,
+  "type": "DOD",
+  "prev": 162378,
+  "idObrazec": 774732,
+  "idDosje": 360399,
+  "title": "Aneks 1 k pog. DARS št. 1419/2020, DARS št. 659/2023",
+  "procurement": "Izvedba zunanje kontrole kakovosti pri projektu 3. razvojna os sever - Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug - odsek D - Gaberke",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-05-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Zavod za gradbeništvo Slovenije",
+   "GRADBENI INŠTITUT ZRMK d.o.o."
+  ],
+  "contractor_ids": [
+   "5866324000",
+   "1795490000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004410/2020-C01/DOD-237927",
+  "published": "2023-05-15",
+  "files": [
+   {
+    "name": "Aneks 1 k pog. DARS št. 1419-2020, DARS št. 659-2023, podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzOTY2NTtBbmVrcyAxIGsgcG9nLiBEQVJTIMWhdC4gMTQxOS0yMDIwLCBEQVJTIMWhdC4gNjU5LTIwMjMsIHBvZHBpc2FuLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

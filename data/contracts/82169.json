@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 82169,
+  "type": "DOD",
+  "prev": 16200,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 524/2015 - Vzdrževanje podatkov gospodarske infrastrukture ter vpis v zbirni kataster GJI na AC in HC v upravljanju DARS",
+  "procurement": "Vzdrževanje podatkov gospodarske infrastrukture ter vpis v zbirni kataster GJI na AC in HC v upravljanju DARS",
+  "kind": 1,
+  "value": 16857.96,
+  "signed": "2017-09-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LGB, geodetski inženiring in informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5075947000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-10-04",
+  "files": [
+   {
+    "name": "759-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgyMTY5Ozc1OS0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

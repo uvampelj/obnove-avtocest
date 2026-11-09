@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 203796,
+  "type": "DOD",
+  "prev": 123441,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.1 k pogodbi DARS št. 425/2019: Izdelava Izvedbenega načrta za izvedbo (IzN): Sanacije viadukta Podmežakla 3 levo VA0314, Podmežakla 3 desno VA0313, Podmežakla 4 levo VA0317, Podmežakla 4 desno VA0315 in Podmežakla 4a desno VA0316 na AC A2, odsek 06 02 Hrušica–Lipce ",
+  "procurement": "\tIzdelava Izvedbenega načrta za izvedbo (IzN) »Sanacije viadukta Podmežakla 3 levo VA0314, Podmežakla 3 desno VA0313, Podmežakla 4 levo VA0317, Podmežakla 4 desno VA0315 in Podmežakla 4a desno VA0316 na AC A2, odsek 06 02 Hrušica – Lipce«",
+  "kind": 1,
+  "value": 24839.2,
+  "signed": "2021-08-31",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-04",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzc5NjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

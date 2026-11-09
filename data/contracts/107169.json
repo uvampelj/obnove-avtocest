@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 107169,
+  "type": "DOD",
+  "prev": 54154,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 9 k pogodbi DARS št. 1206/2006 z dne 24.8.2009",
+  "procurement": "Aneks št. 9 za \"Opravljanje storitev pridobivanja zemljišč za gradnjo HC Jagodje - Lucija in priključne ceste za Piran\"",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-08-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TERRA IN, storitve, inženiring in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "1871102000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-08-31",
+  "files": [
+   {
+    "name": "Aneks 9.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNzE2OTtBbmVrcyA5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

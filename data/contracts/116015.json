@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 116015,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681311,
+  "idDosje": 277651,
+  "title": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "kind": 1,
+  "value": 254412.48,
+  "signed": "2018-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "360ECM informatika d.o.o."
+  ],
+  "contractor_ids": [
+   "2344149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007016/2018-X01/POG-116015",
+  "published": "2018-12-10",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjAxNTtQb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

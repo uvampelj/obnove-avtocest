@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 57837,
+  "type": "DOD",
+  "prev": 38909,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 282/2016",
+  "procurement": "Rušenje objektov na HC Jagodje -Lucija in priključni cesti za Piran",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-12-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRAFIST d.o.o."
+  ],
+  "contractor_ids": [
+   "1263293000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-01-05",
+  "files": [
+   {
+    "name": "Podpisan Aneks 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3ODM3O1BvZHBpc2FuIEFuZWtzIDIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

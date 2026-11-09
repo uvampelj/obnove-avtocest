@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104157,
+  "type": "DOD",
+  "prev": 87547,
+  "idObrazec": 770154,
+  "idDosje": 196456,
+  "title": "aneks št. 2 k pog. DARS št. 696/17:IZVEDBA DIGITALNEGA RADIJSKEGA SISTEMA ZVEZ DMR - dodatna dela ",
+  "procurement": "IZVEDBA DIGITALNEGA RADIJSKEGA SISTEMA ZVEZ DMR",
+  "kind": 3,
+  "value": 105438.91,
+  "signed": "2018-04-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002664/2017-C01/DOD-104157",
+  "published": "2018-09-05",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE1NztBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

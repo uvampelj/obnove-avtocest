@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 315039,
+  "type": "DOD",
+  "prev": 217723,
+  "idObrazec": 928857,
+  "idDosje": 437799,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1042/2022 :Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence) ",
+  "procurement": "Obnova protihrupnih ograj na AC A1 0636 Fram-Sl. Bistrica, A1 0048/0648 Lj (Zadobrova-Zaloška), 0049/0649 Lj (Zaloška-Litijska) in 0050/0650 Lj (Litijska-Malence)",
+  "kind": 3,
+  "value": 128633.73,
+  "signed": "2025-06-18",
+  "from": "2025-06-18",
+  "to": "2025-09-12",
+  "number": "001042/2022",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "OBRT-OPREMA inženiring d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "1488538000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001370/2022-C01/POG-217723-D01",
+  "published": "2025-07-18",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4Njg1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

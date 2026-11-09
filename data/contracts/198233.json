@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198233,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728654,
+  "idDosje": 407392,
+  "title": "Razvoj in vzdrževanje sistema JANIS (informacijski sistem javnega naročanja)",
+  "procurement": "Razvoj in vzdrževanje sistema JANIS (informacijski sistem javnega naročanja)",
+  "kind": 1,
+  "value": 112532.8,
+  "signed": "2021-11-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004997/2021-X01/POG-198233",
+  "published": "2021-11-23",
+  "files": [
+   {
+    "name": "POGODBA 1242-2021  redi UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODIzMztQT0dPREJBIDEyNDItMjAyMSAgcmVkaSBVTC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 231991,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 748435,
+  "idDosje": 455529,
+  "title": "Dobava utekočinjenega naftnega plina",
+  "procurement": "Dobava utekočinjenega naftnega plina",
+  "kind": 2,
+  "value": 3050000.0,
+  "signed": "2023-01-18",
+  "from": "2023-01-18",
+  "to": "2027-01-18",
+  "number": "000076/2023",
+  "contractors": [
+   "BUTAN PLIN družba za distribucijo plina, d.d., Ljubljana",
+   "ISTRABENZ PLINI, plini in plinske tehnologije, d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5094933000",
+   "5419263000",
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005956/2022-C01/POG-231991",
+  "published": "2023-02-27",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUM 76-2023_ULRed_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMzA3NDtPS1ZJUk5JIFNQT1JBWlVNIDc2LTIwMjNfVUxSZWRfLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

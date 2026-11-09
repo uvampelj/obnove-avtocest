@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 269545,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 821198,
+  "idDosje": 507514,
+  "title": "Nakup, vzpostavitev in vzdrževanje delilnikov prometa",
+  "procurement": "Nakup, vzpostavitev in vzdrževanje delilnikov prometa",
+  "kind": 1,
+  "value": 236620.05,
+  "signed": "2024-06-12",
+  "from": "2024-06-12",
+  "to": "2029-10-12",
+  "number": "000714/2024",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001387/2024-POG/01",
+  "published": "2024-06-17",
+  "files": [
+   {
+    "name": "Podpisana pogodba_714-2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg5OTQ1O1BvZHBpc2FuYSBwb2dvZGJhXzcxNC0yMDI0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

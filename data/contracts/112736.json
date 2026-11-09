@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 112736,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680114,
+  "idDosje": 264896,
+  "title": "Čiščenje poslovnih prostorov",
+  "procurement": "Osrednja Slovenija,Primorska in Notranjska,Hrušica,Dolenjska,Štajerska in Prekmurje",
+  "kind": 1,
+  "value": 811713.96,
+  "signed": "2018-10-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CELOVITE STORITVE trgovina in storitve d.o.o.",
+   "ABC ČIŠČENJE, čiščenje poslovnih in stanovanjskih objektov, d.o.o."
+  ],
+  "contractor_ids": [
+   "2010356000",
+   "6580386000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004919/2018-C01/POG-112736",
+  "published": "2018-11-08",
+  "files": [
+   {
+    "name": "pogodbi Čiščenje.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjczNjtwb2dvZGJpIMSMacWhxI1lbmplLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

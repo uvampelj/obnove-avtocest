@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287205,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 853898,
+  "idDosje": 511673,
+  "title": "Odvračanje divjadi z območja AC in HC",
+  "procurement": "Odvračanje divjadi z območja AC in HC",
+  "kind": 1,
+  "value": 154330.0,
+  "signed": "2024-09-19",
+  "from": "2024-09-19",
+  "to": "2027-12-19",
+  "number": "000973/2024",
+  "contractors": [
+   "SIGNA, podjetje za izvajanje cestne signalizacije in vzdrževanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5472571000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004655/2024-POG/01",
+  "published": "2024-09-20",
+  "files": [
+   {
+    "name": "Podpisana pogodba 973-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE4MDEzO1BvZHBpc2FuYSBwb2dvZGJhIDk3My0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

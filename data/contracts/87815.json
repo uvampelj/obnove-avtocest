@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 87815,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667385,
+  "idDosje": 219442,
+  "title": "Tehtanje vozil v prostem prometnem toku",
+  "procurement": "Tehtanje vozil v prostem prometnem toku",
+  "kind": 1,
+  "value": 973033.84,
+  "signed": "2017-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTEL cestni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5608244000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007811/2017-C01/POG-87815",
+  "published": "2018-01-03",
+  "files": [
+   {
+    "name": "Pogodba Cestel.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3ODE1O1BvZ29kYmEgQ2VzdGVsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

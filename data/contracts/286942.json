@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 286942,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 853123,
+  "idDosje": 511873,
+  "title": "Kolektivno dodatno zdravstveno zavarovanje zaposlenih DARS",
+  "procurement": "Kolektivno dodatno zdravstveno zavarovanje zaposlenih DARS",
+  "kind": 1,
+  "value": 380989.44,
+  "signed": "2024-09-12",
+  "from": "2024-09-01",
+  "to": "2027-11-30",
+  "number": "000945/2024",
+  "contractors": [
+   "VZAJEMNA Zdravstvena zavarovalnica, d.v.z."
+  ],
+  "contractor_ids": [
+   "1430521000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004849/2024-POG/01",
+  "published": "2024-09-18",
+  "files": [
+   {
+    "name": "pogodba 945-2024 VZAJEMNA_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE3NDEwO3BvZ29kYmEgOTQ1LTIwMjQgVlpBSkVNTkFfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

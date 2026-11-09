@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 244048,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757639,
+  "idDosje": 479067,
+  "title": "Vzdrževanje skenerjev in podpora za programsko opremo mScan",
+  "procurement": "Vzdrževanje skenerjev in podpora za programsko opremo mScan",
+  "kind": 2,
+  "value": 96802.12,
+  "signed": "2023-07-21",
+  "from": "2023-07-21",
+  "to": "2026-10-21",
+  "number": "000864/2023",
+  "contractors": [
+   "MIKROGRAFIJA trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5636744000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002746/2023-X01/POG-244048",
+  "published": "2023-07-31",
+  "files": [
+   {
+    "name": "Pogodba 864-2023 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0Njc3MztQb2dvZGJhIDg2NC0yMDIzIFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 127209,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687789,
+  "idDosje": 297206,
+  "title": "Vzdrževanje in servisiranje specialnih, kombiniranih in osebnih vozil Volkswagen in Audi",
+  "procurement": "Vzdrževanje in servisiranje specialnih, kombiniranih in osebnih vozil Volkswagen in Audi",
+  "kind": 1,
+  "value": 233142.0,
+  "signed": "2019-05-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE INTER AUTO Trgovska družba d.o.o."
+  ],
+  "contractor_ids": [
+   "1453831000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000823/2019-X01/POG-127209",
+  "published": "2019-05-24",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 725-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzIwOTtQb2dvZGJhIERBUlMgxaF0LiA3MjUtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220791,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740796,
+  "idDosje": 438408,
+  "title": " Dobava tovornih vozil in zimske mehanizacije",
+  "procurement": "Tovorna vozila triosna,Tovorna vozila dvoosna",
+  "kind": 2,
+  "value": 19873871.98,
+  "signed": "2022-08-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001623/2022-C01/POG-220791",
+  "published": "2022-09-02",
+  "files": [
+   {
+    "name": "Pogodba 1131-2022 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDc5MTtQb2dvZGJhIDExMzEtMjAyMiBSLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

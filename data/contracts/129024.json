@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "id": 129024,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 351/2001 za Opravljanje strokovno svetovalnih storitev za potrebe nacionalnega programa izgradnje avtocest v RS za odsek Pesnica - Slivnica, AC Ptujska - priključek Zrkovska ",
+  "procurement": "Opravljanje strokovno svetovalnih storitev za potrebe nacionalnega programa izgradnje avtocest v RS za odsek Pesnica - Slivnica, AC Ptujska - priključek Zrkovska ",
+  "kind": 1,
+  "value": 23022.9,
+  "signed": "2019-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZIL INŽENIRING, družba za razvoj, inženiring in vodenje investicij, d.d.",
+   "SLOVENSKA CESTNA PODJETJA d.o.o., Ljubljana - v stečaju",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5227020000",
+   "5156548000",
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-06-28",
+  "files": [
+   {
+    "name": "a4_pog351-2001_ing AC Ptujska - Zrkovska_135-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyOTAyNDthNF9wb2czNTEtMjAwMV9pbmcgQUMgUHR1anNrYSAtIFpya292c2thXzEzNS0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "ocr",
+ "pages": 4,
+ "text": "NAROČNIK:\n\nIZVAJALEC:\n\nVodilni partner:\n\nPartner:\n\nPartner:\n\nskleneta:\n\nNaročnik: DARS št. gala! a\n\nIzvajalec: ZIL št. 24/2900,\n\nDARS d.d., Ulica XIV, divizije št. 4, 3000 Celje, ki ga zastopa Uprava\nIdentifikacijska št. za DDV: SI92473717\n\nMatična številka: 5814251\n\nTransakcijski račun številka: SI56 0510 0800 0069 735 pri ABANKI d.d.\n\nJV ZIL inženiring d.d. x Slovenska cestna podjetja d.o.o. — v stečaju t Projekt\nd.d. Nova Gorica, od katerih je\n\nZIL inženiring d.d., Kersnikova 10, 1000 Ljubljana,\n\nki ga zastopa direktor Nestor Mankoč, univ.dipl.inž grad.\n\nMatična številka: 5227020\n\nIdentifikacijska št. za DDV: SI19487231\n\nTransakcijski račun številka: SI56 6100 0001 1940 853 odprt pri DH d.d.\n\nSLOVENSKA CESTNA PODJETJA d.o.o., Ljubljana — v stečaju, Leskoškova cesta\n9E, 1000 Ljubljana, k"
+}

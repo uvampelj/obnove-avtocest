@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 203570,
+  "type": "DOD",
+  "prev": 100571,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1453/2018: Izvedba aktivne protihrupne zaščite v skladu z operativnim programom varstva pred hrupom 2012-2017 (sklop A) ",
+  "procurement": "\tIZVEDBA AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OPERATIVNIM PROGRAMOM VARSTVA PRED HRUPOM 2012-2017 (SKLOP A)",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SŽ - ŽELEZNIŠKO GRADBENO PODJETJE LJUBLJANA d.d.",
+   "OBRT-OPREMA inženiring d.o.o., Ljubljana",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5143004000",
+   "1488538000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-02",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzU3MDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354073,
+  "type": "DOD",
+  "prev": 273342,
+  "idObrazec": 1000915,
+  "idDosje": 507453,
+  "title": "Aneks št. 3 k pogodbi DARS, d. d., št. 810/2024: Prenova RNC Dragomelj, SKLOP 1",
+  "procurement": "Prenova RNC Dragomelj; Sklop 1: Prenova RNC Dragomelj",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-02-03",
+  "from": "2026-02-03",
+  "to": "2027-01-22",
+  "number": "000810/2024",
+  "contractors": [
+   "IMP, d.d., družba za svetovanje, projektiranje, inženiring in gradnjo"
+  ],
+  "contractor_ids": [
+   "5077940000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001407/2024-POG/01-D03",
+  "published": "2026-02-16",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUwNDM2O0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

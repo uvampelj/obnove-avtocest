@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 306660,
+  "type": "DOD",
+  "prev": 32955,
+  "idObrazec": 903726,
+  "idDosje": 80787,
+  "title": "Aneks št. 2 k pogodbi DARS št. 139/2016",
+  "procurement": "Strokovno svetovalne storitve za pridobitev pobude in študije variant v postopku priprave državnega prostorskega načrta ter vseh potrebnih strokovnih podlag za širitev ljubljanskega avtocestnega ob...",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-03-31",
+  "from": "2016-02-18",
+  "to": "2027-02-18",
+  "number": "000139/2016",
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1146/2016/POG-32955-D01",
+  "published": "2025-04-10",
+  "files": [
+   {
+    "name": "aneks 2 k pog 139-2016_53-2025_podpisan_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY4NDQyO2FuZWtzIDIgayBwb2cgMTM5LTIwMTZfNTMtMjAyNV9wb2RwaXNhbl9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

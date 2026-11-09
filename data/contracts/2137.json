@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 2137,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630866,
+  "idDosje": 78023,
+  "title": "Servisiranje signalnih tabel SKLOP 1-Servisiranje električnih naprav na signalnih tablah za zapiranje prometnih pasov",
+  "procurement": "Servisiranje električnih naprav na signalnih tablah za zapiranje prometnih pasov.",
+  "kind": 1,
+  "value": 98091.66,
+  "signed": "2015-04-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ITAIA d.o.o."
+  ],
+  "contractor_ids": [
+   "5505771000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2473/2015/POG-2137",
+  "published": "2015-05-26",
+  "files": [
+   {
+    "name": "pogodba Itaia.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMzc7cG9nb2RiYSBJdGFpYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 239640,
+  "type": "DOD",
+  "prev": 228568,
+  "idObrazec": 782591,
+  "idDosje": 458516,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1672/2022 - vključitev podizvajalca",
+  "procurement": "VZDRŽEVANJE SISTEMA RADIJSKIH ZVEZ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-05-31",
+  "from": "2023-05-31",
+  "to": "2024-12-28",
+  "number": "000733/2023",
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006643/2022-C01/DOD-239640",
+  "published": "2023-06-01",
+  "files": [
+   {
+    "name": "Aneks št. 1 _R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MTg0OTtBbmVrcyDFoXQuIDEgX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 79220,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663263,
+  "idDosje": 196296,
+  "title": "IZDELAVA STROKOVNIH PODLAG ZA POBUDO, POBUDE IN ANALIZE SMERNIC ZA DRŽAVNI PROSTORSKI NAČRT ZA RAZŠIRITEV LJUBLJANSKEGA AVTOCESTNEGA OBROČA IN VPADNIH AVTOCEST (DO SPREJEMA SKLEPA O PRIPRAVI DPN)",
+  "procurement": "IZDELAVA STROKOVNIH PODLAG ZA POBUDO, POBUDE IN ANALIZE SMERNIC ZA DRŽAVNI PROSTORSKI NAČRT ZA RAZŠIRITEV LJUBLJANSKEGA AVTOCESTNEGA OBROČA IN VPADNIH AVTOCEST (DO SPREJEMA SKLEPA O PRIPRAVI DPN)",
+  "kind": 1,
+  "value": 570106.0,
+  "signed": "2017-08-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002715/2017-C01/POG-79220",
+  "published": "2017-09-07",
+  "files": [
+   {
+    "name": "Pogodba-I .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc5MjIwO1BvZ29kYmEtSSAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 230764,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 747600,
+  "idDosje": 460169,
+  "title": "Izdelava dokumentacije za pridobitev mnenj in gradbenega dovoljenja (DGD) ter projektne dokumentacije za izvedbo gradnje (PZI) za izgradnjo pododseka A na 2. odseku 3. razvojne osi jug",
+  "procurement": "Izdelava dokumentacije za pridobitev mnenj in gradbenega dovoljenja (DGD) ter projektne dokumentacije za izvedbo gradnje (PZI) za izgradnjo pododseka A na 2. odseku 3. razvojne osi jug",
+  "kind": 1,
+  "value": 3440217.0,
+  "signed": "2023-01-19",
+  "from": "2023-01-19",
+  "to": "2025-01-19",
+  "number": "000071/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006995/2022-C01/POG-230764",
+  "published": "2023-02-03",
+  "files": [
+   {
+    "name": "Pogodba-JV PNZ+BPI_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTY0OTtQb2dvZGJhLUpWIFBOWitCUElfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

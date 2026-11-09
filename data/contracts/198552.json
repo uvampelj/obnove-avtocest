@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198552,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728803,
+  "idDosje": 407145,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite: Sklop 1: AC A1 za odseka 0030 MP Šentilj-Šentilj, 0031 Šentilj-Pesnica in R2-430 za del odseka 0032 Pesnica-Maribor ",
+  "procurement": "AC A1 za odseka 0030 MP Šentilj-Šentilj, 0031 Šentilj-Pesnica in R2-430 za del odseka 0032 Pesnica-Maribor",
+  "kind": 1,
+  "value": 25254.0,
+  "signed": "2021-11-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "3386597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004951/2021-X01/POG-198552",
+  "published": "2021-11-26",
+  "files": [
+   {
+    "name": "Pogodba-A-projekt-Sklop1_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODU1MjtQb2dvZGJhLUEtcHJvamVrdC1Ta2xvcDFfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

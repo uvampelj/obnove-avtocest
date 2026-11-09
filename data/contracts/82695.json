@@ -1,0 +1,47 @@
+{
+ "meta": {
+  "id": 82695,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 664589,
+  "idDosje": 211120,
+  "title": "Dobava vozil z nizkimi emisijami, cestne mehanizacije in opreme",
+  "procurement": "Tovorno vozilo, dovoljene skupne mase min. 7t z dvigalom,Lahko tovorno vozilo, dovoljene skupne mase 3,5t,Lahko tovorno vozilo, skupne mase 3,5t – dolga kabina, 4,2 m keson,Lahko tovorno vozilo dovoljene skupne mase  nad 7t,Kombinirano tovorno vozilo na nadzor del s signalno tablo,Tovorno vozilo moči 280-320 kW,Tovorno vozilo moči 200-230 kW,Univerzalno delovno vozilo moči nad 200 kW s priključki,Kosilnica - mulčer za bankine čelni priključek univerzalnega delovnega vozila,Stroj za pometanje cest",
+  "kind": 2,
+  "value": 3142773.26,
+  "signed": "2017-10-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o.",
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o.",
+   "VOLVO, trgovina in servis, d.o.o.",
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "6272070000",
+   "5504023000",
+   "1532189000",
+   "5670209000",
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006197/2017-C01/POG-82695",
+  "published": "2017-10-10",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgyNjk1O1BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

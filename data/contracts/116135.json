@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 116135,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681369,
+  "idDosje": 272069,
+  "title": "Dobava vozil in prikolic",
+  "procurement": "Lahka tovorna vozila,Lahka tovorna vozila podaljšan keson,Kombinirana vozila,Priklopna vozila za prevoz mehanizacije,Priklopna vozila z nadgradnjo",
+  "kind": 2,
+  "value": 1577785.74,
+  "signed": "2018-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o.",
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000",
+   "5504023000",
+   "5742960000",
+   "5444063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005898/2018-C01/POG-116135",
+  "published": "2018-12-12",
+  "files": [
+   {
+    "name": "Pogodbe - Dobava vozil in prikolic.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjEzNTtQb2dvZGJlIC0gRG9iYXZhIHZvemlsIGluIHByaWtvbGljLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

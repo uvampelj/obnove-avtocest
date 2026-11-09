@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 120540,
+  "type": "DOD",
+  "prev": 110839,
+  "idObrazec": 771221,
+  "idDosje": 258174,
+  "title": "IZDELAVA IDZ IDEJNE ZASNOVE ZA REKONSTRUKCIJO CESTNEGA TELESA IN OBJEKTOV NA DELIH ODSEKOV AC A1 0051/0651 LJ (KOZARJE)-BREZOVICA, 0149 PRIKLJUČEK BREZOVICA, 0052/0652 BREZOVICA-VRHNIKA, 0150 PRIKLJUČEK VRHNIKA TER 0053/0653 VRHNIKA-LOGATEC",
+  "procurement": "IZDELAVA IDZ IDEJNE ZASNOVE ZA REKONSTRUKCIJO CESTNEGA TELESA IN OBJEKTOV NA DELIH ODSEKOV AC A1 0051/0651 LJ (KOZARJE)-BREZOVICA, 0149 PRIKLJUČEK BREZOVICA, 0052/0652 BREZOVICA-VRHNIKA, 0150 PRIKLJUČEK VRHNIKA TER 0053/0653 VRHNIKA-LOGATEC",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-02-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003373/2018-C01/DOD-120540",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "Aneks-1-288-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDU0MDtBbmVrcy0xLTI4OC0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

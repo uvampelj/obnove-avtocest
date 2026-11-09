@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 20756,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638586,
+  "idDosje": 72171,
+  "title": "Izdelava strokovnih mnenj, preveritve nosilnosti objektov, kontrola gabaritov in osnih pritiskov pri izvajanju izrednih prevozov",
+  "procurement": "Izdelava strokovnih mnenj, preveritve nosilnosti objektov, kontrola gabaritov in osnih pritiskov pri izvajanju izrednih prevozov",
+  "kind": 1,
+  "value": 891868.8,
+  "signed": "2015-09-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTEL d.o.o."
+  ],
+  "contractor_ids": [
+   "5608244000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6327/2015/POG-20756",
+  "published": "2015-09-14",
+  "files": [
+   {
+    "name": "pogodba CESTEL d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzU2O3BvZ29kYmEgQ0VTVEVMIGQuby5vLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

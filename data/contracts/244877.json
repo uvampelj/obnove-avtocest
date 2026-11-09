@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 244877,
+  "type": "DOD",
+  "prev": 199992,
+  "idObrazec": 778594,
+  "idDosje": 404654,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1254/2021: izdelava projektne dokumentacije PZI za rekonstrukcijo ceste in objektov na AC A1 0039 in 0639 Dramlje-Celje, 0138 priključek Celje Center, 0040 in 0640 Celje-Arja vas, 0191 priključek Celje Zahod in Most čez Hudinjo",
+  "procurement": "Izdelava PZI za rekonstrukcijo ceste in objektov na odsekih AC A1 0039 in 0639 Dramlje - Celje, 0138 priključek Celje Center, 0040 in 0640 Celje - Arja vas, 0191 priključek Celje Zahod in Most čez Hudinjo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-07-18",
+  "from": "2023-07-18",
+  "to": "2024-03-31",
+  "number": "846/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004569/2021-C01/DOD-244877",
+  "published": "2023-08-11",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NzY1NDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

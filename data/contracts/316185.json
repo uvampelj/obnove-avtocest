@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 316185,
+  "type": "DOD",
+  "prev": 215846,
+  "idObrazec": 932238,
+  "idDosje": 429205,
+  "title": "Aneks št. 1 k pogodbi DARS št. 945/2022 za  »Izdelavo IZP načrtov rekonstrukcije in vzpostavitve razširjenega prečnega profila z dodatnim voznim pasom na objektih Verd, Derviše, Ivanje Selo, Unec, Sava Brod, Ljubljanica in Rudnik«",
+  "procurement": "Izdelava IZP načrtov rekonstrukcije in vzpostavitve razširjenega prečnega profila z dodatnim voznim pasom na objektih Verd, Derviše, Ivanje selo, Unec, Sava Brod, Ljubljanica in Rudnik",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-21",
+  "from": "2025-07-21",
+  "to": "2025-07-31",
+  "number": "000945/2022",
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000",
+   "2170388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008615/2021-C01/POG-215846-D01",
+  "published": "2025-08-01",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxNDI2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

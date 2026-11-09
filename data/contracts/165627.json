@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 165627,
+  "type": "DOD",
+  "prev": 109594,
+  "idObrazec": 771137,
+  "idDosje": 235519,
+  "title": "aneks št. 2 k pog. št. 1293/2018 - Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0038 Slovenske Konjice - Dramlje in na A1/0638 Slovenske Konjice - Dramlje",
+  "procurement": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0038 Slovenske Konjice - Dramlje in na A1/0638 Slovenske Konjice - Dramlje",
+  "kind": 1,
+  "value": 93331.81,
+  "signed": "2019-09-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "PONTING, inženirski biro d.o.o.",
+   "GRADIS biro za projektiranje Maribor d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000",
+   "2323478000",
+   "5075742000",
+   "5303516000",
+   "5075084000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010422/2017-C01/DOD-165627",
+  "published": "2020-11-14",
+  "files": [
+   {
+    "name": "Aneks št.2 k pog.št. 1293-18-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTYyNztBbmVrcyDFoXQuMiBrIHBvZy7FoXQuIDEyOTMtMTgtb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

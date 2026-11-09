@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 115887,
+  "type": "DOD",
+  "prev": 97016,
+  "idObrazec": 770560,
+  "idDosje": 221087,
+  "title": "Izdelava novelacije PZI in izvlečka iz projekta za izvedbo (PZR) v posledici sprememb področne zakonodaje za glavno cesto HAJDINA-ORMOŽ, odsek Markovci-Gorišnica",
+  "procurement": "Izdelava novelacije PZI in izvlečka iz projekta za izvedbo (PZR) v posledici sprememb področne zakonodaje za glavno cesto HAJDINA-ORMOŽ, odsek Markovci-Gorišnica",
+  "kind": 1,
+  "value": 37532.67,
+  "signed": "2018-11-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008102/2017-C01/DOD-115887",
+  "published": "2018-12-07",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTg4NztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 209572,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735671,
+  "idDosje": 439305,
+  "title": "Upravljanje in nadgradnja informacijskega sistema za avtomatske števce prometa - QLTCnet",
+  "procurement": "Upravljanje in nadgradnja informacijskega sistema za avtomatske števce prometa - QLTCnet",
+  "kind": 1,
+  "value": 148010.4,
+  "signed": "2022-04-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001740/2022-C01/POG-209572",
+  "published": "2022-04-25",
+  "files": [
+   {
+    "name": "Pogodba 793-2022 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwOTU3MjtQb2dvZGJhIDc5My0yMDIyIFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

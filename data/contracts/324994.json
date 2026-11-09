@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324994,
+  "type": "DOD",
+  "prev": 295344,
+  "idObrazec": 958095,
+  "idDosje": 516221,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1255/2024 za vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - DarsGo sistem pri pogodbenemu partnerju MOL",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – DarsGo sistem pri pogodbenemu partnerju MOL",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-18",
+  "from": "2025-01-06",
+  "to": "2028-06-30",
+  "number": "001235/2025",
+  "contractors": [
+   "MOL SLOVENIJA, trgovsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5952441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008680/2024-POG/01-D01",
+  "published": "2025-11-12",
+  "files": [
+   {
+    "name": "za objavo_Podpisan aneks št. 1 260-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEyMDQ1O3phIG9iamF2b19Qb2RwaXNhbiBhbmVrcyDFoXQuIDEgMjYwLTIwMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

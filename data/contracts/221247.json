@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 221247,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 741116,
+  "idDosje": 452477,
+  "title": "Pogodba za projekt Novelacija projektne dokumentacije PGD in PZI, Polni priključek na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid - obvoznica)",
+  "procurement": "Novelacija projektne dokumentacije PGD in PZI, Polni priključek na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid - obvoznica)",
+  "kind": 1,
+  "value": 120780.0,
+  "signed": "2022-08-31",
+  "from": "2022-09-10",
+  "to": "2023-03-10",
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005103/2022-L01/POG-221247",
+  "published": "2022-09-07",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1157-2022_za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMTI0ODtQb2RwaXNhbmEgcG9nb2RiYSAxMTU3LTIwMjJfemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

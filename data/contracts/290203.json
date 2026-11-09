@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 290203,
+  "type": "DOD",
+  "prev": 217485,
+  "idObrazec": 862685,
+  "idDosje": 438061,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1021/2022: Rekonstrukcija na odsekih HC H3 0085/0685 (Zadobrova -Šmartinska), 0086/0686 (Šmartinska-Tomačevo), 0187 priključku Nove Jarše (Šmartinska c.) in del razcepa AC A1 0146 Zadobrova",
+  "procurement": "Rekonstrukcija cestnega telesa na odsekih HC 0085/0685(Zadobrova–LJ Šmartinska), 0086/0686 LJ (Šmartinska-Tomačevo),0187 priključku LJ Nove Jarše (Šmartinska c.) in AC 0146 del razcepa Lj Zadobrova",
+  "kind": 3,
+  "value": 1013729.09,
+  "signed": "2024-10-17",
+  "from": "2024-10-17",
+  "to": "2024-12-06",
+  "number": "001021/2022",
+  "contractors": [
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+   "REMONT obrtno gradbeno podjetje, d.d.",
+   "REMONT NG, družba za nizke gradnje, d.o.o."
+  ],
+  "contractor_ids": [
+   "3512592000",
+   "5066816000",
+   "6996230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001523/2022-C01/POG-217485-D01",
+  "published": "2024-10-25",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI0OTk0O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26380,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641087,
+  "idDosje": 80664,
+  "title": "Najem opreme za izvajanje zimske službe",
+  "procurement": "ACB Murska Sobota (Počivališči Grabonoš in Murska Sobota)",
+  "kind": 1,
+  "value": 35746.0,
+  "signed": "2015-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PGM MOČNIK d.o.o."
+  ],
+  "contractor_ids": [
+   "3725375000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8489/2015/POG-26380",
+  "published": "2015-12-02",
+  "files": [
+   {
+    "name": "1009-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2MzgwOzEwMDktMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

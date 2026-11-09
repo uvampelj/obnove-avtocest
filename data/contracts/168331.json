@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 168331,
+  "type": "DOD",
+  "prev": 120589,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 1938/2018: Zamenjava kažipotne signalizacije med razcepom Slivnica in priključkom Arja vas - nominacija podizvajalca",
+  "procurement": "ZAMENJAVA KAŽIPOTNE SIGNALIZACIJE NA AVTOCESTI A1 MED RAZCEPOM SLIVNICA IN PRIKLJUČKOM ARJA VAS",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-07-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1507664000",
+   "3987388000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-14",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODMzMTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

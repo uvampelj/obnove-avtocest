@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146161,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 698521,
+  "idDosje": 327339,
+  "title": "Dobava prometne opreme",
+  "procurement": "Dobava prometne opreme",
+  "kind": 2,
+  "value": 937783.5,
+  "signed": "2020-02-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZMAS SI, prometne storitve in signalizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "2372169000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007188/2019-C01/POG-146161",
+  "published": "2020-02-11",
+  "files": [
+   {
+    "name": "pogodba 248-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjE2MTtwb2dvZGJhIDI0OC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

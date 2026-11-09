@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287873,
+  "type": "DOD",
+  "prev": 241144,
+  "idObrazec": 855769,
+  "idDosje": 472281,
+  "title": "Aneks 1, DARS št. 995/2024 k pogodbi DARS št. 766/2023",
+  "procurement": "SERVISIRANJE TOVORNIH VOZIL",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-09-24",
+  "from": null,
+  "to": null,
+  "number": "000766/2023",
+  "contractors": [
+   "VOLVO, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "1532189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001089/2023-C01/POG-241144-D01",
+  "published": "2024-09-30",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 995-2024 k pog. DARS št. 766-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDcxO0FuZWtzIDEsIERBUlMgxaF0LiA5OTUtMjAyNCBrIHBvZy4gREFSUyDFoXQuIDc2Ni0yMDIzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

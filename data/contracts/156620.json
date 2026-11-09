@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 156620,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 705277,
+  "idDosje": 346375,
+  "title": "Izvedba geodetskih storitev na območju celotnega avtocestnega omrežja v Republiki Sloveniji",
+  "procurement": "Izvedba geodetskih storitev na območju celotnega avtocestnega omrežja v Republiki Sloveniji",
+  "kind": 1,
+  "value": 257054.0,
+  "signed": "2020-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEOFOTO podjetje za geodetske in računalniške storitve d.o.o.",
+   "GEONARIS, geodetske storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5669472000",
+   "3893162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001626/2020-C01/POG-156620",
+  "published": "2020-07-15",
+  "files": [
+   {
+    "name": "POGODBA 1258-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NjYyMDtQT0dPREJBIDEyNTgtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 263584,
+  "type": "DOD",
+  "prev": 205233,
+  "idObrazec": 803015,
+  "idDosje": 414783,
+  "title": "Aneks št. 2 k pogodbi DARS d. d. št. 100/2022: Predhodne arheološke raziskave (intenzivni arheološki pregled) na arheoloških najdiščih na novi prometni povezavi med avtocesto A2 Ljubljana–Obrežje do priključka Maline, 3. in 4. etapa",
+  "procurement": "Predhodne arheološke raziskave (intenzivni arheološki pregled) na arheoloških najdiščih na novi prometni povezavi med avtocesto A2 Ljubljana–Obrežje do priključka Maline, 3. in 4. etapa  ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-03-25",
+  "from": "2024-03-25",
+  "to": "2024-12-31",
+  "number": "461/2024",
+  "contractors": [
+   "ARHEJ d.o.o., arheološke raziskave in druge intelektualne storitve, Sevnica"
+  ],
+  "contractor_ids": [
+   "1253239000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006284/2021-X01/POG-205233-D02",
+  "published": "2024-03-30",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc1MzY0O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

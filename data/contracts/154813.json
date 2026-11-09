@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 154813,
+  "type": "DOD",
+  "prev": 118185,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1, k osnovni pogodbi DARS št. 16/2019 za izvedbo dodatnih protivetrnih ukrepov na HC H4 Razdrto Vipava Ajdovščina; Testna polja",
+  "procurement": "Aneks št. 1, k osnovni pogodbi DARS št. 16/2019 za izvedbo dodatnih protivetrnih ukrepov na HC H4 Razdrto Vipava Ajdovščina; Testna polja",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-06-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o.",
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5565316000",
+   "3987388000",
+   "1507664000",
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-06-16",
+  "files": [
+   {
+    "name": "A1_DARS_1220_2020_k_pog_16_2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDgxMztBMV9EQVJTXzEyMjBfMjAyMF9rX3BvZ18xNl8yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

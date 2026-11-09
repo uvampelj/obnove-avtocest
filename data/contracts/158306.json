@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 158306,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 706504,
+  "idDosje": 355436,
+  "title": "Dobava čistil in papirne galanterije",
+  "procurement": "Dobava čistil in papirne galanterije",
+  "kind": 2,
+  "value": 84633.6,
+  "signed": "2020-08-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003334/2020-X01/POG-158306",
+  "published": "2020-08-10",
+  "files": [
+   {
+    "name": "pogodba 1304-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1ODMwNjtwb2dvZGJhIDEzMDQtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 52825,
+  "type": "DOD",
+  "prev": 20590,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št.671/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKU AC A1/0637 SLOVENSKA BISTRICA – SLOVENSKE KONJICE OD KM 5,300 DO KM 8,800 IN NA KRAKIH A, B, C IN D PRIKLJUČKA 0136 SLOVENSKE KONJICE -zamenjava OVD,nominacija podizvajalcev, podaljšanje roka   ",
+  "procurement": "aneks št. 1 k pog. DARS št.671/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKU AC A1/0637 SLOVENSKA BISTRICA – SLOVENSKE KONJICE OD KM 5,300 DO KM 8,800 IN NA KRAKIH A, B, C IN D PRIKLJUČKA 0136 SLOVENSKE KONJICE -zamenjava OVD,nominacija podizvajalcev, podaljšanje roka   ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VOC Celje, d.d.",
+   "POMGRAD d.d."
+  ],
+  "contractor_ids": [
+   "5511941000",
+   "5459001000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "105-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODI1OzEwNS0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

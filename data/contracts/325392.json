@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 325392,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 959173,
+  "idDosje": 525273,
+  "title": "Pogodba za Izvedba dela projektne dokumentacije PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "procurement": "Izvedba dela projektne dokumentacije PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "kind": 1,
+  "value": 1738500.0,
+  "signed": "2025-09-25",
+  "from": "2025-09-30",
+  "to": "2026-12-30",
+  "number": "001139/2025",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006780/2025-POG/02",
+  "published": "2025-11-17",
+  "files": [
+   {
+    "name": "PJN Pogodba 148-25.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEyOTY4O1BKTiBQb2dvZGJhIDE0OC0yNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

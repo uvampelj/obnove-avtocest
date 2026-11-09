@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316144,
+  "type": "DOD",
+  "prev": 271620,
+  "idObrazec": 932135,
+  "idDosje": 509934,
+  "title": "Aneks št. 1 k pogodbi DARS št. 717/2024 za Izdelavo dela PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja ",
+  "procurement": "Izdelava dela PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-17",
+  "from": "2025-07-17",
+  "to": "2025-10-31",
+  "number": "000717/2024",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003350/2024-POG/01-D01",
+  "published": "2025-08-01",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxMzM0O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

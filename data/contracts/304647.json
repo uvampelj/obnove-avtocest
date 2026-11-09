@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 304647,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 899030,
+  "idDosje": 513721,
+  "title": "Izdelava projektne dokumentacije PZI za zamenjavo razsvetljave in ostale ESO opreme v predoru Leščevje, pokritih vkopih Medvedjek I. in II., Karteljevo ter Čatež",
+  "procurement": "Izdelava projektne dokumentacije PZI za zamenjavo razsvetljave in ostale ESO opreme v predoru Leščevje, pokritih vkopih Medvedjek I. in II., Karteljevo ter Čatež",
+  "kind": 1,
+  "value": 389619.2,
+  "signed": "2025-03-10",
+  "from": "2025-03-10",
+  "to": "2026-09-10",
+  "number": "000383/2025",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o.",
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "2228599000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006325/2024-POG/01",
+  "published": "2025-03-25",
+  "files": [
+   {
+    "name": "Pogodba-JV Kontron+Elektroenergetika_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzU0NDY5O1BvZ29kYmEtSlYgS29udHJvbitFbGVrdHJvZW5lcmdldGlrYV9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

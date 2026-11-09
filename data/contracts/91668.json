@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91668,
+  "type": "DOD",
+  "prev": 26060,
+  "idObrazec": 767674,
+  "idDosje": 71770,
+  "title": "POSTAVITEV IN ZAMENJAVA VARNOSTNIH OGRAJ OB ODSTAVNEM PASU NA AC A1, ODSEK 0054, 0654, 0055 IN 0056",
+  "procurement": "POSTAVITEV IN ZAMENJAVA VARNOSTNIH OGRAJ OB ODSTAVNEM PASU NA AC A1, ODSEK 0054, 0654, 0055 IN 0056",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-01-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN8322/2015/DOD-91668",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks-250-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjY4O2FuZWtzLTI1MC0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

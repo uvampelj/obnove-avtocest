@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 320377,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944321,
+  "idDosje": 522529,
+  "title": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije\nSKLOP 1-Računalniška oprema",
+  "procurement": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije",
+  "kind": 2,
+  "value": 976000.0,
+  "signed": "2025-09-12",
+  "from": "2025-09-12",
+  "to": "2029-12-12",
+  "number": "001102/2025",
+  "contractors": [
+   "SRC sistemske integracije d.o.o.",
+   "LANCOM inženiring računalniških sistemov d.o.o.",
+   "TELEKOM SLOVENIJE, d.d.",
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000",
+   "5317886000",
+   "5014018000",
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004427/2025-POG/01",
+  "published": "2025-09-22",
+  "files": [
+   {
+    "name": "R_OKVIRNI SPORAZUMI-SKLOP 1_001102-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxMDQ3O1JfT0tWSVJOSSBTUE9SQVpVTUktU0tMT1AgMV8wMDExMDItMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

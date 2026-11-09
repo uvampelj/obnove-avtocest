@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 314078,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 926179,
+  "idDosje": 520716,
+  "title": "P O G O D B A za izvedbo forenzične revizije posameznih poslov",
+  "procurement": "Forenzična revizija posameznih poslov družbe DARS d.d.",
+  "kind": 1,
+  "value": 59780.0,
+  "signed": "2025-06-26",
+  "from": "2025-06-26",
+  "to": "2025-12-31",
+  "number": "000857/2025",
+  "contractors": [
+   "AZ ODVETNIKI Avbreht, Erjavec Avbreht, Erjavec, Lešnik Sitar, Arnol o.p., d.o.o.",
+   "AVBREHT ALEŠ - ODVETNIK"
+  ],
+  "contractor_ids": [
+   "3735656000",
+   "1567535000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002826/2025-POG/01",
+  "published": "2025-07-10",
+  "files": [
+   {
+    "name": "Pogodba 104_25_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg2NTM2O1BvZ29kYmEgMTA0XzI1X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

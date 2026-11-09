@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78978,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663113,
+  "idDosje": 210583,
+  "title": "IZDELAVA STROKOVNIH PODLAG, POBUDE ZA DRŽAVNI PROSTORSKI NAČRT IN ANALIZE SMERNIC ZA POVEZOVALNO CESTO PODGORA-LETUŠ (do sprejema sklepa o pripravi načrta) ",
+  "procurement": "IZDELAVA STROKOVNIH PODLAG, POBUDE ZA DRŽAVNI PROSTORSKI NAČRT IN ANALIZE SMERNIC ZA POVEZOVALNO CESTO PODGORA-LETUŠ (do sprejema sklepa o pripravi načrta) ",
+  "kind": 1,
+  "value": 30402.4,
+  "signed": "2017-09-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Razvojni center PLANIRANJE d.o.o. Celje"
+  ],
+  "contractor_ids": [
+   "5076196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006004/2017-X01/POG-78978",
+  "published": "2017-09-06",
+  "files": [
+   {
+    "name": "Pogodba-RC Planiranje.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4OTc4O1BvZ29kYmEtUkMgUGxhbmlyYW5qZS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

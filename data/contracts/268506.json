@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268506,
+  "type": "DOD",
+  "prev": 214872,
+  "idObrazec": 817825,
+  "idDosje": 437990,
+  "title": "Aneks št. 2 k pogodbi DARS št. 940/2022 za Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022 – 2024; Sklop 2: Izvedba glavnih pregledov premostitvenih objektov; dodatna in nepredvidena dela ",
+  "procurement": "Sklop 2: Izvedba glavnih pregledov premostitvenih objektov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-05-23",
+  "from": "2022-06-08",
+  "to": "2025-10-08",
+  "number": "000652/2024",
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001514/2022-C01/POG-214872-D01",
+  "published": "2024-06-03",
+  "files": [
+   {
+    "name": "podpisan aneks 2 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg3Mjc5O3BvZHBpc2FuIGFuZWtzIDIgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

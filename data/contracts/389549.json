@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389549,
+  "type": "DOD",
+  "prev": 295347,
+  "idObrazec": 1044883,
+  "idDosje": 513740,
+  "title": "Aneks št. 1 k pogodbi DARS št. 001238/2024 za Upravljanje sredstev podjetja (Enterprise Asset Management - EAM)",
+  "procurement": "Upravljanje s sredstvi podjetja (Enterprise Asset Management)",
+  "kind": 1,
+  "value": 728693.0,
+  "signed": "2026-03-17",
+  "from": "2024-12-16",
+  "to": "2030-06-30",
+  "number": "001238/2024",
+  "contractors": [
+   "TROIA, informacijske storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "3707393000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006357/2024-POG/01-D01",
+  "published": "2026-04-08",
+  "files": [
+   {
+    "name": "ANEKS ŠT. 429-2026_29-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkxOTU4O0FORUtTIMWgVC4gNDI5LTIwMjZfMjktMjAyNl9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 12807,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 635192,
+  "idDosje": 71427,
+  "title": "aneks št. 1 k pogodbi DARS št. 597/2013 za strokovno svetovalne storitve za pridobitev državnega prostorskega načrta in vseh strokovnih podlag, potrebnih v postopku priprave državnega prostorskega nač",
+  "procurement": "aneks št. 1 k pogodbi DARS št. 597/2013 za strokovno svetovalne storitve za pridobitev državnega prostorskega načrta in vseh strokovnih podlag, potrebnih v postopku priprave državnega prostorskega nač",
+  "kind": 1,
+  "value": 41491.22,
+  "signed": "2015-04-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2566/2015/POG-12807",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "251-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODA3OzI1MS0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

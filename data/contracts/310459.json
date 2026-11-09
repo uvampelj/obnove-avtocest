@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310459,
+  "type": "DOD",
+  "prev": 174794,
+  "idObrazec": 914774,
+  "idDosje": 373128,
+  "title": "Aneks št. 1 k pog. Dars št. 169/2021 za Izvedbo odkupov in premoženjskopravnih ureditev nepremičnin 3. in 4. etape (2. del) nove prometne povezave med AC A2 Ljubljana – Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izvedba odkupov in PP ureditev nepremičnin za gradnjo odseka 3. in 4. etape (2. del) nove prometne povezave med AC A2 Ljubljana - Obrežje pri Novem mestu do priključka Maline  ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-05-07",
+  "from": "2025-05-07",
+  "to": "2025-12-31",
+  "number": "000169/2021",
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006699/2020-X01/POG-174794-D01",
+  "published": "2025-05-26",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NDI3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

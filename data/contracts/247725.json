@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 247725,
+  "type": "DOD",
+  "prev": 190193,
+  "idObrazec": 777389,
+  "idDosje": 392738,
+  "title": "Aneks številka 2 - Sklop 1",
+  "procurement": "Sol natrijev klorid NaCl, granulacija srednja (grade M  medium salt), vlažnost mokra (Wet salt), raztreseno stanje za solarne,Sol natrijev klorid NaCl, granulacija  srednja (grade M  medium salt), vlažnost pol suha (Semi Dry salt), sol za silose, raztreseno stanje za solarne,Sol natrijev klorid NaCl, granulacija ekstra fina (grade EF - Extra Fine salt), vlažnost suha (Dry salt), vakuumsko evaporirana sol za silose,Kalcijev klorid CaCl2 - raztopina, granulat",
+  "kind": 2,
+  "value": 206424.0,
+  "signed": "2022-12-22",
+  "from": "2022-12-22",
+  "to": "2023-06-15",
+  "number": "001635/2022",
+  "contractors": [
+   "MA.CO.T., Podjetje za predelavo in pakiranje soli, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300401000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001979/2021-C01/DOD-247725",
+  "published": "2023-09-20",
+  "files": [
+   {
+    "name": "Aneks 2 - 1635-2022_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MDg0NDtBbmVrcyAyIC0gMTYzNS0yMDIyX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

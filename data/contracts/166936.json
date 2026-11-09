@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 166936,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711553,
+  "idDosje": 356242,
+  "title": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0036 in 0636 Fram – Slovenska Bistrica od km 0+500 do km 9+500 in 0461 priključek Slovenska Bistrica – sever od km 0+000 do km 1+155",
+  "procurement": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0036 in 0636 Fram – Slovenska Bistrica od km 0+500 do km 9+500 in 0461 priključek Slovenska Bistrica – sever od km 0+000 do km 1+155",
+  "kind": 1,
+  "value": 1158697.56,
+  "signed": "2020-11-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003668/2020-C01/POG-166936",
+  "published": "2020-11-27",
+  "files": [
+   {
+    "name": "Pogodba-JV Lineal+BPI-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjkzNjtQb2dvZGJhLUpWIExpbmVhbCtCUEktb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

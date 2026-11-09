@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 83482,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 665058,
+  "idDosje": 219230,
+  "title": "Izvajanje zimske službe v sezoni 2017-2018",
+  "procurement": "ACB Ljubljana – izpostava Dob (najem stroja),ACB Ljubljana – izpostava Dob (najem plužne enote z voznikom),ACB Ljubljana,ACB Postojna,ACB Novo mesto - Izpostava Drnovo (skladišče soli),ACB Novo mesto - Izpostava Drnovo (MMP Obrežje),ACB Slovenske Konjice,ACB Murska Sobota,ACB Murska Sobota in ACB Maribor,ACB Vransko – CP Kompolje",
+  "kind": 1,
+  "value": 212471.03,
+  "signed": "2017-10-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OPRAVLJANJE STORITEV Z GRADBENO MEHANIZACIJO IN AVTOPREVOZNIŠTVO AVGUŠTIN SADAR S.P.",
+   "LEDALINE, inženiring, d.o.o.",
+   "LEVAR prevozi, gradbeništvo, trgovina in inženirig d.o.o.",
+   "GMI, inženiring in vzdrževanje, d.o.o.",
+   "PGM MOČNIK prevozništvo in strojna zemeljska dela D.O.O.",
+   "RESAL, gradbeništvo in prevozništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5397420000",
+   "6708285000",
+   "3831671000",
+   "6200192000",
+   "3725375000",
+   "3283917000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007651/2017-X01/POG-83482",
+  "published": "2017-10-20",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgzNDgyO1BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

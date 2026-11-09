@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 116157,
+  "type": "DOD",
+  "prev": 27394,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k osnovni pogodbi DARS št. d.d. za Izdelavo PGD in PZI projektne dokumentacije \"Rušitev in preureditev cestninskih postaj vključno s platojem\"",
+  "procurement": "Aneks št.3 k osnovni pogodbi DARS št.744/2015",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-12-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "IBT BIRO PROJEKTIVA, projektiranje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "6344585000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-12-12",
+  "files": [
+   {
+    "name": "Aneks št.3 k pogodbi 744-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjE1NztBbmVrcyDFoXQuMyBrIHBvZ29kYmkgNzQ0LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

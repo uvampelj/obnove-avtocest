@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 316116,
+  "type": "DOD",
+  "prev": 166364,
+  "idObrazec": 932026,
+  "idDosje": 356763,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 1495/2020: Izdelava PZI za rekonstrukcijo delov odsekov na AC A2 0022 in 0622 Grosuplje-Ivančna Gorica, 0410 priključek Ivančna Gorica, 0023 in 0623 Ivančna Gorica-Bič, 0411 priključek Bič ter 0072 in 0672 Bič-Trebnje V ",
+  "procurement": "Izdelava PZI za rekonstrukcijo delov odsekov na AC A2 0022 in 0622 Grosuplje-Ivančna Gorica, 0410 priključek Ivančna Gorica, 0023 in 0623 Ivančna Gorica-Bič, 0411 priključek Bič ter 0072 in 0672 Bič-Trebnje V",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-09",
+  "from": "2025-07-09",
+  "to": "2025-12-31",
+  "number": "001495/2020",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5522749000",
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003669/2020-C01/POG-166364-D01",
+  "published": "2025-07-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxMjM3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

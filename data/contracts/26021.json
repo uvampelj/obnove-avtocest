@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26021,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640951,
+  "idDosje": 77438,
+  "title": "Popravilo in vzdrževanje silosov za sol",
+  "procurement": "Popravilo in vzdrževanje silosov za sol",
+  "kind": 1,
+  "value": 153171.0,
+  "signed": "2015-11-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TIMCO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1277049000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8295/2015/POG-26021",
+  "published": "2015-11-25",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2MDIxO3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 20657,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638556,
+  "idDosje": 9739,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za glavno cesto Želodnik – Mengeš - Vodice",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za glavno cesto Želodnik – Mengeš - Vodice",
+  "kind": 1,
+  "value": 36673.2,
+  "signed": "2015-09-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZPKSU d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5226996000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV5214/2015/POG-20657",
+  "published": "2015-09-14",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNjU3O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

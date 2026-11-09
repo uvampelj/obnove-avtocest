@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 183783,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721299,
+  "idDosje": 366646,
+  "title": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "procurement": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "kind": 1,
+  "value": 19131121.34,
+  "signed": "2021-05-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SkyToll, a.s."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005518/2020-C01/POG-183783",
+  "published": "2021-06-17",
+  "files": [
+   {
+    "name": "Pogodba-813-2021-Sky Toll-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4Mzc4MztQb2dvZGJhLTgxMy0yMDIxLVNreSBUb2xsLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

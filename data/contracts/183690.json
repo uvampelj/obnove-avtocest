@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 183690,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721239,
+  "idDosje": 394161,
+  "title": "Vzdrževanje skenerjev in podpora za programsko opremo mScan",
+  "procurement": "Vzdrževanje skenerjev in podpora za programsko opremo mScan",
+  "kind": 1,
+  "value": 61814.67,
+  "signed": "2021-06-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROGRAFIJA trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5636744000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002224/2021-X01/POG-183690",
+  "published": "2021-06-16",
+  "files": [
+   {
+    "name": "Pogodba st. 856-2021 _UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MzY5MDtQb2dvZGJhIHN0LiA4NTYtMjAyMSBfVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

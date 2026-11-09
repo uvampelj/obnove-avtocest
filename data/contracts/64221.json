@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 64221,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656837,
+  "idDosje": 175621,
+  "title": "Izdelava cenitev stavbnih zemljišč in objektov za potrebe pridobivanja nepremičnin za pridobitev gradbenih dovoljenj in v postopkih dokončnih premoženjskopravnih ureditev, na celotnem avtocestnem omrežju v Republiki Sloveniji",
+  "procurement": "Izdelava cenitev stavbnih zemljišč in objektov za potrebe pridobivanja nepremičnin za pridobitev gradbenih dovoljenj in v postopkih dokončnih premoženjskopravnih ureditev, na celotnem avtocestnem omrežju v Republiki Sloveniji",
+  "kind": 1,
+  "value": 125416.0,
+  "signed": "2017-02-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CENILNA DRUŽBA d.o.o."
+  ],
+  "contractor_ids": [
+   "6058736000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006750/2016-C01/POG-64221",
+  "published": "2017-03-07",
+  "files": [
+   {
+    "name": "pogodba cenilna družba 202-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY0MjIxO3BvZ29kYmEgY2VuaWxuYSBkcnXFvmJhIDIwMi0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

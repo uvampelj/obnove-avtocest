@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 77,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630260,
+  "idDosje": 17314,
+  "title": "Montaža, demontaža in prevoz miniguarda",
+  "procurement": "Montaža, demontaža in prevoz miniguarda",
+  "kind": 1,
+  "value": 87791.2,
+  "signed": "2014-12-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO, d.d. Liboje"
+  ],
+  "contractor_ids": [
+   "5206855000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV7/2015/POG-77",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13140001648_141230_073245.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc3O0QxMzE0MDAwMTY0OF8xNDEyMzBfMDczMjQ1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

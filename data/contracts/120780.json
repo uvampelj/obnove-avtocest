@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120780,
+  "type": "DOD",
+  "prev": 85546,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 832/2017 za \"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo« pri pogodbenemu partnerju OMV",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 832/2017 za \"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo« pri pogodbenemu partnerju OMV",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o."
+  ],
+  "contractor_ids": [
+   "5540739000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-02-19",
+  "files": [
+   {
+    "name": "a1 CUT OMV_pog832-2017_12-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDc4MDthMSBDVVQgT01WX3BvZzgzMi0yMDE3XzEyLTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

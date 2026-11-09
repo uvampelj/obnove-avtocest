@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 196550,
+  "type": "DOD",
+  "prev": 52913,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 4 k pog. DARS št. 524/2008:: Zajem podatkov z LIDAR tehnologijo in izdelava geodetskih podlag za DPN za HC Koper Dragonja - dodatna dela",
+  "procurement": "ZAJEM PODATKOV Z LIDAR TEHNOLOGIJO IN IZDELAVA GEODETSKIH PODLAG ZA DPN ZA HC KOPER-DRAGONJA",
+  "kind": 1,
+  "value": 3019.5,
+  "signed": "2017-08-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FLYCOM Aviation, družba za letalske in komunikacijske storitve d.o.o.",
+   "GEODETSKI ZAVOD CELJE, d.o.o."
+  ],
+  "contractor_ids": [
+   "5710081000",
+   "5066352000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-10-27",
+  "files": [
+   {
+    "name": "aneks-4-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjU1MDthbmVrcy00LW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 147170,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699149,
+  "idDosje": 335769,
+  "title": "Dobava nadomestnih delov ter vzdrževanje sistema klica v sili proizvajalca Iskra Sistemi",
+  "procurement": "Dobava nadomestnih delov ter vzdrževanje sistema klica v sili proizvajalca Iskra Sistemi",
+  "kind": 1,
+  "value": 153504.06,
+  "signed": "2020-02-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008675/2019-X01/POG-147170",
+  "published": "2020-02-24",
+  "files": [
+   {
+    "name": "Pogodba-332-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NzE3MDtQb2dvZGJhLTMzMi0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

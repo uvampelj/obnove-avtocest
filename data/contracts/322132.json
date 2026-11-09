@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322132,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 949202,
+  "idDosje": 522639,
+  "title": "Pogodba za Dobava naprav za zagotavljanje varnosti",
+  "procurement": "Dobava naprav za zagotavljanje varnosti",
+  "kind": 2,
+  "value": 1330898.0,
+  "signed": "2025-09-30",
+  "from": "2025-09-30",
+  "to": "2031-12-30",
+  "number": "001144/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004478/2025-POG/01",
+  "published": "2025-10-08",
+  "files": [
+   {
+    "name": "Pogodba podpisana 124-25_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA0OTIyO1BvZ29kYmEgcG9kcGlzYW5hIDEyNC0yNV9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

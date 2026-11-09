@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 216374,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738841,
+  "idDosje": 439371,
+  "title": "LETNI PREGLED IN SERVISIRANJE DVIŽNIH NAPRAV",
+  "procurement": "Servis dvižnih naprav Palfinger,Servis dvižnih naprav Fassi, Ram,Isoli, Hidravlik servis,Servis dvižnih naprav Hiab",
+  "kind": 1,
+  "value": 382453.69,
+  "signed": "2022-07-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BIJOL zastopanje, proizvodnja d.o.o.",
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna",
+   "ARKO, podjetje za intelektualne storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "1338269000",
+   "1570307000",
+   "5407354000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001920/2022-C01/POG-216374",
+  "published": "2022-07-15",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjM3NDtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

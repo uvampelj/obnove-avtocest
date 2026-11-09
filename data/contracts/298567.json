@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 298567,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 884169,
+  "idDosje": 514751,
+  "title": "Sklop 8: Novo mesto",
+  "procurement": "Izvajanje nalog medicine dela",
+  "kind": 1,
+  "value": 29412.82,
+  "signed": "2025-01-16",
+  "from": "2025-01-16",
+  "to": "2030-04-16",
+  "number": "000166/2025",
+  "contractors": [
+   "ARISTOTEL, zdravstveni center d.o.o."
+  ],
+  "contractor_ids": [
+   "1274040000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007182/2024-POG/08",
+  "published": "2025-01-27",
+  "files": [
+   {
+    "name": "Podpisana pogodba Aristotel sklop 8_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQyMTA0O1BvZHBpc2FuYSBwb2dvZGJhIEFyaXN0b3RlbCBza2xvcCA4X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

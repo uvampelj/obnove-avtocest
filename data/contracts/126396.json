@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 126396,
+  "type": "DOD",
+  "prev": 120582,
+  "idObrazec": 771759,
+  "idDosje": 249306,
+  "title": "IZVEDBA SISTEMA NADZORA IN VODENJA PROMETA (SNVP) NA AC BREZOVICA – DIVAČA, SEVERNA, VZHODNA, JUŽNA LJUBLJANSKA OBVOZNICA IN AC ZADOBROVA – LUKOVICA – PERIFERNA OPREMA ",
+  "procurement": "IZVEDBA SISTEMA NADZORA IN VODENJA PROMETA (SNVP) NA AC BREZOVICA – DIVAČA, SEVERNA, VZHODNA, JUŽNA LJUBLJANSKA OBVOZNICA IN AC ZADOBROVA – LUKOVICA – PERIFERNA OPREMA ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in elektronska industrija, d.d.",
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002373/2018-C01/DOD-126396",
+  "published": "2019-05-13",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjM5NjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

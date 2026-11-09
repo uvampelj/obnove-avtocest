@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 199827,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 729492,
+  "idDosje": 416515,
+  "title": "Vzdrževanje, nadgradnja in podpora informacijskega sistema ZAHTEVKI",
+  "procurement": "Vzdrževanje, nadgradnja in podpora informacijskega sistema ZAHTEVKI",
+  "kind": 1,
+  "value": 116388.0,
+  "signed": "2021-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRO-BIT PROGRAMSKA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "5413796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006433/2021-X01/POG-199827",
+  "published": "2021-12-15",
+  "files": [
+   {
+    "name": "Pogodba 1288-2021 REDI.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5OTgyNztQb2dvZGJhIDEyODgtMjAyMSBSRURJLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

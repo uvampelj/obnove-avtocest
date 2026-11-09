@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 461715,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1150676,
+  "idDosje": 624440,
+  "title": "Dobava in vzdrževanje nakladalva na kolesih",
+  "procurement": "Dobava in vzdrževanje nakladalca na kolesih",
+  "kind": 2,
+  "value": 232502.15,
+  "signed": "2026-08-20",
+  "from": "2026-08-20",
+  "to": "2027-02-20",
+  "number": "000903/2026",
+  "contractors": [
+   "GLOBEX S.R.L., podružnica v Sloveniji"
+  ],
+  "contractor_ids": [
+   "6254888000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004778/2026-POG/01",
+  "published": "2026-08-26",
+  "files": [
+   {
+    "name": "Podpisana pogodba 903-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTkwMzI0O1BvZHBpc2FuYSBwb2dvZGJhIDkwMy0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

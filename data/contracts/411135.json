@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 411135,
+  "type": "DOD",
+  "prev": 53712,
+  "idObrazec": 1079854,
+  "idDosje": 51801,
+  "title": "Aneks št. 2 k pogodbi DARS št. 816/2016 za »Izdelava projektne dokumentacije PGD in PZI za avtocestni odsek Koseze – Kozarje (razširitev v šestpasovnico)«",
+  "procurement": "Izdelava projektne dokumentacije PGD in PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "kind": 1,
+  "value": 116507.56,
+  "signed": "2026-04-16",
+  "from": "2016-10-07",
+  "to": "2026-12-01",
+  "number": "000816/2016",
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006301/2016-C01/POG-53712-D01",
+  "published": "2026-04-28",
+  "files": [
+   {
+    "name": "Aneks št. 569-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI1ODc4O0FuZWtzIMWhdC4gNTY5LTIwMjZfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 126357,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687327,
+  "idDosje": 296908,
+  "title": "Prestavitev DARS-Go Servisa iz lokacije MMP Fernetiči na novo lokacijo BS OMV Fernetiči",
+  "procurement": "Prestavitev DARS-Go Servisa iz lokacije MMP Fernetiči na novo lokacijo BS OMV Fernetiči",
+  "kind": 1,
+  "value": 89304.0,
+  "signed": "2019-05-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "E+ PROJEKT, elektro storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "6053629000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000757/2019-X01/POG-126357",
+  "published": "2019-05-13",
+  "files": [
+   {
+    "name": "Pogodba-003-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjM1NztQb2dvZGJhLTAwMy0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

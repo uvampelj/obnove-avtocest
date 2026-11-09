@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85671,
+  "type": "DOD",
+  "prev": 50050,
+  "idObrazec": 768424,
+  "idDosje": 156069,
+  "title": "Aneks št. 1 k pogodbi DARS št. 802/2016 Krpanje in sanacija vozišč 2016-2019 - Sklop 2: Dela na območju AC baz Slovenske Konjice, Vransko, Maribor in Murska Sobota",
+  "procurement": "Dela na  območju  AC baz Slovenske Konjice, Vransko, Maribor in Murska Sobota",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-11-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002075/2016-Q01/DOD-85671",
+  "published": "2017-11-23",
+  "files": [
+   {
+    "name": "aneks 1_krpanje_895-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1NjcxO2FuZWtzIDFfa3JwYW5qZV84OTUtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

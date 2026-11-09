@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 200816,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730083,
+  "idDosje": 427828,
+  "title": "Izdelava elaborata preverbe prostorskih možnosti in projektne dokumentacije IZP, DGD in PZI za dela \"Ureditev platoja Arja vas\"",
+  "procurement": "Izdelava elaborata preverbe prostorskih možnosti in projektne dokumentacije IZP, DGD in PZI za dela \"Ureditev platoja Arja vas\"",
+  "kind": 1,
+  "value": 71905.17,
+  "signed": "2021-12-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROGRIN, projektiranje, gradbeništvo in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "3471519000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008192/2021-C01/POG-200816",
+  "published": "2021-12-29",
+  "files": [
+   {
+    "name": "podpisana pog 1466-2021 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMDgxNjtwb2RwaXNhbmEgcG9nIDE0NjYtMjAyMSAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

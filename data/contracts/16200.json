@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16200,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636514,
+  "idDosje": 80589,
+  "title": "Vzdrževanje podatkov gospodarske infrastrukture ter vpis v zbirni kataster GJI na AC in HC v upravljanju DARS",
+  "procurement": "Vzdrževanje podatkov gospodarske infrastrukture ter vpis v zbirni kataster GJI na AC in HC v upravljanju DARS",
+  "kind": 1,
+  "value": 57083.8,
+  "signed": "2015-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LGB d.o.o."
+  ],
+  "contractor_ids": [
+   "5075947000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4722/2015/POG-16200",
+  "published": "2015-07-15",
+  "files": [
+   {
+    "name": "D13150000524_150713_122718.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MjAwO0QxMzE1MDAwMDUyNF8xNTA3MTNfMTIyNzE4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

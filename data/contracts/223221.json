@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 223221,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 742514,
+  "idDosje": 449211,
+  "title": "Dobava osebne varovalne opreme, sklop 1-Delovna oblačila",
+  "procurement": "Dobava osebne varovalne opreme",
+  "kind": 2,
+  "value": 333365.0,
+  "signed": "2022-09-28",
+  "from": "2022-09-28",
+  "to": "2025-09-28",
+  "number": null,
+  "contractors": [
+   "ASTEKO center osebne varovalne opreme d.o.o."
+  ],
+  "contractor_ids": [
+   "1898795000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004355/2022-C01/POG-223221",
+  "published": "2022-10-10",
+  "files": [
+   {
+    "name": "R Pogodba 1237-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzM1NztSIFBvZ29kYmEgMTIzNy0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

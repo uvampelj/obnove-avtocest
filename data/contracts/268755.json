@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268755,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 818717,
+  "idDosje": 506845,
+  "title": "Vzdrževanje instalacij",
+  "procurement": "Vzdrževanje instalacij",
+  "kind": 1,
+  "value": 457805.0,
+  "signed": "2024-06-03",
+  "from": "2024-06-03",
+  "to": "2027-09-03",
+  "number": "000676/2024",
+  "contractors": [
+   "SIM trgovsko in turistično podjetje Radenci d.o.o."
+  ],
+  "contractor_ids": [
+   "5378214000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000923/2024-POG/01",
+  "published": "2024-06-06",
+  "files": [
+   {
+    "name": "Podpisana pogodba 676-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg3OTcwO1BvZHBpc2FuYSBwb2dvZGJhIDY3Ni0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

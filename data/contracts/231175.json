@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 231175,
+  "type": "DOD",
+  "prev": 156517,
+  "idObrazec": 774094,
+  "idDosje": 346435,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1260/2020: Izvedba sanacije odvodnje meteornih voda na zadrževalniku Ravbarkomanda ZB0290 na odseku AC Unec-Postojna",
+  "procurement": "Izvedba sanacije odvodnje meteornih voda na zadrževalniku Ravbarkomanda ZB0290 na odseku AC Unec-Postojna",
+  "kind": 3,
+  "value": 27522.93,
+  "signed": "2023-01-13",
+  "from": "2023-01-13",
+  "to": "2023-01-31",
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001612/2020-X01/DOD-231175",
+  "published": "2023-02-10",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjE1NjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

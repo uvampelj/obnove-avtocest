@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243202,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757076,
+  "idDosje": 471787,
+  "title": "Nakup računalniške in strežniške strojne opreme, SKLOP 1",
+  "procurement": "Nakup računalniške in strežniške strojne opreme",
+  "kind": 2,
+  "value": 439259.78,
+  "signed": "2023-07-03",
+  "from": "2023-07-03",
+  "to": "2025-04-03",
+  "number": "000801/2023",
+  "contractors": [
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000988/2023-C01/POG-243202",
+  "published": "2023-07-18",
+  "files": [
+   {
+    "name": "POGODBA sklop 1_podpisana RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NTg3MztQT0dPREJBIHNrbG9wIDFfcG9kcGlzYW5hIFJlZFVMLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

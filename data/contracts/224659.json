@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224659,
+  "type": "DOD",
+  "prev": 192045,
+  "idObrazec": 777616,
+  "idDosje": 404535,
+  "title": "Aneks št. 1, k pogodbi DARS št.1118/2021; DARS št.1313/2022 za izvedbo spremenjenega obsega del pri izdelavi novelacije DGD/PZI projektne dokumentacije za projekt Navezava luke Koper na AC omrežje (Srminska vpadnica)",
+  "procurement": "Izdelava novelacije DGD / PZI projektne dokumentacije za projekt Navezava luke Koper na AC omrežje (Srminska vpadnica)",
+  "kind": 1,
+  "value": 77117.66,
+  "signed": "2022-10-20",
+  "from": "2022-10-20",
+  "to": "2022-12-31",
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004938/2021-C01/DOD-224659",
+  "published": "2022-10-28",
+  "files": [
+   {
+    "name": "A1_1118_2021_DARS_1313_2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDkyNztBMV8xMTE4XzIwMjFfREFSU18xMzEzXzIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

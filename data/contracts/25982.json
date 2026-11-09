@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 25982,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640934,
+  "idDosje": 79690,
+  "title": "Dobava kombiniranih in tovornih vozil",
+  "procurement": "Lahka tovorna vozila,Tovorna vozila",
+  "kind": 2,
+  "value": 964274.58,
+  "signed": "2015-11-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8271/2015/POG-25982",
+  "published": "2015-11-25",
+  "files": [
+   {
+    "name": "Pogodba št. 955-2015.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTgyO1BvZ29kYmEgxaF0LiA5NTUtMjAxNS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

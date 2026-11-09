@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104163,
+  "type": "DOD",
+  "prev": 96965,
+  "idObrazec": 770554,
+  "idDosje": 188750,
+  "title": "aneks št. 1 k pog. DARS ŠT. 966/17 ZA ZAMENJAVO DIESEL AGREGATOV V AVTOCESTNIH BAZAH IN CESTNINSKIH POSTAJAH - podaljšanje pogodbenega roka ",
+  "procurement": "ZAMENJAVA DIESEL AGREGATOV V AVTOCESTNIH BAZAH IN CESTNINSKIH POSTAJAH",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2018-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STUBELJ proizvodnja in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5441404000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001359/2017-C01/DOD-104163",
+  "published": "2018-09-05",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2MztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

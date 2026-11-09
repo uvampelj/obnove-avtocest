@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 411497,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1080883,
+  "idDosje": 529291,
+  "title": "Izvajanje varovanja ljudi in premoženja: Sklop 1 – Primorska Sklop 3 - Ljubljana Sklop 4 - Gorenjska",
+  "procurement": "Izvajanje varovanja ljudi in premoženja",
+  "kind": 1,
+  "value": 419458.79,
+  "signed": "2026-04-22",
+  "from": "2026-04-22",
+  "to": "2028-04-22",
+  "number": "000579/2026",
+  "contractors": [
+   "RIVAL - VTS sistemi in varovanje, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5966639000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000178/2026-POG/01",
+  "published": "2026-05-05",
+  "files": [
+   {
+    "name": "Red_Pogodba 579-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI2NzA5O1JlZF9Qb2dvZGJhIDU3OS0yMDI2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

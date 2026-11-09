@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630355,
+  "idDosje": 72003,
+  "title": "Nabava računalniške strojne opreme",
+  "procurement": "Nabava računalniške strojne opreme",
+  "kind": 2,
+  "value": 536528.45,
+  "signed": "2015-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATR.SIS d.o.o."
+  ],
+  "contractor_ids": [
+   "2087707000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1846/2015/POG-197",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "POGODBA 214-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NztQT0dPREJBIDIxNC0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 57903,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654350,
+  "idDosje": 80931,
+  "title": "Izvajanje strokovno svetovalnih storitev pri izvedbi nacionalnega programa izgradnje avtocest v Republiki Sloveniji za dograditev avtocestnega predora Karavanke za fazo izdelave projekta za pridobitev greadbenega dovoljenja (PGD) in fazo izdelave projekta za izvedbo (PZI)",
+  "procurement": "Izvajanje strokovno svetovalnih storitev pri izvedbi nacionalnega programa izgradnje avtocest v Republiki Sloveniji za dograditev avtocestnega predora Karavanke za fazo izdelave projekta za pridobitev",
+  "kind": 1,
+  "value": 400404.0,
+  "signed": "2014-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN11664/2014/POG-57903",
+  "published": "2017-01-05",
+  "files": [
+   {
+    "name": "pog1628-2014 Svetovanje Karavanke.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3OTAzO3BvZzE2MjgtMjAxNCBTdmV0b3ZhbmplIEthcmF2YW5rZS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

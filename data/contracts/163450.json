@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 163450,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 709599,
+  "idDosje": 353320,
+  "title": "Izdelava cenitev kmetijskih zemljišč",
+  "procurement": "Izdelava cenitev kmetijskih zemljišč",
+  "kind": 1,
+  "value": 80790.0,
+  "signed": "2020-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ALEŠ EBER - SAMOZAPOSLENI V KULTURI, ARHITEKT"
+  ],
+  "contractor_ids": [
+   "1362712000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002823/2020-C01/POG-163450",
+  "published": "2020-10-15",
+  "files": [
+   {
+    "name": "Pogodba-1428-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MzQ1MDtQb2dvZGJhLTE0MjgtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

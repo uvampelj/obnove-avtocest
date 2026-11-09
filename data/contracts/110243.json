@@ -1,0 +1,47 @@
+{
+ "meta": {
+  "id": 110243,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678640,
+  "idDosje": 248103,
+  "title": "Dobava vozil, cestne mehanizacije in opreme",
+  "procurement": "Tovorna vozila,Tovorna vozila s pomožno dvižno osjo,Delovno vozilo,Dvižna košara,Vozilo za pometanje cestišča,Nakladač",
+  "kind": 2,
+  "value": 3007159.7,
+  "signed": "2018-09-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o.",
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o.",
+   "EXPRUM podjetje za razvoj in prodajo komunalne opreme d.o.o.",
+   "TERRA JCB, podjetje za gradbene, komercialne in finančne storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000",
+   "5670209000",
+   "5898617000",
+   "5318416000",
+   "5778778000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001934/2018-C01/POG-110243",
+  "published": "2018-10-02",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDI0MztQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

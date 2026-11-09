@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 121618,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 684416,
+  "idDosje": 284868,
+  "title": "Vzpostavitev, vzdrževanje in nadgradnja informacijskega sistema za podporo javnemu naročanju",
+  "procurement": "Vzpostavitev, vzdrževanje in nadgradnja informacijskega sistema za podporo javnemu naročanju",
+  "kind": 1,
+  "value": 42944.0,
+  "signed": "2019-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007989/2018-X01/POG-121618",
+  "published": "2019-03-01",
+  "files": [
+   {
+    "name": "POGODBA Dars st. 163_2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTYxODtQT0dPREJBIERhcnMgc3QuIDE2M18yMDE5LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

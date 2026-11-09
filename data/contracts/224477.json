@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224477,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743304,
+  "idDosje": 449655,
+  "title": "Pravno svetovanje na področju bančnega in finančnega prava",
+  "procurement": "Pravno svetovanje na področju bančnega in finančnega prava",
+  "kind": 1,
+  "value": 123189.5,
+  "signed": "2022-10-19",
+  "from": "2022-10-19",
+  "to": "2025-10-19",
+  "number": null,
+  "contractors": [
+   "Odvetniška družba Kavčič, Bračun in partnerji, o.p., d.o.o."
+  ],
+  "contractor_ids": [
+   "3652025000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004411/2022-X01/POG-224477",
+  "published": "2022-10-26",
+  "files": [
+   {
+    "name": "podpisana pogodba - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDcyMztwb2RwaXNhbmEgcG9nb2RiYSAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

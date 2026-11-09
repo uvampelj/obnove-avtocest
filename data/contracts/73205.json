@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 73205,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660488,
+  "idDosje": 187261,
+  "title": "Dimnikarske storitve v poslovnem sistemu DARS d.d.",
+  "procurement": "Dimnikarske storitve - Pomurski in Štajerski avtocestni krak z avtocestnimi bazami, izpostavami ACB, cestninskimi postajami in drugimi spremljajočimi objekti,Dimnikarske storitve - Gorenjski in Dolenjski avtocestni krak z avtocestnimi bazami, izpostavami ACB, cestninskimi postajami in drugimi spremljajočimi objekti,Dimnikarske storitve - Primorski avtocestni krak z avtocestnimi bazami, cestninskimi postajami, izpostavami ACB in drugimi spremljajočimi objekti",
+  "kind": 1,
+  "value": 22870.7,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DUROT d.o.o.",
+   "EKOENERGETIKA d.o.o.",
+   "JURE PIPAN S.P."
+  ],
+  "contractor_ids": [
+   "5587891000",
+   "6052444000",
+   "6685358000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000939/2017-X01/POG-73205",
+  "published": "2017-06-22",
+  "files": [
+   {
+    "name": "dimnikarske storitve.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczMjA1O2RpbW5pa2Fyc2tlIHN0b3JpdHZlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

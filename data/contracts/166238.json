@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166238,
+  "type": "DOD",
+  "prev": 120865,
+  "idObrazec": 771777,
+  "idDosje": 277824,
+  "title": "Aneks št. 1 k pog. DARS št. 103/2019: Izdelava projekta PZI za upravljanje s prometom na vpadnicah Ljubljane - dodatna dela in podaljšanje pogodbenega roka",
+  "procurement": "Izdelava projekta PZI za upravljanje s prometom na vpadnicah Ljubljane",
+  "kind": 1,
+  "value": 34569.92,
+  "signed": "2020-02-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007054/2018-X01/DOD-166238",
+  "published": "2020-11-19",
+  "files": [
+   {
+    "name": "aneks 1 k k pog.-103-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjIzODthbmVrcyAxIGsgayBwb2cuLTEwMy0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

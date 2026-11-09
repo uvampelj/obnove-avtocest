@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324501,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956563,
+  "idDosje": 525216,
+  "title": "Pogodba za Dobava notranje energije iz lesnih sekancev - Sklop 1 - Dobava notranje energije lesnih sekancev za ACB Hrušica",
+  "procurement": "Dobava notranje energije iz lesnih sekancev",
+  "kind": 2,
+  "value": 67856.4,
+  "signed": "2025-10-29",
+  "from": "2025-10-29",
+  "to": "2029-01-29",
+  "number": "001214/2025",
+  "contractors": [
+   "LUMOS, d.o.o., Posredništvo pri energetskih rešitvah"
+  ],
+  "contractor_ids": [
+   "9162780000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006693/2025-POG/01",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "Pogodba Sklop 1 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNzk3O1BvZ29kYmEgU2tsb3AgMSBQSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

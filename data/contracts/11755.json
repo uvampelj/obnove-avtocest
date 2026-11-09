@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 11755,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634828,
+  "idDosje": 71394,
+  "title": "IZDELAVA IDEJNEGA PROJEKTA ODLAGALIŠČ ZEMELJSKEGA IZKOPA, KI BO NASTAL OB GRADNJI HITRE CESTE KOPER - DRAGONJA",
+  "procurement": "IZDELAVA IDEJNEGA PROJEKTA ODLAGALIŠČ ZEMELJSKEGA IZKOPA, KI BO NASTAL OB GRADNJI HITRE CESTE KOPER - DRAGONJA",
+  "kind": 1,
+  "value": 77634.7,
+  "signed": "2014-12-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN11527/2014/POG-11755",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "1606-14.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzU1OzE2MDYtMTQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

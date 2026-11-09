@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 121870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 684579,
+  "idDosje": 286186,
+  "title": "Servisiranje strojev in opreme",
+  "procurement": "Servisiranje strojev in opreme BCS,Servisiranje strojev in opreme Himac, Case in New Holand",
+  "kind": 1,
+  "value": 297081.77,
+  "signed": "2019-02-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AGROMETAL kmetijska mehanizacija, d.o.o.",
+   "GLOBEX S.R.L., podružnica v Sloveniji"
+  ],
+  "contractor_ids": [
+   "5448271000",
+   "6254888000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008419/2018-C01/POG-121870",
+  "published": "2019-03-07",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 179-2019 in 180-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTg3MDtQb2dvZGJhIERBUlMgxaF0LiAxNzktMjAxOSBpbiAxODAtMjAxOS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

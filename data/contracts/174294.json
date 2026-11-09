@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 174294,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 715622,
+  "idDosje": 371458,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite;  Sklop 11: H3 odseki 0086, 0088, 0089, 0090 (LJ Šmartinska -Koseze)",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite; Sklop 5: A1 odseka 0018, 0017 (LJ Dolenjska-Vič), Sklop 11: H3 odseki 0086, 0088, 0089, 0090 (LJ Šmartinska -Koseze)",
+  "kind": 1,
+  "value": 56864.2,
+  "signed": "2021-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006466/2020-X01/POG-174294",
+  "published": "2021-02-12",
+  "files": [
+   {
+    "name": "Pogodba sklop11- PNZ d.o.o.-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDI5NDtQb2dvZGJhIHNrbG9wMTEtIFBOWiBkLm8uby4tb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

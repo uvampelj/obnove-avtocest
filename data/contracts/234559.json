@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234559,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 750438,
+  "idDosje": 467161,
+  "title": "Izdelava hidrološko hidravlične študije za študijo variant oz. utemeljitev rešitve / predinvesticijsko zasnovo za glavno cesto Ptuj - Markovci",
+  "procurement": "Izdelava hidrološko hidravlične študije za študijo variant oz. utemeljitev rešitve / predinvesticijsko zasnovo za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 91256.0,
+  "signed": "2023-03-28",
+  "from": "2023-03-28",
+  "to": "2025-03-28",
+  "number": "000565/2023",
+  "contractors": [
+   "VODNOGOSPODARSKI BIRO MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5150531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008549/2022-X01/POG-234559",
+  "published": "2023-04-03",
+  "files": [
+   {
+    "name": "Pogodba-VGB_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTk0MTtQb2dvZGJhLVZHQl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

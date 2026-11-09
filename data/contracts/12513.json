@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 12513,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 635075,
+  "idDosje": 80181,
+  "title": "Dobava posipnih materialov pri izvajanju zimske službe za posip vozišč na avtocestah in hitrih cestah v Republiki Sloveniji; sklop 1: sol za posip – natrijev klorid – NaCl – raztreseno stanje, 0/4 mm.",
+  "procurement": "Dobava posipnih materialov pri izvajanju zimske službe za posip vozišč na avtocestah in hitrih cestah v Republiki Sloveniji; sklop 1: sol za posip – natrijev klorid – NaCl – raztreseno stanje, 0/4 mm.",
+  "kind": 2,
+  "value": 3416000.0,
+  "signed": "2015-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BISTRADE d.o.o."
+  ],
+  "contractor_ids": [
+   "6450059000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1927/2015/POG-12513",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "211-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTEzOzIxMS0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

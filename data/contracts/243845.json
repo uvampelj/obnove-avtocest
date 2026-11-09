@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243845,
+  "type": "DOD",
+  "prev": 208293,
+  "idObrazec": 779680,
+  "idDosje": 429337,
+  "title": "Aneks št. 1 k pogodbi DARS št. 000467/2022 za Dobava sijalk in žarnic",
+  "procurement": "Dobava sijalk in žarnic",
+  "kind": 2,
+  "value": 3448.7,
+  "signed": "2023-07-11",
+  "from": "2023-07-11",
+  "to": "2025-03-16",
+  "number": null,
+  "contractors": [
+   "RONA TRGOVINA Proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1540378000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008572/2021-X01/DOD-243845",
+  "published": "2023-07-26",
+  "files": [
+   {
+    "name": "PODPISAN ANEKS 827-2023_za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjU2MDtQT0RQSVNBTiBBTkVLUyA4MjctMjAyM196YS1vYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

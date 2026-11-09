@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 182161,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 720220,
+  "idDosje": 388231,
+  "title": "DOBAVA PESKA IN BETONA",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana,ACB Hrušica,ACB Kozina,ACB Novo mesto",
+  "kind": 2,
+  "value": 105753.63,
+  "signed": "2021-05-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "GMI, inženiring in vzdrževanje, d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o.",
+   "BETONARNA SAVA, proizvodnja betona, frakcij in predelava gradbenih odpadkov, d.o.o.",
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "6200192000",
+   "5898617000",
+   "7030037000",
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000897/2021-X01/POG-182161",
+  "published": "2021-05-25",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MjE2MTtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

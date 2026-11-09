@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316576,
+  "type": "DOD",
+  "prev": 241616,
+  "idObrazec": 933406,
+  "idDosje": 476454,
+  "title": "Aneks št. 2 k pogodbi DARS d. d., št. 707/2023 »Izdelava dopolnitev idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os ",
+  "procurement": "Dopolnitve idejnega projekta za pripravo državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec jug do Dravograda, 3. sklop, III. razvojna os",
+  "kind": 1,
+  "value": 195350.0,
+  "signed": "2025-08-05",
+  "from": "2025-08-05",
+  "to": "2025-12-31",
+  "number": "000707/2023",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002109/2023-C01/POG-241616-D02",
+  "published": "2025-08-07",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyMzQxO0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

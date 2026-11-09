@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 228078,
+  "type": "DOD",
+  "prev": 161818,
+  "idObrazec": 774711,
+  "idDosje": 346841,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1404/2020: Izdelava projektne dokumentacije IZP za rekonstrukcijo dela odseka na AC A2 0022 Grosuplje-Ivančna Gorica od km 4,134 do 4,1385 z zamenjavo nadvoza VA0266 Peč",
+  "procurement": "Izdelava projektne dokumentacije IZP za rekonstrukcijo odseka na AC A2/0022 Grosuplje -Ivančna Gorica od km 4,134 do 4,1385 z zamenjavo nadvoza VA0266 Peč",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-11-28",
+  "from": "2022-11-28",
+  "to": "2023-01-24",
+  "number": null,
+  "contractors": [
+   "TNT Projektiranje in inženiring d.o.o.",
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "9047115000",
+   "1189620000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001738/2020-X01/DOD-228078",
+  "published": "2022-12-23",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODY4MDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167022,
+  "type": "DOD",
+  "prev": 128992,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi 565/2019: IZDELAVA OKOLJSKEGA POROČILA IN ŠTUDIJE VARIANT (UTEMELJITVE REŠITVE)/PREDINVESTICIJSKE ZASNOVE ZA DRŽAVNO CESTO OD OTIŠKEGA VRHA DO MEJE Z REPUBLIKO AVSTRIJO NA HOLMCU - dodatna in manj dela",
+  "procurement": "IZDELAVA OKOLJSKEGA POROČILA IN ŠTUDIJE VARIANT (UTEMELJITVE REŠITVE)/PREDINVESTICIJSKE ZASNOVE ZA DRŽAVNO CESTO OD OTIŠKEGA VRHA DO MEJE Z REPUBLIKO AVSTRIJO NA HOLMCU",
+  "kind": 1,
+  "value": 96453.2,
+  "signed": "2020-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-28",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog-št-565-2019-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAyMjtBbmVrcyDFoXQuIDEgayBwb2ctxaF0LTU2NS0yMDE5LU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

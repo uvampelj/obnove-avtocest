@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 209302,
+  "type": "DOD",
+  "prev": 187266,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 891/2021: Izdelava projektno tehnične dokumentacije IZP in PZI za obnovo objektov CP Dragotinci, CP Pesnica, CP Tepanje, CP Nanos, CP Videž in CP Krško z izpostavo Drnovo",
+  "procurement": "\tIzdelava projektno tehnične dokumentacije IZP in PZI za obnovo objektov CP Dragotinci, CP Pesnica, CP Tepanje, CP Nanos, CP Videž in CP Krško z izpostavo Drnovo",
+  "kind": 1,
+  "value": 26521.58,
+  "signed": "2022-04-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAVAPROJEKT družba za razvoj, projektiranje, konzalting, inženiring d.d. Krško"
+  ],
+  "contractor_ids": [
+   "5249686000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-04-21",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwOTMwMjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

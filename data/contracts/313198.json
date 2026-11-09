@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 313198,
+  "type": "DOD",
+  "prev": 243263,
+  "idObrazec": 923409,
+  "idDosje": 474655,
+  "title": "Aneks št. 3 k pogodbi DARS št. 837/2023 za obratovalni monitoring hrupa in strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS; podaljšanje pogodbenega roka in obdobja, za katerega je sklenjena pogodba",
+  "procurement": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-06-24",
+  "from": "2023-07-12",
+  "to": "2026-04-12",
+  "number": "000837/2023",
+  "contractors": [
+   "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o.",
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "3386597000",
+   "1300342000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001686/2023-C01/POG-243263-D03",
+  "published": "2025-06-30",
+  "files": [
+   {
+    "name": "aneks 3 k pog 837-2023 podpisan-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0MzA0O2FuZWtzIDMgayBwb2cgODM3LTIwMjMgcG9kcGlzYW4temEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

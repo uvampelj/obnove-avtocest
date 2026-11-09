@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 150689,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 701525,
+  "idDosje": 339959,
+  "title": "SERVISIRANJE SIGNALNIH TABEL",
+  "procurement": "SERVISIRANJE SIGNALNIH TABEL",
+  "kind": 1,
+  "value": 244542.9,
+  "signed": "2020-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o."
+  ],
+  "contractor_ids": [
+   "5444063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000383/2020-X01/POG-150689",
+  "published": "2020-04-20",
+  "files": [
+   {
+    "name": "Pogodba 604-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MDY4OTtQb2dvZGJhIDYwNC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

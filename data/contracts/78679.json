@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78679,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662950,
+  "idDosje": 206520,
+  "title": "Prevzem odpadnega materiala-odpadki iz peskolovov",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana,ACB Hrušica,ACB Maribor,ACB Kozina,ACB Vransko",
+  "kind": 1,
+  "value": 509049.08,
+  "signed": "2017-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Kostak, komunalno in gradbeno podjetje, d.d."
+  ],
+  "contractor_ids": [
+   "5156572000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005067/2017-C01/POG-78679",
+  "published": "2017-09-01",
+  "files": [
+   {
+    "name": "pogodba 642-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4Njc5O3BvZ29kYmEgNjQyLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

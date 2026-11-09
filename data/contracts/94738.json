@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 94738,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 671035,
+  "idDosje": 239004,
+  "title": "Dobava nadomestnih delov in popravila senzorjev proizvajalca SICK - MAIHAK",
+  "procurement": "Dobava nadomestnih delov in popravila senzorjev proizvajalca SICK - MAIHAK",
+  "kind": 2,
+  "value": 238632.0,
+  "signed": "2018-03-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "C & G zastopanje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5297184000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000278/2018-X01/POG-94738",
+  "published": "2018-03-22",
+  "files": [
+   {
+    "name": "Pogodba 903-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0NzM4O1BvZ29kYmEgOTAzLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222170,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 741804,
+  "idDosje": 448665,
+  "title": "Kolektivno zdravstveno zavarovanje zaposlenih DARS",
+  "procurement": "Kolektivno zdravstveno zavarovanje zaposlenih DARS",
+  "kind": 1,
+  "value": 210989.62,
+  "signed": "2022-09-20",
+  "from": "2022-09-01",
+  "to": "2024-08-31",
+  "number": null,
+  "contractors": [
+   "VZAJEMNA Zdravstvena zavarovalnica, d.v.z."
+  ],
+  "contractor_ids": [
+   "1430521000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004131/2022-X01/POG-222170",
+  "published": "2022-09-21",
+  "files": [
+   {
+    "name": "AC POGODBA 1150-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjIyNTtBQyBQT0dPREJBIDExNTAtMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243508,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757273,
+  "idDosje": 472793,
+  "title": "Opravljanje tehničnih pregledov ter pripadajočih storitev, sklop 5",
+  "procurement": "Opravljanje tehničnih pregledov ter pripadajočih storitev",
+  "kind": 1,
+  "value": 87254.3,
+  "signed": "2023-07-06",
+  "from": "2023-07-06",
+  "to": "2026-07-06",
+  "number": "000820/2023",
+  "contractors": [
+   "M CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "8256764000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001215/2023-C01/POG-243508",
+  "published": "2023-07-21",
+  "files": [
+   {
+    "name": "pogodba SKLOP 5_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjIwNjtwb2dvZGJhIFNLTE9QIDVfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

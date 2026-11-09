@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 140582,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695536,
+  "idDosje": 320095,
+  "title": "Dobava pnevmatik",
+  "procurement": "Letne in zimske pnevmatike za osebna vozila  C1,Letne in zimske pnevmatike za kombinirana in lažja tovorna vozila  C2,Letne in zimske pnevmatike za  tovorna vozila - C3,Pnevmatike za traktorje, gradbene stroje in ostala vozila",
+  "kind": 2,
+  "value": 584109.16,
+  "signed": "2019-12-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRANS FELIX prevozi, trgovina in servis d.o.o.",
+   "FAMM COMMERCE, trgovina in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5981158000",
+   "5687772000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005738/2019-C01/POG-140582",
+  "published": "2019-12-05",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MDU4MjtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

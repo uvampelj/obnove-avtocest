@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104166,
+  "type": "DOD",
+  "prev": 72943,
+  "idObrazec": 769230,
+  "idDosje": 190285,
+  "title": "aneks št. 1 k pog. DARS ŠT. 332/17 ZA SODELOVANJE PRI IZVEDBI PROJEKTNEGA NATEČAJA ZA DVA MOSTOVA ČEZ KRKO NA DRŽAVNI CESTI MED AC A2 LJUBLJANA-OBREŽJE PRI NOVEM MESTU DO PRIKLJUČKA MALINE - manj in več dela ",
+  "procurement": "SODELOVANJE PRI IZVEDBI PROJEKTNEGA NATEČAJA ZA DVA MOSTOVA ČEZ KRKO NA DRŽAVNI CESTI MED AC A2 LJUBLJANA-OBREŽJE PRI NOVEM MESTU DO PRIKLJUČKA MALINE",
+  "kind": 1,
+  "value": 6461.9,
+  "signed": "2018-07-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAPS"
+  ],
+  "contractor_ids": [
+   "1913433000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001415/2017-C01/DOD-104166",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Anks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2NjtBbmtzLTEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

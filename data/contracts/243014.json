@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243014,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 756930,
+  "idDosje": 435831,
+  "title": "Nabava električne energije od 1. 1. 2024 od 00:00 ure do 31. 5. 2024 do 24:00 ure",
+  "procurement": "Nabava električne energije 2022 - 2025",
+  "kind": 2,
+  "value": 1688616.82,
+  "signed": "2023-07-12",
+  "from": "2024-01-01",
+  "to": "2024-08-31",
+  "number": "000836/2023",
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000967/2022-C01/POG-243014",
+  "published": "2023-07-14",
+  "files": [
+   {
+    "name": "Pogodba Petrol 836-2023 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NTY0NTtQb2dvZGJhIFBldHJvbCA4MzYtMjAyMyBSLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

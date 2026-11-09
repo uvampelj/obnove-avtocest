@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 223011,
+  "type": "DOD",
+  "prev": 212627,
+  "idObrazec": 780361,
+  "idDosje": 335637,
+  "title": "Aneks 2 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela",
+  "procurement": "Izgradnja vzhodne cevi avtocestnega predora Karavanke",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-09-30",
+  "from": "2022-09-30",
+  "to": "2025-03-31",
+  "number": null,
+  "contractors": [
+   "Cengiz İnşaat Sanayi ve Ticaret A.Ş."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008921/2019-C01/DOD-223011",
+  "published": "2022-10-04",
+  "files": [
+   {
+    "name": "podpisan aneks 2 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzExNTtwb2RwaXNhbiBhbmVrcyAyIC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

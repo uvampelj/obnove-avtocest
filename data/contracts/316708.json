@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316708,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933891,
+  "idDosje": 518990,
+  "title": "Sklop 9 - Lahko tovorno vozilo,  skupne mase 3,5 t – dolga  kabina, 4.3 m keson (LV2C)",
+  "procurement": "Dobava preglednih in vozil za nadzor del",
+  "kind": 2,
+  "value": 424486.8,
+  "signed": "2025-07-15",
+  "from": "2025-07-15",
+  "to": "2026-04-15",
+  "number": "000923/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001403/2025-POG/06",
+  "published": "2025-08-08",
+  "files": [
+   {
+    "name": "pogodba sklop 9_st 923-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyNzA2O3BvZ29kYmEgc2tsb3AgOV9zdCA5MjMtMjAyNSBSRUQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

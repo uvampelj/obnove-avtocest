@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 435829,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1113618,
+  "idDosje": 603156,
+  "title": "Nadgradnja programske opreme centralnega dela SNVP Kozina",
+  "procurement": "Nadgradnja programske opreme centralnega dela SNVP Kozina",
+  "kind": 1,
+  "value": 536678.0,
+  "signed": "2026-05-27",
+  "from": "2026-05-27",
+  "to": "2027-05-27",
+  "number": "000666/2026",
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003707/2026-POG/01",
+  "published": "2026-06-17",
+  "files": [
+   {
+    "name": "Pogodba st 666-2026 SNVP Kozina_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU2NzI4O1BvZ29kYmEgc3QgNjY2LTIwMjYgU05WUCBLb3ppbmFfcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

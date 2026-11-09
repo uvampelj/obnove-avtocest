@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 64218,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656836,
+  "idDosje": 176812,
+  "title": "Izvedba revizije po ZGO-1E za del projektne dokumentacije PGD/PZI za izgradnjo vzhodne cevi in sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo",
+  "procurement": "Izvedba revizije po ZGO-1E za del projektne dokumentacije PGD/PZI za izgradnjo vzhodne cevi in sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo",
+  "kind": 1,
+  "value": 280600.0,
+  "signed": "2017-02-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007110/2016-C01/POG-64218",
+  "published": "2017-03-07",
+  "files": [
+   {
+    "name": "pogodba 183 - 2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY0MjE4O3BvZ29kYmEgMTgzIC0gMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

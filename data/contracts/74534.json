@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 74534,
+  "type": "DOD",
+  "prev": 54260,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 6 za \"Izdelavo projektne dokumentacije PGD, PZI HC Jagodje - Lucija in priključne ceste za Piran\" -SKLOP 1",
+  "procurement": "Izdelava projektne dokumentacije PGD, PZI hitre ceste Jagodje - Lucija in priključne ceste za piran; SKLOP 1 - trasa s spremljajočimi objekti",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-07-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKTIVNI ATELJE - NG d.o.o."
+  ],
+  "contractor_ids": [
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-07-14",
+  "files": [
+   {
+    "name": "Aneks št. 6.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc0NTM0O0FuZWtzIMWhdC4gNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 156904,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 705498,
+  "idDosje": 348833,
+  "title": "Servisiranje stabilnig gasilnih sistemov TYCO TOTAL WALTER-INERGEN, BONPET in ZARJA ELEKTRONIKA",
+  "procurement": "Vzdrževanje stabilnih gasilnih sistemov BONPET- strojni del,Vzdrževanje stabilnih gasilnih sistemov TYCO Total Walter - INERGEN",
+  "kind": 1,
+  "value": 237022.21,
+  "signed": "2020-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BONPET SYSTEMS, proizvodnja, trgovina, požarni inženiring, d.o.o. Trbovlje",
+   "TIMTRADE inženiring in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1695444000",
+   "5463661000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002212/2020-C01/POG-156904",
+  "published": "2020-07-17",
+  "files": [
+   {
+    "name": "POGODBI.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NjkwNDtQT0dPREJJLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

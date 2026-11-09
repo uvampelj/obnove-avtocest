@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 92580,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 669869,
+  "idDosje": 232150,
+  "title": "Prevzem raznih odpadnih materialov po nezgodah ali kot posledica drugih nenačrtovanih dogodkov",
+  "procurement": "Številka odpadka 16 – Odpadki, ki niso navedeni drugje na seznamu (nenevarni in nevarni odpadki),Številka odpadka 17 – Gradbeni odpadki in odpadki iz rušenja objektov (nenevarni in nevarni odpadki)",
+  "kind": 1,
+  "value": 221190.0,
+  "signed": "2018-02-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAUBERMACHER SLOVENIJA storitve pri varstvu okolja, trgovina in transport d.o.o."
+  ],
+  "contractor_ids": [
+   "5432391000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009744/2017-C01/POG-92580",
+  "published": "2018-02-20",
+  "files": [
+   {
+    "name": "Pogodba 162-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkyNTgwO1BvZ29kYmEgMTYyLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

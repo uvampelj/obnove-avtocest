@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 137,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630306,
+  "idDosje": 80444,
+  "title": "Poslovni najem osebnih vozil z nizkimi emisijami",
+  "procurement": "Karavan,Srednji razred - karavan,Srednji razred 4x4 z večjo oddaljenostjo od tal",
+  "kind": 2,
+  "value": 455221.8,
+  "signed": "2015-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o."
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1427/2015/POG-137",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000160_150303_085635 - pogodba PORSCHE LEASING.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNztEMTMxNTAwMDAxNjBfMTUwMzAzXzA4NTYzNSAtIHBvZ29kYmEgUE9SU0NIRSBMRUFTSU5HLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

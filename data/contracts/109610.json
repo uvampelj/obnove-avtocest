@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 109610,
+  "type": "DOD",
+  "prev": 78874,
+  "idObrazec": 769591,
+  "idDosje": 209657,
+  "title": "ODSTAVNE NIŠE ZA CESTNINSKI NADZOR (CN) NA PRIKLJUČKIH \"HC\" in \"AC\" ",
+  "procurement": "ODSTAVNE NIŠE ZA CESTNINSKI NADZOR (CN) NA PRIKLJUČKIH \"HC\" in \"AC\" ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-08-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RAFAEL gradbena dejavnost d.o.o. Sevnica"
+  ],
+  "contractor_ids": [
+   "5617316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005727/2017-X01/DOD-109610",
+  "published": "2018-09-24",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTYxMDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

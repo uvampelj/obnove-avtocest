@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 325175,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 958591,
+  "idDosje": 525049,
+  "title": "Lahko tovorno vozilo do 7,5t, z enojno kabino, s tristranim kiper prekucnikom in  Lahko tovorno vozilo dovoljene skupne mase nad 7 t s cerado in nakladalno rampo dolga kabina, dolgi kason",
+  "procurement": "DOBAVA LAHKIH TOVORNIH VOZIL",
+  "kind": 2,
+  "value": 1125729.38,
+  "signed": "2025-11-11",
+  "from": "2025-11-11",
+  "to": "2026-11-11",
+  "number": "001245/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006587/2025-POG/01",
+  "published": "2025-11-14",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1245-2025 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEyNDMwO1BvZHBpc2FuYSBwb2dvZGJhIDEyNDUtMjAyNSByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

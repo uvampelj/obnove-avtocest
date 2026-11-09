@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324474,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956484,
+  "idDosje": 525802,
+  "title": "Dopolnitev hidravličnih vsebin za potrebe izdelave hidrološko hidravlične študije za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "procurement": "Dopolnitev hidravličnih vsebin za potrebe izdelave hidrološko hidravlične študije za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "kind": 1,
+  "value": 12065.8,
+  "signed": "2025-10-30",
+  "from": "2025-10-30",
+  "to": "2026-10-30",
+  "number": "001217/2025",
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007228/2025-POG/01",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "Pogodba IZVO-R_1217-25_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNzIwO1BvZ29kYmEgSVpWTy1SXzEyMTctMjVfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 94563,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670946,
+  "idDosje": 230234,
+  "title": "IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA PREUREDITEV OTOKA MED IZVOZOM IN UVOZOM NA AVTOCESTO OZIROMA HITRO CESTO NA PRIKLJUČKIH AC A1, A2 TER HC H4, H5, H6; SKLOP 4:OBMOČJE AC BAZE NOVO MESTO",
+  "procurement": "Izdelava PZI za preureditev otoka med izvozom in uvozom na avtocesto oziroma hitro cesto na priključkih AC A1, A2 ter HC H4, H5, H6; Sklop 4: Območje AC baze Novo mesto",
+  "kind": 1,
+  "value": 32391.0,
+  "signed": "2018-03-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009580/2017-X01/POG-94563",
+  "published": "2018-03-19",
+  "files": [
+   {
+    "name": "Pogodba-PNZ-Sklop4.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0NTYzO1BvZ29kYmEtUE5aLVNrbG9wNC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

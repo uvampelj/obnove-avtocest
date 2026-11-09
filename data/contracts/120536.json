@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120536,
+  "type": "DOD",
+  "prev": 94561,
+  "idObrazec": 770416,
+  "idDosje": 230234,
+  "title": "IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA PREUREDITEV OTOKA MED IZVOZOM IN UVOZOM NA AVTOCESTO OZIROMA HITRO CESTO NA PRIKLJUČKIH AC A1, A2 TER HC H4, H5, H6; SKLOP 3: OBMOČJE AC BAZE LJUBLJANA",
+  "procurement": "Izdelava PZI za preureditev otoka med izvozom in uvozom na avtocesto oziroma hitro cesto na priključkih AC A1, A2 ter HC H4, H5, H6; Sklop 3: območje AC baze Ljubljana",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009580/2017-X01/DOD-120536",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "Aneks 1-PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUzNjtBbmVrcyAxLVBOWi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

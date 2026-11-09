@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 411332,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1080455,
+  "idDosje": 529667,
+  "title": "Dobava drobnega materiala",
+  "procurement": "Dobava drobnega materiala",
+  "kind": 2,
+  "value": 534699.79,
+  "signed": "2026-04-22",
+  "from": "2026-04-22",
+  "to": "2029-07-22",
+  "number": "000585/2026",
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000508/2026-POG/01",
+  "published": "2026-05-04",
+  "files": [
+   {
+    "name": "Pogodba Inpos 585-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI2MzcxO1BvZ29kYmEgSW5wb3MgNTg1LTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

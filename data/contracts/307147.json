@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307147,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 905014,
+  "idDosje": 517321,
+  "title": "Dobava položljivih smernih desk",
+  "procurement": "Dobava položljivih smernih desk",
+  "kind": 2,
+  "value": 487878.0,
+  "signed": "2025-04-11",
+  "from": "2025-04-11",
+  "to": "2026-07-11",
+  "number": "000654/2025",
+  "contractors": [
+   "SIGNACO podjetje za proizvodnjo prometnih, neprometnih znakov in obvestil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5938961000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000018/2025-POG/01",
+  "published": "2025-04-15",
+  "files": [
+   {
+    "name": "Podpisana pogodba 654-2025 redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY5NTE1O1BvZHBpc2FuYSBwb2dvZGJhIDY1NC0yMDI1IHJlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

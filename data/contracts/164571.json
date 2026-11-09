@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 164571,
+  "type": "DOD",
+  "prev": 129022,
+  "idObrazec": 772287,
+  "idDosje": 285421,
+  "title": "aneks 1 - \tRUŠITEV IN PREUREDITEV CESTNINSKIH POSTAJ VIDEŽ, BAZARA, SENOŽEČE, DIVAČA, KOZINA TER SANACIJA VOZIŠČNE KONSTRUKCIJE PRIKLJUČKOV SENOŽEČE, DIVAČA IN KOZINA - SKLOP 6",
+  "procurement": "SKlop 6: RUŠITEV IN PREUREDITEV CESTNINSKIH POSTAJ VIDEŽ, BAZARA, SENOŽEČE, DIVAČA, KOZINA TER SANACIJA VOZIŠČNE KONSTRUKCIJE PRIKLJUČKOV SENOŽEČE, DIVAČA IN KOZINA",
+  "kind": 3,
+  "value": 1241858.36,
+  "signed": "2020-09-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "5143497000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008174/2018-C01/DOD-164571",
+  "published": "2020-11-01",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NDU3MTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

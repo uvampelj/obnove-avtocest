@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 189170,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724159,
+  "idDosje": 404505,
+  "title": "Aplikativno podporo za zagotavljanje celovitega spremljanja najemnih pogodb in izračunavanja obveznosti iz najema v skladu s Slovenskimi računovodskimi standardi in z MSRP 16",
+  "procurement": "Aplikativno podporo za zagotavljanje celovitega spremljanja najemnih pogodb in izračunavanja obveznosti iz najema v skladu s Slovenskimi računovodskimi standardi in z MSRP 16",
+  "kind": 1,
+  "value": 81740.0,
+  "signed": "2021-08-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CRMT svetovanje in rešitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2043238000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004457/2021-C01/POG-189170",
+  "published": "2021-08-20",
+  "files": [
+   {
+    "name": "POGODBA  1035-2021 _Redigi.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4OTE3MDtQT0dPREJBICAxMDM1LTIwMjEgX1JlZGlnaS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

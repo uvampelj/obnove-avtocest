@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169358,
+  "type": "DOD",
+  "prev": 127875,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 2 k pogodbi DARS št. 750/2019 »Izvajanje inženirskih storitev v fazi delovanja elektronskega cestninskega sistema v prostem prometnem toku« - podaljšanje roka, dodatna in več dela",
+  "procurement": "Aneks 2 k pogodbi DARS št. 750/2019 »Izvajanje inženirskih storitev v fazi delovanja elektronskega cestninskega sistema v prostem prometnem toku« - podaljšanje roka, dodatna in več dela",
+  "kind": 1,
+  "value": 219404.8,
+  "signed": "2020-12-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-29",
+  "files": [
+   {
+    "name": "podpisan aneks 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTM1ODtwb2RwaXNhbiBhbmVrcyAyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

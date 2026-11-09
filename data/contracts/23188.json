@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 23188,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639709,
+  "idDosje": 80576,
+  "title": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "procurement": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "kind": 1,
+  "value": 154808.36,
+  "signed": "2015-10-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T Slovenija d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7146/2015/POG-23188",
+  "published": "2015-10-13",
+  "files": [
+   {
+    "name": "D13150000824_151012_142545-pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTg4O0QxMzE1MDAwMDgyNF8xNTEwMTJfMTQyNTQ1LXBvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

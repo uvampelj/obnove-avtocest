@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310604,
+  "type": "DOD",
+  "prev": 193656,
+  "idObrazec": 915192,
+  "idDosje": 402895,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1138/2021: Izdelava PVO za izgradnjo nove prometne povezave od priključka Šentrupert do priključka Velenje jug (1. odsek, 3. r. o. sever) in strokovne podlage za oceno vpliva posega v vodna in priobalna zemljišča ",
+  "procurement": "Izdelava PVO za izgradnjo nove prometne povezave od priključka Šentrupert do priključka Velenje jug (1. odsek, 3. r. o. sever) in strokovne podlage za oceno vpliva posega v vodna in priobalna zemljišča",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-05-16",
+  "from": "2025-05-16",
+  "to": "2025-12-31",
+  "number": "001138/2021",
+  "contractors": [
+   "IPSUM, okoljske investicije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924982000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004050/2021-X01/POG-193656-D02",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NzU3O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

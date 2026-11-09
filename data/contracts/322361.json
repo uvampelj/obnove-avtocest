@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322361,
+  "type": "DOD",
+  "prev": 192568,
+  "idObrazec": 949941,
+  "idDosje": 398216,
+  "title": " Aneks št. 2 k pogodbi DARS 1120/2021: Izdelava PZI za rekonstrukcijo cestnega telesa na AC A1 0055 in 0655 Unec-Postojna, A1 0056 in 0656 Postojna-Razdrto ter 0153 priključka Postojna",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa na AC A1 0055 in 0655 Unec - Postojna, A1 0056 in 0656 Postojna - Razdrto ter 0153 priključka Postojna  ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-09-12",
+  "from": "2025-09-12",
+  "to": "2025-10-08",
+  "number": "001120/2021",
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002954/2021-C01/POG-192568-D02",
+  "published": "2025-10-10",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA1NTI3O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

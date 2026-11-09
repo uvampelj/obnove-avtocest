@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 311136,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 916858,
+  "idDosje": 517706,
+  "title": "Sklop 4 - Čistilec visokotlačni na paro, hladno vodo in detergent-mobilni na prikolici",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 122367.53,
+  "signed": "2025-05-30",
+  "from": "2025-05-30",
+  "to": "2026-02-28",
+  "number": "000784/2025",
+  "contractors": [
+   "Karcher trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "8020230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000366/2025-POG/03",
+  "published": "2025-06-03",
+  "files": [
+   {
+    "name": "Pogodba - Karcher 4_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc5MTAxO1BvZ29kYmEgLSBLYXJjaGVyIDRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

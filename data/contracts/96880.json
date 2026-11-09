@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 96880,
+  "type": "DOD",
+  "prev": 54663,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 908/2016 za Svetovalne in inženirske storitve za izvedbo vzhodne cevi (nova cev) in obnovo zahodne cevi (stara cev) predora karavanke; sprememba pogodbenih določil glede načina obračunavanja",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 908/2016 za Svetovalne in inženirske storitve za izvedbo vzhodne cevi (nova cev) in obnovo zahodne cevi (stara cev) predora karavanke; sprememba pogodbenih določil glede načina obračunavanja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-04-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "ZIL INŽENIRING, družba za razvoj, inženiring in vodenje investicij, d.d."
+  ],
+  "contractor_ids": [
+   "5269652000",
+   "5075742000",
+   "5227020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-20",
+  "files": [
+   {
+    "name": "aneks 1 k pog 908-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk2ODgwO2FuZWtzIDEgayBwb2cgOTA4LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

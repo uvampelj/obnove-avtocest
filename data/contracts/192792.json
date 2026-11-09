@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192792,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725863,
+  "idDosje": 412105,
+  "title": "Vzdrževanje in razvoj informacijskega sistema za spremljanje in analizo stanja ostale avtocestne infrastrukture",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema za spremljanje in analizo stanja ostale avtocestne infrastrukture",
+  "kind": 1,
+  "value": 115900.0,
+  "signed": "2021-09-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005668/2021-C01/POG-192792",
+  "published": "2021-09-27",
+  "files": [
+   {
+    "name": "pogodba 1144-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5Mjc5Mjtwb2dvZGJhIDExNDQtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

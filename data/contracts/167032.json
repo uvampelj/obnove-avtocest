@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167032,
+  "type": "DOD",
+  "prev": 90218,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "IZDELAVA OCENE EKOLOŠKEGA STANJA IN OCENE VPLIVOV GRADNJE IN OBRATOVANJA NA POTOK VERIŽELJ TER ZA IZDELAVO OVREDNOTENJA STANJA IHTIOFAVNE V PAKI IN HUDEM POTOKU",
+  "procurement": "IZDELAVA OCENE EKOLOŠKEGA STANJA IN OCENE VPLIVOV GRADNJE IN OBRATOVANJA NA POTOK VERIŽELJ TER ZA IZDELAVO OVREDNOTENJA STANJA IHTIOFAVNE V PAKI IN HUDEM POTOKU",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-05-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AQUARIUS ekološki inženiring d.o.o. Ljubljana",
+   "VODNOGOSPODARSKI BIRO MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5424534000",
+   "5150531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-29",
+  "files": [
+   {
+    "name": "Aneks št. 2 k pog-698-2017-0K.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAzMjtBbmVrcyDFoXQuIDIgayBwb2ctNjk4LTIwMTctMEsucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265222,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807753,
+  "idDosje": 504953,
+  "title": "Okolju prijazno čiščenje poslovnih prostorov, SKLOP 1 - Osrednja Slovenija",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 758915.88,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000543/2024",
+  "contractors": [
+   "PELINI, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "7056265000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/01",
+  "published": "2024-04-19",
+  "files": [
+   {
+    "name": "pogodba 543-2024 S1 PELINI_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5MTYzO3BvZ29kYmEgNTQzLTIwMjQgUzEgUEVMSU5JX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

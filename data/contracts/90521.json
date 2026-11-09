@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90521,
+  "type": "DOD",
+  "prev": 13200,
+  "idObrazec": 767321,
+  "idDosje": 70470,
+  "title": "aneks št. 1 k pog. DARS št.353/15:IZVEDBA SISTEMA VIDEO NADZORA ZA PREDOR GOLOVEC, OBNOVA PROMETNE OPREME TER IZVEDBA INTERVENTNIH PREHODOV-nominacija podizvajalcev, zamenjava kadrov ",
+  "procurement": "IZVEDBA SISTEMA VIDEO NADZORA ZA PREDOR GOLOVEC, OBNOVA PROMETNE OPREME TER IZVEDBA INTERVENTNIH PREHODOV.",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-05-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TAMES d.o.o."
+  ],
+  "contractor_ids": [
+   "5312523000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN3623/2015/DOD-90521",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTIxO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

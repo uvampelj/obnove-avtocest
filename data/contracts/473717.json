@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 473717,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1176224,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov; Kategorija 1 - M-W in Kategorija 2 - M SD",
+  "procurement": "Dobava posipnih materialov ",
+  "kind": 2,
+  "value": 2383880.0,
+  "signed": "2026-09-16",
+  "from": "2026-09-16",
+  "to": "2027-05-15",
+  "number": "000960/2026",
+  "contractors": [
+   "MA.CO.T., Podjetje za predelavo in pakiranje soli, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300401000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/11",
+  "published": "2026-09-18",
+  "files": [
+   {
+    "name": "R_Pogodba 960-2026 MACOT K1 K2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjE0ODUyO1JfUG9nb2RiYSA5NjAtMjAyNiBNQUNPVCBLMSBLMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

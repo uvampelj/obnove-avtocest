@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 183851,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721345,
+  "idDosje": 388750,
+  "title": "Vzdrževanje podatkov GIJ za potrebe DARS d.d.",
+  "procurement": "Vzdrževanje podatkov GIJ za potrebe DARS d.d.",
+  "kind": 1,
+  "value": 118002.06,
+  "signed": "2021-06-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000965/2021-X01/POG-183851",
+  "published": "2021-06-18",
+  "files": [
+   {
+    "name": "Pogodba-834-2021-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4Mzg1MTtQb2dvZGJhLTgzNC0yMDIxLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

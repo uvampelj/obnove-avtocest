@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 102589,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 675065,
+  "idDosje": 257706,
+  "title": "Prevzem odpadne električne in elektronske opreme",
+  "procurement": "Prevzem odpadne električne in elektronske opreme",
+  "kind": 1,
+  "value": 18885.6,
+  "signed": "2018-07-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AURENIS, podjetje za proizvodnjo, reciklažo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "6074235000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003270/2018-X01/POG-102589",
+  "published": "2018-07-12",
+  "files": [
+   {
+    "name": "Pogodba 1639-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMjU4OTtQb2dvZGJhIDE2MzktMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

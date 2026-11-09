@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 101140,
+  "type": "DOD",
+  "prev": 66921,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 290/2017 za vzpostavitev cestninskih uporabniških točk (CUT) v upravljanju DARS d.d.; vključitev podizvajalcev, več dela, manj dela in dodatna dela",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 290/2017 za vzpostavitev cestninskih uporabniških točk (CUT) v upravljanju DARS d.d.; vključitev podizvajalcev, več dela, manj dela in dodatna dela",
+  "kind": 3,
+  "value": 4883.62,
+  "signed": "2018-06-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "CVP, gradbeništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1507664000",
+   "3987388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-06-15",
+  "files": [
+   {
+    "name": "aneks 1 k pog 290-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMTE0MDthbmVrcyAxIGsgcG9nIDI5MC0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

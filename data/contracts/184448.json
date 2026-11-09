@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 184448,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721684,
+  "idDosje": 398935,
+  "title": "Izvedba čezmejnega testiranja interoperabilnosti C-ITS storitev v sklopu evropskega projekta C-ROADS",
+  "procurement": "Izvedba čezmejnega testiranja interoperabilnosti C-ITS storitev v sklopu evropskega projekta C-ROADS",
+  "kind": 1,
+  "value": 77738.4,
+  "signed": "2021-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003108/2021-C01/POG-184448",
+  "published": "2021-06-30",
+  "files": [
+   {
+    "name": "pogodba 892-2021 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDQ0ODtwb2dvZGJhIDg5Mi0yMDIxIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

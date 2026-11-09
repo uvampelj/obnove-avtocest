@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 226852,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 744869,
+  "idDosje": 461914,
+  "title": "Izdelava novelacije projektne dokumentacije PGD/PZI za izgradnjo AC priključka Dragomer po pogodbi DARS št. 674/2015",
+  "procurement": "Izdelava novelacije projektne dokumentacije PGD/PZI za izgradnjo AC priključka Dragomer po pogodbi DARS št. 674/2015",
+  "kind": 1,
+  "value": 41471.16,
+  "signed": "2022-11-30",
+  "from": "2022-11-30",
+  "to": "2023-02-28",
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007287/2022-C01/POG-226852",
+  "published": "2022-12-05",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1473-2022_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNzMxOTtQb2RwaXNhbmEgcG9nb2RiYSAxNDczLTIwMjJfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 210532,
+  "type": "DOD",
+  "prev": 99963,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pogodbi DARS št. 1503/2018 za izvajanje dokončnih premoženjskopravnih ureditev na celotnem avtocestnem omrežju; podaljšanje pogodbenega roka",
+  "procurement": "aneks št. 1 k pogodbi DARS št. 1503/2018 za izvajanje dokončnih premoženjskopravnih ureditev na celotnem avtocestnem omrežju; podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MONEA inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "3580679000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-11",
+  "files": [
+   {
+    "name": "aneks 1 k pog 1503-2018 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMDUzMjthbmVrcyAxIGsgcG9nIDE1MDMtMjAxOCAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

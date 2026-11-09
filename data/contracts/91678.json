@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91678,
+  "type": "DOD",
+  "prev": 55622,
+  "idObrazec": 768586,
+  "idDosje": 170982,
+  "title": "Ureditev sredinskega ločilnega pasu z BVO na A1 0038/0638 od km 7,760 do km 7,130 in od km 7,580 do km 7,700",
+  "procurement": "Ureditev sredinskega ločilnega pasu z BVO na A1 0038/0638 od km 7,760 do km 7,130 in od km 7,580 do km 7,700",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-08-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VOC Celje, d.d."
+  ],
+  "contractor_ids": [
+   "5511941000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005983/2016-X01/DOD-91678",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjc4O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

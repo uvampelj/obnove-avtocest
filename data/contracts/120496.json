@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120496,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683663,
+  "idDosje": 287111,
+  "title": "Zavarovanje odgovornosti družbe, uprave, NS in ostalih zaposlenih DARS d.d.",
+  "procurement": "Zavarovanje odgovornosti družbe, uprave, NS in ostalih zaposlenih DARS d.d.",
+  "kind": 1,
+  "value": 48825.0,
+  "signed": "2019-02-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008476/2018-X01/POG-120496",
+  "published": "2019-02-15",
+  "files": [
+   {
+    "name": "Pogodba Zavarovalnica Triglav.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDQ5NjtQb2dvZGJhIFphdmFyb3ZhbG5pY2EgVHJpZ2xhdi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

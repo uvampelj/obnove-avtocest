@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52802,
+  "type": "DOD",
+  "prev": 11734,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 96/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA AC A1/0041 IN A1/0641 ARJA VAS – ŠENTRUPERT OD KM 6,370 DO KM 8,100 -nominacija podizvajalcev  ",
+  "procurement": "aneks št. 1 k pog. DARS št. 96/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA AC A1/0041 IN A1/0641 ARJA VAS – ŠENTRUPERT OD KM 6,370 DO KM 8,100 -nominacija podizvajalcev  ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2015-10-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SGP POMGRAD - GNG d.o.o."
+  ],
+  "contractor_ids": [
+   "2136295000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "852-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODAyOzg1Mi0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

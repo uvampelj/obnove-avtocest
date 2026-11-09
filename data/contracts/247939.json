@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 247939,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 760625,
+  "idDosje": 485968,
+  "title": "Nakup programske opreme Veeam in VMware",
+  "procurement": "Nakup programske opreme Veeam in VMware",
+  "kind": 2,
+  "value": 121325.66,
+  "signed": "2023-09-21",
+  "from": "2023-09-21",
+  "to": "2025-12-21",
+  "number": "000998/2023",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004499/2023-X01/POG-247939",
+  "published": "2023-09-22",
+  "files": [
+   {
+    "name": "R_pogodba 998-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTEwODtSX3BvZ29kYmEgOTk4LTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

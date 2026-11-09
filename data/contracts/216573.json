@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216573,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738968,
+  "idDosje": 439202,
+  "title": "Servisiranje blažilcev trka; Naletne naprave Stuer Egghe",
+  "procurement": "Naletne naprave Stuer Egghe",
+  "kind": 1,
+  "value": 118854.84,
+  "signed": "2022-06-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001803/2022-C01/POG-216573",
+  "published": "2022-07-19",
+  "files": [
+   {
+    "name": "R Pogodba 1010-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjU3MztSIFBvZ29kYmEgMTAxMC0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 41750,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 648444,
+  "idDosje": 14733,
+  "title": "NABAVA SIJALK IN ŽARNIC",
+  "procurement": "NABAVA SIJALK IN ŽARNIC",
+  "kind": 2,
+  "value": 133893.88,
+  "signed": "2016-07-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RONA TRGOVINA d.o.o."
+  ],
+  "contractor_ids": [
+   "1540378000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003833/2016-X01/POG-41750",
+  "published": "2016-07-15",
+  "files": [
+   {
+    "name": "Pogodba 604-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQxNzUwO1BvZ29kYmEgNjA0LTE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 54272,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652641,
+  "idDosje": 72177,
+  "title": "Aneks št. 2 k pogodbi DARS št. 418/2011 za Izdelavo projektne dokumentacije PGD in PZI hitre ceste Jagodje - Lucija in priključne ceste za Piran - SKLOP 2; Dodatna dela.",
+  "procurement": "Aneks št. 2 k pogodbi DARS št. 418/2011 za Izdelavo projektne dokumentacije PGD in PZI hitre ceste Jagodje - Lucija in priključne ceste za Piran - SKLOP 2; Dodatna dela.",
+  "kind": 1,
+  "value": 260766.91,
+  "signed": "2016-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1095/2016/POG-54272",
+  "published": "2016-11-16",
+  "files": [
+   {
+    "name": "aneks 2 sklop 2  h pog  418-2011.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU0MjcyO2FuZWtzIDIgc2tsb3AgMiAgaCBwb2cgIDQxOC0yMDExLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

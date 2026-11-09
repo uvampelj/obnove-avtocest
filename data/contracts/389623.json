@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389623,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1045047,
+  "idDosje": 525861,
+  "title": "Izdelava in dobava službenih oblek",
+  "procurement": "Izdelava in dobava službenih oblek",
+  "kind": 2,
+  "value": 609996.34,
+  "signed": "2026-03-18",
+  "from": "2026-03-18",
+  "to": "2029-06-18",
+  "number": "000432/2026",
+  "contractors": [
+   "UTG VODNIK proizvodnja, trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "2372754000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007289/2025-POG/01",
+  "published": "2026-04-09",
+  "files": [
+   {
+    "name": "Pogodba st. 000432-2026 Red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkyMDk1O1BvZ29kYmEgc3QuIDAwMDQzMi0yMDI2IFJlZCAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

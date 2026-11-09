@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222503,
+  "type": "DOD",
+  "prev": 159984,
+  "idObrazec": 774572,
+  "idDosje": 357028,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1354/2020 za vzdrževalna dela na optičnem telekomunikacijskem omrežju; podaljšanje pogodbenega roka",
+  "procurement": "Vzdrževalna dela na optičnem telekomunikacijskem omrežju",
+  "kind": 1,
+  "value": 192055.89,
+  "signed": "2022-09-21",
+  "from": "2022-09-03",
+  "to": "2022-12-31",
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003707/2020-X01/DOD-222503",
+  "published": "2022-09-26",
+  "files": [
+   {
+    "name": "podpisan aneks 1 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjU3MDtwb2RwaXNhbiBhbmVrcyAxIC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

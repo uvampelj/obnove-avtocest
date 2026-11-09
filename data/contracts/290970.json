@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290970,
+  "type": "DOD",
+  "prev": 136628,
+  "idObrazec": 864682,
+  "idDosje": 320162,
+  "title": "Aneks 2 k pogodbi DARS št. 1475/2019 za izdelavo cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini in nadomestil za drugo škodo, ki je povezana s poslovanjem poslovnega subjekta na nepremičnini, v postopkih izvajanja odkupov nepremičnin za pridobitev gradbenih dovoljenj na celotnem AC omrežju v RS; podaljšanje pogodbenega roka",
+  "procurement": "Izdelava cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini in nadomestil za drugo škodo, ki je povezana s poslovanjem poslovnega subjekta na nepremičnini",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-10-30",
+  "from": "2019-10-02",
+  "to": "2026-01-02",
+  "number": "001475/20219",
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005535/2019-X01/POG-136628-D02",
+  "published": "2024-11-06",
+  "files": [
+   {
+    "name": "a2 k pog 1475-2019 - podpisan_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI2NTgyO2EyIGsgcG9nIDE0NzUtMjAxOSAtIHBvZHBpc2FuX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

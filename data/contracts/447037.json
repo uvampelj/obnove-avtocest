@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447037,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127316,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 5 - ACB Maribor",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 64730.88,
+  "signed": "2026-06-09",
+  "from": "2026-06-09",
+  "to": "2029-07-20",
+  "number": "000706/2026",
+  "contractors": [
+   "D CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "7009291000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/06",
+  "published": "2026-07-03",
+  "files": [
+   {
+    "name": "sklop 5 pogodba 000706-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5NjU5O3NrbG9wIDUgcG9nb2RiYSAwMDA3MDYtMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

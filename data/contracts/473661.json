@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 473661,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1176031,
+  "idDosje": 635147,
+  "title": "Implementacija sistema za monitoring optičnih vlaken",
+  "procurement": "Implementacija sistema za monitoring optičnih vlaken",
+  "kind": 2,
+  "value": 133947.84,
+  "signed": "2026-09-16",
+  "from": "2026-09-16",
+  "to": "2030-05-16",
+  "number": "000958/2026",
+  "contractors": [
+   "Ibis Instruments, proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8667454000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005367/2026-POG/01",
+  "published": "2026-09-17",
+  "files": [
+   {
+    "name": "R_Pogodba 958-2026 IBIS INSTRUMENTS.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjE0Njk2O1JfUG9nb2RiYSA5NTgtMjAyNiBJQklTIElOU1RSVU1FTlRTLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

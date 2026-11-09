@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 458768,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1142403,
+  "idDosje": 623766,
+  "title": "Vzdrževanje in razvoj informacijskega sistema Dynamics NAV",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema Dynamics NAV",
+  "kind": 1,
+  "value": 581671.6,
+  "signed": "2026-07-22",
+  "from": "2026-07-22",
+  "to": "2028-10-22",
+  "number": "000836/2026",
+  "contractors": [
+   "BE-terna, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004121/2026-POG/01",
+  "published": "2026-07-23",
+  "files": [
+   {
+    "name": "Podpisana št. 836-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTgzNzU2O1BvZHBpc2FuYSDFoXQuIDgzNi0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

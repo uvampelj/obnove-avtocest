@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 53133,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652060,
+  "idDosje": 164565,
+  "title": "Servisiranje blažilcev trka",
+  "procurement": "Servis naletne naprave TAU 80 + TAU 100,Servis naletne naprave QUAD GUARD,Servis blažilcev NISSEN,Servis blažilcev ALPINA,Servis blažilcev STUER EGGHE",
+  "kind": 1,
+  "value": 504504.53,
+  "signed": "2016-10-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ d.o.o.",
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000",
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004435/2016-C01/POG-53133",
+  "published": "2016-10-27",
+  "files": [
+   {
+    "name": "Servisiranje blažilcev trka- pogodba.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzMTMzO1NlcnZpc2lyYW5qZSBibGHFvmlsY2V2IHRya2EtIHBvZ29kYmEuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

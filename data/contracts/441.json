@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 441,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630550,
+  "idDosje": 12083,
+  "title": "Vzdrževanje telefonskega sistema Siemens",
+  "procurement": "Vzdrževanje telefonskih sistemov Siemens.",
+  "kind": 1,
+  "value": 19123.5,
+  "signed": "2015-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "NIKOR d.o.o."
+  ],
+  "contractor_ids": [
+   "1124498000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1685/2015/POG-441",
+  "published": "2015-05-25",
+  "files": [
+   {
+    "name": "pogodba Nikor d.o.o.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ0MTtwb2dvZGJhIE5pa29yIGQuby5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

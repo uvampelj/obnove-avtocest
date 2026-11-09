@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255502,
+  "type": "DOD",
+  "prev": 155500,
+  "idObrazec": 773961,
+  "idDosje": 345029,
+  "title": "Aneks 1 k pogodbi DARS št. 1203/2020 za svetovalne in inženirske storitve na področju investicij na obstoječih avtocestah in hitrih cestah, s katerimi upravlja DARS d.d.; več dela, imenovanje strokovnega kadra",
+  "procurement": "Svetovalne in inženirske storitve na področju investicij na obstoječih AC in HC, s katerimi upravlja DARS d.d.",
+  "kind": 1,
+  "value": 995974.25,
+  "signed": "2023-12-28",
+  "from": "2023-12-28",
+  "to": "2024-03-31",
+  "number": "001528/2023",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001267/2020-C01/DOD-255502",
+  "published": "2024-01-08",
+  "files": [
+   {
+    "name": "podpisan a1 k pog1203-20 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTIyMztwb2RwaXNhbiBhMSBrIHBvZzEyMDMtMjAgLSB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 151956,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 702276,
+  "idDosje": 342832,
+  "title": "Implementacija VNZ Sever-Jug na VMS Genetec Security center ",
+  "procurement": "Implementacija VNZ Sever-Jug na VMS Genetec Security center ",
+  "kind": 1,
+  "value": 191744.96,
+  "signed": "2020-05-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "COTING d.o.o. komercialno tehnični inženiring, trgovina, proizvodnja"
+  ],
+  "contractor_ids": [
+   "5434653000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000726/2020-X01/POG-151956",
+  "published": "2020-05-15",
+  "files": [
+   {
+    "name": "pogodba DARS št.1060-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTk1Njtwb2dvZGJhIERBUlMgxaF0LjEwNjAtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

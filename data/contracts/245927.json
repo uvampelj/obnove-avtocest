@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 245927,
+  "type": "DOD",
+  "prev": 168765,
+  "idObrazec": 775139,
+  "idDosje": 361067,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1581/2020: Izdelava PZI za obnovo vozišča na AC A1/0061 Kozina-Črni Kal, A1/0661 Kozina-Črni Kal in 1640 počivališče Ravne",
+  "procurement": "Izdelava PZI za obnovo vozišča na AC A1/0061 Kozina-Črni Kal, A1/0661 Kozina-Črni Kal in 1640 počivališče Ravne",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-08-01",
+  "from": "2023-08-01",
+  "to": "2023-08-31",
+  "number": "886/2023",
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5075742000",
+   "2323478000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004562/2020-C01/DOD-245927",
+  "published": "2023-08-28",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0ODgxNTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

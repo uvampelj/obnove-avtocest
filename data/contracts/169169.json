@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169169,
+  "type": "DOD",
+  "prev": 127223,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 568/2019 z dne 03.04.2019. \"Sanacija dilatacijskih stikov in asfaltov na premostitvenih objektih: Sklop 1: VA0336, VA0337, VA1211, VA1280\" - dodatna, več in manj dela",
+  "procurement": "Sanacija dilatacijskih stikov in asfaltov na premostitvenih objektih: Sklop 1: VA0336, VA0337, VA1211, VA1280",
+  "kind": 3,
+  "value": 53408.64,
+  "signed": "2020-11-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IPI, izvajalski in projektantski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5111498000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-19",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.568-19-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTE2OTtBbmVrcyDFoXQuMSBrIHBvZy41NjgtMTktT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 291982,
+  "type": "DOD",
+  "prev": 228560,
+  "idObrazec": 867354,
+  "idDosje": 453913,
+  "title": "Aneks 1, DARS št. 1149/2024",
+  "procurement": "Vzdrževanje, dobava in montaža klimatskih in prezračevalnih naprav",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-11-12",
+  "from": null,
+  "to": null,
+  "number": "001674/2022",
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005551/2022-C01/POG-228560-D01",
+  "published": "2024-11-15",
+  "files": [
+   {
+    "name": "Aneks 1, DARS st. 1149-2024,podp..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI4NzU1O0FuZWtzIDEsIERBUlMgc3QuIDExNDktMjAyNCxwb2RwLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307627,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 906535,
+  "idDosje": 517351,
+  "title": "Sklop 4 - Servisiranje strojev BCS",
+  "procurement": "SERVISIRANJE TOVORNIH VOZIL IN MEHANIZACIJE",
+  "kind": 1,
+  "value": 41175.0,
+  "signed": "2025-04-16",
+  "from": "2025-04-16",
+  "to": "2028-07-16",
+  "number": "000667/2025",
+  "contractors": [
+   "AGROMETAL kmetijska mehanizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5448271000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000048/2025-POG/02",
+  "published": "2025-04-22",
+  "files": [
+   {
+    "name": "Pogodba - AGROMETAL 4_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcwNzU2O1BvZ29kYmEgLSBBR1JPTUVUQUwgNF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

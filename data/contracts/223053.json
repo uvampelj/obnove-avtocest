@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 223053,
+  "type": "DOD",
+  "prev": 203650,
+  "idObrazec": 779131,
+  "idDosje": 416381,
+  "title": "Aneks št. 1 k pogodbi DARS št. 48/2022: Izdelava izvedbenega načrta za preplastitev voziščne konstrukcije na odsekih AC A1 Meja A-Šentilj, A1 Šentilj-Pesnica, A1 Pesnica-Dragučova, A1 Dragučova-MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor - Sever in Šentilj",
+  "procurement": "Izdelava IZN za preplastitev voziščne konstrukcije na AC A1 Meja A-Šentilj-Pesnica-Dragučova-MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor Sever in Šentilj",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-09-12",
+  "from": "2022-09-12",
+  "to": "2023-01-21",
+  "number": null,
+  "contractors": [
+   "TNT Projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "9047115000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006403/2021-X01/DOD-223053",
+  "published": "2022-10-05",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzE1OTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205267,
+  "type": "DOD",
+  "prev": 174291,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 211/2021: Študija obremenitve s hrupom s predlogom protihrupne zaščite; Sklop 5: A1 odseka 0018, 0017 (LJ Dolenjska-Vič) ",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite; Sklop 5: A1 odseka 0018, 0017 (LJ Dolenjska-Vič)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-07-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1300342000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTI2NztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

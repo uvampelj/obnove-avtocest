@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36467,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645897,
+  "idDosje": 19298,
+  "title": "Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokum..",
+  "procurement": "Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokum..",
+  "kind": 1,
+  "value": 146295.32,
+  "signed": "2016-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV1739/2016/POG-36467",
+  "published": "2016-05-12",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NDY3O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 299147,
+  "type": "DOD",
+  "prev": 266935,
+  "idObrazec": 885530,
+  "idDosje": 494731,
+  "title": "Aneks št. 1 k pogodbi Dars d. d. št. 509/2024: Nadgradnja obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko – Blagovica: Sklop 1 ",
+  "procurement": "Nadgradnja obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko - Blagovica: Sklop 1: Periferna oprema, Sklop 2: Oprema v NC Vransko",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-01-27",
+  "from": "2025-01-27",
+  "to": "2026-04-08",
+  "number": "000509/2024",
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006617/2023-POG/01-D01",
+  "published": "2025-01-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQzMjEwO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

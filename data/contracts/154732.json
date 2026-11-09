@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154732,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704146,
+  "idDosje": 337962,
+  "title": "Spremljanje stanja zadrževalnih in odvodnih naprav padavinske odpadne vode na obstoječi AC mreži v RS",
+  "procurement": "Spremljanje stanja zadrževalnih in odvodnih naprav padavinske odpadne vode na obstoječi AC mreži v RS",
+  "kind": 1,
+  "value": 475455.45,
+  "signed": "2020-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000152/2020-C01/POG-154732",
+  "published": "2020-06-16",
+  "files": [
+   {
+    "name": "pogodba DARS št. 1202-2020, IRGO.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDczMjtwb2dvZGJhIERBUlMgxaF0LiAxMjAyLTIwMjAsIElSR08ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

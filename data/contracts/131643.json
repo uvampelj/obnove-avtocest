@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 131643,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 690479,
+  "idDosje": 310063,
+  "title": "Vulkanizerske storitve za ACB Kozina, ACB Novo mesto in ACB Murska Sobota",
+  "procurement": "Sklop AC baza Kozina,Sklop AC baza Novo mesto,Sklop AC baza Murska Sobota",
+  "kind": 1,
+  "value": 35771.74,
+  "signed": "2019-07-31",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VULKANIZERSTVO DORJAN STARC S.P.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "AVTOSERVIS - FRANC MAKOTER S.P."
+  ],
+  "contractor_ids": [
+   "2109395000",
+   "5025796000",
+   "5195680000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003336/2019-X01/POG-131643",
+  "published": "2019-08-07",
+  "files": [
+   {
+    "name": "Pogodbe DARS št. 946,947,961-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMTY0MztQb2dvZGJlIERBUlMgxaF0LiA5NDYsOTQ3LDk2MS0yMDE5LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

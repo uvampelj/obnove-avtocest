@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 111696,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 679505,
+  "idDosje": 71458,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1016/2014 za opravljanje strokovno svetovalnih storitev na HC Razdrto - Vipava",
+  "procurement": "Opravljanje strokovno svetovalnih storitev na HC Razdrto - Vipava",
+  "kind": 1,
+  "value": 203532.6,
+  "signed": "2018-09-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007123/2018-Q01/POG-111696",
+  "published": "2018-10-18",
+  "files": [
+   {
+    "name": "a1_pog1016-2014_svet HC Razdrto-Vipava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTY5NjthMV9wb2cxMDE2LTIwMTRfc3ZldCBIQyBSYXpkcnRvLVZpcGF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

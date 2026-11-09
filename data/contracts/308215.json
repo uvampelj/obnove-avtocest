@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 308215,
+  "type": "DOD",
+  "prev": 250422,
+  "idObrazec": 908525,
+  "idDosje": 482810,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1029/2023 za Izdelavo projektne dokumentacije za novogradnjo in izvedbo vzdrževalnih del v javno korist na odseku glavne ceste Mengeš – Žeje - Vodice ",
+  "procurement": "Izdelava projektne dokumentacije za novogradnjo in izvedbo vzdrževalnih del v javno korist na odseku glavne ceste Mengeš-Žeje-Vodice",
+  "kind": 1,
+  "value": 60512.0,
+  "signed": "2025-04-24",
+  "from": "2025-04-24",
+  "to": "2027-10-05",
+  "number": "001029/2023",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003847/2023-C01/POG-250422-D01",
+  "published": "2025-04-29",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcyMzQxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

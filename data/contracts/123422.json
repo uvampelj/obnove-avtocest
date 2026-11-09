@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123422,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 685552,
+  "idDosje": 284235,
+  "title": "Izdelava IzN za \"Zamenjavo dilatacij na premostitvenih objektih: most VA0729 Bolska-D in VA0730 Bolska-L, viadukt VA0103 Žepina-D, viadukt VA0341 Gabrk-D in VA0368 Gabrk-L, viadukt VA0804 Bivje-D in VA0805 Bivje-L in most VA0284 čez Savo-Karavanke\"  ",
+  "procurement": "Izdelava IzN za \"Zamenjavo dilatacij na premostitvenih objektih: most VA0729 Bolska-D in VA0730 Bolska-L, viadukt VA0103 Žepina-D, viadukt VA0341 Gabrk-D in VA0368 Gabrk-L, viadukt VA0804 Bivje-D in VA0805 Bivje-L in most VA0284 čez Savo-Karavanke\"  ",
+  "kind": 1,
+  "value": 64172.0,
+  "signed": "2019-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1189620000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007879/2018-X01/POG-123422",
+  "published": "2019-03-29",
+  "files": [
+   {
+    "name": "Pogodba-KO-BIRO.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzQyMjtQb2dvZGJhLUtPLUJJUk8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 78729,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662977,
+  "idDosje": 191772,
+  "title": "IZDELAVA ŠTUDIJE ETAPNOSTI IN FAZNOSTI TER PROUČITVE MOŽNIH OPTIMIZACIJ NAČRTOVANIH UKREPOV VZPOSTAVITVE ŠTIRIPASOVNE CESTNE POVEZAVE ZA NAVEZOVALNO CESTO JEPRCA-STANEŽIČE-BROD",
+  "procurement": "IZDELAVA ŠTUDIJE ETAPNOSTI IN FAZNOSTI TER PROUČITVE MOŽNIH OPTIMIZACIJ NAČRTOVANIH UKREPOV VZPOSTAVITVE ŠTIRIPASOVNE CESTNE POVEZAVE ZA NAVEZOVALNO CESTO JEPRCA-STANEŽIČE-BROD",
+  "kind": 1,
+  "value": 96380.0,
+  "signed": "2017-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG Ljubljana, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o.",
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5459966000",
+   "5077923000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001774/2017-C01/POG-78729",
+  "published": "2017-09-02",
+  "files": [
+   {
+    "name": "Pogodba-I.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4NzI5O1BvZ29kYmEtSS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

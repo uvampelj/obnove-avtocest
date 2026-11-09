@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 249356,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 761698,
+  "idDosje": 487820,
+  "title": "Sklop 2 - Blažilci trka Stuer Egghe",
+  "procurement": "SERVISIRANJE, POPRAVILA IN DOBAVA NADOMESTNIH BLAŽILCEV TRKA",
+  "kind": 1,
+  "value": 184878.8,
+  "signed": "2023-10-05",
+  "from": "2023-10-05",
+  "to": "2025-10-05",
+  "number": "001032/2023",
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005066/2023-C01/POG-249356",
+  "published": "2023-10-11",
+  "files": [
+   {
+    "name": "Pogodba - Petrič_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MjYwNDtQb2dvZGJhIC0gUGV0cmnEjV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142802,
+  "type": "DOD",
+  "prev": 106231,
+  "idObrazec": 771003,
+  "idDosje": 234499,
+  "title": "Aneks št. 1 k pogodbi 1744/2018 za vzpostavitev sistema kooperativnih ITS (C-ITS V2X) z mikrovalovno tehnologijo (G5) na odseku Postojna-Divača; podaljšanje trajanja pogodbe",
+  "procurement": "Aneks št. 1 k pogodbi 1744/2018 za vzpostavitev sistema kooperativnih ITS (C-ITS V2X) z mikrovalovno tehnologijo (G5) na odseku Postojna-Divača; podaljšanje trajanja pogodbe",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-12-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010236/2017-C01/DOD-142802",
+  "published": "2019-12-30",
+  "files": [
+   {
+    "name": "a1 k pog 1744-2018 - podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjgwMjthMSBrIHBvZyAxNzQ0LTIwMTggLSBwb2RwaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

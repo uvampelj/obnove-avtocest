@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 196601,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 727648,
+  "idDosje": 404128,
+  "title": "Opravljanje tehničnih pregledov za ACB Maribor in ACB Murska Sobota, sklop 2",
+  "procurement": "Opravljanje tehničnih pregledov  sklop 2 - ACB Murska Sobota",
+  "kind": 1,
+  "value": 84198.51,
+  "signed": "2021-10-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "E CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "8076359000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004385/2021-C01/POG-196601",
+  "published": "2021-10-28",
+  "files": [
+   {
+    "name": "Pogodba podpisana SKLOP 2 AZ AVTO K_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjYwMTtQb2dvZGJhIHBvZHBpc2FuYSBTS0xPUCAyIEFaIEFWVE8gS19yZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

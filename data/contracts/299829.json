@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 299829,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 887254,
+  "idDosje": 516365,
+  "title": "VZDRŽEVANJE, DOBAVA IN MONTAŽA KLIMATSKIH IN PREZRAČEVALNIH NAPRAV",
+  "procurement": "VZDRŽEVANJE, DOBAVA IN MONTAŽA KLIMATSKIH IN PREZRAČEVALNIH NAPRAV",
+  "kind": 1,
+  "value": 962427.5,
+  "signed": "2025-02-05",
+  "from": "2025-02-05",
+  "to": "2028-05-05",
+  "number": "000264/2025",
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008534/2024-POG/01",
+  "published": "2025-02-07",
+  "files": [
+   {
+    "name": "Pogodba ASTECH_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ0NjExO1BvZ29kYmEgQVNURUNIX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

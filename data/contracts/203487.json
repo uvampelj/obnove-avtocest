@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 203487,
+  "type": "DOD",
+  "prev": 190193,
+  "idObrazec": 777394,
+  "idDosje": 392738,
+  "title": "Aneks številka 1 - Sklop 1",
+  "procurement": "Sol natrijev klorid NaCl, granulacija srednja (grade M  medium salt), vlažnost mokra (Wet salt), raztreseno stanje za solarne",
+  "kind": 2,
+  "value": 146888.0,
+  "signed": "2021-12-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MA.CO.T., Podjetje za predelavo in pakiranje soli, d.o.o. Ljubljana",
+   "Pag 91 d.o.o."
+  ],
+  "contractor_ids": [
+   "5300401000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001979/2021-C01/DOD-203487",
+  "published": "2022-02-02",
+  "files": [
+   {
+    "name": "Aneks 1 - 1482-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzQ4NztBbmVrcyAxIC0gMTQ4Mi0yMDIxX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

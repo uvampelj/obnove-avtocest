@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 261033,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 796768,
+  "idDosje": 486956,
+  "title": "Izdelava PZI projektne dokumentacije za obnovo odseka AC A2 0022 Grosuplje-Ivančna Gorica vključno z nadomestitvijo nadvoza VA0268 Brezovo od km 5,568 do km 5,575",
+  "procurement": "Izdelava PZI projektne dokumentacije za obnovo odseka AC A2 0022 Grosuplje-Ivančna Gorica vključno z nadomestitvijo nadvoza VA0268 Brezovo od km 5,568 do km 5,575",
+  "kind": 1,
+  "value": 81566.76,
+  "signed": "2024-02-29",
+  "from": "2024-02-29",
+  "to": "2025-08-29",
+  "number": "000366/2024",
+  "contractors": [
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1189620000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "004760/2023-POG/01",
+  "published": "2024-03-07",
+  "files": [
+   {
+    "name": "Pogodba-Ko-biro_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcwMjc5O1BvZ29kYmEtS28tYmlyb19yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

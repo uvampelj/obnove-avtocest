@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 328704,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 968884,
+  "idDosje": 525941,
+  "title": "DOBAVA OPREME ZA DELAVNICE TER VZDRŽEVANJE",
+  "procurement": "DOBAVA OPREME ZA DELAVNICE TER VZDRŽEVANJE",
+  "kind": 2,
+  "value": 84156.82,
+  "signed": "2025-12-19",
+  "from": "2025-12-19",
+  "to": "2026-09-19",
+  "number": "001502/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007335/2025-POG/01",
+  "published": "2025-12-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba Imexa r.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwNjIzO1BvZHBpc2FuYSBwb2dvZGJhIEltZXhhIHIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

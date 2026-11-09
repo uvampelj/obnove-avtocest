@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 45103,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 649565,
+  "idDosje": 50148,
+  "title": "Dobava osebne varovalne opreme",
+  "procurement": "Zimska delovna obutev,Letna delovna obutev z zaščitno kapico,Letna delovna obutev brez zaščitne kapice,Zimska in dežna delovna oblačila,Delovna oblačila,Rokavice,Zaščita glave in dihal,Specialna zaščita,Zaščita sluha",
+  "kind": 2,
+  "value": 988802.92,
+  "signed": "2016-08-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRIP TRGOVINA, d.o.o.",
+   "GeoEnergetika d.o.o.",
+   "OVERALL, d.o.o.",
+   "ZAVAS d.o.o.",
+   "TOTAL d.o.o. Novo mesto",
+   "Boštjan Štefančič s.p."
+  ],
+  "contractor_ids": [
+   "1992236000",
+   "3708306000",
+   "5798981000",
+   "5799791000",
+   "5335949000",
+   "1552244000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004660/2016-C01/POG-45103",
+  "published": "2016-08-22",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ1MTAzO3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

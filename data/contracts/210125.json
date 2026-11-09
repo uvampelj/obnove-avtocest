@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 210125,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735982,
+  "idDosje": 433613,
+  "title": "DOBAVA ELEKTRONSKIH KOMPONENT",
+  "procurement": "DOBAVA ELEKTRONSKIH KOMPONENT",
+  "kind": 2,
+  "value": 73200.0,
+  "signed": "2022-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HTE podjetje za trgovino, storitve in inženiring s področja elektronike, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5327504000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000484/2022-X01/POG-210125",
+  "published": "2022-05-05",
+  "files": [
+   {
+    "name": "Pogodba HTE_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMDEyNTtQb2dvZGJhIEhURV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70155,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658941,
+  "idDosje": 188394,
+  "title": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "kind": 1,
+  "value": 321092.31,
+  "signed": "2017-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "360ECM d.o.o."
+  ],
+  "contractor_ids": [
+   "2344149000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001270/2017-C01/POG-70155",
+  "published": "2017-05-09",
+  "files": [
+   {
+    "name": "pogodba 368-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwMTU1O3BvZ29kYmEgMzY4LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

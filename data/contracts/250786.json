@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 250786,
+  "type": "DOD",
+  "prev": 161186,
+  "idObrazec": 774663,
+  "idDosje": 344328,
+  "title": "Aneks št. 1 k pogodbi DARS št. 607/2020: Integracija nove spremenljive prometno informativne signalizacije v nadzorni center Slovenske Konjice",
+  "procurement": "Integracija nove spremenljive prometno informativne signalizacije v nadzorni center Slovenske Konjice",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-09-28",
+  "from": "2023-09-28",
+  "to": "2024-04-16",
+  "number": "1008/2023",
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001090/2020-C01/DOD-250786",
+  "published": "2023-10-26",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NDEwNTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

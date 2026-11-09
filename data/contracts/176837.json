@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 176837,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 717324,
+  "idDosje": 383771,
+  "title": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d. d. za zavarovalno obdobje od 1. 3. 2021 od 00:00 ure do 28. 2. 2022 do 24:00 ure",
+  "procurement": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d. d. ",
+  "kind": 1,
+  "value": 94649.98,
+  "signed": "2021-03-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000297/2021-X01/POG-176837",
+  "published": "2021-03-23",
+  "files": [
+   {
+    "name": "POGODBA 533-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjgzNztQT0dPREJBIDUzMy0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

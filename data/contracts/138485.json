@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 138485,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 694412,
+  "idDosje": 323073,
+  "title": "Izvajanje zimske službe",
+  "procurement": "ACB Ljubljana -  izpostava Dob (najem stroja),ACB Ljubljana,ACB Novo mesto - Izpostava Drnovo (MMP Obrežje),ACB Murska Sobota,ACB Maribor in izpostava Ptuj",
+  "kind": 1,
+  "value": 118718.6,
+  "signed": "2019-11-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OPRAVLJANJE STORITEV Z GRADBENO MEHANIZACIJO IN AVTOPREVOZNIŠTVO AVGUŠTIN SADAR S.P.",
+   "RESAL, gradbeništvo in prevozništvo d.o.o.",
+   "OŠTIR, prevozništvo in storitve d.o.o.",
+   "PGM MOČNIK prevozništvo in strojna zemeljska dela D.O.O."
+  ],
+  "contractor_ids": [
+   "5397420000",
+   "3283917000",
+   "1816110000",
+   "3725375000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006262/2019-X01/POG-138485",
+  "published": "2019-11-11",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzODQ4NTtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

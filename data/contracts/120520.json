@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120520,
+  "type": "DOD",
+  "prev": 109984,
+  "idObrazec": 771144,
+  "idDosje": 246645,
+  "title": "REKONSTRUKCIJA POČIVALIŠČA DOLINSKO SEVER",
+  "procurement": "REKONSTRUKCIJA POČIVALIŠČA DOLINSKO SEVER",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-01-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001448/2018-C01/DOD-120520",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "aneks-1-266-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUyMDthbmVrcy0xLTI2Ni0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

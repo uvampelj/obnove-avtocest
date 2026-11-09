@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 129257,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688962,
+  "idDosje": 300771,
+  "title": "Izvajanje varnostne interventne službe",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 304591.3,
+  "signed": "2019-06-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATRAN sistemi in varovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5677220000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001587/2019-C01/POG-129257",
+  "published": "2019-07-02",
+  "files": [
+   {
+    "name": "pogodba,pdf..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyOTI1Nztwb2dvZGJhLHBkZi4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

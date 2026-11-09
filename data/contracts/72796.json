@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72796,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660282,
+  "idDosje": 199007,
+  "title": "Vzdrževanje in razvoj cestno-vremenskega informacijskega sistema (CVIS)",
+  "procurement": "Vzdrževanje in razvoj cestno-vremenskega informacijskega sistema (CVIS)",
+  "kind": 1,
+  "value": 58804.0,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS plus d.o.o."
+  ],
+  "contractor_ids": [
+   "1880128000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003297/2017-X01/POG-72796",
+  "published": "2017-06-15",
+  "files": [
+   {
+    "name": "Pogodba 480-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyNzk2O1BvZ29kYmEgNDgwLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

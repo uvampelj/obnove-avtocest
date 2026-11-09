@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 84308,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 665469,
+  "idDosje": 211185,
+  "title": "Informacijski sistem za spremljanje zahtevkov, projektov in nalog ",
+  "procurement": "Informacijski sistem za spremljanje zahtevkov, projektov in nalog ",
+  "kind": 1,
+  "value": 64416.0,
+  "signed": "2017-09-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRO-BIT PROGRAMSKA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "5413796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006135/2017-X01/POG-84308",
+  "published": "2017-11-03",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg0MzA4O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

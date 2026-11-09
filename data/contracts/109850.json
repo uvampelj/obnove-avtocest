@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 109850,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678408,
+  "idDosje": 261976,
+  "title": "Servisiranje zimske in letne mehanizacije",
+  "procurement": "Vzdrževanje zimske in letne mehanizacije RASCO in TRILETY,Vzdrževanje zimske mehanizacije RIKO, EPOKE, ZAUGG,Vzdrževanje letne  mehanizacije RIKO, BORUM, DOPPSTADT, BUCHER, FERRI",
+  "kind": 1,
+  "value": 1122718.54,
+  "signed": "2018-09-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA, trgovina in posredništvo, d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "3619524000",
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004368/2018-C01/POG-109850",
+  "published": "2018-09-26",
+  "files": [
+   {
+    "name": "Pogodbi 1850 in 1851-2018.rar",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTg1MDtQb2dvZGJpIDE4NTAgaW4gMTg1MS0yMDE4LnJhcg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

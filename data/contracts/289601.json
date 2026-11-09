@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 289601,
+  "type": "DOD",
+  "prev": 189560,
+  "idObrazec": 860980,
+  "idDosje": 393166,
+  "title": "Aneks št. 1 k pogodbi DARS št. 981/2021: Preplastitev voziščne konstrukcije na delih odsekov AC Al 0061/0661 Kozina - Črni Kal od km 5,050 do km 5,857, od km 8,100 do km 10,200, od km 11,271 do km 11,818 in 0062/0662 Črni Kal - Srmin od km 0,000 do km 2,305, od km 4,498 do km 5,451, 0159 Priključek Kastelec od km 0,000 do km 0,803 in 0161 Priključek Črni Kal od km 0,000 do km 1,873",
+  "procurement": "Preplastitve voziščne konstrukcije na delih odsekov na AC A1 0061/0661 Kozina–Črni Kal in 0062/0662 Črni Kal–Srmin ter priključkov 0159 Kastelec in 0161 Črni Kal",
+  "kind": 3,
+  "value": 548309.64,
+  "signed": "2024-10-16",
+  "from": "2024-10-16",
+  "to": "2024-12-14",
+  "number": "000981/2021",
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "5143497000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002076/2021-C01/POG-189560-D01",
+  "published": "2024-10-18",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIzNTgwO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

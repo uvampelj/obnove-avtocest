@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 273357,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 832825,
+  "idDosje": 506800,
+  "title": "Vzpostavitev sistema SIEM (Security Information and Event Management)",
+  "procurement": "Vzpostavitev sistema SIEM (Security Information and Event Management)",
+  "kind": 1,
+  "value": 533050.84,
+  "signed": "2024-07-22",
+  "from": "2024-07-22",
+  "to": "2029-10-22",
+  "number": "000812/2024",
+  "contractors": [
+   "Comtrade SI Sistemske Integracije d.o.o.",
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8371741000",
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000893/2024-POG/01",
+  "published": "2024-08-05",
+  "files": [
+   {
+    "name": "Pogodba st 812-2024_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk5MjE3O1BvZ29kYmEgc3QgODEyLTIwMjRfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

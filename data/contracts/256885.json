@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 256885,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 785195,
+  "idDosje": 497316,
+  "title": "VZDRŽEVANJE SIGNALNIH TABEL ZA ZAPIRANJE PROMETNIH PASOV",
+  "procurement": "VZDRŽEVANJE SIGNALNIH TABEL ZA ZAPIRANJE PROMETNIH PASOV",
+  "kind": 1,
+  "value": 102406.8,
+  "signed": "2024-01-19",
+  "from": "2024-01-19",
+  "to": "2027-01-19",
+  "number": "000048/2024",
+  "contractors": [
+   "ITAIA d.o.o., podjetje za računalniški in elektro inženiring"
+  ],
+  "contractor_ids": [
+   "5505771000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "007144/2023-POG/01",
+  "published": "2024-01-23",
+  "files": [
+   {
+    "name": "Pogodba ITAIA_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjYxODczO1BvZ29kYmEgSVRBSUFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

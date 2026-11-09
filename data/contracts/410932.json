@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 410932,
+  "type": "DOD",
+  "prev": 313175,
+  "idObrazec": 1079006,
+  "idDosje": 518095,
+  "title": "Aneks št. 1 k pogodbi DARS št. 838/2025: Zamenjava naletnih zaključnih elementov in blažilnikov trka na območju AC baz Postojna, Kozina, Slovenske Konjice, Maribor in Hrušica ",
+  "procurement": "Zamenjava naletnih zaključnih elementov",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-04-16",
+  "from": "2026-04-16",
+  "to": "2027-06-18",
+  "number": "000838/2025",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000647/2025-POG/01-D01",
+  "published": "2026-04-23",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI1MTk1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146386,
+  "type": "DOD",
+  "prev": 95402,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 905/2018",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 905/2018",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-01-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE"
+  ],
+  "contractor_ids": [
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-02-13",
+  "files": [
+   {
+    "name": "Aneks št. 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjM4NjtBbmVrcyDFoXQuIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

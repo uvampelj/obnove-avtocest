@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120181,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683504,
+  "idDosje": 286729,
+  "title": "Dobava mobilnih aparatov",
+  "procurement": "Dobava mobilnih aparatov",
+  "kind": 2,
+  "value": 155728.12,
+  "signed": "2019-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008466/2018-X01/POG-120181",
+  "published": "2019-02-11",
+  "files": [
+   {
+    "name": "Pogodba 97-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDE4MTtQb2dvZGJhIDk3LTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 325270,
+  "type": "DOD",
+  "prev": 273494,
+  "idObrazec": 958862,
+  "idDosje": 507567,
+  "title": "Aneks št. 1 k pogodbi DARS št. 837/2024: Izdelava idejnih rešitev, DPP in PZI za preureditev počivališč s povečanjem parkirnih površin za težka tovorna vozila in izboljšanjem funkcionalnosti na lokacijah Lukovica Sever, Lopata Sever in Fernetiči Sever ",
+  "procurement": "Izdelava idejnih rešitev, DPP in PZI za preureditev počivališč s povečanjem parkirnih površin za težka tovorna vozila na lokacijah Lukovica Sever, Lopata Sever in Fernetiči Sever ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-11-12",
+  "from": "2025-11-12",
+  "to": "2026-07-31",
+  "number": "000837/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001451/2024-POG/01-D01",
+  "published": "2025-11-14",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEyNzE2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

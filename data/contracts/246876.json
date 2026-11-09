@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 246876,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 759794,
+  "idDosje": 483231,
+  "title": "Čiščenje službenih oblek in osebne varovalne opreme - SKLOP 1, SKLOP 2, SKLOP 3, SKLOP 4 in SKLOP 5",
+  "procurement": "Čiščenje službenih oblek in osebne varovalne opreme",
+  "kind": 1,
+  "value": 36606.1,
+  "signed": "2023-09-07",
+  "from": "2023-09-07",
+  "to": "2025-12-07",
+  "number": "000951/2023",
+  "contractors": [
+   "CWS higienski sistemi in vzdrževanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5842018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003819/2023-X01/POG-246876",
+  "published": "2023-09-08",
+  "files": [
+   {
+    "name": "R_Pogodba 951-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0OTgzOTtSX1BvZ29kYmEgOTUxLTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

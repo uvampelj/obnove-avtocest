@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 153418,
+  "type": "DOD",
+  "prev": 99411,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. št. 1442/2018",
+  "procurement": "Aneks št. 1 k pog. št. 1442/2018",
+  "kind": 1,
+  "value": 66551.0,
+  "signed": "2020-05-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTEL cestni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5608244000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-05-29",
+  "files": [
+   {
+    "name": "Aneks Cestel.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MzQxODtBbmVrcyBDZXN0ZWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

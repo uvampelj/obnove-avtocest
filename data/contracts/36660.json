@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36660,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646008,
+  "idDosje": 151987,
+  "title": "aneks št. 2: k pog.809/09:dodatna dela ",
+  "procurement": "aneks št. 2 k pog. DARS št. 809/09:IZDELAVA DOPOLNITVE OKOLJSKEGA POROČILA (2. ZVEZEK) IN IZDELAVA POROČILA O VPLIVIH NA OKOLJE ZA PRIPRAVO DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO OD RAZCEPA ŠE",
+  "kind": 1,
+  "value": 29816.8,
+  "signed": "2016-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AQUARIUS d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5424534000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000257/2016-C01/POG-36660",
+  "published": "2016-05-13",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NjYwO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

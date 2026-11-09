@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 125241,
+  "type": "DOD",
+  "prev": 95861,
+  "idObrazec": 770491,
+  "idDosje": 222770,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 2: državna cesta od priključka Šentrupert na AC A1 Šentilj – Koper do priključka Velenje jug–2. del",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 2: državna cesta od priključka Šentrupert na AC A1 Šentilj – Koper do priključka Velenje jug – 2. de",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008246/2017-C01/DOD-125241",
+  "published": "2019-04-23",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTI0MTtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

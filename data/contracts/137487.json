@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 137487,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 693893,
+  "idDosje": 322884,
+  "title": "Vzdrževanje, razvoj in svetovanje za sisteme poslovnega obveščanja",
+  "procurement": "Vzdrževanje, razvoj in svetovanje za sisteme poslovnega obveščanja",
+  "kind": 1,
+  "value": 156038.0,
+  "signed": "2019-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADD trgovina, inženiring, vzdrževanje d.o.o., Tbilisijska 85, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5673500000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006079/2019-C01/POG-137487",
+  "published": "2019-10-25",
+  "files": [
+   {
+    "name": "Pogodba_ADD_Sist PO_175-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNzQ4NztQb2dvZGJhX0FERF9TaXN0IFBPXzE3NS0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

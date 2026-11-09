@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 320384,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944335,
+  "idDosje": 522529,
+  "title": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije\nSKLOP 4 - Telefonija",
+  "procurement": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije",
+  "kind": 2,
+  "value": 370026.0,
+  "signed": "2025-09-12",
+  "from": "2025-09-12",
+  "to": "2029-12-12",
+  "number": "001108/2025",
+  "contractors": [
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o.",
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5425557000",
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004427/2025-POG/04",
+  "published": "2025-09-22",
+  "files": [
+   {
+    "name": "R_OKVIRNA SPORAZUMA SKLOP 4_001108-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxMDY1O1JfT0tWSVJOQSBTUE9SQVpVTUEgU0tMT1AgNF8wMDExMDgtMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

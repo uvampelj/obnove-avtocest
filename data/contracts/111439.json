@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 111439,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 679331,
+  "idDosje": 270894,
+  "title": "Nakup letalskih vozovnic in organizacija poslovnih potovanj",
+  "procurement": "Nakup letalskih vozovnic in organizacija poslovnih potovanj",
+  "kind": 1,
+  "value": 181170.0,
+  "signed": "2018-10-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PALMA, Mednarodno turistično podjetje, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5422086000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005593/2018-X01/POG-111439",
+  "published": "2018-10-16",
+  "files": [
+   {
+    "name": "okvirni sporazum_201-2018_Nakup letalskih vozovnic_PALMA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTQzOTtva3Zpcm5pIHNwb3JhenVtXzIwMS0yMDE4X05ha3VwIGxldGFsc2tpaCB2b3pvdm5pY19QQUxNQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

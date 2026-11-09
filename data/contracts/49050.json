@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 49050,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650993,
+  "idDosje": 45154,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku; Sklop C: opravljanje nalog koordinatorja za varnost in zdravje pri delu",
+  "procurement": "Sklop C: opravljanje nalog koordinatorja za varnost in zdravje pri delu",
+  "kind": 1,
+  "value": 69777.9,
+  "signed": "2016-09-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BALEKS d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5476232000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005498/2016-C01/POG-49050",
+  "published": "2016-09-28",
+  "files": [
+   {
+    "name": "pogodba 721-2016 - sklop C.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ5MDUwO3BvZ29kYmEgNzIxLTIwMTYgLSBza2xvcCBDLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

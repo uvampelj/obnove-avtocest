@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 231878,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 748352,
+  "idDosje": 463409,
+  "title": "POPRAVILO IN IZDELAVA HIDRAVLIČNIH IN PNEVMATSKIH KOMPONENT",
+  "procurement": "POPRAVILO IN IZDELAVA HIDRAVLIČNIH IN PNEVMATSKIH KOMPONENT",
+  "kind": 1,
+  "value": 96380.0,
+  "signed": "2023-02-22",
+  "from": "2023-02-22",
+  "to": "2025-02-22",
+  "number": "000430/2023",
+  "contractors": [
+   "HABERKORN, trgovina in storitve d. o.o."
+  ],
+  "contractor_ids": [
+   "5795613000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007664/2022-X01/POG-231878",
+  "published": "2023-02-24",
+  "files": [
+   {
+    "name": "Pogodba - Haberkorn_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjkyNztQb2dvZGJhIC0gSGFiZXJrb3JuX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

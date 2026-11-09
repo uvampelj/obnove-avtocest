@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166684,
+  "type": "DOD",
+  "prev": 166678,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 811/2009: IZDELAVA DOPOLNITEV OKOLJSKIH POROČIL (2. ZVEZEK) IN IZDELAVO POROČIL O VPLIVIH NA OKOLJE ZA PRIPRAVO DRŽAVNIH PROSTORSKIH NAČRTOV ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA sklop 3 - dodatna dela, več dela, revalorizacija cen in zamenjava kadra ",
+  "procurement": " IZDELAVA DOPOLNITEV OKOLJSKIH POROČIL (2. ZVEZEK) IN IZDELAVA POROČIL O VPLIVIH NA OKOLJE ZA PRIPRAVO DRŽAVNIH PROSTORSKIH NAČRTOV ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA ",
+  "kind": 1,
+  "value": 35262.95,
+  "signed": "2020-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEATEH, načrtovanje in izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "1714961000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-25",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog.-811-2009-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjY4NDtBbmVrcyDFoXQuIDEgayBwb2cuLTgxMS0yMDA5LW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

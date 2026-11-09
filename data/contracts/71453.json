@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 71453,
+  "type": "DOD",
+  "prev": 97,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 250/2015 -  Izvedba storitev posameznih parcelacij in vpis stavb v kataster stavb na območju AC omrežja v RS",
+  "procurement": "Izvedba storitev posameznih parcelacij in vpis stavb v kataster stavb na območju AC omrežja v Republiki Sloveniji",
+  "kind": 1,
+  "value": 7930.0,
+  "signed": "2017-05-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ŽOLNIR d.o.o."
+  ],
+  "contractor_ids": [
+   "1563033000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-05-26",
+  "files": [
+   {
+    "name": "Aneks 440-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcxNDUzO0FuZWtzIDQ0MC0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

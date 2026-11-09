@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 170862,
+  "type": "DOD",
+  "prev": 120410,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 2118/2018: Izvedba aktivne protihrupne zaščite v skladu z OP HRUP (Sklop A) – 2. del - dodatna, več in manj dela, nominacija podizvajalca in podaljšanje roka",
+  "procurement": "IZVEDBA AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OP HRUP (SKLOP A) – 2. DEL ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-12-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "Aneks št. 1 k 2118-2018-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDg2MjtBbmVrcyDFoXQuIDEgayAyMTE4LTIwMTgtemEtb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166709,
+  "type": "DOD",
+  "prev": 166688,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 6 k pog. DARS št. 1221/10:IZDELAVA PROMETNEGA IN PROMETNO - EKONOMSKEGA VREDNOTENJA VARIANT ZA AC ODSEK POSTOJNA/ DIVAČA-JELŠANE - dodatna dela in podaljšanje pogodbenega roka",
+  "procurement": "IZDELAVA PROMETNEGA IN PROMETNO - EKONOMSKEGA VREDNOTENJA variant za AC ODSEK POSTOJNA/ DIVAČA - JELŠANE",
+  "kind": 1,
+  "value": 4697.0,
+  "signed": "2019-09-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMEGA CONSULT projektni management, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300568000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-25",
+  "files": [
+   {
+    "name": "aneks št.6 k pog. 1221-2010-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjcwOTthbmVrcyDFoXQuNiBrIHBvZy4gMTIyMS0yMDEwLU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

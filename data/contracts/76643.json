@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 76643,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 661811,
+  "idDosje": 208252,
+  "title": "Vzdrževanje, podpora in razvoj informacijskega sistema Kažipot II",
+  "procurement": "Vzdrževanje, podpora in razvoj informacijskega sistema Kažipot II",
+  "kind": 1,
+  "value": 773632.5,
+  "signed": "2017-07-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005492/2017-C01/POG-76643",
+  "published": "2017-08-01",
+  "files": [
+   {
+    "name": "pogodba 601-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc2NjQzO3BvZ29kYmEgNjAxLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 156311,
+  "type": "DOD",
+  "prev": 129257,
+  "idObrazec": 772306,
+  "idDosje": 300771,
+  "title": "Aneks št. 1 k pogodbi DARS št. 845/2019",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 25056.0,
+  "signed": "2020-06-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATRAN sistemi in varovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5677220000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001587/2019-Q01/DOD-156311",
+  "published": "2020-07-10",
+  "files": [
+   {
+    "name": "Aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NjMxMTtBbmVrcy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

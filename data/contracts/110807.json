@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 110807,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678945,
+  "idDosje": 261513,
+  "title": "Servisiranje strojev in opreme",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 266334.21,
+  "signed": "2018-09-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRIČ - TRGOVINA IN SERVIS KMETIJSKIH STROJEV JOŽE SMOLIČ S.P.",
+   "CREINA, proizvodnja in trgovina kmetijskih in industrijskih strojev in naprav, d.d., Kranj",
+   "AGROMEHANIKA, proizvodnja in trgovina, Kranj, d.d."
+  ],
+  "contractor_ids": [
+   "5496439000",
+   "5076927000",
+   "5095450000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004257/2018-C01/POG-110807",
+  "published": "2018-10-09",
+  "files": [
+   {
+    "name": "POGODBE Servisiranje strojev in opreme.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDgwNztQT0dPREJFIFNlcnZpc2lyYW5qZSBzdHJvamV2IGluIG9wcmVtZS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

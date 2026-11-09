@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 147675,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699553,
+  "idDosje": 324026,
+  "title": "Izdelava IZN za obnovo nadvoza VA0106 Ljubečna na AC A1 odsek 0039/0639 Dramlje – Celje v km 5,380  ",
+  "procurement": "Izdelava IZN za obnovo nadvoza VA0106 Ljubečna na AC A1 odsek 0039/0639 Dramlje – Celje v km 5,380  ",
+  "kind": 1,
+  "value": 29158.0,
+  "signed": "2020-02-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006329/2019-X01/POG-147675",
+  "published": "2020-02-28",
+  "files": [
+   {
+    "name": "Pogodba SPIT d.o.o.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NzY3NTtQb2dvZGJhIFNQSVQgZC5vLm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

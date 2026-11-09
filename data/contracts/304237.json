@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 304237,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 897973,
+  "idDosje": 517575,
+  "title": "Servisiranje vozil Ljubljana",
+  "procurement": "SERVISIRANJE VOZIL VOLKSWAGEN",
+  "kind": 1,
+  "value": 81801.0,
+  "signed": "2025-03-19",
+  "from": "2025-03-19",
+  "to": "2028-06-19",
+  "number": "000588/2025",
+  "contractors": [
+   "AUTODELTA trgovsko-proizvodno podjetje export-import, marketing, zastopanje in ekonomski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5436362000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000204/2025-POG/01",
+  "published": "2025-03-20",
+  "files": [
+   {
+    "name": "Pogodba - AUTODELTA_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUzNTQ0O1BvZ29kYmEgLSBBVVRPREVMVEFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

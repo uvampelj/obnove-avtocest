@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193656,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 726381,
+  "idDosje": 402895,
+  "title": "Izdelava PVO za izgradnjo nove prometne povezave od priključka Šentrupert do priključka Velenje jug (1. odsek, 3. r. o. sever) in strokovne podlage za oceno vpliva posega v vodna in priobalna zemljišča",
+  "procurement": "Izdelava PVO za izgradnjo nove prometne povezave od priključka Šentrupert do priključka Velenje jug (1. odsek, 3. r. o. sever) in strokovne podlage za oceno vpliva posega v vodna in priobalna zemljišča",
+  "kind": 1,
+  "value": 105164.0,
+  "signed": "2021-09-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IPSUM, okoljske investicije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924982000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004050/2021-X01/POG-193656",
+  "published": "2021-10-06",
+  "files": [
+   {
+    "name": "Pogodba-Ipsum_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MzY1NjtQb2dvZGJhLUlwc3VtX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

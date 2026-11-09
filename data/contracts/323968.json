@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 323968,
+  "type": "DOD",
+  "prev": 272462,
+  "idObrazec": 955000,
+  "idDosje": 506991,
+  "title": "Aneks št. 1 k pogodbi DARS št.  732/2024 za Nabava pisarniškega pohištva in ostale opreme, sklop 1 - Pohištvo",
+  "procurement": "Nabava pisarniškega pohištva in ostale opreme, sklop 1",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2025-10-03",
+  "from": "2024-06-19",
+  "to": "2027-06-19",
+  "number": "000732/2024",
+  "contractors": [
+   "HI-PO Proizvodnja, inženiring in trgovina, d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5295548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001033/2024-POG/01-D01",
+  "published": "2025-10-30",
+  "files": [
+   {
+    "name": "Aneks-1-k-732-2024_257-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA5NTc4O0FuZWtzLTEtay03MzItMjAyNF8yNTctMjAyNV9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

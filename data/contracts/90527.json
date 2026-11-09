@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 90527,
+  "type": "DOD",
+  "prev": 37960,
+  "idObrazec": 767954,
+  "idDosje": 45788,
+  "title": "Obnova voziščne konstrukcije in rekonstrukcija cestne razsvetljave na odsekih HC H3/0088 in 0688 Ljubljana (Tomačevo – Dunajska) od km 0,600 do km 1,238 ter na H3/0089 in 0689 Ljubljana (Dunajska - Celovška) od km 0,000 do km 2,654",
+  "procurement": "Obnova voziščne konstrukcije in rekonstrukcija cestne razsvetljave na odsekih HC H3/0088 in 0688 Ljubljana ter na H3/0089 in 0689",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-03-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GP KRK d. d.",
+   "CBE, družba za gradnjo in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   null,
+   "3976602000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001744/2016-C01/DOD-90527",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTI3O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

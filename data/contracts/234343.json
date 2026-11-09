@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234343,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 750261,
+  "idDosje": 471633,
+  "title": "Pogodba Vzdrževanje komunikacijski sistemov Ericsson (Mitel)",
+  "procurement": "Vzdrževanje komunikacijskih sistemov Ericsson (Mitel)",
+  "kind": 1,
+  "value": 186640.69,
+  "signed": "2023-03-28",
+  "from": "2023-04-07",
+  "to": "2026-04-07",
+  "number": "000562/2023",
+  "contractors": [
+   "KRON TELEKOM, poslovne komunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5948649000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000850/2023-X01/POG-234343",
+  "published": "2023-03-31",
+  "files": [
+   {
+    "name": "Pogodba 256_2023_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTcxNTtQb2dvZGJhIDI1Nl8yMDIzX1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

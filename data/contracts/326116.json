@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 326116,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 961117,
+  "idDosje": 522930,
+  "title": "Poslovni najem vozil z nizkimi emisijami\nSKLOP 4 - Osebno vozilo, karavan, vsaj 110 kW\nSKLOP 7 - Električno vozilo, baterija vsaj 64 kWh bruto",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 431182.8,
+  "signed": "2025-11-21",
+  "from": "2025-11-21",
+  "to": "2032-06-21",
+  "number": "001275/2025",
+  "contractors": [
+   "Mobilia, poslovni najem vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "9657967000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004757/2025-POG/03",
+  "published": "2025-11-25",
+  "files": [
+   {
+    "name": "R_Pogodba 1275-2025 Mobilia.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE0NDk2O1JfUG9nb2RiYSAxMjc1LTIwMjUgTW9iaWxpYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 328647,
+  "type": "DOD",
+  "prev": 307673,
+  "idObrazec": 968652,
+  "idDosje": 520062,
+  "title": "Aneks 1 k pogodbi DARS št. 638/2025 za dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500; dodatne storitve",
+  "procurement": "Dežurstvo avtovleke pri obnovi ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice – Dramlje od km 0,071 do km 6,500",
+  "kind": 1,
+  "value": 2104.0,
+  "signed": "2025-04-04",
+  "from": "2025-04-04",
+  "to": "2025-12-31",
+  "number": "000638/2025",
+  "contractors": [
+   "DRAGANOVIĆ transporti, trgovina in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1482696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002285/2025-POG/01-D01",
+  "published": "2025-12-23",
+  "files": [
+   {
+    "name": "podpisan aneks 1 k pog 638-25-redig za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwNDQ1O3BvZHBpc2FuIGFuZWtzIDEgayBwb2cgNjM4LTI1LXJlZGlnIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

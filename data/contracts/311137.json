@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 311137,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 916859,
+  "idDosje": 517706,
+  "title": "Sklop 5 - Mini nakladalec na gosenicah",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 364536.0,
+  "signed": "2025-05-30",
+  "from": "2025-05-30",
+  "to": "2026-02-28",
+  "number": "000783/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000366/2025-POG/04",
+  "published": "2025-06-03",
+  "files": [
+   {
+    "name": "Pogodba - Imexa 5_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc5MTAyO1BvZ29kYmEgLSBJbWV4YSA1X1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

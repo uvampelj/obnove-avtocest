@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 186185,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 722828,
+  "idDosje": 399005,
+  "title": "DOBAVA ADITIVA ZA DIZEL GORIVO IN KURILNO OLJE",
+  "procurement": "DOBAVA ADITIVA ZA DIZEL GORIVO IN KURILNO OLJE",
+  "kind": 2,
+  "value": 157380.0,
+  "signed": "2021-07-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIRASOUL, storitve in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "3755843000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003069/2021-X01/POG-186185",
+  "published": "2021-07-23",
+  "files": [
+   {
+    "name": "Pogodba 1006-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NjE4NTtQb2dvZGJhIDEwMDYtMjAyMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

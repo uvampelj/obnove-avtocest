@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 296961,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 880378,
+  "idDosje": 515751,
+  "title": "VZDRŽEVANJE MOBILNIH MERILNIKOV DRSNOSTI IN TEMPERATURE MARWIS",
+  "procurement": "VZDRŽEVANJE MOBILNIH MERILNIKOV DRSNOSTI IN TEMPERATURE MARWIS",
+  "kind": 1,
+  "value": 101260.0,
+  "signed": "2025-01-09",
+  "from": "2025-01-09",
+  "to": "2028-04-09",
+  "number": "000058/2025",
+  "contractors": [
+   "VNET, komunikacijski sistemi d.o.o."
+  ],
+  "contractor_ids": [
+   "3714268000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008014/2024-POG/01",
+  "published": "2025-01-10",
+  "files": [
+   {
+    "name": "Pogodba VNET_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM5MDg4O1BvZ29kYmEgVk5FVF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

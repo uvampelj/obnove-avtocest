@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 50037,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 651539,
+  "idDosje": 159225,
+  "title": "IZDELAVA IN DOBAVA SLUŽBENIH OBLEK",
+  "procurement": "IZDELAVA IN DOBAVA SLUŽBENIH OBLEK",
+  "kind": 2,
+  "value": 338848.9,
+  "signed": "2016-09-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTEKO d.o.o."
+  ],
+  "contractor_ids": [
+   "1898795000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003071/2016-C01/POG-50037",
+  "published": "2016-10-12",
+  "files": [
+   {
+    "name": "pogodba Asteko.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUwMDM3O3BvZ29kYmEgQXN0ZWtvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

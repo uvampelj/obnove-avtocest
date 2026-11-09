@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254247,
+  "type": "DOD",
+  "prev": 160615,
+  "idObrazec": 774610,
+  "idDosje": 341036,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1106/2020: Izdelava PZI rekonstrukcije avtocestnega odseka Slovenske Konjice - Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina; SKLOP 1: Izdelava PZI rekonstrukcije A1 0038 Slovenske Konjice - Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina-D",
+  "procurement": "Izdelava PZI rekonstrukcije A1 0038 Slovenske Konjice - Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina-D (VA0407)",
+  "kind": 1,
+  "value": 10435.82,
+  "signed": "2023-11-24",
+  "from": "2023-11-24",
+  "to": "2023-11-30",
+  "number": "1374/2023",
+  "contractors": [
+   "GRADIS biro za projektiranje Maribor d.o.o."
+  ],
+  "contractor_ids": [
+   "5075084000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000571/2020-C01/DOD-254247",
+  "published": "2023-12-18",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1Nzg3NjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

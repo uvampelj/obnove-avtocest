@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 412505,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1083857,
+  "idDosje": 539749,
+  "title": "Dobava traktorjev in opreme, Sklop št. 4 - Kosilnica za traktor za dela levo in desno",
+  "procurement": "Dobava traktorjev in opreme",
+  "kind": 2,
+  "value": 384117.0,
+  "signed": "2026-04-22",
+  "from": "2026-04-22",
+  "to": "2027-02-22",
+  "number": "000587/2026",
+  "contractors": [
+   "Inter Agrar, trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "9904824000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000591/2026-POG/03",
+  "published": "2026-05-14",
+  "files": [
+   {
+    "name": "sklop 4  pogodba INTER AGRAR st. 587-2026 red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI5MDM3O3NrbG9wIDQgIHBvZ29kYmEgSU5URVIgQUdSQVIgc3QuIDU4Ny0yMDI2IHJlZCAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

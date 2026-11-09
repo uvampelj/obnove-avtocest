@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 150779,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 701578,
+  "idDosje": 339183,
+  "title": "NAKUP RAČUNALNIŠKE STROJNE OPREME",
+  "procurement": "Osebni računalniki, prenosniki in zasloni,Strežniki in strežniška oprema",
+  "kind": 2,
+  "value": 820282.72,
+  "signed": "2020-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATR.SIS informacijska oprema in storitve d.o.o.",
+   "ATR računalniški inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "2087707000",
+   "5286964000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000324/2020-C01/POG-150779",
+  "published": "2020-04-22",
+  "files": [
+   {
+    "name": "pogodba 16.4.2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MDc3OTtwb2dvZGJhIDE2LjQuMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

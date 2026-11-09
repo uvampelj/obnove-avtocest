@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316777,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 934121,
+  "idDosje": 520210,
+  "title": "Izvajanje nalog medicine dela: sklop 1: Novo mesto",
+  "procurement": "Izvajanje nalog medicine dela: sklop 1: Novo mesto",
+  "kind": 1,
+  "value": 35344.5,
+  "signed": "2025-07-24",
+  "from": "2025-07-24",
+  "to": "2030-10-24",
+  "number": "000957/2025",
+  "contractors": [
+   "POLJE HARMONIJE družba za kakovost življenja d.o.o."
+  ],
+  "contractor_ids": [
+   "2211858000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002439/2025-POG/01",
+  "published": "2025-08-11",
+  "files": [
+   {
+    "name": "Podpisana pogodba 957-2025_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyODkwO1BvZHBpc2FuYSBwb2dvZGJhIDk1Ny0yMDI1X1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

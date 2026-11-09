@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 232894,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 749114,
+  "idDosje": 469820,
+  "title": "Vzdrževanje in razvoj informacijskega sistema Dynamics NAV",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema Dynamics NAV",
+  "kind": 1,
+  "value": 751764.0,
+  "signed": "2023-03-08",
+  "from": "2023-03-08",
+  "to": "2026-03-08",
+  "number": "000494/2023",
+  "contractors": [
+   "BE-terna, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000386/2023-C01/POG-232894",
+  "published": "2023-03-13",
+  "files": [
+   {
+    "name": "Podpisana pogodba 494-2023_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNDAzMztQb2RwaXNhbmEgcG9nb2RiYSA0OTQtMjAyM19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

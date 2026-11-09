@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 343899,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 990494,
+  "idDosje": 525024,
+  "title": "Obsekavanje na težko dostopnih terenih, Sklop 5 - AC baza  Ljubljana",
+  "procurement": "Obsekavanje na težko dostopnih terenih",
+  "kind": 1,
+  "value": 197859.6,
+  "signed": "2026-01-22",
+  "from": "2026-01-22",
+  "to": "2028-04-22",
+  "number": "000078/2026",
+  "contractors": [
+   "GOZDNO GOSPODARSTVO NOVO MESTO d.d."
+  ],
+  "contractor_ids": [
+   "5142504000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006580/2025-POG/05",
+  "published": "2026-02-13",
+  "files": [
+   {
+    "name": "Pogodba sklop 5 st 000078-2026_ 213-2025 RED.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDQwMDc3O1BvZ29kYmEgc2tsb3AgNSBzdCAwMDAwNzgtMjAyNl8gMjEzLTIwMjUgUkVELnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 135039,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 692599,
+  "idDosje": 309419,
+  "title": "Dokončna odmera AC Draženci - MMP Gruškovje",
+  "procurement": "Dokončna odmera AC Draženci - MMP Gruškovje",
+  "kind": 1,
+  "value": 236875.2,
+  "signed": "2019-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEODETSKI ZAVOD CELJE izvajanje strokovno-operativnih del in storitev v zadevah geodetske službe, ter drugih strokovno tehničnih del, d.o.o."
+  ],
+  "contractor_ids": [
+   "5066352000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003223/2019-C01/POG-135039",
+  "published": "2019-09-30",
+  "files": [
+   {
+    "name": "pogodba 1434-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNTAzOTtwb2dvZGJhIDE0MzQtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

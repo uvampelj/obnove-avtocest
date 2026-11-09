@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 107634,
+  "type": "DOD",
+  "prev": 78730,
+  "idObrazec": 769575,
+  "idDosje": 182675,
+  "title": "aneks št. 1 k pog. DARS ŠT. 437/17 ZA NADGRADNJO HIDRANTNEGA OMREŽJA IN ZAMENJAVA LED SMERNIKOV V PREDORU ŠENTVID - dodatna in več dela, ter nominacija podizvajalcev",
+  "procurement": "NADGRADNJA HIDRANTNEGA OMREŽJA IN ZAMENJAVA LED SMERNIKOV V PREDORU ŠENTVID",
+  "kind": 3,
+  "value": 45860.03,
+  "signed": "2018-07-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000095/2017-C01/DOD-107634",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNzYzNDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

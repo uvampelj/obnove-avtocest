@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 313209,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 923435,
+  "idDosje": 520102,
+  "title": "Sklop 3: Baterijski pometalni stroj",
+  "procurement": "DOBAVA DROBNE OPREME",
+  "kind": 2,
+  "value": 6964.98,
+  "signed": "2025-06-26",
+  "from": "2025-06-26",
+  "to": "2026-03-26",
+  "number": "000864/2025",
+  "contractors": [
+   "Karcher trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "8020230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002308/2025-POG/03",
+  "published": "2025-06-30",
+  "files": [
+   {
+    "name": "Pogodba Karcher 3_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0MzI2O1BvZ29kYmEgS2FyY2hlciAzX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

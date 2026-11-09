@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 36665,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646011,
+  "idDosje": 152300,
+  "title": "aneks št.2 k pog. DARS št. 524/08-dodatna dela",
+  "procurement": "aneks št.2 k pog. DARS št. 524/08: ZAJEM PODATKOV Z LIDAR TEHNOLOGIJO IN IZDELAVA GEODETSKIH PODLAG ZA DPN ZA HC KOPER-DRAGONJA-dodatna dela",
+  "kind": 1,
+  "value": 17431.36,
+  "signed": "2016-04-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FLYCOM d.o.o.",
+   "GEODETSKI ZAVOD CELJE, d.o.o."
+  ],
+  "contractor_ids": [
+   "5710081000",
+   "5066352000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000301/2016-C01/POG-36665",
+  "published": "2016-05-13",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NjY1O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

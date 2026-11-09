@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169113,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712904,
+  "idDosje": 366228,
+  "title": "Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom",
+  "procurement": "Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom",
+  "kind": 2,
+  "value": 3991439.84,
+  "signed": "2020-12-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1587714000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005436/2020-C01/POG-169113",
+  "published": "2020-12-24",
+  "files": [
+   {
+    "name": "pogodba 1614-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTExMztwb2dvZGJhIDE2MTQtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

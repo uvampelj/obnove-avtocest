@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 122197,
+  "type": "DOD",
+  "prev": 72137,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. št. 467/2017 za Izvajanje programa EuroRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2017, 2018",
+  "procurement": "Izvajanje programa EuroRAP na avtocestah in hitrih cestah v Republiki Sloveniji v letih 2017, 2018",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-02-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO-MOTO ZVEZA SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5163196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-12",
+  "files": [
+   {
+    "name": "a1_pog467-2017_1-2019_EuroRAP.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMjE5NzthMV9wb2c0NjctMjAxN18xLTIwMTlfRXVyb1JBUC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

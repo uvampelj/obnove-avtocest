@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 69413,
+  "type": "DOD",
+  "prev": 12527,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS 212/2015",
+  "procurement": "Dobava posipnih materialov",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2017-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FINALI d.o.o."
+  ],
+  "contractor_ids": [
+   "7114354000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-04-21",
+  "files": [
+   {
+    "name": "Aneks FINALI d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY5NDEzO0FuZWtzIEZJTkFMSSBkLm8uby4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

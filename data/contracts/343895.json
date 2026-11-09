@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 343895,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 990490,
+  "idDosje": 525024,
+  "title": "Obsekavanje na težko dostopnih terenih, Sklop 1 - AC baza Postojna",
+  "procurement": "Obsekavanje na težko dostopnih terenih",
+  "kind": 1,
+  "value": 258524.1,
+  "signed": "2026-01-19",
+  "from": "2026-01-19",
+  "to": "2028-05-19",
+  "number": "000067/2026",
+  "contractors": [
+   "KASKADER d.o.o. Zahtevna terenska dela"
+  ],
+  "contractor_ids": [
+   "5563445000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006580/2025-POG/01",
+  "published": "2026-02-13",
+  "files": [
+   {
+    "name": "Pogodba sklop 1 st 000067-2026_ 213-2025 RED.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDQwMDcyO1BvZ29kYmEgc2tsb3AgMSBzdCAwMDAwNjctMjAyNl8gMjEzLTIwMjUgUkVELnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

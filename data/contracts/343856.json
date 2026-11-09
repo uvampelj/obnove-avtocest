@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 343856,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 990349,
+  "idDosje": 527232,
+  "title": "Dobava in montaža dvigal v izpostavi Ptuj (sklop 1)",
+  "procurement": "Dobava in montaža dvigal v mehaničnih delavnicah",
+  "kind": 2,
+  "value": 22570.0,
+  "signed": "2026-02-02",
+  "from": "2026-02-02",
+  "to": "2026-09-02",
+  "number": "000126/2026",
+  "contractors": [
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5350131000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008475/2025-POG/01",
+  "published": "2026-02-13",
+  "files": [
+   {
+    "name": "podpisana pog Produkt  - sklop 1-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM5OTU2O3BvZHBpc2FuYSBwb2cgUHJvZHVrdCAgLSBza2xvcCAxLXphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

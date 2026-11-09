@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 238691,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 753734,
+  "idDosje": 468886,
+  "title": "Nabava pisarniškega pohištva in ostale opreme, sklop 2",
+  "procurement": "Nabava pisarniškega pohištva in ostale opreme",
+  "kind": 2,
+  "value": 20839.19,
+  "signed": "2023-05-10",
+  "from": "2023-05-10",
+  "to": "2025-05-10",
+  "number": "000648/2023",
+  "contractors": [
+   "LESKA proizvodnja, trgovina, inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5328721000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000193/2023-X01/POG-238691",
+  "published": "2023-05-22",
+  "files": [
+   {
+    "name": "Pogodba sklop 2 redUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MDY2NDtQb2dvZGJhIHNrbG9wIDIgcmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

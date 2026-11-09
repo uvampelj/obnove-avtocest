@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 117898,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 682242,
+  "idDosje": 272787,
+  "title": "IZDELAVA PROJEKTNE DOKUMENTACIJE PZI IN PROJEKTNE DOKUMENTACIJE ZA RAZPIS ZA ZAMENJAVO SIDRNIH VIJAKOV OBSTOJEČIH VENTILATORJEV V PREDORIH JASOVNIK, TROJANE, KASTELEC IN DEKANI ",
+  "procurement": "IZDELAVA PROJEKTNE DOKUMENTACIJE PZI IN PROJEKTNE DOKUMENTACIJE ZA RAZPIS ZA ZAMENJAVO SIDRNIH VIJAKOV OBSTOJEČIH VENTILATORJEV V PREDORIH JASOVNIK, TROJANE, KASTELEC IN DEKANI ",
+  "kind": 1,
+  "value": 21472.0,
+  "signed": "2018-12-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005996/2018-X01/POG-117898",
+  "published": "2019-01-14",
+  "files": [
+   {
+    "name": "Pogodba-Elea iC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzg5ODtQb2dvZGJhLUVsZWEgaUMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

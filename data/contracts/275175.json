@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 275175,
+  "type": "DOD",
+  "prev": 211499,
+  "idObrazec": 838143,
+  "idDosje": 434960,
+  "title": "Aneks št. 1 k pogodbi DARS št. 874/2022 za Servisiranje UPS naprav proizvajalca Socomec; dodatna dela, prerazporeditev sredstev",
+  "procurement": "SERVISIRANJE UPS NAPRAV PROIZVAJALCA SOCOMEC",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-08-20",
+  "from": "2022-05-18",
+  "to": "2025-08-18",
+  "number": "000868/2024",
+  "contractors": [
+   "SOCOMEC SICON podjetje za proizvodnjo in prodajo elektronskih in elektrotehničnih sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000767/2022-C01/POG-211499-D01",
+  "published": "2024-08-29",
+  "files": [
+   {
+    "name": "Aneks-st1-k-pogodbi-874-2022_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAzNDM0O0FuZWtzLXN0MS1rLXBvZ29kYmktODc0LTIwMjJfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 97,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630274,
+  "idDosje": 80198,
+  "title": "Izvedba storitev posameznih parcelacij in vpis stavb v kataster stavb na območju AC omrežja v Republiki Sloveniji.",
+  "procurement": "Izvedba storitev posameznih parcelacij in vpis stavb v kataster stavb na območju AC omrežja v Republiki Sloveniji.",
+  "kind": 1,
+  "value": 120536.0,
+  "signed": "2015-04-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ŽOLNIR d.o.o."
+  ],
+  "contractor_ids": [
+   "1563033000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2254/2015/POG-97",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000250_150409_131812.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk3O0QxMzE1MDAwMDI1MF8xNTA0MDlfMTMxODEyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

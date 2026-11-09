@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 93051,
+  "type": "DOD",
+  "prev": 18488,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 675/2015 Izdelava, priprava za tisk in tiskanje, skladiščenje, pakiranje in dobava vinjet 2016-2018",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 675/2015 Izdelava, priprava za tisk in tiskanje, skladiščenje, pakiranje in dobava vinjet 2016-2018",
+  "kind": 1,
+  "value": 417715.8,
+  "signed": "2018-02-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CETIS, grafične in dokumentacijske storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5042208000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-02-26",
+  "files": [
+   {
+    "name": "Aneks št. 1 - 152-2018.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzMDUxO0FuZWtzIMWhdC4gMSAtIDE1Mi0yMDE4LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

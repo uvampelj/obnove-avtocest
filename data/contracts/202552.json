@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 202552,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731194,
+  "idDosje": 426813,
+  "title": "Izvajanje inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo",
+  "procurement": "Izvajanje inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo",
+  "kind": 1,
+  "value": 585600.0,
+  "signed": "2022-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008057/2021-C01/POG-202552",
+  "published": "2022-01-20",
+  "files": [
+   {
+    "name": "podpisana pogodba za objavo 000194-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMjU1Mjtwb2RwaXNhbmEgcG9nb2RiYSB6YSBvYmphdm8gMDAwMTk0LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

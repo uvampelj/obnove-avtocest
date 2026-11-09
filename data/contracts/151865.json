@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 151865,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 702222,
+  "idDosje": 339962,
+  "title": "DOBAVA KURILNEGA OLJA",
+  "procurement": "DOBAVA KURILNEGA OLJA",
+  "kind": 2,
+  "value": 54899.39,
+  "signed": "2020-05-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MK&CO, trgovinske storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8564345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000416/2020-X01/POG-151865",
+  "published": "2020-05-14",
+  "files": [
+   {
+    "name": "Pogodba 1043-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTg2NTtQb2dvZGJhIDEwNDMtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

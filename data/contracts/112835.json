@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 112835,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680171,
+  "idDosje": 263048,
+  "title": "Nabava pisarniškega pohištva in naprav",
+  "procurement": "Pisarniško in ostalo pohištvo,Bela tehnika in ostalo,Fotoaparati,Kovinsko pohištvo",
+  "kind": 2,
+  "value": 187687.7,
+  "signed": "2018-10-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATLAS OPREMA, podjetje za proizvodnjo in trgovino z notranjo opremo, d.o.o.",
+   "BIROSISTEMI poslovne rešitve d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5730716000",
+   "6739148000",
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004546/2018-C01/POG-112835",
+  "published": "2018-11-09",
+  "files": [
+   {
+    "name": "POGODBA - sklop 1,2,3,4.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjgzNTtQT0dPREJBIC0gc2tsb3AgMSwyLDMsNC56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

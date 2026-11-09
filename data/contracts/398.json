@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 398,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630517,
+  "idDosje": 13233,
+  "title": "Čiščenje platoja in javnega sanitarnega objekta na počivališču Grabonoš - S, 2. faza.",
+  "procurement": "Čiščenje platoja in javnega sanitarnega objekta na počivališču Grabonoš - S, 2. faza.",
+  "kind": 1,
+  "value": 134590.4,
+  "signed": "2014-11-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIV SERVIS, d.o.o."
+  ],
+  "contractor_ids": [
+   "5491789000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV5403/2014/POG-398",
+  "published": "2015-05-25",
+  "files": [
+   {
+    "name": "pogodba 001597-2014.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5ODtwb2dvZGJhIDAwMTU5Ny0yMDE0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

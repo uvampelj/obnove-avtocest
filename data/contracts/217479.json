@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 217479,
+  "type": "DOD",
+  "prev": 195597,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1163/2021: Izvedba zamenjave VDP opreme v predorih Pletovarje in Golo Rebro",
+  "procurement": "Izvedba zamenjave VDP opreme v predorih Pletovarje in Golo Rebro",
+  "kind": 2,
+  "value": 16244.71,
+  "signed": "2022-07-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-29",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNzQ3OTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

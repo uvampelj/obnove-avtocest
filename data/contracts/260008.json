@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 260008,
+  "type": "DOD",
+  "prev": 17068,
+  "idObrazec": 793917,
+  "idDosje": 72505,
+  "title": "Aneks št. 4, DARS št. 107/2024 k pog. DARS št. 450/2015",
+  "procurement": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-01-26",
+  "from": null,
+  "to": null,
+  "number": "107/2024",
+  "contractors": [
+   "IRGO CONSULTING d.o.o.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE",
+   "PV INVEST d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000",
+   "5866324000",
+   "2187647000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN4477/2015/POG-17068-D03",
+  "published": "2024-02-27",
+  "files": [
+   {
+    "name": "Aneks 4, DARS št. 107-2024 k pogodbi DARS št. 450-2015,podp..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY4MTIzO0FuZWtzIDQsIERBUlMgxaF0LiAxMDctMjAyNCBrIHBvZ29kYmkgREFSUyDFoXQuIDQ1MC0yMDE1LHBvZHAuLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

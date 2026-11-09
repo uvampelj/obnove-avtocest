@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287553,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 854923,
+  "idDosje": 511859,
+  "title": "PREGLEDI GASILNIKOV TER PREGLEDI IN PREIZKUSI HIDRANTNEGA OMREŽJA\n",
+  "procurement": "PREGLEDI GASILNIKOV TER PREGLEDI IN PREIZKUSI HIDRANTNEGA OMREŽJA",
+  "kind": 1,
+  "value": 122476.47,
+  "signed": "2024-09-24",
+  "from": "2024-09-24",
+  "to": "2029-09-24",
+  "number": "000994/2024",
+  "contractors": [
+   "SINT- podjetje za trgovino, servis in inženiring za varstvo pri delu in požarno varnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5370434000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004808/2024-POG/01",
+  "published": "2024-09-25",
+  "files": [
+   {
+    "name": "Pogodba SINT_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE4NzkxO1BvZ29kYmEgU0lOVF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

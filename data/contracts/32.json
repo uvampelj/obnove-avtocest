@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 32,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630238,
+  "idDosje": 80378,
+  "title": "Dobava signalnih prikolic in varovalne opreme",
+  "procurement": "Svetlobne table za zapiranje prometnega pasu",
+  "kind": 2,
+  "value": 51220.48,
+  "signed": "2015-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ITAIA d.o.o."
+  ],
+  "contractor_ids": [
+   "5505771000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN3192/2015/POG-32",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000366_150518_143033.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMyO0QxMzE1MDAwMDM2Nl8xNTA1MThfMTQzMDMzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

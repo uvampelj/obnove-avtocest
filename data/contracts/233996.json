@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 233996,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 749992,
+  "idDosje": 465015,
+  "title": "Dobava zabojnikov za odpadke in traktorskega platoja; SKLOP 2 - Traktorski plato",
+  "procurement": "Dobava zabojnikov za odpadke in traktorskega platoja",
+  "kind": 2,
+  "value": 2586.4,
+  "signed": "2023-03-23",
+  "from": "2023-03-23",
+  "to": "2023-12-23",
+  "number": "000544/2023",
+  "contractors": [
+   "EKO LINE TRADE proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5899869000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008035/2022-X01/POG-233996",
+  "published": "2023-03-27",
+  "files": [
+   {
+    "name": "R pogodba S2 544-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTMwMjtSIHBvZ29kYmEgUzIgNTQ0LTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

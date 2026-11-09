@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 71498,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659625,
+  "idDosje": 192182,
+  "title": "Izdelava cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini",
+  "procurement": "Izdelava cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini",
+  "kind": 1,
+  "value": 27950.0,
+  "signed": "2017-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001877/2017-X01/POG-71498",
+  "published": "2017-05-26",
+  "files": [
+   {
+    "name": "pogodba Drago Cerovšek 387-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcxNDk4O3BvZ29kYmEgRHJhZ28gQ2Vyb3bFoWVrIDM4Ny0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

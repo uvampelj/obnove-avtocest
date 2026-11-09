@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104160,
+  "type": "DOD",
+  "prev": 78722,
+  "idObrazec": 769572,
+  "idDosje": 197372,
+  "title": "aneks št. 1 k pog. DARS ŠT. 436/17 ZA NADGRADNJO IN INTEGRACIJO OBSTOJEČIH SISTEMOV NKS PREDOROV NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI CENTER - podaljšanje pogodbenega roka",
+  "procurement": "NADGRADNJA IN INTEGRACIJA OBSTOJEČIH SISTEMOV NKS PREDOROV NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI NADZORNI CENTER KOZINA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-04-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST, d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003013/2017-C01/DOD-104160",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2MDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

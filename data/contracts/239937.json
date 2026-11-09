@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 239937,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 754656,
+  "idDosje": 458137,
+  "title": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za izvedbo sistema za nadzor in vodenje prometa (SNVP) na AC A1 Štajerska in AC A5",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za izvedbo sistema za nadzor in vodenje prometa (SNVP) na AC A1 Štajerska in AC A5",
+  "kind": 1,
+  "value": 768441.4,
+  "signed": "2023-05-10",
+  "from": "2023-05-10",
+  "to": "2024-11-10",
+  "number": "000647/2023",
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006521/2022-C01/POG-239937",
+  "published": "2023-06-05",
+  "files": [
+   {
+    "name": "Pogodba-JV Elektroenergetika+PNZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MjE2ODtQb2dvZGJhLUpWIEVsZWt0cm9lbmVyZ2V0aWthK1BOWl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

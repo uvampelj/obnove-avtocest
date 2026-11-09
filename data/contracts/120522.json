@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 120522,
+  "type": "DOD",
+  "prev": 110866,
+  "idObrazec": 771224,
+  "idDosje": 257842,
+  "title": "Izdelava PZI projektne dokum.za obnovo voziščne konstruk.na delih odsekov HC H3/0086 in 0686 LJ (Šmartinska-Tomačevo), H3/0088 in 0688 LJ (Tomačevo-Dunajska) in 0186 priklj.LJ Črnuče (rondo Tomačevo)",
+  "procurement": "Izdelava PZI projektne dokum.za obnovo voziščne konstruk.na delih odsekov HC H3/0086 in 0686 LJ (Šmartinska-Tomačevo), H3/0088 in 0688 LJ (Tomačevo-Dunajska) in 0186 priklj.LJ Črnuče (rondo Tomačevo)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003382/2018-X01/DOD-120522",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "aneks-1-258-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUyMjthbmVrcy0xLTI1OC0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

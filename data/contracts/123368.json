@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 123368,
+  "type": "DOD",
+  "prev": 81516,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Anek št. 1 k pogodbi DARS št.731/2017-dodatna dela, podaljšanje roka, nominacija podizvajalca",
+  "procurement": "Izvedba odprave pomankljivosti pri izvedenih delih na odseku Dramlje-Celje-Arja vas",
+  "kind": 3,
+  "value": 65284.37,
+  "signed": "2019-03-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Deltabloc international GmbH",
+   "MABA Fertigteilindustrie GmbH"
+  ],
+  "contractor_ids": [
+   null,
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-28",
+  "files": [
+   {
+    "name": "a1_k pog DARS št.731-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzM2ODthMV9rIHBvZyBEQVJTIMWhdC43MzEtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

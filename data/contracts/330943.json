@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 330943,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 973826,
+  "idDosje": 526920,
+  "title": "Pogodba Izvedba rednega pregledovanja AC/HC (RSI) v upravljanju DARS, Sklop 1: območje 6: Kozina, sklop 2: območje 9: Murska Sobota",
+  "procurement": "Izvedba rednega pregledovanja AC/HC (RSI) v upravljanju DARS",
+  "kind": 1,
+  "value": 121085.0,
+  "signed": "2026-01-15",
+  "from": "2026-01-15",
+  "to": "2027-04-15",
+  "number": "000050/2026",
+  "contractors": [
+   "APPIA družba za projektiranje, raziskave in inženiring d.o.o.",
+   "APPIA družba za projektiranje, raziskave in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1829157000",
+   "1829157000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008251/2025-POG/01",
+  "published": "2026-01-20",
+  "files": [
+   {
+    "name": "PJN pogodba številka 000050-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI0NTI4O1BKTiBwb2dvZGJhIMWhdGV2aWxrYSAwMDAwNTAtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

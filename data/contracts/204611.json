@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 204611,
+  "type": "DOD",
+  "prev": 161597,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 1343/2020: Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na delih odsekov AC Ljubljana (Kozarje) - Brezovica – Vrhnika – Logatec ter priključkih Brezovica in Vrhnika ",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na delih odsekov AC Ljubljana (Kozarje) - Brezovica - Vrhnika - Logatec ter priključkih Brezovica in Vrhnika",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-14",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNDYxMTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

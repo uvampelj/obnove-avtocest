@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268392,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 817382,
+  "idDosje": 507093,
+  "title": "Dobava prometne opreme",
+  "procurement": "Dobava prometne opreme",
+  "kind": 2,
+  "value": 600246.1,
+  "signed": "2024-05-29",
+  "from": "2024-05-29",
+  "to": "2027-08-29",
+  "number": "000664/2024",
+  "contractors": [
+   "ZMAS SI, prometne storitve in signalizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "2372169000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001120/2024-POG/01",
+  "published": "2024-05-31",
+  "files": [
+   {
+    "name": "Podpisana pogodba 30-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg2OTE5O1BvZHBpc2FuYSBwb2dvZGJhIDMwLTIwMjRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

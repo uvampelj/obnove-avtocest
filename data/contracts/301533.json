@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 301533,
+  "type": "DOD",
+  "prev": 57903,
+  "idObrazec": 891353,
+  "idDosje": 80931,
+  "title": " Aneks št. 4 k pogodbi DARS št. 1628/2014 za izvajanje strokovno svetovalnih storitev pri izvedbi nacionalnega programa izgradnje AC v Republiki Sloveniji za dograditev AC predora Karavanke za fazo izdelave projekta za pridobitev gradbenega dovoljenja (PGD) in fazo izdelave projekta za izvedbo (PZI)",
+  "procurement": "Izvajanje strokovno svetovalnih storitev pri izvedbi nacionalnega programa izgradnje avtocest v Republiki Sloveniji za dograditev avtocestnega predora Karavanke za fazo izdelave projekta za pridobitev",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-02-21",
+  "from": "2014-12-15",
+  "to": "2026-08-31",
+  "number": "001628/2014",
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN11664/2014/POG-57903-D02",
+  "published": "2025-02-24",
+  "files": [
+   {
+    "name": "a4_pog1628-2014_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ3OTA2O2E0X3BvZzE2MjgtMjAxNF9wb2RwaXNhbl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

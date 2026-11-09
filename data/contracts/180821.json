@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 180821,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 719203,
+  "idDosje": 383583,
+  "title": "Čiščenje sanitarnega objekta na malem počivališču Dolinsko - jug in na kontrolni točki Dolinsko - sever",
+  "procurement": "Čiščenje sanitarnega objekta na malem počivališču Dolinsko - jug in na kontrolni točki Dolinsko - sever",
+  "kind": 1,
+  "value": 92915.2,
+  "signed": "2021-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIV SERVIS, storitve, trgovina in proizvodnja, d.o.o."
+  ],
+  "contractor_ids": [
+   "5491789000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000281/2021-C01/POG-180821",
+  "published": "2021-05-10",
+  "files": [
+   {
+    "name": "pogodba 739-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MDgyMTtwb2dvZGJhIDczOS0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

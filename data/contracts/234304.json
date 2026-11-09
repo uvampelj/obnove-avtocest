@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234304,
+  "type": "DOD",
+  "prev": 54663,
+  "idObrazec": 768535,
+  "idDosje": 44850,
+  "title": "Aneks št. 2 k pogodbi DARS št.908/2016 za Svetovalne in inženirske storitve za izvedbo vzhodne cevi (nova cev) in obnovo zahodne cevi (stara cev) predora karavanke; zamenjava strokovnega kadra, vključitev naknadno nominiranih podizvajalcev, sprememba cene urne postavke zaradi indeksacije, sprememba",
+  "procurement": "Svetovalne in inženirske storitve za izvedbo vzhodne cevi (nova cev) in obnovo zahodne cevi (stara cev) predora Karavanke",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-03-29",
+  "from": "2023-03-29",
+  "to": "2033-03-29",
+  "number": "000557/2023",
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007308/2016-C01/DOD-234304",
+  "published": "2023-03-31",
+  "files": [
+   {
+    "name": "podpisan aneks 2_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTY3NTtwb2RwaXNhbiBhbmVrcyAyX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

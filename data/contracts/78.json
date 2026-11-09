@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630261,
+  "idDosje": 80219,
+  "title": "Razvoj in vzdrževanje informacijskega sistema Navision.",
+  "procurement": "Razvoj in vzdrževanje informacijskega sistema Navision.",
+  "kind": 1,
+  "value": 426072.8,
+  "signed": "2015-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADACTA d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1840/2015/POG-78",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000213_150323_091619 - pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4O0QxMzE1MDAwMDIxM18xNTAzMjNfMDkxNjE5IC0gcG9nb2RiYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 270941,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 825535,
+  "idDosje": 506221,
+  "title": "Sklop 2: Priklopno vozilo z naletnim mehom – enkratna dobava",
+  "procurement": "PRIKLOPNA VOZILA IN SIGNALNE TABLE",
+  "kind": 2,
+  "value": 456890.0,
+  "signed": "2024-07-03",
+  "from": "2024-07-03",
+  "to": "2025-07-03",
+  "number": "000767/2024",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000499/2024-POG/02",
+  "published": "2024-07-05",
+  "files": [
+   {
+    "name": "Pogodba - RIKO RIBNICA-2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkzMzY3O1BvZ29kYmEgLSBSSUtPIFJJQk5JQ0EtMl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

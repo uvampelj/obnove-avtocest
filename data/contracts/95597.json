@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95597,
+  "type": "DOD",
+  "prev": 83482,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 818-2017 -  Izvajanje zimske službe v sezoni 2017-2018",
+  "procurement": "Izvajanje zimske službe v sezoni 2017-2018 - sklop 1 - ACB Ljubljana - izpostava Dob (najem stroja)",
+  "kind": 1,
+  "value": 3019.51,
+  "signed": "2018-04-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OPRAVLJANJE STORITEV Z GRADBENO MEHANIZACIJO IN AVTOPREVOZNIŠTVO AVGUŠTIN SADAR S.P."
+  ],
+  "contractor_ids": [
+   "5397420000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-06",
+  "files": [
+   {
+    "name": "Aneks DARS št. 1309-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NTk3O0FuZWtzIERBUlMgxaF0LiAxMzA5LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

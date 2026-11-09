@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52896,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 244/13:IZDELAVA OCENE UČINKA NA VARNOST V PROMETU PRI NAČRTOVANJU AC POSTOJNA/DIVAČA-JELŠANE-podaljšanje roka  ",
+  "procurement": "aneks št. 1 k pog. DARS št. 244/13:IZDELAVA OCENE UČINKA NA VARNOST V PROMETU PRI NAČRTOVANJU AC POSTOJNA/DIVAČA-JELŠANE-podaljšanje roka  ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-07-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IAR"
+  ],
+  "contractor_ids": [
+   "3353311000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "512-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODk2OzUxMi0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

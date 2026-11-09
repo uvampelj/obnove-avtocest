@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310586,
+  "type": "DOD",
+  "prev": 231352,
+  "idObrazec": 915162,
+  "idDosje": 458017,
+  "title": "Aneks št. 1 po pogodbi DARS d. d., št. 117/2023 za Izdelavo dopolnilnih hidrogeoloških raziskav za študijo variant / predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj – Markovc ",
+  "procurement": "Izdelava dopolnilnih hidrogeoloških raziskav za študijo variant / predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 8616.86,
+  "signed": "2025-05-14",
+  "from": "2025-05-14",
+  "to": "2025-07-31",
+  "number": "000117/2023",
+  "contractors": [
+   "Geološki zavod Slovenije"
+  ],
+  "contractor_ids": [
+   "5051410000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006429/2022-X01/POG-231352-D01",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NzI5O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

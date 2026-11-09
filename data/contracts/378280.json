@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 378280,
+  "type": "DOD",
+  "prev": 240543,
+  "idObrazec": 1031367,
+  "idDosje": 465622,
+  "title": "Aneks št. 2 k pogodbi DARS d. d., št. 706/2023 za izdelavo projektne dokumentacije PZI za obnovo voziščne konstrukcije in objektov na delih odsekov avtoceste Hrušica – Lipce in Lipce – Lesce, vključno s sanacijo viadukta VA0321 in galerije VA0322 ",
+  "procurement": "Izdelava projektne dokumentacije PZI za obnovo voziščne konstrukcije in objektov na delih odsekov avtoceste Hrušica - Lipce in Lipce - Lesce, vključno s sanacijo viadukta VA0321 in galerije VA0322",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-03-23",
+  "from": "2026-03-23",
+  "to": "2026-11-24",
+  "number": "000706/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1708597000",
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008269/2022-C01/POG-240543-D02",
+  "published": "2026-03-26",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDc5MjQ5O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

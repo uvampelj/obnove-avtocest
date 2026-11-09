@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 260484,
+  "type": "DOD",
+  "prev": 153337,
+  "idObrazec": 795262,
+  "idDosje": 313049,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1089/2020: Izdelava IZP in PZI NAČRTOV za rekonstrukcijo z zamenjavo nadhodov Gotske ulice VA0226 in Ledarske ulice VA0228, H3, odsek 0090, km 0,450 in 1,040 ",
+  "procurement": "Izdelava IZP in PZI načrtov za rekonstrukcijo z zamenjavo nadhodov Gotske ulice VA0226 in Ledarske ulice VA0228, H3, odsek 0090, km 0,450 in 1,040 ",
+  "kind": 1,
+  "value": 15306.79,
+  "signed": "2024-02-02",
+  "from": "2024-02-02",
+  "to": "2024-06-01",
+  "number": "250/2023",
+  "contractors": [
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "2170388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004199/2019-X01/POG-153337-D01",
+  "published": "2024-03-01",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY5MTQ1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

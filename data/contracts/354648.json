@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354648,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1002514,
+  "idDosje": 529038,
+  "title": "Zavarovanje odgovornosti članov organov vodenja in nadzora DARS",
+  "procurement": "Zavarovanje odgovornosti članov organov vodenja in nadzora DARS",
+  "kind": 1,
+  "value": 154365.12,
+  "signed": "2026-02-20",
+  "from": "2026-02-28",
+  "to": "2027-02-28",
+  "number": "000172/2026",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010033/2025-POG/01",
+  "published": "2026-02-23",
+  "files": [
+   {
+    "name": "R_pogodba št 000172-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUxNzY2O1JfcG9nb2RiYSDFoXQgMDAwMTcyLTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

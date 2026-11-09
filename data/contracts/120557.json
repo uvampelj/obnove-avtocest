@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 120557,
+  "type": "DOD",
+  "prev": 96229,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1350/2018",
+  "procurement": "Strokovne podlage za operativni program varstva pred hrupom ob AC v RS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-02-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "1300342000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-02-18",
+  "files": [
+   {
+    "name": "Aneks 137-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDU1NztBbmVrcyAxMzctMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

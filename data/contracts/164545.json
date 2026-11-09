@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 164545,
+  "type": "DOD",
+  "prev": 127991,
+  "idObrazec": 772191,
+  "idDosje": 235526,
+  "title": "aneks št. 1- Rušitev in preureditev CP Nanos, Dane, Logatec, Unec-S, Unec-J, Razdrto-S, Razdrto-J, Postojna-S, Postojna-J in OVK HC H4/0374 in 0774 Razdrto - Vipava od km 0,000 do km 0,075, razcepa A1/0154 Nanos",
+  "procurement": "Rušitev in preureditev CP Nanos, Dane, Logatec, Unec-S, Unec-J, Razdrto-S, Razdrto-J, Postojna-S, Postojna-J in OVK HC H4/0374 in 0774 Razdrto - Vipava od km 0,000 do km 0,075, razcepa A1/0154 Nanos,",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010423/2017-C01/DOD-164545",
+  "published": "2020-10-29",
+  "files": [
+   {
+    "name": "aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NDU0NTthbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

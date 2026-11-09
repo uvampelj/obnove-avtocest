@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 83,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630266,
+  "idDosje": 80528,
+  "title": "Redno vzdrževanje in pregledi elektroenergetskih srednjenapetostnih naprav v upravljanju DARS d.d.",
+  "procurement": "Redno vzdrževanje in pregledi elektroenergetskih srednjenapetostnih naprav v upravljanju DARS d.d.",
+  "kind": 1,
+  "value": 282853.22,
+  "signed": "2015-01-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TSN d.o.o."
+  ],
+  "contractor_ids": [
+   "5042046000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN177/2015/POG-83",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000016_150109_130812.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgzO0QxMzE1MDAwMDAxNl8xNTAxMDlfMTMwODEyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

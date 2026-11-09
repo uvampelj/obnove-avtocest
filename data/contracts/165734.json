@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 165734,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 710803,
+  "idDosje": 358799,
+  "title": "ČIŠČENJE ZADRŽEVALNIH BAZENOV IN OBJEKTOV LOVILCEV OLJ",
+  "procurement": "ČIŠČENJE ZADRŽEVALNIH BAZENOV IN OBJEKTOV LOVILCEV OLJ",
+  "kind": 1,
+  "value": 885964.5,
+  "signed": "2020-11-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREL, ekološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004238/2020-C01/POG-165734",
+  "published": "2020-11-13",
+  "files": [
+   {
+    "name": "Pogodba 1489-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTczNDtQb2dvZGJhIDE0ODktMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

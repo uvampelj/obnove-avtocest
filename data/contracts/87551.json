@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 87551,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667222,
+  "idDosje": 223326,
+  "title": "Izdelava strok. podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prost. načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi držav. prost.načrta)",
+  "procurement": "Izdelava strok. podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prost. načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi držav. prost.načrta)",
+  "kind": 1,
+  "value": 83888.42,
+  "signed": "2017-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008334/2017-C01/POG-87551",
+  "published": "2017-12-27",
+  "files": [
+   {
+    "name": "Pogodba-J.V.LUZ in PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3NTUxO1BvZ29kYmEtSi5WLkxVWiBpbiBQTloucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 290865,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 864428,
+  "idDosje": 513581,
+  "title": "Dobava in montaža opreme za sejne sobe (okoljsko manj obremenjujoče blago)",
+  "procurement": "Dobava in montaža opreme za sejne sobe (okoljsko manj obremenjujoče blago)",
+  "kind": 2,
+  "value": 240243.62,
+  "signed": "2024-10-30",
+  "from": "2024-10-30",
+  "to": "2025-06-30",
+  "number": "001089/2024",
+  "contractors": [
+   "TSE d.o.o., audio video inženiring, Ljubljana",
+   "NKT, nove komunikacijske tehnologije, d.o.o.",
+   "DEK electronics, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300835000",
+   "3781879000",
+   "5330483000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006213/2024-POG/01",
+  "published": "2024-11-06",
+  "files": [
+   {
+    "name": "Pogodba 1089-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI2MzcxO1BvZ29kYmEgMTA4OS0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

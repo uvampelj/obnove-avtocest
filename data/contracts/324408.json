@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324408,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956276,
+  "idDosje": 524396,
+  "title": "Prevzem različnih odpadnih materialov; SKLOP 3 - Odpadne tunelske pralne vode iz ACB Vransko",
+  "procurement": "Prevzem različnih odpadnih materialov",
+  "kind": 1,
+  "value": 49275.0,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2029-11-04",
+  "number": "001224/2025",
+  "contractors": [
+   "AGJ, arhitekturno projektiranje in ravnanje z odplakami, d.o.o."
+  ],
+  "contractor_ids": [
+   "3455980000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006001/2025-POG/02",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "R_Pogodba 001224-2025 S3.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNTU0O1JfUG9nb2RiYSAwMDEyMjQtMjAyNSBTMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

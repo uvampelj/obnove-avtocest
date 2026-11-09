@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 221123,
+  "type": "DOD",
+  "prev": 160158,
+  "idObrazec": 774584,
+  "idDosje": 352813,
+  "title": "neks št. 1 k pog. DARS št. 1353/2020 - DOBAVA OLJ, MAZIV IN TEKOČIN; sprememba vrednosti, sprememba zastopnika in podpisnika ter skrbnika pogodbe",
+  "procurement": "Olja, maziva in tekočine,Dodatek AdBlue®",
+  "kind": 2,
+  "value": 67723.48,
+  "signed": "2022-08-17",
+  "from": "2022-08-17",
+  "to": "2022-09-03",
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002879/2020-C01/DOD-221123",
+  "published": "2022-09-06",
+  "files": [
+   {
+    "name": "Aneks št. 1,  DARS št. 1099-2022 k pog. DARS št. 1353-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMTEyNDtBbmVrcyDFoXQuIDEsICBEQVJTIMWhdC4gMTA5OS0yMDIyIGsgcG9nLiBEQVJTIMWhdC4gMTM1My0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

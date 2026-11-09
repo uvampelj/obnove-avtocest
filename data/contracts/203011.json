@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 203011,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731490,
+  "idDosje": 421554,
+  "title": "Izvajanje zimske službe 2021/2022",
+  "procurement": "ACB Ljubljana razširjeno,ACB Ljubljana - Izpostava Dob,ACB Ljubljana, ACB Slovenske Konjice in ACB Postojna,ACB Novo mesto,ACB Murska Sobota,Najem voznikov",
+  "kind": 1,
+  "value": 187206.3,
+  "signed": "2022-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GP LEVAR gradbeno podjetje d.o.o.",
+   "GTL gradnje, transport in logistika d.o.o.",
+   "OŠTIR, prevozništvo in storitve d.o.o.",
+   "PGM MOČNIK prevozništvo in strojna zemeljska dela D.O.O."
+  ],
+  "contractor_ids": [
+   "6659012000",
+   "6657281000",
+   "1816110000",
+   "3725375000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007203/2021-X01/POG-203011",
+  "published": "2022-01-26",
+  "files": [
+   {
+    "name": "POGODBE 1.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzAxMTtQT0dPREJFIDEuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

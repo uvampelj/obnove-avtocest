@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 139326,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 694925,
+  "idDosje": 320757,
+  "title": "Vzdrževanje UPS naprav",
+  "procurement": "Vzdrževanje UPS naprav",
+  "kind": 1,
+  "value": 431224.56,
+  "signed": "2019-11-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SOCOMEC SICON podjetje za proizvodnjo in prodajo elektronskih in elektrotehničnih sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005739/2019-C01/POG-139326",
+  "published": "2019-11-21",
+  "files": [
+   {
+    "name": "Pogodba-166-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzOTMyNjtQb2dvZGJhLTE2Ni0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

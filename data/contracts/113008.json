@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 113008,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680245,
+  "idDosje": 265144,
+  "title": "Poslovni najem vozil",
+  "procurement": "vozilo z večjo oddaljenostjo od tal, vsaj 110 kW,karavan, vsaj 140 kW",
+  "kind": 1,
+  "value": 248766.0,
+  "signed": "2018-11-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004972/2018-C01/POG-113008",
+  "published": "2018-11-13",
+  "files": [
+   {
+    "name": "Pogodba 1996-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMzAwODtQb2dvZGJhIDE5OTYtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

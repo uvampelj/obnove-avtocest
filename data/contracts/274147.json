@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 274147,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 835200,
+  "idDosje": 511500,
+  "title": "Izdelava dela projektne dokumentacije PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izdelava dela projektne dokumentacije PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 109800.0,
+  "signed": "2024-08-09",
+  "from": "2024-08-09",
+  "to": "2025-08-09",
+  "number": "000853/2024",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004516/2024-POG/01",
+  "published": "2024-08-16",
+  "files": [
+   {
+    "name": "Pogodba-JV BPI+PNZ_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAxMTMzO1BvZ29kYmEtSlYgQlBJK1BOWl9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

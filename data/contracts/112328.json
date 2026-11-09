@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 112328,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 249/2014 za opravljanje nalog medicine dela za sklop 9 - preventivni in obdobni zdravstveni pregledi za delavce iz Maribora z okolico; več dela",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 249/2014 za opravljanje nalog medicine dela za sklop 9 - preventivni in obdobni zdravstveni pregledi za delavce iz Maribora z okolico; več dela",
+  "kind": 1,
+  "value": 10237.5,
+  "signed": "2018-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR"
+  ],
+  "contractor_ids": [
+   "5054095000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-10-29",
+  "files": [
+   {
+    "name": "aneks 1 k pog 249-2014.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjMyODthbmVrcyAxIGsgcG9nIDI0OS0yMDE0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

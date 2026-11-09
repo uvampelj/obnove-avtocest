@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 101897,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 674764,
+  "idDosje": 244558,
+  "title": "Servisiranje strojev in opreme",
+  "procurement": "Servisiranje, popravila  in dobava nadomestnih delov za lastno vgradnjo delovnih strojev Bobcat,Servisiranje, popravila  in dobava nadomestnih delov za lastno vgradnjo delovnih strojev Komatsu,Servisiranje, popravila  in dobava nadomestnih delov za lastno vgradnjo delovnih strojev Kubota,Servisiranje, popravila  in dobava nadomestnih delov za lastno vgradnjo traktorjev Fendt in Valtra,Servisiranje, popravila  in dobava nadomestnih delov za lastno vgradnjo kosilnic Ducker in snežnih frez Kahlbaher",
+  "kind": 1,
+  "value": 344456.2,
+  "signed": "2018-06-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DIMEH napredne tehnologije d.o.o.",
+   "KUHN, trgovina in posredovanje, d.o.o.",
+   "MKB CENTER trgovina, zastopstva in storitve d.o.o.",
+   "INTEREXPORT mednarodna trgovina, d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o."
+  ],
+  "contractor_ids": [
+   "6960456000",
+   "5895391000",
+   "2098113000",
+   "5101956000",
+   "6015174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001226/2018-C01/POG-101897",
+  "published": "2018-07-03",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMTg5Nztwb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

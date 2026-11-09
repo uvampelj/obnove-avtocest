@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124568,
+  "type": "DOD",
+  "prev": 117881,
+  "idObrazec": 771659,
+  "idDosje": 273820,
+  "title": "IZDELAVA DOKUMENTACIJE PZI IN IZVLEČKA IZ PZI \"PREDOR MARKOVEC - IZREDNO DVOSMERNO OBRATOVANJE\"",
+  "procurement": "IZDELAVA DOKUMENTACIJE PZI IN IZVLEČKA IZ PZI \"PREDOR MARKOVEC - IZREDNO DVOSMERNO OBRATOVANJE\"",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-03-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006233/2018-X01/DOD-124568",
+  "published": "2019-04-12",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDU2ODtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

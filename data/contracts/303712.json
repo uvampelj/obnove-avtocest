@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 303712,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 896776,
+  "idDosje": 516721,
+  "title": "Sklop 1: Servisiranje in dobava nadomestnih delov za mulčerje proizvajalca Rapid",
+  "procurement": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA MULČERJE, VILIČARJE IN MERILCE SLANOSTI",
+  "kind": 1,
+  "value": 490379.0,
+  "signed": "2025-03-10",
+  "from": "2025-03-10",
+  "to": "2028-06-10",
+  "number": "000386/2025",
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5490600000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008829/2024-POG/01",
+  "published": "2025-03-17",
+  "files": [
+   {
+    "name": "Pogodba - Fužinar_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUyNDk4O1BvZ29kYmEgLSBGdcW-aW5hcl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

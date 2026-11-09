@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 46634,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650399,
+  "idDosje": 162003,
+  "title": "Vzdrževanje komunikacijskih sistemov Ericsson (Mitel)",
+  "procurement": "Vzdrževanje komunikacijskih sistemov Ericsson (Mitel)",
+  "kind": 1,
+  "value": 77561.93,
+  "signed": "2016-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KRON TELEKOM, d.o.o."
+  ],
+  "contractor_ids": [
+   "5948649000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003846/2016-X01/POG-46634",
+  "published": "2016-09-09",
+  "files": [
+   {
+    "name": "Pogodba 735-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ2NjM0O1BvZ29kYmEgNzM1LTE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

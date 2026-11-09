@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 44219,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 649063,
+  "idDosje": 154030,
+  "title": "Izvedba študije - Preučitev možnosti uvedbe lokalnih vinjet",
+  "procurement": "Izvedba študije - Preučitev možnosti uvedbe lokalnih vinjet",
+  "kind": 1,
+  "value": 73078.0,
+  "signed": "2016-07-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IPMIT d.o.o."
+  ],
+  "contractor_ids": [
+   "1294105000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000991/2016-X01/POG-44219",
+  "published": "2016-08-08",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ0MjE5O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

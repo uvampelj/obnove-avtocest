@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322707,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 951152,
+  "idDosje": 523847,
+  "title": "ACB Ljubljana + splošna služba",
+  "procurement": "VULKANIZERSKE STORITVE",
+  "kind": 1,
+  "value": 37917.6,
+  "signed": "2025-10-10",
+  "from": "2025-10-10",
+  "to": "2029-01-10",
+  "number": "001161/2025",
+  "contractors": [
+   "AVTOCENTER ŽGAJNAR servis, trgovina in gostinstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3651606000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005531/2025-POG/01",
+  "published": "2025-10-16",
+  "files": [
+   {
+    "name": "Podpisana pogodba sklop 3 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2NDg1O1BvZHBpc2FuYSBwb2dvZGJhIHNrbG9wIDMgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

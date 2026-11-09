@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 242872,
+  "type": "DOD",
+  "prev": 234161,
+  "idObrazec": 783242,
+  "idDosje": 465002,
+  "title": "Aneks 1 k pogodbi DARS št. 547/2023 za prevajalske storitve in lektoriranje; sprememba pogodbe",
+  "procurement": "Prevajalske storitve in lektoriranje; SKLOP 1: Srednje, vzhodno in zahodno evropski jeziki, SKLOP 2: Ostali evropski jeziki",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-06-26",
+  "from": "2023-06-26",
+  "to": "2026-03-23",
+  "number": "000791/2023",
+  "contractors": [
+   "ALKEMIST, prevajalske storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "3423328000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008032/2022-X01/DOD-242872",
+  "published": "2023-07-13",
+  "files": [
+   {
+    "name": "a1 k pog 547-2023 - za objavo_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NTQ5NTthMSBrIHBvZyA1NDctMjAyMyAtIHphIG9iamF2b19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

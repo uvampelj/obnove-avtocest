@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 436059,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1114492,
+  "idDosje": 560966,
+  "title": "Vzdrževanje sistema hlajenja podatkovnega centra",
+  "procurement": "Vzdrževanje sistemov prezračevanja in hlajenja v PS DARS",
+  "kind": 1,
+  "value": 48785.36,
+  "signed": "2026-06-03",
+  "from": "2026-06-03",
+  "to": "2029-09-03",
+  "number": "000699/2026",
+  "contractors": [
+   "FIBERNET storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5957699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001633/2026-POG/02",
+  "published": "2026-06-22",
+  "files": [
+   {
+    "name": "Pogodba št 699-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3NDIyO1BvZ29kYmEgxaF0IDY5OS0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

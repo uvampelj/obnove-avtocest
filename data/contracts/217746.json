@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 217746,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 739665,
+  "idDosje": 443947,
+  "title": "VULKANIZERSKE STORITVE ZA ACB KOZINA",
+  "procurement": "VULKANIZERSKE STORITVE ZA ACB KOZINA",
+  "kind": 1,
+  "value": 17758.81,
+  "signed": "2022-08-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KAMJON SERVIS popravila strojev in naprav d.o.o."
+  ],
+  "contractor_ids": [
+   "3955583000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002941/2022-X01/POG-217746",
+  "published": "2022-08-03",
+  "files": [
+   {
+    "name": "Pogodba Kamjon Servis_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNzc0NjtQb2dvZGJhIEthbWpvbiBTZXJ2aXNfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

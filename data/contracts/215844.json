@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 215844,
+  "type": "DOD",
+  "prev": 164900,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1405/2020: Sanacija viaduktov VA0392 Kresnica -D in VA 0393-L na AC1/0031 in 0631 Šentilj-Pesnica",
+  "procurement": "SANACIJA VIADUKTOV VA0392 KRESNICA -D IN VA 0393-L NA AC1/0031 IN 0631 ŠENTILJ-PESNICA",
+  "kind": 3,
+  "value": 92328.38,
+  "signed": "2022-06-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SANING, sanacije in gradnja objektov, d.o.o.",
+   "SANING INTERNATIONAL, podjetje za sanacije objektov, d.o.o., Kranj",
+   "DOM TRADE, trgovsko podjetje, d.o.o."
+  ],
+  "contractor_ids": [
+   "1126024000",
+   "5613728000",
+   "5755336000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-07",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNTg0NDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

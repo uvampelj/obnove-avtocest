@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271869,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 828433,
+  "idDosje": 509175,
+  "title": "Sklop 1 – Stenska prikazovalnika proizvajalca Barco v NC Vransko in NC Dragomelj ",
+  "procurement": "VZDRŽEVANJE STENSKIH PRIKAZOVALNIKOV",
+  "kind": 1,
+  "value": 149938.0,
+  "signed": "2024-07-16",
+  "from": "2024-07-16",
+  "to": "2026-07-16",
+  "number": "000792/2024",
+  "contractors": [
+   "MICOS mikroračunalniški industrijski sistemi, sistemi vodenj in avtomatizacije, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5358345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002666/2024-POG/01",
+  "published": "2024-07-17",
+  "files": [
+   {
+    "name": "Pogodba - MICOS_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk1NzA3O1BvZ29kYmEgLSBNSUNPU19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268508,
+  "type": "DOD",
+  "prev": 99383,
+  "idObrazec": 817829,
+  "idDosje": 243365,
+  "title": "Aneks št.2 k pogodbi DARS št. 1441/2018 za izdelavo cenitev gozdnih zemljišč; podaljšanje pogodbenega roka",
+  "procurement": "Izdelava cenitev gozdnih zemljišč",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-05-21",
+  "from": "2024-05-21",
+  "to": "2025-08-09",
+  "number": "000638/2024",
+  "contractors": [
+   "MONEA inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "3580679000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000990/2018-C01/POG-99383-D02",
+  "published": "2024-06-03",
+  "files": [
+   {
+    "name": "podpisa aneks 2 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg3MjgyO3BvZHBpc2EgYW5la3MgMiB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

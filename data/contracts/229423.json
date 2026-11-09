@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 229423,
+  "type": "DOD",
+  "prev": 226154,
+  "idObrazec": 782213,
+  "idDosje": 405958,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1219/2021: Izdelava študije izvedbe projekta in predinvesticijske zasnove za gradnjo 2. odseka 3 razvojne osi jug, od priključka Maline do MMP Metlika in do priključka Črnomelj - jug",
+  "procurement": "Izdelava študije izvedbe projekta in predinvesticijske zasnove za gradnjo 2. odseka 3. razvojne osi jug, od priključka Maline do MMP Metlika in do priključka Črnomelj - jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-12-23",
+  "from": "2022-12-23",
+  "to": "2023-04-20",
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004857/2021-C01/DOD-229423",
+  "published": "2023-01-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMDEyOTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

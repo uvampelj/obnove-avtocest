@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 18199,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637332,
+  "idDosje": 72167,
+  "title": "Vzdrževanje usmerjevalnikov ihn mrežnih stikal",
+  "procurement": "Vzdrževanje usmerjevalnikov in mrežnih stikal.",
+  "kind": 1,
+  "value": 128819.4,
+  "signed": "2015-08-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SRC d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5483/2015/POG-18199",
+  "published": "2015-08-12",
+  "files": [
+   {
+    "name": "pogodba 664-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MTk5O3BvZ29kYmEgNjY0LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 330964,
+  "type": "DOD",
+  "prev": 311137,
+  "idObrazec": 973853,
+  "idDosje": 517706,
+  "title": "Aneks 1 k pog. DARS št. 783/2025",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-01-12",
+  "from": null,
+  "to": null,
+  "number": "000783/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000366/2025-POG/04-D01",
+  "published": "2026-01-20",
+  "files": [
+   {
+    "name": "Aneks št. 1, DARS št 36-2026 k pogodbi DARS št. 783-2025_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI0NTYxO0FuZWtzIMWhdC4gMSwgREFSUyDFoXQgMzYtMjAyNiBrIHBvZ29kYmkgREFSUyDFoXQuIDc4My0yMDI1X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

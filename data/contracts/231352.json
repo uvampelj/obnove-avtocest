@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 231352,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 747998,
+  "idDosje": 458017,
+  "title": "Izdelava dopolnilnih hidrogeoloških raziskav za študijo variant / predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "procurement": "Izdelava dopolnilnih hidrogeoloških raziskav za študijo variant / predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 40469.84,
+  "signed": "2023-01-31",
+  "from": "2023-01-31",
+  "to": "2025-07-31",
+  "number": "000117/2023",
+  "contractors": [
+   "Geološki zavod Slovenije"
+  ],
+  "contractor_ids": [
+   "5051410000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006429/2022-X01/POG-231352",
+  "published": "2023-02-15",
+  "files": [
+   {
+    "name": "Pogodba-GeoZS_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjM1ODtQb2dvZGJhLUdlb1pTX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

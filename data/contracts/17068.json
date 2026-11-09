@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 17068,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636826,
+  "idDosje": 72505,
+  "title": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "procurement": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "kind": 1,
+  "value": 608699.48,
+  "signed": "2015-06-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE",
+   "PV INVEST d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000",
+   "5866324000",
+   "2187647000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN4477/2015/POG-17068",
+  "published": "2015-07-24",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDY4O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

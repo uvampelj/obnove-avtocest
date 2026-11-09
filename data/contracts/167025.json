@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167025,
+  "type": "DOD",
+  "prev": 120414,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 19/2019: Izgradnja glavne ceste Želodnik - Mengeš - Vodice, odsek obvoznica Mengeš (1. faza), pododsek krožišče na Kamniški cesti (km 6.680) - navezava na obstoječo cesto (8.520) - dodatna, več in manj dela ter vključitev novih podizvajalcev",
+  "procurement": "IZGRADNJA GLAVNE CESTE ŽELODNIK MENGEŠ VODICE, ODSEK OBVOZNICA MENGEŠ (1. FAZA), PODODSEK KROŽIŠČE NA KAMNIŠKI CESTI (KM 6.680) NAVEZAVA NA OBSTOJEČO GLAVNO CESTO (KM 8.520)",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-29",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog-19-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAyNTtBbmVrcyDFoXQuIDEgayBwb2ctMTktMjAtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 124572,
+  "type": "DOD",
+  "prev": 90218,
+  "idObrazec": 770228,
+  "idDosje": 211494,
+  "title": "IZDELAVA OCENE EKOLOŠKEGA STANJA IN OCENE VPLIVOV GRADNJE IN OBRATOVANJA NA POTOK VERIŽELJ TER ZA IZDELAVO OVREDNOTENJA STANJA IHTIOFAVNE V PAKI IN HUDEM POTOKU, OBOJE ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AVTOCESTI A1 ŠENTILJ-KOPER DO PRIKLJUČKA VELENJE JUG",
+  "procurement": "IZDELAVA OCENE EKOLOŠKEGA STANJA IN OCENE VPLIVOV GRADNJE IN OBRATOVANJA NA POTOK VERIŽELJ TER ZA IZDELAVO OVREDNOTENJA STANJA IHTIOFAVNE V PAKI IN HUDEM POTOKU, OBOJE ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AVTOCESTI A1 ŠENTILJ-KOPER DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-03-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AQUARIUS ekološki inženiring d.o.o. Ljubljana",
+   "VODNOGOSPODARSKI BIRO MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5424534000",
+   "5150531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006223/2017-X01/DOD-124572",
+  "published": "2019-04-12",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDU3MjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

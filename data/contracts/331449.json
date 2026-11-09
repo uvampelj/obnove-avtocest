@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 331449,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 974875,
+  "idDosje": 527054,
+  "title": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "procurement": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "kind": 2,
+  "value": 553352.47,
+  "signed": "2026-01-20",
+  "from": "2026-01-20",
+  "to": "2029-04-20",
+  "number": "000071/2026",
+  "contractors": [
+   "SRC sistemske integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008339/2025-POG/01",
+  "published": "2026-01-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba 71-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI1MzkzO1BvZHBpc2FuYSBwb2dvZGJhIDcxLTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

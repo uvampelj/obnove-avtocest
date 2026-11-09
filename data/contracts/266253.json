@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 266253,
+  "type": "DOD",
+  "prev": 79220,
+  "idObrazec": 810670,
+  "idDosje": 196296,
+  "title": "Aneks št. 1 k pogodbi DARS 615/2017: Izdelava strokovnih podlag za pobudo, pobude in analize smernic za državni prostorski načrt za razširitev ljubljanskega avtocestnega obroča in vpadnih avtocest (do sprejema sklepa o pripravi državnega prostorskega načrta)",
+  "procurement": "IZDELAVA STROKOVNIH PODLAG ZA POBUDO, POBUDE IN ANALIZE SMERNIC ZA DRŽAVNI PROSTORSKI NAČRT ZA RAZŠIRITEV LJUBLJANSKEGA AVTOCESTNEGA OBROČA IN VPADNIH AVTOCEST (DO SPREJEMA SKLEPA O PRIPRAVI DPN)",
+  "kind": 1,
+  "value": 101382.0,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2024-11-30",
+  "number": "533/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002715/2017-C01/POG-79220-D01",
+  "published": "2024-05-06",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgxNzU3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

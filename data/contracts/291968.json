@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 291968,
+  "type": "DOD",
+  "prev": 259731,
+  "idObrazec": 867335,
+  "idDosje": 495889,
+  "title": "Aneks št. 1, DARS št. 1163/2024 k pogodbi DARS 316/2024",
+  "procurement": "Digitalizacija podatkov podzemne GJI DARS z georadarskim snemanjem",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-11-14",
+  "from": null,
+  "to": null,
+  "number": "000316/2024",
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006880/2023-POG/01-D01",
+  "published": "2024-11-15",
+  "files": [
+   {
+    "name": "Aneks 1, DARS st. 1163-2024,podp..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI4NzM5O0FuZWtzIDEsIERBUlMgc3QuIDExNjMtMjAyNCxwb2RwLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

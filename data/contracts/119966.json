@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 119966,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683355,
+  "idDosje": 285903,
+  "title": "Dobava napitkov",
+  "procurement": "Dobava napitkov",
+  "kind": 2,
+  "value": 159778.38,
+  "signed": "2019-01-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FAMA d.o.o. podjetje za trženje Vipava"
+  ],
+  "contractor_ids": [
+   "5390508000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008210/2018-X01/POG-119966",
+  "published": "2019-02-05",
+  "files": [
+   {
+    "name": "pogodba 74-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExOTk2Njtwb2dvZGJhIDc0LTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

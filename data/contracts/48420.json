@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48420,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650734,
+  "idDosje": 160464,
+  "title": "Letni pregled polnilnih postaj",
+  "procurement": "Letni pregled polnilnih postaj",
+  "kind": 1,
+  "value": 169772.76,
+  "signed": "2016-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ORBICO ELEKTRO, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5488109000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003341/2016-X01/POG-48420",
+  "published": "2016-09-20",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4NDIwO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 231484,
+  "type": "DOD",
+  "prev": 200382,
+  "idObrazec": 778649,
+  "idDosje": 388647,
+  "title": "Aneks št. 2 k pog. DARS št. 1283/2021: Upravljanje s prometom na vpadnicah Ljubljane - periferna oprema",
+  "procurement": "Upravljanje s prometom na vpadnicah Ljubljane - periferna oprema",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-01-18",
+  "from": "2023-01-18",
+  "to": "2023-01-18",
+  "number": null,
+  "contractors": [
+   "S&T Iskratel, informacijske in komunikacijske rešitve, d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001031/2021-C01/DOD-231484",
+  "published": "2023-02-17",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjQ5NztBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 189352,
+  "type": "DOD",
+  "prev": 183783,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 813/2021: Vzpostavitev in delovanje sistema elektronska vinjeta-nominacija podizvajalca",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 813/2021: Vzpostavitev in delovanje sistema elektronska vinjeta-nominacija podizvajalca",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-08-19",
+  "from": "2021-08-19",
+  "to": "2027-02-27",
+  "number": null,
+  "contractors": [
+   "BE-terna, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-08-24",
+  "files": [
+   {
+    "name": "a1 k pogodbi DARS št.813-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4OTM1MjthMSBrIHBvZ29kYmkgREFSUyDFoXQuODEzLTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

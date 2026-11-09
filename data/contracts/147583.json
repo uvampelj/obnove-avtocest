@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 147583,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699484,
+  "idDosje": 327147,
+  "title": "Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 10,350 do km 11,717 ter 0029 in 0329 Brežice-Obrežje od km 0,000 do km 8,150 ",
+  "procurement": "Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 10,350 do km 11,717 ter 0029 in 0329 Brežice-Obrežje od km 0,000 do km 8,150 ",
+  "kind": 1,
+  "value": 75457.0,
+  "signed": "2020-02-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007030/2019-X01/POG-147583",
+  "published": "2020-02-28",
+  "files": [
+   {
+    "name": "Pogodba Ginex International.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NzU4MztQb2dvZGJhIEdpbmV4IEludGVybmF0aW9uYWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

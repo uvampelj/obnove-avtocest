@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 245637,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 758834,
+  "idDosje": 481966,
+  "title": "Izvajanje varnostne interventne službe",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 575371.37,
+  "signed": "2023-08-16",
+  "from": "2023-08-16",
+  "to": "2025-11-16",
+  "number": "000899/2023",
+  "contractors": [
+   "RIVAL - VTS sistemi in varovanje, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5966639000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003628/2023-C01/POG-245637",
+  "published": "2023-08-24",
+  "files": [
+   {
+    "name": "R_Pogodba 899-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0ODQ0MjtSX1BvZ29kYmEgODk5LTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

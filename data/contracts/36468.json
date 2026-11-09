@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36468,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645898,
+  "idDosje": 79862,
+  "title": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja.",
+  "procurement": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja.",
+  "kind": 2,
+  "value": 2906330.97,
+  "signed": "2016-01-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN549/2016/POG-36468",
+  "published": "2016-05-12",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NDY4O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

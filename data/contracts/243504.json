@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243504,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757269,
+  "idDosje": 472793,
+  "title": "Opravljanje tehničnih pregledov ter pripadajočih storitev, sklop 1",
+  "procurement": "Opravljanje tehničnih pregledov ter pripadajočih storitev",
+  "kind": 1,
+  "value": 132310.16,
+  "signed": "2023-07-06",
+  "from": "2023-07-06",
+  "to": "2026-07-06",
+  "number": "000817/2023",
+  "contractors": [
+   "AVTO KRKA PO, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3530728000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001215/2023-C01/POG-243504",
+  "published": "2023-07-21",
+  "files": [
+   {
+    "name": "pogodba SKLOP 1_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjIwMjtwb2dvZGJhIFNLTE9QIDFfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

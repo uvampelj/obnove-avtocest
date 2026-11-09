@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53984,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652481,
+  "idDosje": 166842,
+  "title": "Dobava absorpcijskega sredstva",
+  "procurement": "Dobava absorpcijskega sredstva",
+  "kind": 2,
+  "value": 100971.0,
+  "signed": "2016-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "WEBO, d.o.o."
+  ],
+  "contractor_ids": [
+   "5604761000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004980/2016-X01/POG-53984",
+  "published": "2016-11-14",
+  "files": [
+   {
+    "name": "Pogodba 906-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzOTg0O1BvZ29kYmEgOTA2LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

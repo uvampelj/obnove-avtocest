@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 300432,
+  "type": "DOD",
+  "prev": 220516,
+  "idObrazec": 888756,
+  "idDosje": 445720,
+  "title": "Aneks št.1 k pogodbi DARS št. 1113/2022: Obnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660 ",
+  "procurement": "\tObnova vozne površine ter ščitenje nevarnih mest z novimi varnostnimi ograjami na AC A1 0060 Divača-Kozina od km 0,024 do km 6,305 ter zamenjava varovalnih ograj na odsekih 0060 in 0660",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-02-10",
+  "from": "2025-02-10",
+  "to": "2025-04-17",
+  "number": "001113/2022",
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "5143497000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003479/2022-C01/POG-220516-D01",
+  "published": "2025-02-13",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ1NzQ4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91670,
+  "type": "DOD",
+  "prev": 17068,
+  "idObrazec": 767436,
+  "idDosje": 72505,
+  "title": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "procurement": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "kind": 1,
+  "value": 78683.27,
+  "signed": "2016-12-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN4477/2015/DOD-91670",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjcwO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

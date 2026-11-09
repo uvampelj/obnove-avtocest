@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 34620,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645109,
+  "idDosje": 72554,
+  "title": "IZDELAVA PZI ZA IZVEDBO AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OPERATIVNIM PROGRAMOM HRUP – SKLOP A",
+  "procurement": "IZDELAVA PZI ZA IZVEDBO AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OPERATIVNIM PROGRAMOM HRUP – SKLOP A",
+  "kind": 1,
+  "value": 149307.36,
+  "signed": "2016-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN1056/2016/POG-34620",
+  "published": "2016-03-08",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM0NjIwO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

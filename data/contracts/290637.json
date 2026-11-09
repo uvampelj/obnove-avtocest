@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290637,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 863831,
+  "idDosje": 511384,
+  "title": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault\nSKLOP 1 - Postojna",
+  "procurement": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault",
+  "kind": 1,
+  "value": 57157.0,
+  "signed": "2024-10-30",
+  "from": "2024-10-30",
+  "to": "2028-01-30",
+  "number": "001082/2024",
+  "contractors": [
+   "TRGO ABC prodajno servisni center d.o.o."
+  ],
+  "contractor_ids": [
+   "5373077000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004410/2024-POG/01",
+  "published": "2024-11-04",
+  "files": [
+   {
+    "name": "Pogodba 1082-2024 S1_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1OTIwO1BvZ29kYmEgMTA4Mi0yMDI0IFMxX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

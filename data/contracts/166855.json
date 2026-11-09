@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 166855,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711507,
+  "idDosje": 70976,
+  "title": "ŠTUDIJA VARIANT s predlogom najustreznejše variantne rešitve trase avtoceste POSTOJNA / DIVAČA – JELŠANE",
+  "procurement": "ŠTUDIJA VARIANT s predlogom najustreznejše variantne rešitve trase avtoceste POSTOJNA / DIVAČA – JELŠANE.",
+  "kind": 1,
+  "value": 166800.0,
+  "signed": "2012-10-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LUZ, d.d.",
+   "OMEGA CONSULT projektni management, d.o.o., Ljubljana",
+   "PROJEKTIVNI ATELJE - NIZKE GRADNJE d.o.o., projektiranje, inženiring in storitve"
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5300568000",
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN10268/2012/POG-166855",
+  "published": "2020-11-26",
+  "files": [
+   {
+    "name": "Pogodba-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2Njg1NTtQb2dvZGJhLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

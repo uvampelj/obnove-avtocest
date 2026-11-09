@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 39790,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647522,
+  "idDosje": 15619,
+  "title": "Dobava hidravličnih in pnevmatskih komponent",
+  "procurement": "ACB Ljubljana,ACB Novo mesto,ACB Slovenske Konjice",
+  "kind": 2,
+  "value": 87661.39,
+  "signed": "2016-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRIT d.o.o.,",
+   "HIDEX d.o.o.",
+   "HIDROCEV d.o.o."
+  ],
+  "contractor_ids": [
+   "5717914000",
+   "5336414000",
+   "3431576000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002840/2016-X01/POG-39790",
+  "published": "2016-06-20",
+  "files": [
+   {
+    "name": "POGODBE 527-529.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5NzkwO1BPR09EQkUgNTI3LTUyOS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

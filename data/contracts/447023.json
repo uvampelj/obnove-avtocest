@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447023,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127268,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 1 - ACB Postojna",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 101087.22,
+  "signed": "2026-06-09",
+  "from": "2026-06-09",
+  "to": "2029-07-07",
+  "number": "000711/2026",
+  "contractors": [
+   "AVTO KRKA PO, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3530728000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/02",
+  "published": "2026-07-03",
+  "files": [
+   {
+    "name": "sklop 1 pogodba 000711-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5NjI0O3NrbG9wIDEgcG9nb2RiYSAwMDA3MTEtMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

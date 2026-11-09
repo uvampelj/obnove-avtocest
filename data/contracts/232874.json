@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 232874,
+  "type": "DOD",
+  "prev": 95861,
+  "idObrazec": 770492,
+  "idDosje": 222770,
+  "title": "Aneks št. 3 k pog. DARS št. 71/2018: Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 2: državna cesta od priključka Šentrupert na AC A1 Šentilj - Koper do priključka Velenje jug - 2. Del",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 2: državna cesta od priključka Šentrupert na AC A1 Šentilj - Koper do priključka Velenje jug-2. del",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-02-09",
+  "from": "2018-01-19",
+  "to": "2025-12-31",
+  "number": "131/2023",
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008246/2017-C01/DOD-232874",
+  "published": "2023-03-10",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNDAxMztBbmVrcy0zLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

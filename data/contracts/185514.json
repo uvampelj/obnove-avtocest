@@ -1,0 +1,52 @@
+{
+ "meta": {
+  "id": 185514,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 722410,
+  "idDosje": 388455,
+  "title": "DOBAVA LETNE MEHANIZACIJE IN OPREME",
+  "procurement": "Nakladač,Mini bager s priključki,Delovni stroj za košnjo na brežinah,Mulčer 1,5 do 2,5m - kot priključek na traktor,Samohodni mulčer z gosenicami moči 30 kW,Samohodni mulčer z gosenicami moči 25 kW,Kosilnica mulčer 1,0 do 1,5m - kot priključek na ročni ali samohodni mulčer,Nabijalo in kosilna glava,Mulčer in odmetalec snega,Oprema za delavnico,Visokotlačni čistilnik na prikolici,Stružnica",
+  "kind": 2,
+  "value": 1211151.87,
+  "signed": "2021-07-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "GRADBENA MEHANIZACIJA, PREVOZI JOŽE JANČAR S.P.",
+   "Prevozi, prodaja in druge storitve, Matej Dolšina s.p.",
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina",
+   "MITRAS, trgovina, d.o.o.",
+   "Karcher trgovina, d.o.o.",
+   "POPRAVILO IN VZDRŽEVANJE OBDELOVALNIH STROJEV, ROMAN ŠKAFAR S.P."
+  ],
+  "contractor_ids": [
+   "5898617000",
+   "6015174000",
+   "5742960000",
+   "5749848000",
+   "6687245000",
+   "5490600000",
+   "2162199000",
+   "8020230000",
+   "3058727000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001125/2021-C01/POG-185514",
+  "published": "2021-07-13",
+  "files": [
+   {
+    "name": "Pogodbe_Red.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NTUxNDtQb2dvZGJlX1JlZC56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

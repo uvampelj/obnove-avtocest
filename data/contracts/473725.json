@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 473725,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1176260,
+  "idDosje": 646156,
+  "title": "Izdelava scenarija 5 uporabe cest na območju Dravograda za potrebe izdelave investicijske zasnove - DPN za državno cesto od priključka Slovenj Gradec-jug do Dravograda z obvoznicami",
+  "procurement": "Izdelava scenarija 5 uporabe cest na območju Dravograda za potrebe izdelave investicijske zasnove - DPN za državno cesto od priključka Slovenj Gradec-jug do Dravograda z obvoznicami",
+  "kind": 1,
+  "value": 1281.0,
+  "signed": "2026-09-15",
+  "from": "2026-09-15",
+  "to": "2027-03-15",
+  "number": "000950/2026",
+  "contractors": [
+   "EPLAN podjetniško in poslovno svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "2155346000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006284/2026-POG/01",
+  "published": "2026-09-18",
+  "files": [
+   {
+    "name": "EPLAN_pogodba_000950-2026_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjE0ODg0O0VQTEFOX3BvZ29kYmFfMDAwOTUwLTIwMjZfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

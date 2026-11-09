@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 272128,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 829359,
+  "idDosje": 507632,
+  "title": "Servisiranje in popravilo ročnega orodja, Sklop 1: Hilti",
+  "procurement": "Servisiranje in popravilo ročnega orodja, Sklop 1: Hilti",
+  "kind": 1,
+  "value": 98497.32,
+  "signed": "2024-07-19",
+  "from": "2024-07-22",
+  "to": "2027-11-22",
+  "number": "000800/2024",
+  "contractors": [
+   "HILTI SLOVENIJA, trgovsko podjetje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5640849000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001464/2024-POG/01",
+  "published": "2024-07-22",
+  "files": [
+   {
+    "name": "Pgd sklop 1 34_24_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk2NDE5O1BnZCBza2xvcCAxIDM0XzI0X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

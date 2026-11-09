@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315177,
+  "type": "DOD",
+  "prev": 161174,
+  "idObrazec": 929270,
+  "idDosje": 296654,
+  "title": "Aneks št. 6 k pogodbi DARS št. 51/2020: Izdelava dopolnilnih geoloških, geotehničnih in hidrogeoloških raziskav za fazo IDP za državno cesto Slovenj Gradec - jug - Dravograd III. razvojna os ",
+  "procurement": "Izdelava dopolnilnih geoloških, geotehničnih in hidrogeoloških raziskav za fazo IDP za državno cesto Slovenj Gradec-jug – Dravograd - III. razvojna os",
+  "kind": 1,
+  "value": 10401.72,
+  "signed": "2025-06-24",
+  "from": "2025-06-24",
+  "to": "2025-12-31",
+  "number": "000051/2020",
+  "contractors": [
+   "GEOINŽENIRING družba za geološki inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1328484000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000737/2019-C01/POG-161174-D02",
+  "published": "2025-07-21",
+  "files": [
+   {
+    "name": "Aneks-6-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4OTgyO0FuZWtzLTYtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

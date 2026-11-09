@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 153337,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 703253,
+  "idDosje": 313049,
+  "title": "Izdelava IZP in PZI načrtov za rekonstrukcijo z zamenjavo nadhodov Gotske ulice VA0226 in Ledarske ulice VA0228, H3, odsek 0090, km 0,450 in 1,040 ",
+  "procurement": "Izdelava IZP in PZI načrtov za rekonstrukcijo z zamenjavo nadhodov Gotske ulice VA0226 in Ledarske ulice VA0228, H3, odsek 0090, km 0,450 in 1,040 ",
+  "kind": 1,
+  "value": 99918.0,
+  "signed": "2020-05-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "2170388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004199/2019-X01/POG-153337",
+  "published": "2020-05-29",
+  "files": [
+   {
+    "name": "Pogodba Promico 140-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MzMzNztQb2dvZGJhIFByb21pY28gMTQwLTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

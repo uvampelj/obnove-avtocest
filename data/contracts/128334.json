@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 128334,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688404,
+  "idDosje": 301656,
+  "title": "Vulkanizerske storitve",
+  "procurement": "AC baza Postojna,AC baza Slovenske Konjice,AC baza Ljubljana + splošna služba,AC baza Hrušica,AC baza Maribor,AC baza Vransko",
+  "kind": 1,
+  "value": 88770.86,
+  "signed": "2019-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DBF, vulkanizerstvo in hitri servis, d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "AVTOCENTER MARTIN STIPIČ S.P.",
+   "ASP storitveno in trgovsko podjetje d.o.o.",
+   "VULKANIZERSTVO VULKO GORAN DRAČA S.P."
+  ],
+  "contractor_ids": [
+   "6220231000",
+   "5025796000",
+   "5572386000",
+   "5524466000",
+   "3311414000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001806/2019-X01/POG-128334",
+  "published": "2019-06-14",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODMzNDtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

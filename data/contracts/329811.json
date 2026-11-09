@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 329811,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 971489,
+  "idDosje": 526267,
+  "title": "Dobava visokotlačnih čistilcev",
+  "procurement": "Dobava visokotlačnih čistilcev",
+  "kind": 2,
+  "value": 80271.18,
+  "signed": "2025-12-19",
+  "from": "2025-12-19",
+  "to": "2026-06-19",
+  "number": "001560/2025",
+  "contractors": [
+   "Karcher trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "8020230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007626/2025-POG/01",
+  "published": "2026-01-12",
+  "files": [
+   {
+    "name": "Pogodba-Kaercher_263-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIyNjI4O1BvZ29kYmEtS2FlcmNoZXJfMjYzLTIwMjVfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

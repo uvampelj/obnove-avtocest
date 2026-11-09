@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 270425,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 824218,
+  "idDosje": 508075,
+  "title": "Izvajanje zunanje kontrole kakovosti pri navezavi luke Koper na AC omrežje – Srminska vpadnica",
+  "procurement": "Izvajanje zunanje kontrole kakovosti pri navezavi luke Koper na AC omrežje – Srminska vpadnica",
+  "kind": 1,
+  "value": 133914.28,
+  "signed": "2024-06-28",
+  "from": "2024-07-01",
+  "to": "2026-08-31",
+  "number": "000747/2024",
+  "contractors": [
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "Zavod za gradbeništvo Slovenije"
+  ],
+  "contractor_ids": [
+   "1795490000",
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001831/2024-POG/01",
+  "published": "2024-07-01",
+  "files": [
+   {
+    "name": "Pogodba_DARS_747_2024_ZKK_r.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkyMjk2O1BvZ29kYmFfREFSU183NDdfMjAyNF9aS0tfci5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

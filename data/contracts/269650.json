@@ -1,0 +1,50 @@
+{
+ "meta": {
+  "id": 269650,
+  "type": "DOD",
+  "prev": 203164,
+  "idObrazec": 821535,
+  "idDosje": 415955,
+  "title": "Aneks 1, DARS št. 718/2024 k pog. DARS št. 65/2022",
+  "procurement": "Zakup para optičnih vlaken Ptujska Maribor-PKVMB",
+  "kind": 1,
+  "value": 31720.0,
+  "signed": "2024-06-13",
+  "from": null,
+  "to": null,
+  "number": "718/2024",
+  "contractors": [
+   "IVL inženiring d.o.o.",
+   "INTEREXPORT mednarodna trgovina, d.o.o.",
+   "DIMEH napredne tehnologije d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "VERTEKS TG tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o.",
+   "MKB CENTER trgovina, zastopstva in storitve d.o.o.",
+   "GRIČ - TRGOVINA IN SERVIS KMETIJSKIH STROJEV JOŽE SMOLIČ S.P.",
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5737931000",
+   "5101956000",
+   "6960456000",
+   "6015174000",
+   "2312760000",
+   "2098113000",
+   "5496439000",
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006408/2021-C01/POG-203164-D02",
+  "published": "2024-06-18",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 718-2024 k pog. DARS št. 65-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkwMjI4O0FuZWtzIDEsIERBUlMgxaF0LiA3MTgtMjAyNCBrIHBvZy4gREFSUyDFoXQuIDY1LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

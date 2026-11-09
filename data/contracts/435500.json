@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 435500,
+  "type": "DOD",
+  "prev": 343896,
+  "idObrazec": 1112531,
+  "idDosje": 525024,
+  "title": "Aneks 1, DARS št. 716/2026 k pog. DARS št. 37/2026",
+  "procurement": "Obsekavanje na težko dostopnih terenih",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-06-10",
+  "from": null,
+  "to": null,
+  "number": "000037/2026",
+  "contractors": [
+   "TISA podjetje za opravljanje gozdarskih storitev, d.o.o."
+  ],
+  "contractor_ids": [
+   "5307023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006580/2025-POG/02-D01",
+  "published": "2026-06-15",
+  "files": [
+   {
+    "name": "Aneks št. 716-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU1ODc0O0FuZWtzIMWhdC4gNzE2LTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

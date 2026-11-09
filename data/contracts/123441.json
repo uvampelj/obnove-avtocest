@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123441,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 685568,
+  "idDosje": 284340,
+  "title": "Izdelava Izvedbenega načrta za izvedbo (IzN) »Sanacije viadukta Podmežakla 3 levo VA0314, Podmežakla 3 desno VA0313, Podmežakla 4 levo VA0317, Podmežakla 4 desno VA0315 in Podmežakla 4a desno VA0316 na AC A2, odsek 06 02 Hrušica – Lipce«",
+  "procurement": "Izdelava Izvedbenega načrta za izvedbo (IzN) »Sanacije viadukta Podmežakla 3 levo VA0314, Podmežakla 3 desno VA0313, Podmežakla 4 levo VA0317, Podmežakla 4 desno VA0315 in Podmežakla 4a desno VA0316 na AC A2, odsek 06 02 Hrušica – Lipce«",
+  "kind": 1,
+  "value": 83570.0,
+  "signed": "2019-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007901/2018-X01/POG-123441",
+  "published": "2019-03-29",
+  "files": [
+   {
+    "name": "Pogodba-SPIT.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzQ0MTtQb2dvZGJhLVNQSVQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

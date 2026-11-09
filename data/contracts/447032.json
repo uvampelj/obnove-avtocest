@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447032,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127300,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 2 - ACB Slovenske Konjice",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 69883.14,
+  "signed": "2026-06-09",
+  "from": "2026-06-09",
+  "to": "2029-07-07",
+  "number": "000708/2026",
+  "contractors": [
+   "N CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "8434441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/03",
+  "published": "2026-07-03",
+  "files": [
+   {
+    "name": "sklop 2 pogodba 000708-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5NjQ2O3NrbG9wIDIgcG9nb2RiYSAwMDA3MDgtMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

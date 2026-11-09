@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 256091,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 766438,
+  "idDosje": 496236,
+  "title": "Sklop 2 - Servisiranje mehanizacije Borum, Doppstadt, Bucher in Ferri",
+  "procurement": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "kind": 1,
+  "value": 387289.0,
+  "signed": "2024-01-10",
+  "from": "2024-01-10",
+  "to": "2027-01-10",
+  "number": "000030/2024",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007004/2023-C01/POG-256091",
+  "published": "2024-01-15",
+  "files": [
+   {
+    "name": "Pogodba - RIKO RIBNICA 2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTg3MDtQb2dvZGJhIC0gUklLTyBSSUJOSUNBIDJfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

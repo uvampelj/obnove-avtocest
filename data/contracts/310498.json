@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310498,
+  "type": "DOD",
+  "prev": 19817,
+  "idObrazec": 914895,
+  "idDosje": 74781,
+  "title": "Aneks št. 2 k pogodbi DARS št. 569/2015",
+  "procurement": "Izdelava dopolnitve projektne dokumentacije PGD in PZI hitre ceste Jagodje - Lucija in priključne ceste za Piran-objekti, zidovi, KVS in SNVP",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-05-15",
+  "from": "2015-07-24",
+  "to": "2025-12-31",
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5625/2015/POG-19817-D01",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "aneks 2 k pog 569-2015_97-2025_sklenjen_za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NTE2O2FuZWtzIDIgayBwb2cgNTY5LTIwMTVfOTctMjAyNV9za2xlbmplbl96YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

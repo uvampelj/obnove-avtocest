@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 129264,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688967,
+  "idDosje": 310776,
+  "title": "ZAVAROVANJE PREMOŽENJA, PREMOŽENJSKIH INTERESOV IN KOLEKTIVNEGA NEZGODNEGA ZAVAROVANJA - sklop 3",
+  "procurement": "ZAVAROVANJE PREMOŽENJA, PREMOŽENJSKIH INTERESOV IN KOLEKTIVNEGA NEZGODNEGA ZAVAROVANJA",
+  "kind": 1,
+  "value": 746132.8,
+  "signed": "2019-06-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003813/2019-C01/POG-129264",
+  "published": "2019-07-03",
+  "files": [
+   {
+    "name": "Pogodba 846-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyOTI2NDtQb2dvZGJhIDg0Ni0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

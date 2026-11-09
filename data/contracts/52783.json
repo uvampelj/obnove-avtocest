@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52783,
+  "type": "DOD",
+  "prev": 19006,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 za zamenjavo OVD in nominacije dodatnih podizvajalcev",
+  "procurement": "AC A4 Slivnica - MMP Gruškovje, pododsek AC Draženci - MMP Gruškovje, SKLOP 1: l. etapa od km 0+000 do km 7+260, dolžine 7+260 km",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "Aneks 1 k 529_15_podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyNzgzO0FuZWtzIDEgayA1MjlfMTVfcG9kcGlzYW4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

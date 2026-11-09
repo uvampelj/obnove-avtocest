@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 125894,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687134,
+  "idDosje": 298016,
+  "title": "Agregat za visokotlačno napravo za pranje in odstranjevanje talnih oznak",
+  "procurement": "Agregat za visokotlačno napravo za pranje in odstranjevanje talnih oznak",
+  "kind": 2,
+  "value": 238347.74,
+  "signed": "2019-04-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JUTI Zastopstva, svetovanje, trgovina in nepremičnine d.o.o."
+  ],
+  "contractor_ids": [
+   "2098156000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000977/2019-X01/POG-125894",
+  "published": "2019-05-07",
+  "files": [
+   {
+    "name": "Pogodba 674-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTg5NDtQb2dvZGJhIDY3NC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

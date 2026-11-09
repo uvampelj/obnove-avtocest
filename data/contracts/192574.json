@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192574,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725688,
+  "idDosje": 395511,
+  "title": "Izdelava okoljskega poročila in študije variant / predinvesticijske zasnove za državno cesto Podgora-Letuš/povezava na severni del tretje razvojne osi ",
+  "procurement": "Izdelava okoljskega poročila in študije variant / predinvesticijske zasnove za državno cesto Podgora-Letuš/povezava na severni del tretje razvojne osi ",
+  "kind": 1,
+  "value": 252538.78,
+  "signed": "2021-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Razvojni center PLANIRANJE d.o.o. Celje"
+  ],
+  "contractor_ids": [
+   "5076196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002636/2021-C01/POG-192574",
+  "published": "2021-09-24",
+  "files": [
+   {
+    "name": "Pogodba-RC planiranje_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjU3NDtQb2dvZGJhLVJDIHBsYW5pcmFuamVfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

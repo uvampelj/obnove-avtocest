@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 110747,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678901,
+  "idDosje": 242987,
+  "title": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste",
+  "procurement": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste",
+  "kind": 1,
+  "value": 273279.75,
+  "signed": "2018-03-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000934/2018-C01/POG-110747",
+  "published": "2018-10-09",
+  "files": [
+   {
+    "name": "Pogodba-Sklop-2-podpisana.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDc0NztQb2dvZGJhLVNrbG9wLTItcG9kcGlzYW5hLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

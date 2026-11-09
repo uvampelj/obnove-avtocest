@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 128013,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688213,
+  "idDosje": 301517,
+  "title": "Diskovni sistem s SAN stikali, Namenska naprava za varnostno kopiranje podatkov PBBA",
+  "procurement": "Diskovni sistem s SAN stikali,Namenska naprava za varnostno kopiranje podatkov PBBA",
+  "kind": 2,
+  "value": 593598.15,
+  "signed": "2019-05-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T SLOVENIJA, informacijske rešitve in storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001771/2019-C01/POG-128013",
+  "published": "2019-06-07",
+  "files": [
+   {
+    "name": "pogodbi 754, 755-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODAxMztwb2dvZGJpIDc1NCwgNzU1LTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

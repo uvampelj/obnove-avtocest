@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48037,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650550,
+  "idDosje": 19984,
+  "title": "Servisiranje zimske in letne mehanizacije",
+  "procurement": "Servisiranje zimske in letne mehanizacije",
+  "kind": 2,
+  "value": 116754.0,
+  "signed": "2016-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "3619524000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001214/2016-X01/POG-48037",
+  "published": "2016-09-16",
+  "files": [
+   {
+    "name": "pogodba 345-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4MDM3O3BvZ29kYmEgMzQ1LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

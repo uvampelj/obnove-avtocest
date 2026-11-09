@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 253936,
+  "type": "DOD",
+  "prev": 169025,
+  "idObrazec": 775158,
+  "idDosje": 373030,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1605/2020",
+  "procurement": "Vozilo z večjo oddaljenostjo od tal, vsaj 140 kW,Električni avtomobil, vsaj 150 kW",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2023-11-30",
+  "from": null,
+  "to": null,
+  "number": "1395/2023",
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006760/2020-C01/DOD-253936",
+  "published": "2023-12-13",
+  "files": [
+   {
+    "name": "R_Aneks 1395-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NzUyMztSX0FuZWtzIDEzOTUtMjAyMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

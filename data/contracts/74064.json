@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 74064,
+  "type": "DOD",
+  "prev": 66451,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 251/2017",
+  "procurement": "Čiščenje sanitarnih objektov na malih počivališčih - sklop 5",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-07-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VUR d.o.o."
+  ],
+  "contractor_ids": [
+   "6233643000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-07-06",
+  "files": [
+   {
+    "name": "Aneks 544-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc0MDY0O0FuZWtzIDU0NC0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 197395,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728164,
+  "idDosje": 394243,
+  "title": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1 0043/0643 Vransko - Trojane, 0067/0667 Trojane - Blagovica, priključka 0105 Trojane ter za gradbeno obnovo predorov Ločica in Jasovnik",
+  "procurement": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1 0043/0643 Vransko - Trojane, 0067/0667 Trojane - Blagovica, priključka 0105 Trojane ter za gradbeno obnovo predorov Ločica in Jasovnik",
+  "kind": 1,
+  "value": 1967459.01,
+  "signed": "2021-10-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "GRADIS biro za projektiranje Maribor d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5522749000",
+   "5075084000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002354/2021-C01/POG-197395",
+  "published": "2021-11-09",
+  "files": [
+   {
+    "name": "Pogodba-PNG+Elea iC+Gradis BP_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NzM5NTtQb2dvZGJhLVBORytFbGVhIGlDK0dyYWRpcyBCUF9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

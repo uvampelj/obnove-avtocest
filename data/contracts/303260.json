@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 303260,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 895543,
+  "idDosje": 516083,
+  "title": "Prevzem odpadnega materiala iz odcejalnikov - odpadki iz peskolovov",
+  "procurement": "Prevzem odpadnega materiala iz odcejalnikov - odpadki iz peskolovov",
+  "kind": 1,
+  "value": 340326.0,
+  "signed": "2025-02-24",
+  "from": "2025-02-24",
+  "to": "2029-05-24",
+  "number": "000292/2025",
+  "contractors": [
+   "KG-EKO, Proizvodnja in predelava agregatov, d.o.o."
+  ],
+  "contractor_ids": [
+   "1906895000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008294/2024-POG/01",
+  "published": "2025-03-12",
+  "files": [
+   {
+    "name": "Pogodba podpisana st 000292-2025 RedUL_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUxNDI4O1BvZ29kYmEgcG9kcGlzYW5hIHN0IDAwMDI5Mi0yMDI1IFJlZFVMX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

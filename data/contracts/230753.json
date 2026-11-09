@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 230753,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 747597,
+  "idDosje": 460163,
+  "title": "Izdelava DGD in PZI projektne dokumentacije za izgradnjo pododseka B, od priključka Metlika sever do MMP Metlika, na 2. odseku 3. razvojne osi jug",
+  "procurement": "Izdelava DGD in PZI projektne dokumentacije za izgradnjo pododseka B, od priključka Metlika sever do MMP Metlika, na 2. odseku 3. razvojne osi jug",
+  "kind": 1,
+  "value": 2122748.76,
+  "signed": "2023-01-19",
+  "from": "2023-01-19",
+  "to": "2025-01-19",
+  "number": "000072/2023",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006994/2022-C01/POG-230753",
+  "published": "2023-02-03",
+  "files": [
+   {
+    "name": "Pogodba-JV BPI+PNZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTYzODtQb2dvZGJhLUpWIEJQSStQTlpfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315683,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930803,
+  "idDosje": 518858,
+  "title": "Sklop 8 - Samohodni mulčer z gosenicami moči 25 kW",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 167994.0,
+  "signed": "2025-07-25",
+  "from": "2025-07-25",
+  "to": "2026-04-25",
+  "number": "000965/2025",
+  "contractors": [
+   "Prevozi, prodaja in druge storitve, Matej Dolšina s.p."
+  ],
+  "contractor_ids": [
+   "6687245000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001310/2025-POG/08",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "Pogodba Jože Jančar 8_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMjMwO1BvZ29kYmEgSm_FvmUgSmFuxI1hciA4X1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

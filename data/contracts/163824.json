@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 163824,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 709806,
+  "idDosje": 349535,
+  "title": "\tIzvedba zunanje kontrole kakovosti pri investicijah na obstoječih AC in HC, s katerimi upravlja DARS d.d. v letih 2020-2022",
+  "procurement": "\tIzvedba zunanje kontrole kakovosti pri investicijah na obstoječih AC in HC, s katerimi upravlja DARS d.d. v letih 2020-2022",
+  "kind": 1,
+  "value": 1494010.78,
+  "signed": "2020-09-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGMAT, Inštitut za gradbene materiale, d.d.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE"
+  ],
+  "contractor_ids": [
+   "5498503000",
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002362/2020-C01/POG-163824",
+  "published": "2020-10-20",
+  "files": [
+   {
+    "name": "Pogodba-JV Igmat+ZAG-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MzgyNDtQb2dvZGJhLUpWIElnbWF0K1pBRy1vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

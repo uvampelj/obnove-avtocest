@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 216343,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738826,
+  "idDosje": 426597,
+  "title": "Izdelava projektne dokumentacije za izvedbo gradnje (PZI) za sanacijo dvoetažnega mostu čez reko Dravo v Mariboru VA0125 in rekonstrukcijo pokritega vkopa Maribor - Tezno VA0126 in VA0127",
+  "procurement": "Izdelava projektne dokumentacije za izvedbo gradnje (PZI) za sanacijo dvoetažnega mostu čez reko Dravo v Mariboru VA0125 in rekonstrukcijo pokritega vkopa Maribor - Tezno VA0126 in VA0127",
+  "kind": 1,
+  "value": 509244.47,
+  "signed": "2022-06-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "GRADIS biro za projektiranje Maribor d.o.o."
+  ],
+  "contractor_ids": [
+   "1189620000",
+   "5397014000",
+   "5075084000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008033/2021-C01/POG-216343",
+  "published": "2022-07-14",
+  "files": [
+   {
+    "name": "Pogodba-JV KO-biro+BPI+Gradis BP_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjM0MztQb2dvZGJhLUpWIEtPLWJpcm8rQlBJK0dyYWRpcyBCUF9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

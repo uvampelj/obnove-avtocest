@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 215846,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738540,
+  "idDosje": 429205,
+  "title": "Izdelava IZP načrtov rekonstrukcije in vzpostavitve razširjenega prečnega profila z dodatnim voznim pasom na objektih Verd, Derviše, Ivanje selo, Unec, Sava Brod, Ljubljanica in Rudnik",
+  "procurement": "Izdelava IZP načrtov rekonstrukcije in vzpostavitve razširjenega prečnega profila z dodatnim voznim pasom na objektih Verd, Derviše, Ivanje selo, Unec, Sava Brod, Ljubljanica in Rudnik",
+  "kind": 1,
+  "value": 589843.89,
+  "signed": "2022-06-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000",
+   "2170388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008615/2021-C01/POG-215846",
+  "published": "2022-07-07",
+  "files": [
+   {
+    "name": "Pogodba-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNTg0NjtQb2dvZGJhLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

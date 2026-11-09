@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120532,
+  "type": "DOD",
+  "prev": 94558,
+  "idObrazec": 770415,
+  "idDosje": 230234,
+  "title": "IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA PREUREDITEV OTOKA MED IZVOZOM IN UVOZOM NA AVTOCESTO OZIROMA HITRO CESTO NA PRIKLJUČKIH AC A1, A2 TER HC H4, H5, H6; SKLOP 1:OBMOČJE AC BAZE POSTOJNA ",
+  "procurement": "Izdelava PZI za preureditev otoka med izvozom in uvozom na avtocesto oziroma hitro cesto na priključkih AC A1, A2 ter HC H4, H5, H6; Sklop 1: območje AC baze Postojna",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009580/2017-X01/DOD-120532",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "Aneks št.1-Projekt d.d..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUzMjtBbmVrcyDFoXQuMS1Qcm9qZWt0IGQuZC4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

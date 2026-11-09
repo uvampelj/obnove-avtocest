@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447776,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1129510,
+  "idDosje": 571540,
+  "title": "Izdelava izvedbenih načrtov za sanacijo in protierozijsko zaščito brežin na primorskem kraku avtoceste",
+  "procurement": "Izdelava izvedbenih načrtov za sanacijo in protierozijsko zaščito brežin na primorskem kraku avtoceste",
+  "kind": 1,
+  "value": 102891.14,
+  "signed": "2026-07-09",
+  "from": "2026-07-09",
+  "to": "2028-01-09",
+  "number": "000781/2026",
+  "contractors": [
+   "EHO PROJEKT, erozija, hudourništvo, okolje, d.o.o."
+  ],
+  "contractor_ids": [
+   "3302440000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002156/2026-POG/01",
+  "published": "2026-07-13",
+  "files": [
+   {
+    "name": "EHO PROJEKT_pogodba_781-2026_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTcxNDQ1O0VITyBQUk9KRUtUX3BvZ29kYmFfNzgxLTIwMjZfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

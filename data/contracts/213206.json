@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 213206,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 737549,
+  "idDosje": 430570,
+  "title": "Izdelava idejnih zasnov ureditve varnih in varovanih parkirišč (VVP) na lokacijah počivališč Lom, Barje, Maribor in na površini na priključku Razdrto",
+  "procurement": "Izdelava idejnih zasnov ureditve varnih in varovanih parkirišč (VVP) na lokacijah počivališč Lom, Barje, Maribor in na površini na priključku Razdrto",
+  "kind": 1,
+  "value": 316821.96,
+  "signed": "2022-05-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000",
+   "5444098000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000053/2022-C01/POG-213206",
+  "published": "2022-06-15",
+  "files": [
+   {
+    "name": "Pogodba-JV Cestni inž.+Lineal+ZUM_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMzIwNjtQb2dvZGJhLUpWIENlc3RuaSBpbsW-LitMaW5lYWwrWlVNX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

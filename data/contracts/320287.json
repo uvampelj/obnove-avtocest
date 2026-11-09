@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320287,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944011,
+  "idDosje": 508340,
+  "title": " Dobava posipnih materialov; Kategorija 1-M-W (NaCl)",
+  "procurement": "Dobava posipnih materialov; Kategorija 1-M-W (NaCl)",
+  "kind": 2,
+  "value": 463905.0,
+  "signed": "2025-09-16",
+  "from": "2025-10-15",
+  "to": "2026-08-15",
+  "number": "001116/2025",
+  "contractors": [
+   "MA.CO.T., Podjetje za predelavo in pakiranje soli, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300401000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/05",
+  "published": "2025-09-19",
+  "files": [
+   {
+    "name": "R_Pogodba 001116-2025 K1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAwODA1O1JfUG9nb2RiYSAwMDExMTYtMjAyNSBLMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

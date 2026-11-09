@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 127875,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688148,
+  "idDosje": 306958,
+  "title": "Izvajanje inženirskih storitev v fazi delovanja ECS v PPT",
+  "procurement": "Izvajanje inženirskih storitev v fazi delovanja ECS v PPT",
+  "kind": 1,
+  "value": 761280.0,
+  "signed": "2019-05-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002740/2019-C01/POG-127875",
+  "published": "2019-06-05",
+  "files": [
+   {
+    "name": "pogodba 00045-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzg3NTtwb2dvZGJhIDAwMDQ1LTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

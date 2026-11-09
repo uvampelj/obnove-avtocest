@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 434687,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1110323,
+  "idDosje": 571600,
+  "title": "Servisiranje peči na lesno biomaso ACB Hrušica",
+  "procurement": "Servisiranje peči na lesno biomaso ACB Hrušica",
+  "kind": 1,
+  "value": 43792.56,
+  "signed": "2026-06-03",
+  "from": "2026-06-03",
+  "to": "2029-06-03",
+  "number": "000698/2026",
+  "contractors": [
+   "BIOMASA, Družba za trgovino, servis in montažo kotlov na biomaso d.o.o."
+  ],
+  "contractor_ids": [
+   "1940996000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002197/2026-POG/01",
+  "published": "2026-06-05",
+  "files": [
+   {
+    "name": "Pogodba 698-2026 BIOMASA,pjn.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU0MTE4O1BvZ29kYmEgNjk4LTIwMjYgQklPTUFTQSxwam4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

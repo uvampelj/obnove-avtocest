@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630270,
+  "idDosje": 80194,
+  "title": "Vzdrževanje in nadgrajevanje programske opreme cestninskega sistema.",
+  "procurement": "Vzdrževanje in nadgrajevanje programske opreme cestninskega sistema.",
+  "kind": 1,
+  "value": 476302.64,
+  "signed": "2014-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRAFFIC DESIGN, d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN11068/2014/POG-90",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13140001581_141120_134640.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwO0QxMzE0MDAwMTU4MV8xNDExMjBfMTM0NjQwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

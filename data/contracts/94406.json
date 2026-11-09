@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 94406,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670842,
+  "idDosje": 236192,
+  "title": "Zavarovanje odgovornosti družbe, uprave, NS in ostalih zaposlenih DARS d.d.",
+  "procurement": "Zavarovanje odgovornosti družbe, uprave, NS in ostalih zaposlenih DARS d.d.",
+  "kind": 1,
+  "value": 48825.0,
+  "signed": "2018-03-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000048/2018-X01/POG-94406",
+  "published": "2018-03-16",
+  "files": [
+   {
+    "name": "Pogodba ZT.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0NDA2O1BvZ29kYmEgWlQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

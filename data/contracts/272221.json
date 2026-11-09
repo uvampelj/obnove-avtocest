@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 272221,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 829663,
+  "idDosje": 507065,
+  "title": "Opravljanje tehničnih pregledov ter pripadajočih storitev ACB LJ, MB, MS Sklop 2: - ACB MB\n",
+  "procurement": "Opravljanje tehničnih pregledov ter pripadajočih storitev ACB LJ, MB, MS",
+  "kind": 1,
+  "value": 64211.06,
+  "signed": "2024-07-19",
+  "from": "2024-07-23",
+  "to": "2026-10-23",
+  "number": "000806/2024",
+  "contractors": [
+   "D CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "7009291000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001095/2024-POG/02",
+  "published": "2024-07-23",
+  "files": [
+   {
+    "name": "Pgd sklop 2 17_24_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk2NjU2O1BnZCBza2xvcCAyIDE3XzI0X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

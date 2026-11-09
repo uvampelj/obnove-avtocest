@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 388502,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1041949,
+  "idDosje": 527686,
+  "title": "SKLOP 4: cenitev zmanjšanja prihodkov in drugih škod povezanih poslovanjem poslovnega subjekta",
+  "procurement": "Izdelava cenitev za potrebe pridobivanja nepremičnin, na celotnem avtocestnem omrežju v Republiki Sloveniji",
+  "kind": 1,
+  "value": 90280.0,
+  "signed": "2026-03-26",
+  "from": "2026-03-26",
+  "to": "2030-06-26",
+  "number": "000469/2026",
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008866/2025-POG/03",
+  "published": "2026-03-30",
+  "files": [
+   {
+    "name": "Pogodba D. Cerovšek 469-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDg5NzE1O1BvZ29kYmEgRC4gQ2Vyb3bFoWVrIDQ2OS0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

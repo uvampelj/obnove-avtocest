@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 112434,
+  "type": "DOD",
+  "prev": 101121,
+  "idObrazec": 770728,
+  "idDosje": 234111,
+  "title": "IZVEDBA UKREPOV ZA VEČJO PRETOČNOST PROMETA IN IZBOLJŠANJE PROMETNE VARNOSTI ODSEKA A1/0050 LJ. (LITIJSKA – MALENCE), ODSEKA A1/0019 LJ. (MALENCE – DOLENJSKA C.) IN A1/0118 PRIKLJUČKA LJ-J",
+  "procurement": "IZVEDBA UKREPOV ZA VEČJO PRETOČNOST PROMETA IN IZBOLJŠANJE PROMETNE VARNOSTI ODSEKA A1/0050 LJUBLJANA (LITIJSKA – MALENCE), ODSEKA A1/0019 LJUBLJANA (MALENCE – DOLENJSKA C.) IN A1/0118 PRIKLJUČKA LJ-JUG",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o.",
+   "TRGOGRAD trgovina in gradbeništvo, d.o.o., Litija"
+  ],
+  "contractor_ids": [
+   "5879566000",
+   "5567548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010115/2017-C01/DOD-112434",
+  "published": "2018-10-30",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjQzNDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

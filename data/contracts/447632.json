@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447632,
+  "type": "DOD",
+  "prev": 73447,
+  "idObrazec": 1129166,
+  "idDosje": 192386,
+  "title": "Aneks št. 1 k pogodbi DARS št. 518/2017 za Opravljanje strokovno svetovalnih in inženirskih storitev za potrebe izvedbe projekta dodatnih protivetrnih ukrepov na HC Razdrto – Vipava – Ajdovščina",
+  "procurement": "Strokovno svetovalne in inženirske storitve za izvedbo projekta dodatnih protivetrnih ukrepov na HC Razdrto - Vipava - Ajdovščina",
+  "kind": 1,
+  "value": 164794.76,
+  "signed": "2017-06-22",
+  "from": "2017-06-22",
+  "to": "2037-12-22",
+  "number": "000518/2017",
+  "contractors": [
+   "PROJEKT d.d. NOVA GORICA"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001975/2017-C01/POG-73447-D01",
+  "published": "2026-07-10",
+  "files": [
+   {
+    "name": "Aneks-1-k-518-2017_110-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTcxMTc1O0FuZWtzLTEtay01MTgtMjAxN18xMTAtMjAyNl9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

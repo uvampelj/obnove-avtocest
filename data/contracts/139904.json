@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 139904,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695175,
+  "idDosje": 320243,
+  "title": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "procurement": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "kind": 1,
+  "value": 169509.55,
+  "signed": "2019-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SRC sistemske integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005553/2019-X01/POG-139904",
+  "published": "2019-11-26",
+  "files": [
+   {
+    "name": "Pogodba-178-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzOTkwNDtQb2dvZGJhLTE3OC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

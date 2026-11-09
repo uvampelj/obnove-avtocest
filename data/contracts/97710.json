@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 97710,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 672920,
+  "idDosje": 241810,
+  "title": "Servisiranje signalnih tabel",
+  "procurement": "Servisiranje električnih naprav na signalnih tablah za zapiranje prometnih pasov,Servisiranje električnih naprav na signalnih tablah spremenljive vsebine",
+  "kind": 1,
+  "value": 232440.5,
+  "signed": "2018-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ITAIA d.o.o., podjetje za računalniški in elektro inženiring",
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o."
+  ],
+  "contractor_ids": [
+   "5505771000",
+   "5444063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000812/2018-X01/POG-97710",
+  "published": "2018-05-07",
+  "files": [
+   {
+    "name": "Pogodba.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk3NzEwO1BvZ29kYmEuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

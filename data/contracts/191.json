@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 191,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630349,
+  "idDosje": 12933,
+  "title": "Dobava posipalcev soli",
+  "procurement": "Dobava posipalcev soli",
+  "kind": 2,
+  "value": 37378.36,
+  "signed": "2015-04-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "3619524000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1905/2015/POG-191",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "POGODBA 243-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MTtQT0dPREJBIDI0My0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

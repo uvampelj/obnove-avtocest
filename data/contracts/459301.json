@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459301,
+  "type": "DOD",
+  "prev": 296593,
+  "idObrazec": 1143954,
+  "idDosje": 514627,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 1263/2024 za Izdelavo izvedbenega načrta (IzN) za preplastitev delov odsekov na AC A2 0006 Podtabor-Kranj Z, 0007 Kranj Z-Kranj V, 0008 Kranj V-Brnik in obnovo vozne površine na delu odsekov 0009/0609 Brnik-Vodice ",
+  "procurement": "Izdelava izvedbenega načrta (IzN) za preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnovo vozne površ. na delu odsekov 0009/0609 Brnik–Vodice",
+  "kind": 1,
+  "value": 21722.71,
+  "signed": "2026-06-23",
+  "from": "2026-06-23",
+  "to": "2026-12-23",
+  "number": "001263/2024",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007045/2024-POG/01-D01",
+  "published": "2026-07-29",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg0OTgzO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

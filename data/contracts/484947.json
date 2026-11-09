@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 484947,
+  "type": "DOD",
+  "prev": 272697,
+  "idObrazec": 1199703,
+  "idDosje": 495370,
+  "title": "Aneks št. 1 k pogodbi DARS št. 823/2024 za Dobava, vzpostavitev delovanja in vzdrževanje opreme ter sistemov sekcijskega merjenja hitrosti na odsekih AC in HC v upravljanju DARS; dodatna dela",
+  "procurement": "Dobava, vzpostavitev delovanja in vzdrževanje opreme sistemov sekcijskega merjenja hitrosti na odsekih AC in HC v upravljanju DARS",
+  "kind": 2,
+  "value": 9450.0,
+  "signed": "2026-09-23",
+  "from": "2024-08-01",
+  "to": "2033-11-01",
+  "number": "000823/2024",
+  "contractors": [
+   "Intermatic inženiring & consulting d.o.o."
+  ],
+  "contractor_ids": [
+   "5301823000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006761/2023-POG/01-D01",
+  "published": "2026-10-02",
+  "files": [
+   {
+    "name": "aneks-1-k-823-2024_184-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM3NzMzO2FuZWtzLTEtay04MjMtMjAyNF8xODQtMjAyNl9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

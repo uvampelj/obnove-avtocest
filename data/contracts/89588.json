@@ -1,0 +1,52 @@
+{
+ "meta": {
+  "id": 89588,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667882,
+  "idDosje": 223961,
+  "title": "Dobava mehanizacije in opreme",
+  "procurement": "Traktor za košnjo na brežinah,Kosilnica - rotacijski mulčer,Samohodni mulčer na gosenicah,Traktor z opremo,Kosilnica-mulčer za bankine in brežine za montažo na UNIMOG,Zimska mehanizacija,Stranski rezkar,Bagri,Ostala oprema,Priklopna vozila za prevoz mehanizacije,Priklopna vozila z nadgradnjo,Paletni viličar,Svetilni balon",
+  "kind": 2,
+  "value": 1786648.83,
+  "signed": "2018-01-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "RASCO KOMUNALNA OPREMA, trgovina in posredništvo, d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "GLOBEX S.R.L., podružnica v Sloveniji",
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o.",
+   "JUNGHEINRICH trgovina in storitve, d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000",
+   "5490600000",
+   "5742960000",
+   "3619524000",
+   "6015174000",
+   "6254888000",
+   "5444063000",
+   "1191527000",
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008606/2017-C01/POG-89588",
+  "published": "2018-01-17",
+  "files": [
+   {
+    "name": "POGODBE.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg5NTg4O1BPR09EQkUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

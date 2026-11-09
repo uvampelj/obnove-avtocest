@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 471785,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1170937,
+  "idDosje": 582128,
+  "title": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje, Sklop 3 - območje 8: Novo Mesto",
+  "procurement": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje",
+  "kind": 1,
+  "value": 46970.0,
+  "signed": "2026-08-03",
+  "from": "2026-08-03",
+  "to": "2027-11-03",
+  "number": "000867/2026",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, informacijske dejavnosti, založništvo, proizvodnjo, najeme, storitve in gradbeništvo d.o.o.",
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "2323478000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002711/2026-POG/03",
+  "published": "2026-08-28",
+  "files": [
+   {
+    "name": "sklop 3 pogodba st 000867-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNTI1O3NrbG9wIDMgcG9nb2RiYSBzdCAwMDA4NjctMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

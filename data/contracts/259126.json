@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 259126,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 791514,
+  "idDosje": 496079,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za državno cesto 2. odseka 3. razvojne osi jug, od priključka Maline do MMP Metlika (pododseka A in B)",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za državno cesto 2. odseka 3. razvojne osi jug, od priključka Maline do MMP Metlika (pododseka A in B)",
+  "kind": 1,
+  "value": 141825.0,
+  "signed": "2024-01-31",
+  "from": "2024-01-31",
+  "to": "2028-01-31",
+  "number": "000162/2024",
+  "contractors": [
+   "GEAS Podjetje za inženiring in svetovanje v gradbeni dejavnosti d.o.o."
+  ],
+  "contractor_ids": [
+   "5302919000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006833/2023-POG/01",
+  "published": "2024-02-15",
+  "files": [
+   {
+    "name": "Pogodba GEAS_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY2MjYyO1BvZ29kYmEgR0VBU19yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

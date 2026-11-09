@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 196597,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 727645,
+  "idDosje": 398575,
+  "title": "\tSistem kratkoročne in dolgoročne napovedi prometa s pomočjo algoritmov umetne inteligence",
+  "procurement": "\tSistem kratkoročne in dolgoročne napovedi prometa s pomočjo algoritmov umetne inteligence",
+  "kind": 2,
+  "value": 347407.2,
+  "signed": "2021-10-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V MARIBORU Fakulteta za elektrotehniko, računalništvo in informatiko"
+  ],
+  "contractor_ids": [
+   "5089638003"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003039/2021-C01/POG-196597",
+  "published": "2021-10-28",
+  "files": [
+   {
+    "name": "pogodba 1218-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjU5Nztwb2dvZGJhIDEyMTgtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

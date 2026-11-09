@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 39709,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647486,
+  "idDosje": 15103,
+  "title": "Pregledi in popravila bremenske ter dvižne tehnike",
+  "procurement": "Pregledi in popravila bremenske ter dvižne tehnike",
+  "kind": 1,
+  "value": 127703.5,
+  "signed": "2016-06-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "P TEAM d.o.o."
+  ],
+  "contractor_ids": [
+   "5499003000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002648/2016-X01/POG-39709",
+  "published": "2016-06-16",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5NzA5O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 41580,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 648361,
+  "idDosje": 159458,
+  "title": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "procurement": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "kind": 1,
+  "value": 137128.0,
+  "signed": "2016-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002987/2016-C01/POG-41580",
+  "published": "2016-07-14",
+  "files": [
+   {
+    "name": "Pogodba MOJDENAR IT.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQxNTgwO1BvZ29kYmEgTU9KREVOQVIgSVQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

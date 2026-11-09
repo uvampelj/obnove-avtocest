@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 272463,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 830318,
+  "idDosje": 506991,
+  "title": "Nabava pisarniškega pohištva in ostale opreme, sklop 2 - Pohištvo",
+  "procurement": "Nabava pisarniškega pohištva in ostale opreme",
+  "kind": 2,
+  "value": 16354.1,
+  "signed": "2024-06-19",
+  "from": "2024-06-19",
+  "to": "2027-09-19",
+  "number": "000733/2024",
+  "contractors": [
+   "HI-PO Proizvodnja, inženiring in trgovina, d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5295548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001033/2024-POG/02",
+  "published": "2024-07-24",
+  "files": [
+   {
+    "name": "pogodba sklop 2 PODPISANA _RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk3MjA1O3BvZ29kYmEgc2tsb3AgMiBQT0RQSVNBTkEgX1JlZFVMLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

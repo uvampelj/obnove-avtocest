@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 234675,
+  "type": "DOD",
+  "prev": 160610,
+  "idObrazec": 774609,
+  "idDosje": 349425,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1237/20: Obnova voziščne konstrukcije na HC H4/0378 in H4/0778 Selo - Vogrsko od km 0,650 do km 6,731 in na odseku H4/0379 in 0779 Vogrsko - Šempeter od km 0,000 do km 0,634 in na priključku 0444 Vogrsko",
+  "procurement": "OBNOVA VOZIŠČNE KONSTRUKCIJE NA HC H4/0378 IN H4/0778 SELO - VOGRSKO OD KM 0,650 DO KM 6,731 IN NA ODSEKU H4/0379 IN 0779 VOGRSKO - ŠEMPETER OD KM 0,000 DO KM 0,634 IN NA PRIKLJUČKU 0444 VOGRSKO",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-03-08",
+  "from": "2023-03-08",
+  "to": "2023-05-24",
+  "number": "490/2023",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002310/2020-C01/DOD-234675",
+  "published": "2023-04-04",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNjA2MDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

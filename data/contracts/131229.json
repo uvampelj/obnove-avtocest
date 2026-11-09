@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 131229,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 690208,
+  "idDosje": 310710,
+  "title": "Vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite Hochiki, Ademco Vista, Esser, Detectomat",
+  "procurement": "Sklop proizvajalca HOCHIKI,Sklop proizvajalca ADEMCO VISTA,Sklop proizvajalca ESSER,Sklop proizvajalca DETECTOMAT",
+  "kind": 1,
+  "value": 117875.18,
+  "signed": "2019-07-31",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d.",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5263565000",
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003562/2019-C01/POG-131229",
+  "published": "2019-08-01",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 942-2019 in 943-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMTIyOTtQb2dvZGJhIERBUlMgxaF0LiA5NDItMjAxOSBpbiA5NDMtMjAxOS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216575,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738970,
+  "idDosje": 436426,
+  "title": "Dobava osebne varovalne opreme; ZIMSKA IN DEŽNA DELOVNA OBLAČILA, ROKAVICE",
+  "procurement": "ZIMSKA IN DEŽNA DELOVNA OBLAČILA,ROKAVICE",
+  "kind": 2,
+  "value": 397555.61,
+  "signed": "2022-06-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAS, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5799791000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001180/2022-C01/POG-216575",
+  "published": "2022-07-19",
+  "files": [
+   {
+    "name": "R Pogodba 1011-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjU3NTtSIFBvZ29kYmEgMTAxMS0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

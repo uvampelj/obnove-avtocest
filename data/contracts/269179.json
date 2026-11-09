@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 269179,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 819832,
+  "idDosje": 506192,
+  "title": "Sklop 1 - Kombinirana vozila  KV 1 ",
+  "procurement": "DOBAVA VOZIL ZA NADZOR DEL",
+  "kind": 2,
+  "value": 641498.81,
+  "signed": "2024-06-06",
+  "from": "2024-06-06",
+  "to": "2025-02-06",
+  "number": "000693/2024",
+  "contractors": [
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "5504023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000454/2024-POG/01",
+  "published": "2024-06-11",
+  "files": [
+   {
+    "name": "Pogodba - Avtotehna Vis - 1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg4ODg0O1BvZ29kYmEgLSBBdnRvdGVobmEgVmlzIC0gMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

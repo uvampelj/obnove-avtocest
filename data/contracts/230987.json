@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 230987,
+  "type": "DOD",
+  "prev": 146341,
+  "idObrazec": 773334,
+  "idDosje": 328376,
+  "title": "Aneks št. 1 k pogodbi DARS št. 346/2020: Strokovno svetovalne storitve s področje upravljanja in rednega vzdrževanja AC in HC v upravljanju DARS d.d.; podaljšanje pogodbenega roka",
+  "procurement": "Strokovno svetovalne storitve s področja upravljanj in rednega vzdrževanja AC in HC v upravljanju DARS d.d.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-01-25",
+  "from": "2023-01-25",
+  "to": "2023-08-06",
+  "number": "000090/2023",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007516/2019-C01/DOD-230987",
+  "published": "2023-02-07",
+  "files": [
+   {
+    "name": "podpisan aneks 346-2020 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTg3OTtwb2RwaXNhbiBhbmVrcyAzNDYtMjAyMCAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

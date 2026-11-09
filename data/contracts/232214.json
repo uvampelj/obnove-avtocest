@@ -1,0 +1,50 @@
+{
+ "meta": {
+  "id": 232214,
+  "type": "DOD",
+  "prev": 208569,
+  "idObrazec": 779722,
+  "idDosje": 424792,
+  "title": "Aneks št. 1 k pogodbi DARS št. 740/2022 za VULKANIZERSKE STORITVE Sklop 3: ACB Ljubljana + splošna služba",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana + splošna služba,ACB Hrušica,ACB Maribor,ACB Vransko,ACB Novo mesto,ACB Murska Sobota",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-02-24",
+  "from": "2023-02-24",
+  "to": "2025-04-06",
+  "number": "429/2023",
+  "contractors": [
+   "DBF, vulkanizerstvo in hitri servis, d.o.o.",
+   "VULKANIZERSTVO VULKO GORAN DRAČA S.P.",
+   "AVTOCENTER MARTIN STIPIČ S.P.",
+   "ASP storitveno in trgovsko podjetje d.o.o.",
+   "AVTO KOLETNIK prodaja in servis motornih vozil, obdelava kovin, trgovina, gostinstvo in storitve d.o.o.",
+   "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+   "AVTOTRANSPORTI ZUPANČIČ prevozi, storitve in trgovina d.o.o.",
+   "AVTO CENTER MAKOTER, servis in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "6220231000",
+   "3311414000",
+   "5572386000",
+   "5524466000",
+   "1391941000",
+   "1482696000",
+   "2009501000",
+   "5358701000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007756/2021-X01/DOD-232214",
+  "published": "2023-03-01",
+  "files": [
+   {
+    "name": "Podpisan aneks 1 z dne 24022023R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMzMzNztQb2RwaXNhbiBhbmVrcyAxIHogZG5lIDI0MDIyMDIzUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

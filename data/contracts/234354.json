@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234354,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 750271,
+  "idDosje": 472847,
+  "title": "Preprojektiranje zaščite gradbene jame, globokega temeljenja, gradbene konstrukcije, armature in drenaže ter sprememba projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič",
+  "procurement": "Preprojektiranje zaščite gradbene jame, globokega temeljenja, gradbene konstrukcije, armature in drenaže ter sprememba projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič",
+  "kind": 1,
+  "value": 79605.0,
+  "signed": "2023-03-28",
+  "from": "2023-03-28",
+  "to": "2025-09-28",
+  "number": "000559/2023",
+  "contractors": [
+   "studio abiro, arhitekturno načrtovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2136392000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001137/2023-C01/POG-234354",
+  "published": "2023-03-31",
+  "files": [
+   {
+    "name": "Podpisana pogodba 559-2023_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTcyOTtQb2RwaXNhbmEgcG9nb2RiYSA1NTktMjAyM19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91682,
+  "type": "DOD",
+  "prev": 58023,
+  "idObrazec": 768664,
+  "idDosje": 164986,
+  "title": "Izvedba cestne razsvetljave priključkov Višnja gora in Grosuplje",
+  "procurement": "Izvedba cestne razsvetljave priključkov Višnja gora in Grosuplje",
+  "kind": 3,
+  "value": 28586.44,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "3341836000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004431/2016-X01/DOD-91682",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks-105-17.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjgyO2FuZWtzLTEwNS0xNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

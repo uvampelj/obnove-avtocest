@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 190234,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724794,
+  "idDosje": 395839,
+  "title": "Izdelava strokovnih mnenj, preveritev nosilnosti objektov, kontrola gabaritov in osnih pritiskov pri izvajanju izrednih prevozov",
+  "procurement": "Izdelava strokovnih mnenj, preveritev nosilnosti objektov, kontrola gabaritov in osnih pritiskov pri izvajanju izrednih prevozov",
+  "kind": 1,
+  "value": 2335787.6,
+  "signed": "2021-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTEL cestni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5608244000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002668/2021-C01/POG-190234",
+  "published": "2021-09-07",
+  "files": [
+   {
+    "name": "POGODBA st. 1072-2021_Redi.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MDIzNDtQT0dPREJBIHN0LiAxMDcyLTIwMjFfUmVkaS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

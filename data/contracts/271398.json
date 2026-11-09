@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271398,
+  "type": "DOD",
+  "prev": 242709,
+  "idObrazec": 826940,
+  "idDosje": 477162,
+  "title": "Aneks 1, DARS št. 776/2024 k pog. DARS št. 828/2023",
+  "procurement": "VZDRŽEVANJE STROJEV ZA TALNE OZNAČBE HOFFMANN",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-07-05",
+  "from": null,
+  "to": null,
+  "number": "000776/2024",
+  "contractors": [
+   "NEKS, družba za inženiring, meritve in prometno signalizacijo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3744973000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002220/2023-X01/POG-242709-D01",
+  "published": "2024-07-11",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 776-2024 k pog. DARS 828-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk0NTE0O0FuZWtzIDEsIERBUlMgxaF0LiA3NzYtMjAyNCBrIHBvZy4gREFSUyA4MjgtMjAyMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

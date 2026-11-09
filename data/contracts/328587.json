@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 328587,
+  "type": "DOD",
+  "prev": 268817,
+  "idObrazec": 968486,
+  "idDosje": 498430,
+  "title": "Aneks št. 1 k pogodbi DARS št. 636/2024: Rekonstrukcija in novogradnja objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "procurement": "Rekonstrukcija in novogradnjo objektov avtocestne baze Postojna z izpostavami Logatec, Vipava in Senožeče",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-12-19",
+  "from": "2025-12-19",
+  "to": "2027-01-21",
+  "number": "000636/2024",
+  "contractors": [
+   "CBE, družba za gradnjo in inženiring, d.o.o.",
+   "GP KRK d. d."
+  ],
+  "contractor_ids": [
+   "3976602000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "007503/2023-POG/01-D01",
+  "published": "2025-12-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwMzI1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

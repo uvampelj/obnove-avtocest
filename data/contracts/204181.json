@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 204181,
+  "type": "DOD",
+  "prev": 127989,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 472/2019: Rušitev in preureditev cestninskih postaj vključno s platojem ter obnovo voziščne konstrukcije na posameznih odsekih AC A2 in HC H4, razcepa Nanos ter priključkov Logatec in Vodice; SKLOP 2",
+  "procurement": "Rušitev in preureditev cestninskih postaj Vransko, Tepanje, Drnovo, Krško in Sl. Konjice, vključno s platojem-Sklop 2",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNO PODJETJE PTUJ D.D.",
+   "Euro-Asfalt d.o.o. Sarajevo"
+  ],
+  "contractor_ids": [
+   "5143284000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-09",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNDE4MTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

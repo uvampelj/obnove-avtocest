@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 125198,
+  "type": "DOD",
+  "prev": 109955,
+  "idObrazec": 771141,
+  "idDosje": 260278,
+  "title": "IZDELAVA IDEJNE ZASNOVE ZA REKONSTRUKCIJO CESTNEGA TELESA IN OBJEKTOV NA DELIH ODSEKOV AC KRTINA-DOMŽALE - ŠENTJAKOB -LJ (ZADOBROVA) IN PRIKLJUČKIH DOMŽALE, LJ ŠENTJAKOB IN LJ SNEBERJE",
+  "procurement": "IZDELAVA IDEJNE ZASNOVE ZA REKONSTRUKCIJO CESTNEGA TELESA IN OBJEKTOV NA DELIH ODSEKOV AC KRTINA-DOMŽALE - ŠENTJAKOB -LJ (ZADOBROVA) IN PRIKLJUČKIH DOMŽALE, LJ ŠENTJAKOB IN LJ SNEBERJE",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003912/2018-C01/DOD-125198",
+  "published": "2019-04-23",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTE5ODtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

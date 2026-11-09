@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 86943,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666898,
+  "idDosje": 226924,
+  "title": "Vzdrževanje strojev za talne obeležbe",
+  "procurement": "Vzdrževanje strojev za talne obeležbe",
+  "kind": 1,
+  "value": 109997.96,
+  "signed": "2017-12-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MBM, svetovanje in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5580315000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008984/2017-X01/POG-86943",
+  "published": "2017-12-15",
+  "files": [
+   {
+    "name": "Pogodba 1019-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg2OTQzO1BvZ29kYmEgMTAxOS0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

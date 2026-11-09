@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 390242,
+  "type": "DOD",
+  "prev": 316702,
+  "idObrazec": 1046705,
+  "idDosje": 518990,
+  "title": "Aneks 2, DARS št. 555/2026",
+  "procurement": "Dobava preglednih in vozil za nadzor del",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-04-14",
+  "from": null,
+  "to": null,
+  "number": "000912/2025",
+  "contractors": [
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "5504023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001403/2025-POG/01-D02",
+  "published": "2026-04-15",
+  "files": [
+   {
+    "name": "Aneks 2 , DARS št. 555-2026 k pog. DARS št. 912-2025_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkzNDM5O0FuZWtzIDIgLCBEQVJTIMWhdC4gNTU1LTIwMjYgayBwb2cuIERBUlMgxaF0LiA5MTItMjAyNV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

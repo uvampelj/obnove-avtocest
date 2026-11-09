@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 219636,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740221,
+  "idDosje": 442612,
+  "title": "POPRAVILO IN IZDELAVA HIDRAVLIČNIH IN PNEVMATSKIH KOMPONENT",
+  "procurement": "ACB Ljubljana,ACB Slovenske Konjice",
+  "kind": 1,
+  "value": 54637.7,
+  "signed": "2022-08-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRIT podjetje za proizvodnjo, trgovino in inženiring, d.o.o.",
+   "HIDROCEV, proizvodnja, trgovina, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5717914000",
+   "3431576000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002609/2022-X01/POG-219636",
+  "published": "2022-08-19",
+  "files": [
+   {
+    "name": "Pogodbi _R.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxOTYzNjtQb2dvZGJpIF9SLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

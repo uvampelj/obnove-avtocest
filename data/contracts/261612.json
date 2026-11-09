@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 261612,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 798189,
+  "idDosje": 494261,
+  "title": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte na 2. odseku 3. razvojne osi jug od priključka Maline do MMP Metlika",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte na 2. odseku 3. razvojne osi jug od priključka Maline do MMP Metlika",
+  "kind": 1,
+  "value": 63440.0,
+  "signed": "2024-03-08",
+  "from": "2024-03-08",
+  "to": "2025-09-08",
+  "number": "000401/2024",
+  "contractors": [
+   "GRADBENI INŠTITUT ZRMK d.o.o."
+  ],
+  "contractor_ids": [
+   "1795490000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006425/2023-POG/01",
+  "published": "2024-03-13",
+  "files": [
+   {
+    "name": "Pogodba-ZRMK_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcxNDEzO1BvZ29kYmEtWlJNS19yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

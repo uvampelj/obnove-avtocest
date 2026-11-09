@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 316117,
+  "type": "DOD",
+  "prev": 244817,
+  "idObrazec": 932036,
+  "idDosje": 474977,
+  "title": "Aneks 1 k pogodbi DARS d. d. št.845/2023 : Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug ",
+  "procurement": "Prenos lege gradbene parcele za potrebe izgradnje pododsekov A in B od priključka Maline do MMP Metlika na drugem odseku 3 razvojne osi jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-15",
+  "from": "2025-07-15",
+  "to": "2027-01-18",
+  "number": "000845/2023",
+  "contractors": [
+   "GEODETSKI ZAVOD CELJE, d.o.o.",
+   "GEOTOČKA IN 2GR, geodetsko svetovanje in storitve, d.o.o.",
+   "GEOFOTO podjetje za geodetske in računalniške storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5066352000",
+   "3833399000",
+   "5669472000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001787/2023-C01/POG-244817-D01",
+  "published": "2025-07-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxMjQ4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

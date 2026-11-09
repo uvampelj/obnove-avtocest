@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167033,
+  "type": "DOD",
+  "prev": 166764,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 6 k pog. DARS št. 1006/10: IZDELAVA GRADBENO - TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA IZGRADNJO AVTOCESTE POSTOJNA / DIVAČA - JELŠANE - popravek vrednosti DDV",
+  "procurement": " IZDELAVA GRADBENO – TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA GRADNJO AVTOCESTE POSTOJNA / DIVAČA - JELŠANE ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-29",
+  "files": [
+   {
+    "name": "Aneks št. 6 k pog-št-1006-2010-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAzMztBbmVrcyDFoXQuIDYgayBwb2ctxaF0LTEwMDYtMjAxMC1PSy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

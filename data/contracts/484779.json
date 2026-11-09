@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 484779,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1199304,
+  "idDosje": 602765,
+  "title": "Izvedba zunanje kontrole kakovosti pri investicijah na obstoječih AC in HC, s svetovalnimi storitvami za obdobje 2026 – 2028",
+  "procurement": "Izvedba zunanje kontrole kakovosti pri investicijah na obstoječih AC in HC, s svetovalnimi storitvami za obdobje 2026 – 2028",
+  "kind": 1,
+  "value": 4877237.31,
+  "signed": "2026-09-15",
+  "from": "2026-09-15",
+  "to": "2030-09-15",
+  "number": "000948/2026",
+  "contractors": [
+   "IGMAT, Inštitut za gradbene materiale, d.d.",
+   "Zavod za gradbeništvo Slovenije"
+  ],
+  "contractor_ids": [
+   "5498503000",
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003314/2026-POG/01",
+  "published": "2026-10-01",
+  "files": [
+   {
+    "name": "JV IGMAT+ZAG_pogodba_000948-2026_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM3NDA2O0pWIElHTUFUK1pBR19wb2dvZGJhXzAwMDk0OC0yMDI2X3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

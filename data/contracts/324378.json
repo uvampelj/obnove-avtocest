@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324378,
+  "type": "DOD",
+  "prev": 229838,
+  "idObrazec": 956150,
+  "idDosje": 455632,
+  "title": "Aneks št. 2 k pogodbi DARS št. 73/2023 za izvedbo zunanje kontrole kakovosti pri izgradnji hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi, sever: sklop B - Škalsko jezero in sklop H - Konovo",
+  "procurement": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2026-04-17",
+  "number": "000073/2023",
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005983/2022-C01/POG-229838-D02",
+  "published": "2025-11-05",
+  "files": [
+   {
+    "name": "Podpisan aneks 272-2025 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNDM4O1BvZHBpc2FuIGFuZWtzIDI3Mi0yMDI1IHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

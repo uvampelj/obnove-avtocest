@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70533,
+  "type": "DOD",
+  "prev": 19006,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 za določitev enotnih cen za dodatna dela, nominacijo dodatnega podizvajalca in sprememb nazivov firme  podjetij, k pogodbi DARS št. 529/15 za izvedbo gradbenih del: za »AC A4 Slivnica – MMP Gruškovje, pododsek AC Draženci - MMP Gruškovje, SKLOP 1: I. etapa od km 0+000 do km 7+260",
+  "procurement": "Aneks št. 3 za določitev enotnih cen za dodatna dela, nominacijo dodatnega podizvajalca in sprememb nazivov firme  podjetij",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-04-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-05-11",
+  "files": [
+   {
+    "name": "529_15_A3_356.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwNTMzOzUyOV8xNV9BM18zNTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

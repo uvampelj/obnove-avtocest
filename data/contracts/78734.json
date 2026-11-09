@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 78734,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662980,
+  "idDosje": 182094,
+  "title": "Izdelava PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana–Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izdelava PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana–Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 2131019.13,
+  "signed": "2017-05-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN008098/2016-C01/POG-78734",
+  "published": "2017-09-02",
+  "files": [
+   {
+    "name": "Pogodba-I.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4NzM0O1BvZ29kYmEtSS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

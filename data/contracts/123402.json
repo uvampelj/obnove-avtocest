@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123402,
+  "type": "DOD",
+  "prev": 66451,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 251/2017",
+  "procurement": "Čiščenje sanitarnih objektov na malih počivališčih",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-07-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VUR d.o.o., trgovina, gostinstvo in storitve"
+  ],
+  "contractor_ids": [
+   "6233643000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-29",
+  "files": [
+   {
+    "name": "aneks št. 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzQwMjthbmVrcyDFoXQuIDIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

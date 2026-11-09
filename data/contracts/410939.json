@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 410939,
+  "type": "DOD",
+  "prev": 273356,
+  "idObrazec": 1079030,
+  "idDosje": 509514,
+  "title": "Aneks št. 1 k pogodbi DARS št. 811/2024: Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič – Trebnje Z",
+  "procurement": "Obnova voziščne konstrukcije na odseku AC A2 0072/0672 Bič–Trebnje Z od km 0+000 do km 6+909",
+  "kind": 3,
+  "value": 2938890.98,
+  "signed": "2026-04-03",
+  "from": "2026-04-03",
+  "to": "2026-07-22",
+  "number": "000811/2024",
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002961/2024-POG/01-D01",
+  "published": "2026-04-23",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI1MjAyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

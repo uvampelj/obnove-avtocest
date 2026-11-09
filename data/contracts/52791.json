@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52791,
+  "type": "DOD",
+  "prev": 11015,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 307/15:Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0041 Arja vas - Šentrupert od km 0,000 do km 6,400 in na A1/0641 Arja vas - Šentrupert od km 1,050 do km 6,400 in PZI za zamenjavo dilatacij na mostu čez Ložnico VA 0420 in VA 044",
+  "procurement": "aneks št. 1 k pog. DARS št. 307/15:Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0041 Arja vas - Šentrupert od km 0,000 do km 6,400 in na A1/0641 Arja vas - Šentrupert od km 1,050 do km 6,400 in PZI za zamenjavo dilatacij na mostu čez Ložnico VA 0420 in VA 044",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-07-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "575-15 (3).pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyNzkxOzU3NS0xNSAoMykucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 11199,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634645,
+  "idDosje": 71382,
+  "title": "Aneks št. 2 k pog. DARS št. 107/13: IZDELAVO DOPOLNITVE GRADBENO – TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA DRŽAVNO CESTO OD AVTOCESTE A1 ŠENTILJ – KOPER DO PRIKLJUČKA VELENJE - JUG - dodatna dela.",
+  "procurement": "Aneks št. 2 k pog. DARS št. 107/13: IZDELAVO DOPOLNITVE GRADBENO – TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA DRŽAVNO CESTO OD AVTOCESTE A1 ŠENTILJ – KOPER DO PRIKLJUČKA VELENJE - JUG - dodatna dela.",
+  "kind": 1,
+  "value": 14070.6,
+  "signed": "2015-02-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN1018/2015/POG-11199",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "117-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTk5OzExNy0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

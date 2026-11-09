@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228918,
+  "type": "DOD",
+  "prev": 226305,
+  "idObrazec": 782233,
+  "idDosje": 455024,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1447/2022",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 701.5,
+  "signed": "2023-01-05",
+  "from": null,
+  "to": null,
+  "number": "10/2023",
+  "contractors": [
+   "EXTRA LUX, proizvodno in trgovsko podjetje d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5426189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005739/2022-X01/DOD-228918",
+  "published": "2023-01-10",
+  "files": [
+   {
+    "name": "Aneks 10-2023 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTU4MztBbmVrcyAxMC0yMDIzIFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 266613,
+  "type": "DOD",
+  "prev": 233997,
+  "idObrazec": 811599,
+  "idDosje": 459020,
+  "title": "Aneks št.1 za vključitev podizvajalcev, manj, več in dodatna dela ter podaljšanje vmesnih pogodbenih rokov in obdobja, za katero je sklenjena osnovna pogodba",
+  "procurement": "Odvodnjavanje zaledja plazu viadukta Šumljak na HC H4 Razdrto - Vipava; Rebernice",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-05-08",
+  "from": "2024-05-08",
+  "to": "2024-05-23",
+  "number": "000588/2024",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006686/2022-X01/POG-233997-D01",
+  "published": "2024-05-08",
+  "files": [
+   {
+    "name": "Aneks št. 1_DARS_588_2024_k_pog_DARS_549_2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgyMjg5O0FuZWtzIMWhdC4gMV9EQVJTXzU4OF8yMDI0X2tfcG9nX0RBUlNfNTQ5XzIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

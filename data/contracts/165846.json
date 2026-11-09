@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 165846,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 710875,
+  "idDosje": 168007,
+  "title": "Aneks št. 1 k pog. DARS št. 13/2017: DOBAVA IN MONTAŽA AVTOMATSKIH ŠTEVCEV PROMETA S KLASIFIKACIJO VOZIL NA AC IN HC V REPUBLIKI SLOVENIJI - dodatna dela, podaljšanje roka",
+  "procurement": "DOBAVA IN MONTAŽA AVTOMATSKIH ŠTEVCEV PROMETA S KLASIFIKACIJO VOZIL NA AC IN HC V REPUBLIKI SLOVENIJI",
+  "kind": 2,
+  "value": 145706.12,
+  "signed": "2019-07-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROBIT SENZORIKA d.o.o.",
+   "VZDRŽEVANJE ELEKTRONSKIH NAPRAV, IZTOK MIKLAVČIČ S.P.",
+   "ELEKTRO TRČEK JANEZ TRČEK S.P."
+  ],
+  "contractor_ids": [
+   "6227716000",
+   "6609147000",
+   "3317099000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005497/2016-C01/POG-165846",
+  "published": "2020-11-14",
+  "files": [
+   {
+    "name": "aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTg0NjthbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265229,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807760,
+  "idDosje": 504953,
+  "title": "Okolju prijazno čiščenje poslovnih prostorov, SKLOP 3 - Hrušica, SKLOP 5 - - Štajerska in Prekmurje",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 981764.45,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000538/2024",
+  "contractors": [
+   "VALINA d.o.o., podružnica Ljubljana"
+  ],
+  "contractor_ids": [
+   "5340411002"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/03",
+  "published": "2024-04-19",
+  "files": [
+   {
+    "name": "pogodba 538-2024 S3 in 5 VALINA_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5MTcwO3BvZ29kYmEgNTM4LTIwMjQgUzMgaW4gNSBWQUxJTkFfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 413187,
+  "type": "DOD",
+  "prev": 304050,
+  "idObrazec": 1085815,
+  "idDosje": 517594,
+  "title": "Aneks št. 1 k pogodbi DARS št. 316/2025: Izdelava dela PZI projektne dokumentacije za obnovo viadukta Moste VA0321 ",
+  "procurement": "Izdelava dela PZI projektne dokumentacije za obnovo viadukta Moste VA0321",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-05-18",
+  "from": "2026-05-18",
+  "to": "2026-11-24",
+  "number": "000316/2025",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1708597000",
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000300/2025-POG/01-D01",
+  "published": "2026-05-21",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTMwNjEyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

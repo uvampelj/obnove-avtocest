@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 124989,
+  "type": "DOD",
+  "prev": 78784,
+  "idObrazec": 769586,
+  "idDosje": 207725,
+  "title": "OVK na AC A2 0002 Hrušica Lipce od km 0,150 do km 4,850, sanacija viadukta Podmežakla 1D in 2D, Sanacija izvedenih ukrepov zavarovanja AC Hrušica – Lipce pred padajočim kamenjem in snežnimi plazovi",
+  "procurement": "OVK na AC A2 0002 Hrušica Lipce od km 0,150 do km 4,850, sanacija viadukta Podmežakla 1D in 2D, Sanacija izvedenih ukrepov zavarovanja AC Hrušica – Lipce pred padajočim kamenjem in snežnimi plazovi",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-04-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005244/2017-C01/DOD-124989",
+  "published": "2019-04-18",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDk4OTtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 289651,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 861101,
+  "idDosje": 512125,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0041, 0042 Arja vas – Vransko \n",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0041, 0042 Arja vas – Vransko",
+  "kind": 1,
+  "value": 42590.0,
+  "signed": "2024-10-16",
+  "from": "2024-10-16",
+  "to": "2025-10-16",
+  "number": "001046/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005035/2024-POG/01",
+  "published": "2024-10-21",
+  "files": [
+   {
+    "name": "Pogodba PNZ_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIzNjcwO1BvZ29kYmEgUE5aX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

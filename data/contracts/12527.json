@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 12527,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 635080,
+  "idDosje": 80181,
+  "title": "Dobava posipnih materialov pri izvajanju zimske službe za posip vozišč na avtocestah in hitrih cestah v Republiki Sloveniji; sklop 2: sol za silos – natrijev klorid – NaCl, 0/4 mm, vlaga do 1 %.",
+  "procurement": "Dobava posipnih materialov pri izvajanju zimske službe za posip vozišč na avtocestah in hitrih cestah v Republiki Sloveniji; sklop 2: sol za silos – natrijev klorid – NaCl, 0/4 mm, vlaga do 1 %.",
+  "kind": 2,
+  "value": 2333250.0,
+  "signed": "2015-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FINALI OBALA d.o.o."
+  ],
+  "contractor_ids": [
+   "3493466000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1927/2015/POG-12527",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "212-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTI3OzIxMi0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

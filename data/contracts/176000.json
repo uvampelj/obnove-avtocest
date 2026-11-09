@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 176000,
+  "type": "DOD",
+  "prev": 32955,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 139/2016 za  strokovno svetovalne storitve za pridobitev pobude in študije variant v postopku priprave državnega prostorskega načrta ter vseh potrebnih strokovnih podlag za širitev ljubljanskega avtocestnega obroča in vpadnih avtocest; podaljšanje pogodbenega roka",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 139/2016 za  strokovno svetovalne storitve za pridobitev pobude in študije variant v postopku priprave državnega prostorskega načrta ter vseh potrebnih strokovnih podlag za širitev ljubljanskega avtocestnega obroča in vpadnih avtocest; podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-03-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-03-10",
+  "files": [
+   {
+    "name": "podpisan a1 k pog 139-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjAwMDtwb2RwaXNhbiBhMSBrIHBvZyAxMzktMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

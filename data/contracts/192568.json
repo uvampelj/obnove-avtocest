@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192568,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725686,
+  "idDosje": 398216,
+  "title": "Izdelava PZI za rekonstrukcijo cestnega telesa na AC A1 0055 in 0655 Unec - Postojna, A1 0056 in 0656 Postojna - Razdrto ter 0153 priključka Postojna  ",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa na AC A1 0055 in 0655 Unec - Postojna, A1 0056 in 0656 Postojna - Razdrto ter 0153 priključka Postojna  ",
+  "kind": 1,
+  "value": 844426.66,
+  "signed": "2021-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002954/2021-C01/POG-192568",
+  "published": "2021-09-24",
+  "files": [
+   {
+    "name": "Pogodba-Ginex Int.-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjU2ODtQb2dvZGJhLUdpbmV4IEludC4tb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

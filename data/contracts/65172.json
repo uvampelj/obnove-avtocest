@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 65172,
+  "type": "DOD",
+  "prev": 31626,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Spremljanje plužnih vozil v sistemu MDSS, aneks št. 1 k pogodbi DARS št. 83/2016",
+  "procurement": "Spremljanje plužnih vozil v sistemu MDSS",
+  "kind": 1,
+  "value": 20056.8,
+  "signed": "2017-02-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS plus d.o.o."
+  ],
+  "contractor_ids": [
+   "1880128000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-03-20",
+  "files": [
+   {
+    "name": "aneks št 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY1MTcyO2FuZWtzIMWhdCAxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

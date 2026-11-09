@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315748,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930981,
+  "idDosje": 519724,
+  "title": "Letni pregled in servisiranje dvižnih naprav, Sklop 1 - Dvigala proizvajalca Palfinger",
+  "procurement": "Letni pregled in servisiranje dvižnih naprav",
+  "kind": 1,
+  "value": 59275.55,
+  "signed": "2025-06-20",
+  "from": "2025-06-20",
+  "to": "2028-09-20",
+  "number": "000845/2025",
+  "contractors": [
+   "BIJOL zastopanje, proizvodnja d.o.o."
+  ],
+  "contractor_ids": [
+   "1338269000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002044/2025-POG/01",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "sklop 1 pogodba st 845-2025 red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMzY5O3NrbG9wIDEgcG9nb2RiYSBzdCA4NDUtMjAyNSByZWQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

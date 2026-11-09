@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 54971,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 653005,
+  "idDosje": 172356,
+  "title": "Najem opreme za izvajanje zimske službe - sklop 1 ACB Postojna",
+  "procurement": "Najem opreme za izvajanje zimske službe",
+  "kind": 1,
+  "value": 40626.0,
+  "signed": "2016-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LEDALINE d.o.o."
+  ],
+  "contractor_ids": [
+   "6708285000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006334/2016-X01/POG-54971",
+  "published": "2016-11-25",
+  "files": [
+   {
+    "name": "Pogodba 935-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU0OTcxO1BvZ29kYmEgOTM1LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167008,
+  "type": "DOD",
+  "prev": 99660,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS ŠT. 985/17: OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH AC A2 0027/0627 DOBRUŠKA VAS - DRNOVO - OD KM 1,600 DO KM 8,730 - dodatna, več in manj dela, sprememba roka ter podaljšanje garancijske dobe ",
+  "procurement": "Obnova voziščne konstrukcije na odsekih AC A2 0027/0627 Dobruška vas - Drnovo - od km 1,600 do km 8,730",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-01",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog-985-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAwODtBbmVrcyDFoXQuIDEgayBwb2ctOTg1LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

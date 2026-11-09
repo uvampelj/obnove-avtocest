@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228288,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745780,
+  "idDosje": 462452,
+  "title": "Pogodba za vzdrževanje, gostovanje in razvoj aplikacije WEPS DARS",
+  "procurement": "Vzdrževanje, gostovanje in razvoj aplikacije WEPS DARS",
+  "kind": 1,
+  "value": 244488.0,
+  "signed": "2022-12-28",
+  "from": "2022-12-31",
+  "to": "2025-12-31",
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007506/2022-L01/POG-228288",
+  "published": "2022-12-29",
+  "files": [
+   {
+    "name": "PGD0159_2022_Objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODkxNztQR0QwMTU5XzIwMjJfT2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 95716,
+  "type": "DOD",
+  "prev": 81994,
+  "idObrazec": 769702,
+  "idDosje": 45296,
+  "title": "IZVEDBA CENTRALIZACIJE VIDEO NADZORNEGA SISTEMA VZHOD-ZAHOD",
+  "procurement": "IZVEDBA CENTRALIZACIJE VIDEO NADZORNEGA SISTEMA VZHOD-ZAHOD",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2018-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "COTING d.o.o. komercialno tehnični inženiring, trgovina, proizvodnja",
+   "POŽARNI SISTEMI družba za inženiring, trgovino, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5434653000",
+   "1782215000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007991/2017-C01/DOD-95716",
+  "published": "2018-04-06",
+  "files": [
+   {
+    "name": "aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NzE2O2FuZWtzLTEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

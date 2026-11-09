@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 41006,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 648077,
+  "idDosje": 14258,
+  "title": "DOKONČNA ODMERA HC KOPER-IZOLA ",
+  "procurement": "DOKONČNA ODMERA HC KOPER-IZOLA",
+  "kind": 1,
+  "value": 8570.5,
+  "signed": "2016-06-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEO2 d.o.o."
+  ],
+  "contractor_ids": [
+   "5573262000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003453/2016-X01/POG-41006",
+  "published": "2016-07-06",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQxMDA2O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

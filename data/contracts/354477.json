@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 354477,
+  "type": "DOD",
+  "prev": 230764,
+  "idObrazec": 1002023,
+  "idDosje": 460169,
+  "title": "Aneks št. 3 k pogodbi DARS št. 71/2023: Izdelava dokumentacije za pridobitev mnenj in gradbenega dovoljenja (DGD) ter projektne dokumentacije za izvedbo gradnje (PZI) za izgradnjo pododseka A na 2. odseku 3. razvojne osi jug",
+  "procurement": "Izdelava dokumentacije za pridobitev mnenj in gradbenega dovoljenja (DGD) ter projektne dokumentacije za izvedbo gradnje (PZI) za izgradnjo pododseka A na 2. odseku 3. razvojne osi jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-02-06",
+  "from": "2026-02-06",
+  "to": "2027-12-31",
+  "number": "000071/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006995/2022-C01/POG-230764-D03",
+  "published": "2026-02-19",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUxMzYwO0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

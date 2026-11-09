@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 205767,
+  "type": "DOD",
+  "prev": 190248,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 660/2021: Izdelava projektne dokumentacije za obnovo obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec-Ankaran",
+  "procurement": "Izdelava projektne dokumentacije za obnovo obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec - Ankaran",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-01-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-28",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTc2NztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

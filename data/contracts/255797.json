@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 255797,
+  "type": "DOD",
+  "prev": 207673,
+  "idObrazec": 779572,
+  "idDosje": 416133,
+  "title": "Aneks št.2 k pogodbi DARS št. 425/2022: Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Ločica in Jasovnik",
+  "procurement": "Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Ločica in Jasovnik",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-12-18",
+  "from": "2023-09-02",
+  "to": "2023-12-02",
+  "number": "1480/2023",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o.",
+   "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "2074699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006437/2021-C01/DOD-255797",
+  "published": "2024-01-10",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTU1MztBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

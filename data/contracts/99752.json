@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 99752,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673562,
+  "idDosje": 248939,
+  "title": "Redni servisi hidrantov s penilom Rosenbauer",
+  "procurement": "Redni servisi hidrantov s penilom Rosenbauer",
+  "kind": 1,
+  "value": 53147.47,
+  "signed": "2018-05-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ROSENBAUER, proizvodnja in trgovina za gasilsko dejavnost, d.o.o."
+  ],
+  "contractor_ids": [
+   "1121677000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002117/2018-X01/POG-99752",
+  "published": "2018-05-24",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1508-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk5NzUyO1BvZ29kYmEgREFSUyDFoXQuIDE1MDgtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

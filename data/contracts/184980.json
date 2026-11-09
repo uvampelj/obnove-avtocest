@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 184980,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 722024,
+  "idDosje": 393834,
+  "title": "Razvoj, vzdrževanje in podpora IS BCP DARS",
+  "procurement": "Razvoj, vzdrževanje in podpora IS BCP DARS",
+  "kind": 1,
+  "value": 350506.0,
+  "signed": "2021-06-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO"
+  ],
+  "contractor_ids": [
+   "1782355000",
+   "1626981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002259/2021-C01/POG-184980",
+  "published": "2021-07-07",
+  "files": [
+   {
+    "name": "pogodba 937-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDk4MDtwb2dvZGJhIDkzNy0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

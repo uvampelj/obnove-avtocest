@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 134081,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691951,
+  "idDosje": 314452,
+  "title": "Najem sanitarnih kabin",
+  "procurement": "Najem sanitarnih kabin",
+  "kind": 2,
+  "value": 128059.88,
+  "signed": "2019-09-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADCO & DIXI varovanje okolja d.o.o."
+  ],
+  "contractor_ids": [
+   "5957702000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004691/2019-X01/POG-134081",
+  "published": "2019-09-16",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1353-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNDA4MTtQb2dvZGJhIERBUlMgxaF0LiAxMzUzLTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

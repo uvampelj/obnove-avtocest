@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274684,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836733,
+  "idDosje": 508049,
+  "title": "Storitve mobilnih telekomunikacij",
+  "procurement": "Storitve mobilnih telekomunikacij",
+  "kind": 1,
+  "value": 663133.44,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2029-11-20",
+  "number": "000872/2024",
+  "contractors": [
+   "Telemach Slovenija, širokopasovne komunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5692229000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001845/2024-POG/01",
+  "published": "2024-08-23",
+  "files": [
+   {
+    "name": "Pogodba 872-2024_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMzI4O1BvZ29kYmEgODcyLTIwMjRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

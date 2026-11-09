@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 148027,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699830,
+  "idDosje": 335668,
+  "title": "Dobava kuhinjskih pripomočkov in ostale opreme za dom",
+  "procurement": "Dobava kuhinjskih pripomočkov in ostale opreme za dom",
+  "kind": 2,
+  "value": 163681.93,
+  "signed": "2020-03-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008655/2019-X01/POG-148027",
+  "published": "2020-03-05",
+  "files": [
+   {
+    "name": "pogodba 542-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0ODAyNztwb2dvZGJhIDU0Mi0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

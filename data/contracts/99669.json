@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 99669,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673530,
+  "idDosje": 220828,
+  "title": "Izdelava projektne dokumentacije za traso in objekte na glavni cesti Hajdina – Ormož, odsek Gorišnica – Ormož; Sklop 1: Izdelava projektne dokumentacije PGD (novelacija) in PZI za most čez kanal HE Formin ter izdelava PGD in PZI za nadvoz Ormož",
+  "procurement": "Izdelava projektne dokumentacije PGD (novelacija) in PZI za most čez kanal HE Formin ter izdelava PGD in PZI za nadvoz Ormož",
+  "kind": 1,
+  "value": 151890.0,
+  "signed": "2018-01-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008054/2017-C01/POG-99669",
+  "published": "2018-05-23",
+  "files": [
+   {
+    "name": "Pogodba-Ponting-Sklop1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk5NjY5O1BvZ29kYmEtUG9udGluZy1Ta2xvcDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

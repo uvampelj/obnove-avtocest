@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 323841,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 954579,
+  "idDosje": 524015,
+  "title": "Dobava vozil za nadzor del: Sklop 2 - Kombinirana vozila KV 3",
+  "procurement": "Dobava vozil za nadzor del",
+  "kind": 2,
+  "value": 83848.01,
+  "signed": "2025-10-27",
+  "from": "2025-10-27",
+  "to": "2026-06-27",
+  "number": "001208/2025",
+  "contractors": [
+   "AVTO JARC storitve in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5690889000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005667/2025-POG/02",
+  "published": "2025-10-29",
+  "files": [
+   {
+    "name": "R_Pogodba 1208-2025 Avto Jarc S2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA5MjU2O1JfUG9nb2RiYSAxMjA4LTIwMjUgQXZ0byBKYXJjIFMyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

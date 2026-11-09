@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 109600,
+  "type": "DOD",
+  "prev": 92971,
+  "idObrazec": 770323,
+  "idDosje": 221127,
+  "title": "UREDITEV EKOLOŠKEGA OTOKA S SKLADIŠČENJEM NEVARNIH SNOVI V ACB POSTOJNA",
+  "procurement": "UREDITEV EKOLOŠKEGA OTOKA S SKLADIŠČENJEM NEVARNIH SNOVI V ACB POSTOJNA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-08-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GPS GRAD gradbeno podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "1851519000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008037/2017-X01/DOD-109600",
+  "published": "2018-09-22",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTYwMDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

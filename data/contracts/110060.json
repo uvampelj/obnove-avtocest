@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 110060,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678546,
+  "idDosje": 264578,
+  "title": "Opravljanje tehničnih pregledov, registracije, letna dajatev za uporabo cest in pregledi tahografov",
+  "procurement": "ACB Maribor,ACB MURSKA SOBOTA",
+  "kind": 1,
+  "value": 207196.62,
+  "signed": "2018-09-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "D CENTER, trgovina, servis, zastopstvo, d.o.o.",
+   "E CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "7009291000",
+   "8076359000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004778/2018-C01/POG-110060",
+  "published": "2018-09-27",
+  "files": [
+   {
+    "name": "Pogodbi 1877 in 1878.rar",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDA2MDtQb2dvZGJpIDE4NzcgaW4gMTg3OC5yYXI"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

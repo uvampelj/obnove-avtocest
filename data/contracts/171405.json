@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 171405,
+  "type": "DOD",
+  "prev": 155626,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1238/20: Izdelava novelacije projektne dokumentacije za nadgradnjo obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko - Blagovica - podaljšanje pogodbena roka",
+  "procurement": "Izdelava novelacije projektne dokumentacije za nadgradnjo obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko - Blagovica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-01-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-21",
+  "files": [
+   {
+    "name": "Aneks 1 k  1238-2020 Vransko SNVP.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTQwNTtBbmVrcyAxIGsgIDEyMzgtMjAyMCBWcmFuc2tvIFNOVlAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

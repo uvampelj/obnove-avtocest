@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 109613,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678316,
+  "idDosje": 259628,
+  "title": "Izdelava natečajne rešitve in proj. dok. IDP, PGD in PZI za most na novi štiripasovni cesti in vzporedni most za pešce in kolesarje čez reko Krko, na 3. razvojni osi jug",
+  "procurement": "Izdelava natečajne rešitve in proj. dok. IDP, PGD in PZI za most na novi štiripasovni cesti in vzporedni most za pešce in kolesarje čez reko Krko, na 3. razvojni osi jug",
+  "kind": 1,
+  "value": 289140.0,
+  "signed": "2018-07-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003836/2018-C01/POG-109613",
+  "published": "2018-09-22",
+  "files": [
+   {
+    "name": "Pogodba-JV Ponting+Pipenbaher inženirji.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTYxMztQb2dvZGJhLUpWIFBvbnRpbmcrUGlwZW5iYWhlciBpbsW-ZW5pcmppLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

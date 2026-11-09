@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 247205,
+  "type": "DOD",
+  "prev": 100101,
+  "idObrazec": 770669,
+  "idDosje": 242841,
+  "title": "Aneks 1 k pogodbi DARS št. 1504/2018 za opravljanje nalog koordinatorja za varnost in zdravje pri delu za dograditev AC predora Karavanke in sanacijo obstoječe cevi predora Karavanke; zamenjava dodatnega koordinatorja in vključitev novega podizvajalca",
+  "procurement": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-09-08",
+  "from": "2023-09-08",
+  "to": "2025-05-24",
+  "number": "000964/2023",
+  "contractors": [
+   "INŠTITUT ZA VARNOST LOZEJ d.o.o. Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5703425000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000889/2018-C01/DOD-247205",
+  "published": "2023-09-13",
+  "files": [
+   {
+    "name": "podpisan aneks 1 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MDE5MDtwb2RwaXNhbiBhbmVrcyAxIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90525,
+  "type": "DOD",
+  "prev": 45679,
+  "idObrazec": 768268,
+  "idDosje": 45708,
+  "title": "aneks št. 1 k pog. DARS št. 574/16:Preplastitev vozišča na AC A2 odseki 0008 in 0009 (Kranj V–Brnik–Vodice); 0608 in 0607 (Brnik–Kranj V–Kranj Z) in 0107 (Priključek Kranj V)",
+  "procurement": "Preplastitev vozišča na AC A2 odseki 0008 in 0009 (Kranj V–Brnik–Vodice); 0608 in 0607 (Brnik–Kranj V–Kranj Z) in 0107 (Priključek Kranj V)",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-12-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004480/2016-C01/DOD-90525",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTI1O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

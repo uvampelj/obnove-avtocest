@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 446780,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1126574,
+  "idDosje": 528138,
+  "title": "Prevajalske storitve in lektoriranje, Sklop 1 - storitve prevajanj in lektoriranja, sodnih overitev in konsekutivnega prevajanja srednje, vzhodno in zahodno evropskih jezikov",
+  "procurement": "Prevajalske storitve in lektoriranje",
+  "kind": 1,
+  "value": 176887.5,
+  "signed": "2026-06-02",
+  "from": "2026-06-02",
+  "to": "2029-06-02",
+  "number": "000683/2026",
+  "contractors": [
+   "ALKEMIST, prevajalske storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "3423328000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009271/2025-POG/01",
+  "published": "2026-07-01",
+  "files": [
+   {
+    "name": "Pogodba sklop 1_st 683-2026_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5MDcwO1BvZ29kYmEgc2tsb3AgMV9zdCA2ODMtMjAyNl9yZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

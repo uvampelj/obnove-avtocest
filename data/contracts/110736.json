@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 110736,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678897,
+  "idDosje": 261993,
+  "title": "Dobava mehanizacije in opreme",
+  "procurement": "Mulčerji in puhala,Kosilnica  mulčer,Samohodni mulčer z gosenicami,Nabijalo in kosilne glave,Udarno kladivo,Oprema za delavnico,Traktor z mulčerjema",
+  "kind": 2,
+  "value": 637003.97,
+  "signed": "2018-10-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "IMEXA trgovina in storitve, d.o.o.",
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o.",
+   "INTEREXPORT mednarodna trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5490600000",
+   "6015174000",
+   "5742960000",
+   "5898617000",
+   "5350131000",
+   "5101956000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004369/2018-C01/POG-110736",
+  "published": "2018-10-09",
+  "files": [
+   {
+    "name": "Pogodbe DARS št. 1898,1899,1900,1901,1902,1903-2018.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDczNjtQb2dvZGJlIERBUlMgxaF0LiAxODk4LDE4OTksMTkwMCwxOTAxLDE5MDIsMTkwMy0yMDE4LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 148022,
+  "type": "DOD",
+  "prev": 139332,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.1 k pogodbi DARS št. 1586/2019 Vzdrževanje sistema radijskih zvez",
+  "procurement": "Aneks št.1 k pogodbi DARS št. 1586/2019 Vzdrževanje sistema radijskih zvez",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-03-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-03-06",
+  "files": [
+   {
+    "name": "a1 k pogodbi - 1586-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0ODAyMjthMSBrIHBvZ29kYmkgLSAxNTg2LTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

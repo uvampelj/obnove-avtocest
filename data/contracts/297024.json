@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 297024,
+  "type": "DOD",
+  "prev": 206365,
+  "idObrazec": 880506,
+  "idDosje": 424263,
+  "title": "Aneks št. 3 k pog. DARS št. 348/2022: zajem podatkov in izdelava geodetskih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "procurement": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje  ",
+  "kind": 1,
+  "value": 17116.6,
+  "signed": "2025-01-06",
+  "from": "2025-01-06",
+  "to": "2025-08-16",
+  "number": "000348/2022",
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o.",
+   "GEODETSKA DRUŽBA, geodezija, informatika in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000",
+   "2351943000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007606/2021-X01/POG-206365-D03",
+  "published": "2025-01-13",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM5MTkxO0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

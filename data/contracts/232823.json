@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 232823,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 749052,
+  "idDosje": 465909,
+  "title": "Razne tiskovine",
+  "procurement": "Razne tiskovine",
+  "kind": 2,
+  "value": 201446.4,
+  "signed": "2023-03-08",
+  "from": "2023-03-08",
+  "to": "2025-03-08",
+  "number": "000489/2023",
+  "contractors": [
+   "PARTNER GRAF zelena tiskarna d.o.o."
+  ],
+  "contractor_ids": [
+   "5596866000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008248/2022-X01/POG-232823",
+  "published": "2023-03-10",
+  "files": [
+   {
+    "name": "pogodba 489-2023 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMzk1OTtwb2dvZGJhIDQ4OS0yMDIzIFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

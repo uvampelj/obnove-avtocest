@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 175770,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716653,
+  "idDosje": 360015,
+  "title": "Vzdrževanje in razvoj aplikacije za digitalno podpisovanje dokumentov",
+  "procurement": "Vzdrževanje in razvoj aplikacije za digitalno podpisovanje dokumentov",
+  "kind": 1,
+  "value": 64050.0,
+  "signed": "2021-03-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004354/2020-X01/POG-175770",
+  "published": "2021-03-08",
+  "files": [
+   {
+    "name": "pogodba 436-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NTc3MDtwb2dvZGJhIDQzNi0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

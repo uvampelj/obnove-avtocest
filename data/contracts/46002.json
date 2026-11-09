@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 46002,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650063,
+  "idDosje": 157371,
+  "title": "Izbira revizorja družbe DARS d.d. za poslovno leto 2016",
+  "procurement": "Izbira revizorja družbe DARS d.d. za poslovno leto 2016",
+  "kind": 1,
+  "value": 26190.96,
+  "signed": "2016-08-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KPMG Slovenija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5648556000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002221/2016-X01/POG-46002",
+  "published": "2016-09-01",
+  "files": [
+   {
+    "name": "pogodba 713-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ2MDAyO3BvZ29kYmEgNzEzLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

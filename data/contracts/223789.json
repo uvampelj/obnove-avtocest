@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 223789,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 742874,
+  "idDosje": 452932,
+  "title": "Dobava nadomestnih delov ter vzdrževanje sistema klica v sili",
+  "procurement": "Dobava nadomestnih delov ter vzdrževanje sistema klica v sili, sklop 1 - KVS ITAIA, sklop 2 - KVS ISKRA SISTEMI",
+  "kind": 1,
+  "value": 205204.0,
+  "signed": "2022-10-12",
+  "from": "2022-10-12",
+  "to": "2024-10-12",
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o.",
+   "ITAIA d.o.o., podjetje za računalniški in elektro inženiring"
+  ],
+  "contractor_ids": [
+   "1194682000",
+   "5505771000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005229/2022-X01/POG-223789",
+  "published": "2022-10-17",
+  "files": [
+   {
+    "name": "R pogodba 1293-2022 S2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzk1NTtSIHBvZ29kYmEgMTI5My0yMDIyIFMyLnBkZg"
+   },
+   {
+    "name": "R pogodba 1292-2022 S1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzk1NDtSIHBvZ29kYmEgMTI5Mi0yMDIyIFMxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

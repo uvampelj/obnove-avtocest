@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 367508,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1019498,
+  "idDosje": 527565,
+  "title": "Pogodba za vulkanizerske storitve, Sklop 5 - ACB Novo mesto",
+  "procurement": "Vulkanizerske storitve",
+  "kind": 1,
+  "value": 19182.06,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2029-06-16",
+  "number": "000421/2026",
+  "contractors": [
+   "VIDIC CENTER Trgovina in storitve d.o.o. Novo mesto"
+  ],
+  "contractor_ids": [
+   "5723469000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008780/2025-POG/02",
+  "published": "2026-03-19",
+  "files": [
+   {
+    "name": "Pogodba za objavo SKLOP 5 305-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY3NzA4O1BvZ29kYmEgemEgb2JqYXZvIFNLTE9QIDUgMzA1LTIwMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

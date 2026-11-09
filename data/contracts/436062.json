@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 436062,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1114497,
+  "idDosje": 560966,
+  "title": "Vzdrževanje sistema prezračevanja",
+  "procurement": "Vzdrževanje sistemov prezračevanja in hlajenja v PS DARS",
+  "kind": 1,
+  "value": 51072.86,
+  "signed": "2026-06-16",
+  "from": "2026-06-16",
+  "to": "2029-09-16",
+  "number": "000724/2026",
+  "contractors": [
+   "SYSTEMAIR proizvodnja prezračevalnih naprav d.o.o."
+  ],
+  "contractor_ids": [
+   "1683420000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001633/2026-POG/03",
+  "published": "2026-06-22",
+  "files": [
+   {
+    "name": "Pogodba št. 724-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3NDI2O1BvZ29kYmEgxaF0LiA3MjQtMjAyNiBSLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

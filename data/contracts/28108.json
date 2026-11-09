@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 28108,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641789,
+  "idDosje": 76653,
+  "title": "Dobava letne in delovne mehanizacije",
+  "procurement": "Bagri,Traktor,Letni priključki,Zimski priključki,Kombinirani bager nakladalec",
+  "kind": 2,
+  "value": 1016730.36,
+  "signed": "2015-12-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GLOBEX S.R.L., podružnica v Sloveniji",
+   "INTEREXPORT d.o.o.",
+   "RIKO RIBNICA d.o.o.",
+   "SVET STROJEV d.o.o."
+  ],
+  "contractor_ids": [
+   "6254888000",
+   "5101956000",
+   "5742960000",
+   "6015174000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN9169/2015/POG-28108",
+  "published": "2015-12-30",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI4MTA4O3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

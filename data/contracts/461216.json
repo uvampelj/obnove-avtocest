@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 461216,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1149221,
+  "idDosje": 550801,
+  "title": "Pogodba za dobavo tovornih vozil: SKLOP 6: ZM4 Plug snežni - bočni, dolžine od 3,00 m do 3,50 m",
+  "procurement": "Dobava tovornih vozil in zimske mehanizacije",
+  "kind": 2,
+  "value": 444470.4,
+  "signed": "2026-08-14",
+  "from": "2026-08-14",
+  "to": "2028-04-14",
+  "number": "000894/2026",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001502/2026-POG/02",
+  "published": "2026-08-20",
+  "files": [
+   {
+    "name": "Podpisana pogodba za objavo SKLOP 6 za postopek 20-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg5MTQxO1BvZHBpc2FuYSBwb2dvZGJhIHphIG9iamF2byBTS0xPUCA2IHphIHBvc3RvcGVrIDIwLTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

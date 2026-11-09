@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 319789,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 942642,
+  "idDosje": 520317,
+  "title": "Servisiranje peči na lesno biomaso, plinskih in oljnih grelnih naprav ter toplotnih črpalk (TČ), izvedba letnih pregledov, Sklop 1 - Servisiranje in pregledi plinskih peči",
+  "procurement": "Servisiranje peči na lesno biomaso, plinskih in oljnih grelnih naprav ter toplotnih črpalk (TČ), izvedba letnih pregledov",
+  "kind": 1,
+  "value": 291348.2,
+  "signed": "2025-09-01",
+  "from": "2025-09-01",
+  "to": "2028-12-01",
+  "number": "001053/2025",
+  "contractors": [
+   "ISTRABENZ PLINI, plini in plinske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5419263000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002575/2025-POG/01",
+  "published": "2025-09-15",
+  "files": [
+   {
+    "name": "Pogodba sklop 1_st 001053-2025 ULRed .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk5NjcxO1BvZ29kYmEgc2tsb3AgMV9zdCAwMDEwNTMtMjAyNSBVTFJlZCAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

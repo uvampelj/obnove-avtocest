@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95728,
+  "type": "DOD",
+  "prev": 73022,
+  "idObrazec": 769234,
+  "idDosje": 183114,
+  "title": "UREDITEV ZUNANJE RAZSVETLJAVE NA AC V RS, SKLADNO Z UREDBO O MEJNIH VREDNOSTIH SVETLOBNEGA ONESNAŽEVANJA OKOLJA – 3. IN 4. FAZA",
+  "procurement": "UREDITEV ZUNANJE RAZSVETLJAVE NA AC V RS, SKLADNO Z UREDBO O MEJNIH VREDNOSTIH SVETLOBNEGA ONESNAŽEVANJA OKOLJA – 3. IN 4. FAZA",
+  "kind": 3,
+  "value": -1371.8,
+  "signed": "2018-04-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "3341836000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000137/2017-C01/DOD-95728",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NzI4O2FuZWtzLTEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

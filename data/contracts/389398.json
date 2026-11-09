@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389398,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1044400,
+  "idDosje": 528982,
+  "title": "Dopolnitev PZI in izvlečka iz PZI za potrebe razpisa za namestitev e-polnilnic na območju objektov DARS",
+  "procurement": "Dopolnitev PZI in izvlečka iz PZI za potrebe razpisa za namestitev e-polnilnic na območju objektov DARS",
+  "kind": 1,
+  "value": 71415.75,
+  "signed": "2026-03-25",
+  "from": "2026-03-25",
+  "to": "2027-03-25",
+  "number": "000463/2026",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009989/2025-POG/01",
+  "published": "2026-04-07",
+  "files": [
+   {
+    "name": "IBE_pogodba_463-2026_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkxNTk1O0lCRV9wb2dvZGJhXzQ2My0yMDI2X3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

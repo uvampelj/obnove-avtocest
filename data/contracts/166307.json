@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166307,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711169,
+  "idDosje": 354246,
+  "title": "Vzdrževanje instalacij",
+  "procurement": "Vzdrževanje instalacij",
+  "kind": 1,
+  "value": 410196.26,
+  "signed": "2020-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SIM trgovsko in turistično podjetje Radenci d.o.o."
+  ],
+  "contractor_ids": [
+   "5378214000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003118/2020-C01/POG-166307",
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "Pogodba-SIM Radenci.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjMwNztQb2dvZGJhLVNJTSBSYWRlbmNpLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

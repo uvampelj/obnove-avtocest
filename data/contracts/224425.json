@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "id": 224425,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743277,
+  "idDosje": 443746,
+  "title": "DOBAVA PNEVMATIK",
+  "procurement": "DOBAVA PNEVMATIK",
+  "kind": 2,
+  "value": 440302.47,
+  "signed": "2022-10-19",
+  "from": "2022-10-19",
+  "to": "2024-10-19",
+  "number": null,
+  "contractors": [
+   "BARTOG proizvodno in trgovsko podjetje d.o.o.",
+   "FAMM COMMERCE, trgovina in storitve d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "TRANS FELIX prevozi, trgovina in servis d.o.o."
+  ],
+  "contractor_ids": [
+   "5298555000",
+   "5687772000",
+   "5025796000",
+   "5981158000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002984/2022-C01/POG-224425",
+  "published": "2022-10-26",
+  "files": [
+   {
+    "name": "Pogodba - TRANS FELIX_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDY2ODtQb2dvZGJhIC0gVFJBTlMgRkVMSVhfUi5wZGY"
+   },
+   {
+    "name": "Pogodba - PETROL_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDY2NztQb2dvZGJhIC0gUEVUUk9MX1IucGRm"
+   },
+   {
+    "name": "Pogodba - FAMM CO_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDY2NjtQb2dvZGJhIC0gRkFNTSBDT19SLnBkZg"
+   },
+   {
+    "name": "Pogodba - BARTOG_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDY2NTtQb2dvZGJhIC0gQkFSVE9HX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

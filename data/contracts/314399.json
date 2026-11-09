@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 314399,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 927128,
+  "idDosje": 520321,
+  "title": "Sklop 1 - Tovorno vozilo z nizkim nakladalnim prostorom za prevoz blaga  z dvižno nakladalno rampo in dvigalom za kabino",
+  "procurement": "DOBAVA TOVORNIH VOZIL IN OPREME",
+  "kind": 2,
+  "value": 537105.0,
+  "signed": "2025-07-10",
+  "from": "2025-07-10",
+  "to": "2026-06-10",
+  "number": "000904/2025",
+  "contractors": [
+   "VOLVO, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "1532189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002530/2025-POG/01",
+  "published": "2025-07-14",
+  "files": [
+   {
+    "name": "Pogodba Volvo 1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg3MzA2O1BvZ29kYmEgVm9sdm8gMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

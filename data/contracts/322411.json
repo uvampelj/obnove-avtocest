@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 322411,
+  "type": "DOD",
+  "prev": 223534,
+  "idObrazec": 950106,
+  "idDosje": 448963,
+  "title": "Aneks št. 1 k pogodbi DARS 1234/2022: Preplastitev voziščne konstrukcije na odsekih AC A1 Šentilj-Pesnica, Pesnica-Dragučova, Dragučova- MB (Ptujska), A5 Dragučova-Lenart in na razcepu Dragučova ter na priključkih Maribor - Sever ",
+  "procurement": "Preplastitev voziščne konstrukcije na odsekih AC A1 Meja A- Šentilj -Dragučova, A1 Dragučova-MB (Ptujska), A5 Dragučova-Lenart in razcep Dragučova",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-09-19",
+  "from": "2025-09-19",
+  "to": "2025-09-28",
+  "number": "001234/2022",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004341/2022-C01/POG-223534-D01",
+  "published": "2025-10-13",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA1Njg2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

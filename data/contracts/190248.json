@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 190248,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724801,
+  "idDosje": 380780,
+  "title": "Izdelava projektne dokumentacije za obnovo obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec - Ankaran",
+  "procurement": "Izdelava projektne dokumentacije za obnovo obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec - Ankaran",
+  "kind": 1,
+  "value": 330864.0,
+  "signed": "2021-04-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008030/2020-C01/POG-190248",
+  "published": "2021-09-07",
+  "files": [
+   {
+    "name": "Pogodba-JV Elektroenergetika+PNZ-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MDI0ODtQb2dvZGJhLUpWIEVsZWt0cm9lbmVyZ2V0aWthK1BOWi1vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

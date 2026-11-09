@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 205269,
+  "type": "DOD",
+  "prev": 172654,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 147/2021: Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1, odsek 0054 Logatec–Unec in odsek 0056 Postojna–Razdrto ",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1, odsek 0054 Logatec – Unec in odsek 0056 Postojna – Razdrto",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-07-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1300342000",
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTI2OTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

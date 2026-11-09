@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 206324,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 733705,
+  "idDosje": 431133,
+  "title": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault in Volkswagen: SKLOP 4 - Vozila Volkswagen",
+  "procurement": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault in Volkswagen: SKLOP 4 - Vozila Volkswagen",
+  "kind": 1,
+  "value": 142740.0,
+  "signed": "2022-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE INTER AUTO d.o.o. Ljubljana, podružnica PORSCHE VEROVŠKOVA, Verovškova ulica 78"
+  ],
+  "contractor_ids": [
+   "1453831004"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000085/2022-C01/POG-206324",
+  "published": "2022-03-07",
+  "files": [
+   {
+    "name": "R POGODBA 423-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNjMyNDtSIFBPR09EQkEgNDIzLTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

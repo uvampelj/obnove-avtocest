@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459538,
+  "type": "DOD",
+  "prev": 288173,
+  "idObrazec": 1144600,
+  "idDosje": 508119,
+  "title": "Aneks št. 1 k pogodbi DARS št. 971/2024: Izdelava projektne dokumentacije za dobavo in postavitev sončnih elektrarn na objektih DARS – 2. faza ",
+  "procurement": "Izdelava projektne dokumentacije za dobavo in postavitev sončnih elektrarn na objektih DARS – 2. faza",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-07-01",
+  "from": "2025-09-19",
+  "to": "2026-06-19",
+  "number": "000971/2024",
+  "contractors": [
+   "ROBOTINA, Podjetje za inženiring, marketing, trgovino in proizvodnjo d.o.o."
+  ],
+  "contractor_ids": [
+   "5361907000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001922/2024-POG/01-D01",
+  "published": "2026-07-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg1NDk4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

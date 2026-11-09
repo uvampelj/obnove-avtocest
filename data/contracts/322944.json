@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322944,
+  "type": "DOD",
+  "prev": 273344,
+  "idObrazec": 951737,
+  "idDosje": 507453,
+  "title": "Aneks št. 1 k podbi Dars št. 809/2024: »Prenova RNC Dragomelj SKLOP 2: IP KVM SISTEM« ",
+  "procurement": "Prenova RNC Dragomelj; Sklop 2: IP KVM SISTEM",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-10-13",
+  "from": "2025-10-13",
+  "to": "2027-01-22",
+  "number": "000809/2024",
+  "contractors": [
+   "RAP - ING Računalniško-Audio video-Projektiranje-Inženiring- Trgovina-Storitve-Zastopstva-Avtomatizacija procesov, d.o.o."
+  ],
+  "contractor_ids": [
+   "5315867000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001407/2024-POG/02-D01",
+  "published": "2025-10-17",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2OTQ0O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

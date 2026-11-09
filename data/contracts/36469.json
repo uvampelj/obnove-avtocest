@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36469,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645899,
+  "idDosje": 80809,
+  "title": "Izvajanje prevajalskih in lektorskih storitev",
+  "procurement": "Izvajanje prevajalskih in lektorskih storitev",
+  "kind": 1,
+  "value": 508350.94,
+  "signed": "2015-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ALKEMIST d.o.o."
+  ],
+  "contractor_ids": [
+   "3423328000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8514/2015/POG-36469",
+  "published": "2016-05-12",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NDY5O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

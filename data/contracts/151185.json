@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 151185,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 701817,
+  "idDosje": 333532,
+  "title": "Vzdrževanje, podpora in razvoj IS PIS",
+  "procurement": "Vzdrževanje, podpora in razvoj IS PIS",
+  "kind": 1,
+  "value": 546926.0,
+  "signed": "2020-04-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1626981000",
+   "1782355000",
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008272/2019-C01/POG-151185",
+  "published": "2020-04-29",
+  "files": [
+   {
+    "name": "Pogodba-627-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTE4NTtQb2dvZGJhLTYyNy0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

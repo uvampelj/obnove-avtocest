@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 112809,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680155,
+  "idDosje": 274201,
+  "title": "Poslovno obdarovanje",
+  "procurement": "Poslovno obdarovanje",
+  "kind": 2,
+  "value": 168395.39,
+  "signed": "2018-10-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNI-BIRO d.o.o., trgovsko podjetje Ljubljana"
+  ],
+  "contractor_ids": [
+   "5460590000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006321/2018-X01/POG-112809",
+  "published": "2018-11-08",
+  "files": [
+   {
+    "name": "POGODBA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjgwOTtQT0dPREJBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

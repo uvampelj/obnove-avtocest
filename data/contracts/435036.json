@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 435036,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1111262,
+  "idDosje": 560956,
+  "title": "Vzdrževanje sistema nadzora in vodenja prometa - SNVP",
+  "procurement": "Vzdrževanje sistema nadzora in vodenja prometa - SNVP",
+  "kind": 1,
+  "value": 2614411.2,
+  "signed": "2026-06-02",
+  "from": "2026-06-02",
+  "to": "2029-06-02",
+  "number": "000694/2026",
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001630/2026-POG/01",
+  "published": "2026-06-10",
+  "files": [
+   {
+    "name": "Red_Pogodba 694-2026 QFREE.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU0ODc3O1JlZF9Qb2dvZGJhIDY5NC0yMDI2IFFGUkVFLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

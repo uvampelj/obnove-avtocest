@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 166364,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711206,
+  "idDosje": 356763,
+  "title": "Izdelava PZI za rekonstrukcijo delov odsekov na AC A2 0022 in 0622 Grosuplje-Ivančna Gorica, 0410 priključek Ivančna Gorica, 0023 in 0623 Ivančna Gorica-Bič, 0411 priključek Bič ter 0072 in 0672 Bič-Trebnje V",
+  "procurement": "Izdelava PZI za rekonstrukcijo delov odsekov na AC A2 0022 in 0622 Grosuplje-Ivančna Gorica, 0410 priključek Ivančna Gorica, 0023 in 0623 Ivančna Gorica-Bič, 0411 priključek Bič ter 0072 in 0672 Bič-Trebnje V",
+  "kind": 1,
+  "value": 1368717.21,
+  "signed": "2020-11-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5522749000",
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003669/2020-C01/POG-166364",
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "Pogodba-JV PNG+Elea iC+Projekt NG-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjM2NDtQb2dvZGJhLUpWIFBORytFbGVhIGlDK1Byb2pla3QgTkctb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 318858,
+  "type": "DOD",
+  "prev": 221091,
+  "idObrazec": 939940,
+  "idDosje": 444578,
+  "title": "Aneks 1 k pogodbi DARS št. 1112/2022 za Izdelavo IzN načrta in izvedba gradnje za zamenjavo dilatacij, tesnilne in asfaltne plasti viadukta VA0928 Močna-L na AC A5/0906 Dragučova – Lenart od km 7,032 do km 7,199 ",
+  "procurement": "Izdelava IzN načrta in izvedba gradnje za zamenjavo dilatacij, tesnilne in asfaltnih plasti viadukta VA0928 Močna-L na AC A5/0906 Dragučova-Lenart od km 7,032 do km 7,199",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-08-18",
+  "from": "2025-08-18",
+  "to": "2025-10-17",
+  "number": "001112/2022",
+  "contractors": [
+   "IPI, izvajalski in projektantski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5111498000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003084/2022-X01/POG-221091-D01",
+  "published": "2025-09-03",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk3NDkxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 100251,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673894,
+  "idDosje": 223441,
+  "title": "IZDELAVA PZI – ZAVAROVANJE PREMOSTITVENIH OBJEKTOV IN PODPORNEGA ZIDU Z USTREZNIM NIVOJEM VARNOSTNE OGRAJE NA AVTOCESTI A1 – 3.SKLOP ",
+  "procurement": "IZDELAVA PZI – ZAVAROVANJE PREMOSTITVENIH OBJEKTOV IN PODPORNEGA ZIDU Z USTREZNIM NIVOJEM VARNOSTNE OGRAJE NA AVTOCESTI A1 – 3.SKLOP ",
+  "kind": 1,
+  "value": 71662.8,
+  "signed": "2018-05-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008350/2017-X01/POG-100251",
+  "published": "2018-05-31",
+  "files": [
+   {
+    "name": "Pogodba-Provia.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMDI1MTtQb2dvZGJhLVByb3ZpYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 50560,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 651800,
+  "idDosje": 45140,
+  "title": "Vzdrževanje video nadzornega in video detekcijskega sistema, Sklop I – področje RNC Slovenske Konjice, Sklop II – področje RNC Vransko, Sklop III – področje RNC Dragomelj, Sklop IV – področje RNC Kozina",
+  "procurement": "Področje RNC Slovenske Konjice,Področje RNC Vransko,Področje RNC Dragomelj,Področje RNC Kozina",
+  "kind": 1,
+  "value": 724103.92,
+  "signed": "2016-10-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., Kamnik"
+  ],
+  "contractor_ids": [
+   "5753155000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006279/2016-C01/POG-50560",
+  "published": "2016-12-08",
+  "files": [
+   {
+    "name": "pogodba817_2016 Technix.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUwNTYwO3BvZ29kYmE4MTdfMjAxNiBUZWNobml4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

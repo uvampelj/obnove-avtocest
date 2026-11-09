@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 39525,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647379,
+  "idDosje": 17757,
+  "title": "Dobava dodatkov za diesel gorivo in kurilno olje",
+  "procurement": "Dobava dodatkov za diesel gorivo in kurilno olje",
+  "kind": 2,
+  "value": 124440.0,
+  "signed": "2016-06-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIRASOUL d.o.o."
+  ],
+  "contractor_ids": [
+   "3755843000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002559/2016-X01/POG-39525",
+  "published": "2016-06-14",
+  "files": [
+   {
+    "name": "Pogodba 490-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5NTI1O1BvZ29kYmEgNDkwLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

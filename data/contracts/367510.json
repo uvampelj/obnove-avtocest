@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 367510,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1019500,
+  "idDosje": 527565,
+  "title": "Pogodba za vulkanizerske storitve, Sklop 3 – ACB Hrušica",
+  "procurement": "Vulkanizerske storitve",
+  "kind": 1,
+  "value": 26535.0,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2029-06-16",
+  "number": "000422/2026",
+  "contractors": [
+   "JUNIK-M, vzdrževanje, popravila motornih vozil in druge storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924079000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008780/2025-POG/03",
+  "published": "2026-03-19",
+  "files": [
+   {
+    "name": "Pogodba za objavo SKLOP 3 305-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY3NzA5O1BvZ29kYmEgemEgb2JqYXZvIFNLTE9QIDMgMzA1LTIwMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

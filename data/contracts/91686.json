@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91686,
+  "type": "DOD",
+  "prev": 82000,
+  "idObrazec": 769704,
+  "idDosje": 180061,
+  "title": "Zamenjava kažipotne signalizacije na HC H4 Selo – Vrtojba",
+  "procurement": "Zamenjava kažipotne signalizacije na HC H4 Selo – Vrtojba",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-08-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MEBLO SIGNALIZACIJA, prometna signalizacija d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "6137903000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007604/2016-C01/DOD-91686",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjg2O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

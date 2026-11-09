@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 261613,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 798194,
+  "idDosje": 494128,
+  "title": "Izdelava izvedbenega načrta za obnovo voziščne površine na delu odseka AC A1 0053 Vrhnika - Logatec od km 0+500 do km 8+200 vključno z ureditvijo srednjega ločilnega pasu",
+  "procurement": "Izdelava izvedbenega načrta za obnovo voziščne površine na delu odseka AC A1 0053 Vrhnika - Logatec od km 0+500 do km 8+200 vključno z ureditvijo srednjega ločilnega pasu",
+  "kind": 1,
+  "value": 129333.91,
+  "signed": "2024-03-11",
+  "from": "2024-03-11",
+  "to": "2025-03-11",
+  "number": "000404/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006400/2023-POG/01",
+  "published": "2024-03-13",
+  "files": [
+   {
+    "name": "Pogodba-PNZ_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcxNDE4O1BvZ29kYmEtUE5aX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324154,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 955487,
+  "idDosje": 524298,
+  "title": "Pregledi ter servisiranje točilnih aparatov za točenje goriva ter dodatka ADBLUE",
+  "procurement": "Sklop 1: Pregledi ter servisiranje točilnih aparatov za točenje goriva ter dodatka ADBLUE, sklop 2: Servisiranje sistema za prenos podatkov o točenju v sistem Navision",
+  "kind": 1,
+  "value": 251435.9,
+  "signed": "2025-10-29",
+  "from": "2025-10-29",
+  "to": "2031-01-29",
+  "number": "001215/2025",
+  "contractors": [
+   "GIA SERVIS montaža in vzdrževanje industrijske opreme, d.o.o."
+  ],
+  "contractor_ids": [
+   "5469040000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005933/2025-POG/01",
+  "published": "2025-11-04",
+  "files": [
+   {
+    "name": "Podpisana pogodba GIA SERVIS red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA5OTU5O1BvZHBpc2FuYSBwb2dvZGJhIEdJQSBTRVJWSVMgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

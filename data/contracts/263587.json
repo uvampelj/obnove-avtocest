@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 263587,
+  "type": "DOD",
+  "prev": 226214,
+  "idObrazec": 803018,
+  "idDosje": 454051,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1219/2022: Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper – Izola v priključku Semedela ",
+  "procurement": "Izvedba sanacije in prevezave fekalnega kanala skozi kineto pod HC Koper - Izola v priključku Semedela",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-01-18",
+  "from": "2024-01-18",
+  "to": "2024-03-31",
+  "number": "44/2024",
+  "contractors": [
+   "ADRIAING Podjetje za proizvodnjo, storitve, inženiring in prodajo, d.o.o. Koper"
+  ],
+  "contractor_ids": [
+   "5520401000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005493/2022-X01/POG-226214-D01",
+  "published": "2024-03-30",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc1MzY3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

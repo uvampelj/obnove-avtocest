@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 296883,
+  "type": "DOD",
+  "prev": 261301,
+  "idObrazec": 880204,
+  "idDosje": 505927,
+  "title": "Aneks št. 1 k pogodbi DARS št. 365/2024: Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II ",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-16",
+  "from": "2024-12-16",
+  "to": "2025-06-01",
+  "number": "000365/2024",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000350/2024-POG/01-D01",
+  "published": "2025-01-10",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM4OTU4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

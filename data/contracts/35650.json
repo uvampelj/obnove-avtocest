@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 35650,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645571,
+  "idDosje": 72176,
+  "title": "Prevoz in varovanje vinjet",
+  "procurement": "Prevoz in varovanje vinjet.",
+  "kind": 1,
+  "value": 183000.0,
+  "signed": "2016-03-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VARNOST MARIBOR d.d."
+  ],
+  "contractor_ids": [
+   "5263565000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2095/2016/POG-35650",
+  "published": "2016-03-25",
+  "files": [
+   {
+    "name": "pogodba 244-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM1NjUwO3BvZ29kYmEgMjQ0LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

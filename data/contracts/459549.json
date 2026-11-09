@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 459549,
+  "type": "DOD",
+  "prev": 239935,
+  "idObrazec": 1144635,
+  "idDosje": 469535,
+  "title": "Aneks št. 4 k pog. DARS št. 649/2023: Izdelava študije variant/predinvesticijske zasnove in državnega prostorskega načrta za avtocestni priključek Kranj sever",
+  "procurement": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za avtocestni priključek Kranj sever",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-07-03",
+  "from": "2026-07-03",
+  "to": "2026-10-01",
+  "number": "000649/2023",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000403/2023-C01/POG-239935-D04",
+  "published": "2026-07-31",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg1NTMzO0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

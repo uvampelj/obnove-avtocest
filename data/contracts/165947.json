@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 165947,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 710945,
+  "idDosje": 355949,
+  "title": "Izvedba geološko - geotehničnih raziskav in izdelava projektne dokumentacije IzN sanacije plazu pod viaduktom Ljubno - D VA1205, na AC A2/0005 Brezje - Podtabor",
+  "procurement": "Izvedba geološko - geotehničnih raziskav in izdelava projektne dokumentacije IzN sanacije plazu pod viaduktom Ljubno - D VA1205, na AC A2/0005 Brezje - Podtabor",
+  "kind": 1,
+  "value": 38247.0,
+  "signed": "2020-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LAMELA, podjetje za gradbeni inženiring, svetovanje in izvedenstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "5431395000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003442/2020-X01/POG-165947",
+  "published": "2020-11-16",
+  "files": [
+   {
+    "name": "Podpisana pogodba Lamela d.o.o.-73-2020-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTk0NztQb2RwaXNhbmEgcG9nb2RiYSBMYW1lbGEgZC5vLm8uLTczLTIwMjAtb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

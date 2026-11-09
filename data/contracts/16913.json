@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16913,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636778,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB LJUBLJANA, UPRAVA (Dunajska cesta 7, LJ)",
+  "kind": 1,
+  "value": 133427.74,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTOHIŠA REAL, d.o.o."
+  ],
+  "contractor_ids": [
+   "1663810000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16913",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba Avtohiša Real d.o.o. - 549-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTEzO1BvZ29kYmEgQXZ0b2hpxaFhIFJlYWwgZC5vLm8uIC0gNTQ5LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447209,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127871,
+  "idDosje": 571551,
+  "title": "Izdelava individualne zaščite sluha",
+  "procurement": "Izdelava individualne zaščite sluha",
+  "kind": 2,
+  "value": 81044.6,
+  "signed": "2026-07-06",
+  "from": "2026-07-06",
+  "to": "2031-07-06",
+  "number": "000775/2026",
+  "contractors": [
+   "EarExpert v skrbi za vaš sluh, d.o.o."
+  ],
+  "contractor_ids": [
+   "8147221000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002168/2026-POG/01",
+  "published": "2026-07-07",
+  "files": [
+   {
+    "name": "Pogodba 775-2026 Red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTcwMTA0O1BvZ29kYmEgNzc1LTIwMjYgUmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

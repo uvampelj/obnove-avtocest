@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 171581,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714575,
+  "idDosje": 369348,
+  "title": "Izdelava cenitev stavbnih zemljišč in objektov ",
+  "procurement": "Izdelava cenitev stavbnih zemljišč in objektov ",
+  "kind": 1,
+  "value": 125611.2,
+  "signed": "2021-01-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CONSTRUCTA, gradbeni inženiring, vrednotenje nepremičnin, d.o.o. Idrija"
+  ],
+  "contractor_ids": [
+   "5535000000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006040/2020-X01/POG-171581",
+  "published": "2021-01-22",
+  "files": [
+   {
+    "name": "podpisana pogodba - za objavo brez os podatkov.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTU4MTtwb2RwaXNhbmEgcG9nb2RiYSAtIHphIG9iamF2byBicmV6IG9zIHBvZGF0a292LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

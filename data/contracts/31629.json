@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 31629,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 643586,
+  "idDosje": 80595,
+  "title": "Servisiranje in popravila tovornih vozil MB, Unimog ter traktorjev in priključkov",
+  "procurement": "Servisiranje in popravila tovornih vozil znamke Mercedes Benz,Servisiranje in popravila specialnih vozil znamke Unimog,Servisiranje in popravila traktorjev in priključkov znamke  AEBI,  MULAG, SCHMIDT",
+  "kind": 1,
+  "value": 1073685.4,
+  "signed": "2016-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Autocommerce, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN905/2016/POG-31629",
+  "published": "2016-02-09",
+  "files": [
+   {
+    "name": "D13160000080_160205_122541.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMxNjI5O0QxMzE2MDAwMDA4MF8xNjAyMDVfMTIyNTQxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

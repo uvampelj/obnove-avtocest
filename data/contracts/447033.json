@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447033,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127302,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 3 - ACB Ljubljana",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 85767.2,
+  "signed": "2026-06-10",
+  "from": "2026-06-10",
+  "to": "2029-07-20",
+  "number": "000717/2026",
+  "contractors": [
+   "PRIGO TEHNIČNI PREGLEDI, registracije, homologacije in tahografi, d.o.o."
+  ],
+  "contractor_ids": [
+   "8237026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/04",
+  "published": "2026-07-03",
+  "files": [
+   {
+    "name": "sklop 3 pogodba 000717-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5NjQ4O3NrbG9wIDMgcG9nb2RiYSAwMDA3MTctMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

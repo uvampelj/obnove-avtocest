@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 250635,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 762650,
+  "idDosje": 486426,
+  "title": "Sklop 1 in Sklop 2",
+  "procurement": "DOBAVA VAROVALNIH OGRAJ",
+  "kind": 2,
+  "value": 185978.21,
+  "signed": "2023-10-20",
+  "from": "2023-10-20",
+  "to": "2025-10-20",
+  "number": "001076/2023",
+  "contractors": [
+   "METVIL, Trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "6707297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004699/2023-C01/POG-250635",
+  "published": "2023-10-25",
+  "files": [
+   {
+    "name": "Pogodba METVIL_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MzkzOTtQb2dvZGJhIE1FVFZJTF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

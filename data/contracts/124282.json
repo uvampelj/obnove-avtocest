@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124282,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686122,
+  "idDosje": 292138,
+  "title": "Dobava in montaža silosov za sol",
+  "procurement": "Dobava in montaža silosov za sol",
+  "kind": 2,
+  "value": 313418.0,
+  "signed": "2019-04-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TIMCO CONSULTING trgovina, inženiring, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1277049000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000311/2019-C01/POG-124282",
+  "published": "2019-04-10",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 570-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDI4MjtQb2dvZGJhIERBUlMgxaF0LiA1NzAtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

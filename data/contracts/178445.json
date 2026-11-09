@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 178445,
+  "type": "DOD",
+  "prev": 97922,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi za vzdrževanje NKS v predorih in pokritih vkopih",
+  "procurement": "Aneks 1 k pogodbi za vzdrževanje NKS v predorih in pokritih vkopih",
+  "kind": 1,
+  "value": 24400.0,
+  "signed": "2021-04-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-04-21",
+  "files": [
+   {
+    "name": "Aneks št. 1, DARS št. 589-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3ODQ0NTtBbmVrcyDFoXQuIDEsIERBUlMgxaF0LiA1ODktMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

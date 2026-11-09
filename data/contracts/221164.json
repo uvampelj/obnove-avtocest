@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 221164,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 741051,
+  "idDosje": 451675,
+  "title": "Dobava akumulatorjev",
+  "procurement": "Dobava akumulatorjev",
+  "kind": 2,
+  "value": 252587.58,
+  "signed": "2022-08-31",
+  "from": "2022-08-31",
+  "to": "2025-08-31",
+  "number": null,
+  "contractors": [
+   "TAB tovarna akumulatorskih baterij d.d."
+  ],
+  "contractor_ids": [
+   "5103363000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005019/2022-C01/POG-221164",
+  "published": "2022-09-07",
+  "files": [
+   {
+    "name": "R Pogodba 1158-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMTE2NTtSIFBvZ29kYmEgMTE1OC0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

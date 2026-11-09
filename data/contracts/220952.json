@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220952,
+  "type": "DOD",
+  "prev": 163768,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1446/2020: Prenova počitniške kapacitete DARS v Termah Čatež ",
+  "procurement": "Prenova počitniške kapacitete DARS v Termah Čatež",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-08-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AA GRADING, gradbeni inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "3771482000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-09-02",
+  "files": [
+   {
+    "name": "Aneks-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDk1MjtBbmVrcy1Qb3J0YWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

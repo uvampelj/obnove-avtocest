@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 318755,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 939698,
+  "idDosje": 522522,
+  "title": "Pisarniško pohištvo",
+  "procurement": "Nabava pisarniške opreme in aparatov",
+  "kind": 2,
+  "value": 205033.2,
+  "signed": "2025-08-29",
+  "from": "2025-08-29",
+  "to": "2028-11-29",
+  "number": "001044/2025",
+  "contractors": [
+   "HI-PO Proizvodnja, inženiring in trgovina, d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5295548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004424/2025-POG/01",
+  "published": "2025-09-03",
+  "files": [
+   {
+    "name": "Pogodba HI-PO sklop 1 1044-2025 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk3Mjk1O1BvZ29kYmEgSEktUE8gc2tsb3AgMSAxMDQ0LTIwMjUgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

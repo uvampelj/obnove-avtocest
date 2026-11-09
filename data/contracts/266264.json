@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 266264,
+  "type": "DOD",
+  "prev": 224586,
+  "idObrazec": 810688,
+  "idDosje": 446769,
+  "title": "Aneks št. 1 k pogodbi DARS 1315/2022: Zamenjava obstoječe razsvetljave z LED svetili v pokritem vkopu Vipavski Križ",
+  "procurement": "Zamenjava obstoječe razsvetljave z LED svetili v pokritem vkopu Vipavski Križ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-04-23",
+  "from": "2022-10-19",
+  "to": "2024-04-19",
+  "number": "558/2024",
+  "contractors": [
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003648/2022-X01/POG-224586-D01",
+  "published": "2024-05-03",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgxNTU1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

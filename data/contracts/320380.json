@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320380,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944327,
+  "idDosje": 522529,
+  "title": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije\nSKLOP 2 - Računalniške komponente",
+  "procurement": "Nakup okolju prijazne računalniške opreme, računalniških komponent, avdio - video opreme in telefonije",
+  "kind": 2,
+  "value": 366000.0,
+  "signed": "2025-09-12",
+  "from": "2025-09-12",
+  "to": "2029-12-12",
+  "number": "001104/2025",
+  "contractors": [
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004427/2025-POG/02",
+  "published": "2025-09-22",
+  "files": [
+   {
+    "name": "R_OKVIRNI SPORAZUM-SKLOP 2_001104-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxMDU2O1JfT0tWSVJOSSBTUE9SQVpVTS1TS0xPUCAyXzAwMTEwNC0yMDI1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

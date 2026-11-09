@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 288723,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 858289,
+  "idDosje": 511951,
+  "title": "Sklop 6 - Servisiranje strojev proizvajalca Bobcat",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 106079.0,
+  "signed": "2024-10-07",
+  "from": "2024-10-07",
+  "to": "2027-10-07",
+  "number": "001027/2024",
+  "contractors": [
+   "DIMEH napredne tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "6960456000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004930/2024-POG/05",
+  "published": "2024-10-09",
+  "files": [
+   {
+    "name": "Pogodba - DIMEH d.o.o.-6_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIxNDU2O1BvZ29kYmEgLSBESU1FSCBkLm8uby4tNl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

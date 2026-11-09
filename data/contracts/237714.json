@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 237714,
+  "type": "DOD",
+  "prev": 216846,
+  "idObrazec": 780795,
+  "idDosje": 440372,
+  "title": "Aneks št. 1 k pogodbi št. DARS št. 1059/2022",
+  "procurement": "PZI in izvleček iz PZI za potrebe razpisa za namestitev e-polnilnic na območju objektov DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-05-08",
+  "from": "2023-05-08",
+  "to": "2023-07-06",
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002018/2022-X01/DOD-237714",
+  "published": "2023-05-11",
+  "files": [
+   {
+    "name": "20230428_Aneks-1-podpisano_redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzOTQzOTsyMDIzMDQyOF9BbmVrcy0xLXBvZHBpc2Fub19yZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

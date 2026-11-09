@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 133647,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691690,
+  "idDosje": 310667,
+  "title": "Vzdrževanje avtomatskih števcev prometa",
+  "procurement": "Vzdrževanje avtomatskih števcev prometa",
+  "kind": 1,
+  "value": 146217.0,
+  "signed": "2019-09-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003486/2019-X01/POG-133647",
+  "published": "2019-09-10",
+  "files": [
+   {
+    "name": "pogodba-1340-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzY0Nztwb2dvZGJhLTEzNDAtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

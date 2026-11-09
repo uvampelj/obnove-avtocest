@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 269069,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 819595,
+  "idDosje": 506205,
+  "title": "Pogodba Izvajanje strokovno svetovalnih storitev v postopkih vzpostavitve in delovanja Cestninskega sistema DARS",
+  "procurement": "Izvajanje strokovno svetovalnih storitev v postopkih vzpostavitve in delovanja Cestninskega sistema DARS",
+  "kind": 1,
+  "value": 4269902.4,
+  "signed": "2024-06-06",
+  "from": "2024-06-06",
+  "to": "2031-09-06",
+  "number": "000689/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000457/2024-POG/01",
+  "published": "2024-06-11",
+  "files": [
+   {
+    "name": "Pgd 266_23_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg4NjY5O1BnZCAyNjZfMjNfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

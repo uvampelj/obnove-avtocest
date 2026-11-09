@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254810,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765522,
+  "idDosje": 492157,
+  "title": "Sklop 2 - Stroji Capellotto",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 438468.0,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2025-12-20",
+  "number": "001501/2023",
+  "contractors": [
+   "VERTEKS TG tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2312760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005994/2023-C01/POG-254810",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Pogodba - VERTEKS TG_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQ3OTtQb2dvZGJhIC0gVkVSVEVLUyBUR19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

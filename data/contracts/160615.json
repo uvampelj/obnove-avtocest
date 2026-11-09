@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 160615,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 707889,
+  "idDosje": 341036,
+  "title": "Izdelava PZI rekonstrukcije avtocestnega odseka Slovenske Konjice – Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina; SKLOP 1: Izdelava PZI rekonstrukcije A1 0038 Slovenske Konjice – Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina-D (VA0407)",
+  "procurement": "Izdelava PZI rekonstrukcije A1 0038 Slovenske Konjice - Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina-D (VA0407)",
+  "kind": 1,
+  "value": 455501.64,
+  "signed": "2020-06-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRADIS biro za projektiranje Maribor d.o.o."
+  ],
+  "contractor_ids": [
+   "5075084000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000571/2020-C01/POG-160615",
+  "published": "2020-09-21",
+  "files": [
+   {
+    "name": "Pogodba-Gradis BP-Sklop 1-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MDYxNTtQb2dvZGJhLUdyYWRpcyBCUC1Ta2xvcCAxLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

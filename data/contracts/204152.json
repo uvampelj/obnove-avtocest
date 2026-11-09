@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 204152,
+  "type": "DOD",
+  "prev": 158569,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k pogodbi DARS št. 593/2020: Izdelava PZI za rekonstrukcijo cestnega telesa na delih odsekov HC H3/0085 in 0685 Zadobrova - U (Šmartinska), H3/0086 in 0686 U (Šmartinska-Tomačevo), H3/0187 priključku LJ Nove Jarše (Šmartinska c.) in na A1/0146 razcepu Lj Zadobrova, delno krak C ",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa na delih odsekov HC H3/0085 in 0685 Zadobrova – LJ (Šmartinska), H3/0086 in 0686 LJ (Šmartinska-Tomačevo), H3/0187 priključku LJ Nove Jarše (Šmartinska c.) in na A1/0146 razcepu Lj Zadobrova, delno krak C",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-09",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNDE1MjtBbmVrcy0zLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

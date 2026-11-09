@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 62572,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656193,
+  "idDosje": 178692,
+  "title": "Pregledi, preizkusi in manjša popravila opreme pod tlakom",
+  "procurement": "Pregledi, preizkusi in manjša popravila opreme pod tlakom",
+  "kind": 1,
+  "value": 102875.28,
+  "signed": "2017-01-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Simes, d.o.o."
+  ],
+  "contractor_ids": [
+   "1552724000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007273/2016-X01/POG-62572",
+  "published": "2017-02-17",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYyNTcyO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

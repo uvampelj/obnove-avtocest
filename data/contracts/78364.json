@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78364,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662793,
+  "idDosje": 198403,
+  "title": "Dobava in montaža skladiščnih hal",
+  "procurement": "Dobava in montaža skladiščnih hal",
+  "kind": 1,
+  "value": 338046.14,
+  "signed": "2017-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EXPO BIRO družba za izgradnjo objektov, proizvodnjo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5396450000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003269/2017-C01/POG-78364",
+  "published": "2017-08-28",
+  "files": [
+   {
+    "name": "Pogodba 644-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4MzY0O1BvZ29kYmEgNjQ0LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

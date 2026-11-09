@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 46637,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650401,
+  "idDosje": 51769,
+  "title": "Vzpostavitev in delovanje večsteznega elektronskega cestninskega sistema v prostem prometnem toku na avtocestah in hitrih cestah",
+  "procurement": "Vzpostavitev in delovanje večsteznega elektronskega cestninskega sistema v prostem prometnem toku na avtocestah in hitrih cestah",
+  "kind": 1,
+  "value": 110491439.98,
+  "signed": "2016-09-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d.",
+   "Q-Free ASA"
+  ],
+  "contractor_ids": [
+   "5014018000",
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005358/2016-C01/POG-46637",
+  "published": "2016-09-09",
+  "files": [
+   {
+    "name": "Pogodba 717-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ2NjM3O1BvZ29kYmEgNzE3LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

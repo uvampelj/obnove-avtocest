@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 238458,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 753544,
+  "idDosje": 470926,
+  "title": "VZDRŽEVANJE VIDEO NADZORNEGA SISTEMA",
+  "procurement": "VZDRŽEVANJE VIDEO NADZORNEGA SISTEMA",
+  "kind": 1,
+  "value": 100345.0,
+  "signed": "2023-05-17",
+  "from": "2023-05-17",
+  "to": "2025-05-17",
+  "number": "000673/2023",
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000710/2023-X01/POG-238458",
+  "published": "2023-05-18",
+  "files": [
+   {
+    "name": "Pogodba TENZOR d.o.o._R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MDM3MDtQb2dvZGJhIFRFTlpPUiBkLm8uby5fUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

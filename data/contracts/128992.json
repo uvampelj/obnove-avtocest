@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 128992,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688823,
+  "idDosje": 291097,
+  "title": "Izdelava okoljskega poročila in študije variant (utemeljitve rešitve)/ predinvesticijske zasnove za državno cesto od Otiškega Vrha do meje z Republiko Avstrijo na Holmcu",
+  "procurement": "IZDELAVA OKOLJSKEGA POROČILA IN ŠTUDIJE VARIANT (UTEMELJITVE REŠITVE)/PREDINVESTICIJSKE ZASNOVE ZA DRŽAVNO CESTO OD OTIŠKEGA VRHA DO MEJE Z REPUBLIKO AVSTRIJO NA HOLMCU",
+  "kind": 1,
+  "value": 368067.66,
+  "signed": "2019-04-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000153/2019-C01/POG-128992",
+  "published": "2019-06-27",
+  "files": [
+   {
+    "name": "Pogodba-JV LUZ+Lineal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODk5MjtQb2dvZGJhLUpWIExVWitMaW5lYWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

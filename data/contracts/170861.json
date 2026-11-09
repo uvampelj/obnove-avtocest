@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 170861,
+  "type": "DOD",
+  "prev": 133330,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 932/2019: SANACIJA VOZIŠČNE KONSTRUKCIJE ODSEKA AC A2/0022 GROSUPLJE – IVANČNA GORICA OD KM 0,800 DO KM 7,000 - popravek DDV vrednosti",
+  "procurement": "SANACIJA VOZIŠČNE KONSTRUKCIJE ODSEKA AC A2/0022 GROSUPLJE – IVANČNA GORICA OD KM 0,800 DO KM 7,000",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-12-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+   "PZG, podjetje za gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5069149000",
+   "3512592000",
+   "3323463000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "Aneks št. 2 k 932-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDg2MTtBbmVrcyDFoXQuIDIgayA5MzItMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

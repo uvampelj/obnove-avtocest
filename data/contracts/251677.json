@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 251677,
+  "type": "DOD",
+  "prev": 183871,
+  "idObrazec": 776408,
+  "idDosje": 389337,
+  "title": "Aneks št. 1, DARS št. 1114/2023 k pog. DARS št. 833/2021",
+  "procurement": "Vzdrževanje nadzorno krmilnega sistema v predorih in pokritih vkopih in Sklop 2",
+  "kind": 1,
+  "value": 20000.0,
+  "signed": "2023-10-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001198/2021-C01/DOD-251677",
+  "published": "2023-11-10",
+  "files": [
+   {
+    "name": "aneks 1, DARS št. 1114-2023, k pog. DARS 833-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NTA5MzthbmVrcyAxLCBEQVJTIMWhdC4gMTExNC0yMDIzLCBrIHBvZy4gREFSUyA4MzMtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

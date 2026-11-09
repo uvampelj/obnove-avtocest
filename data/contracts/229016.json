@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 229016,
+  "type": "DOD",
+  "prev": 46637,
+  "idObrazec": 768328,
+  "idDosje": 51769,
+  "title": "Aneks št. 17",
+  "procurement": "Vzpostavitev in delovanje večsteznega elektronskega cestninskega sistema v prostem prometnem toku na avtocestah in hitrih cestah",
+  "kind": 1,
+  "value": 2057217.02,
+  "signed": "2022-12-23",
+  "from": "2022-12-23",
+  "to": "2028-03-26",
+  "number": "1647/2022",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d.",
+   "Q-Free ASA"
+  ],
+  "contractor_ids": [
+   "5014018000",
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005358/2016-C01/DOD-229016",
+  "published": "2023-01-10",
+  "files": [
+   {
+    "name": "Aneks številka 17_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTY4NjtBbmVrcyDFoXRldmlsa2EgMTdfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

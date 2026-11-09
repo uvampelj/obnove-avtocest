@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 178627,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 718385,
+  "idDosje": 365287,
+  "title": "NAKUP IN DOBAVA GORIVA",
+  "procurement": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja",
+  "kind": 2,
+  "value": 2863218.0,
+  "signed": "2021-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005299/2020-C01/POG-178627",
+  "published": "2021-04-23",
+  "files": [
+   {
+    "name": "Pogodba 647-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3ODYyNztQb2dvZGJhIDY0Ny0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

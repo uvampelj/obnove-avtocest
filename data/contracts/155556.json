@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 155556,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704614,
+  "idDosje": 339266,
+  "title": "DOBAVA VOZIL ZA NADZOR DEL",
+  "procurement": "Kombinirano vozilo  KV 1,Kombinirano vozilo  KV 2,Kombinirano vozilo  KV 5,Kombinirano vozilo  KV 6,Kombinirano vozilo  KV 1A,Kombinirano vozilo s pogonom na stisnjen zemeljski plin (CNG),Kombinirano vozilo - sukcesivna dobava  KV 1A",
+  "kind": 2,
+  "value": 945351.8,
+  "signed": "2020-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+   "AVTOHIŠA REAL, trgovina in servis, d.o.o.,",
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o.",
+   "PORSCHE SLOVENIJA d.o.o. trgovina na debelo in drobno, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5670209000",
+   "1663810000",
+   "5504023000",
+   "5758980000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000454/2020-C01/POG-155556",
+  "published": "2020-06-30",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NTU1NjtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

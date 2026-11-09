@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166006,
+  "type": "DOD",
+  "prev": 121011,
+  "idObrazec": 771779,
+  "idDosje": 280242,
+  "title": "Aneks št.1 k pog.DARS št. 130/2019 z dne 13.02.2019: Izdelava projektno tehnične dokumentacije IZP in PZI za rekonstrukcijo malih počivališč na omrežju avtocest v upravljanju DARS - nominacija novih podizvajalcev in podaljšanje pogodbenega roka ",
+  "procurement": "Izdelava projektno tehnične dokumentacije IZP in PZI za rekonstrukcijo malih počivališč na omrežju avtocest v upravljanju DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-02-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ARPING inženiring, projektiranje in nadzor v gradbeništvu d.o.o."
+  ],
+  "contractor_ids": [
+   "6711243000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007445/2018-X01/DOD-166006",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št. 1 k pog št.130-2019-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjAwNjthbmVrcyDFoXQuIDEgayBwb2cgxaF0LjEzMC0yMDE5LU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

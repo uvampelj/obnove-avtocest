@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 272573,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 830576,
+  "idDosje": 505008,
+  "title": "Nakup pogonskih energentov (okvirni sporazum)",
+  "procurement": "Nakup pogonskih energentov",
+  "kind": 2,
+  "value": 2928000.0,
+  "signed": "2024-07-01",
+  "from": "2024-07-01",
+  "to": "2027-07-01",
+  "number": "000755/2024 in 000754/2024",
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "MOL SLOVENIJA, trgovsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5025796000",
+   "5952441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000228/2024-POG/01",
+  "published": "2024-07-25",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUM_Petrol in MOL_p _RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk3NDI3O09LVklSTkkgU1BPUkFaVU1fUGV0cm9sIGluIE1PTF9wIF9SZWRVTC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

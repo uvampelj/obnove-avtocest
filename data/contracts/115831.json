@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 115831,
+  "type": "DOD",
+  "prev": 115827,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pogodbi DARS št. 851-2016 za vzdržavnje, podporo in razvoj IS PIS",
+  "procurement": "aneks št. 1 k pogodbi DARS št. 851-2016 za vzdržavnje, podporo in razvoj IS PIS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1626981000",
+   "1782355000",
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-12-07",
+  "files": [
+   {
+    "name": "aneks 2070-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTgzMTthbmVrcyAyMDcwLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

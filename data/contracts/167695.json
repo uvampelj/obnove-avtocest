@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167695,
+  "type": "DOD",
+  "prev": 120328,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 6 k pogodbi DARS št. 378/2000",
+  "procurement": "strokovno svetovalne storitve pri izgradnji AC",
+  "kind": 1,
+  "value": 89884.37,
+  "signed": "2020-12-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-07",
+  "files": [
+   {
+    "name": "Aneks št. 6 k pogodbi DARS št. 378-2000-podpisana.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzY5NTtBbmVrcyDFoXQuIDYgayBwb2dvZGJpIERBUlMgxaF0LiAzNzgtMjAwMC1wb2RwaXNhbmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 29157,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Opravaljanje detektivnskih storitev",
+  "procurement": "Opravljanje detektivskih storitev",
+  "kind": 1,
+  "value": 42700.0,
+  "signed": "2016-01-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DETEKTIVSKO VARNOSTNA AGENCIJA d.o.o."
+  ],
+  "contractor_ids": [
+   "6205968000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-01-15",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI5MTU3O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

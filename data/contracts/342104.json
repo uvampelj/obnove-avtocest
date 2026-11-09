@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 342104,
+  "type": "DOD",
+  "prev": 78734,
+  "idObrazec": 986379,
+  "idDosje": 182094,
+  "title": "Aneks št. 6 k pogodbi DARS, d. d., št. 435/2017 za izdelavo PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana – Obrežje pri Novem mestu do priključka Maline ",
+  "procurement": "Izdelava PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana–Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-12-30",
+  "from": "2025-12-30",
+  "to": "2026-12-31",
+  "number": "",
+  "contractors": [
+   "BPI d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN008098/2016-C01/POG-78734-D05",
+  "published": "2026-01-29",
+  "files": [
+   {
+    "name": "Aneks-6-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NjQ0O0FuZWtzLTYtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

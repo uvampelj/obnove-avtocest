@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310177,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 913874,
+  "idDosje": 518739,
+  "title": "Sklop 2 - ACB Slovenske Konjice",
+  "procurement": "VULKANIZERSKE STORITVE",
+  "kind": 1,
+  "value": 12878.32,
+  "signed": "2025-05-21",
+  "from": "2025-05-21",
+  "to": "2028-08-21",
+  "number": "000751/2025",
+  "contractors": [
+   "VULKANIZERSTVO IN PRODAJA FRANC ČAKŠ s.p."
+  ],
+  "contractor_ids": [
+   "1057901000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001187/2025-POG/01",
+  "published": "2025-05-22",
+  "files": [
+   {
+    "name": "Pogodba - Čakš_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc2NjkyO1BvZ29kYmEgLSDEjGFrxaFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

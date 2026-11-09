@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26378,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641086,
+  "idDosje": 80664,
+  "title": "Najem opreme za izvajanje zimske službe",
+  "procurement": "ACB Slovenske Konjice",
+  "kind": 1,
+  "value": 42578.0,
+  "signed": "2015-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GMI, d.o.o."
+  ],
+  "contractor_ids": [
+   "6200192000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8489/2015/POG-26378",
+  "published": "2015-12-02",
+  "files": [
+   {
+    "name": "1008-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2Mzc4OzEwMDgtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

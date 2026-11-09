@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197885,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728449,
+  "idDosje": 406040,
+  "title": "Vzpostavitev sistema DMS, migracija podatkov in novi moduli",
+  "procurement": "Vzpostavitev sistema DMS, migracija podatkov in novi moduli",
+  "kind": 2,
+  "value": 1069735.04,
+  "signed": "2021-11-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "360ECM informatika d.o.o."
+  ],
+  "contractor_ids": [
+   "2344149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004841/2021-C01/POG-197885",
+  "published": "2021-11-17",
+  "files": [
+   {
+    "name": "R pogodba 1252-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5Nzg4NTtSIHBvZ29kYmEgMTI1Mi0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

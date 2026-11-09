@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389560,
+  "type": "DOD",
+  "prev": 290917,
+  "idObrazec": 1044896,
+  "idDosje": 514940,
+  "title": "Aneks št. 1 k pogodi DARS št. 1083/2024 za \"Izvajanja inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo\"",
+  "procurement": "Izvajanje inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-03-23",
+  "from": "2024-10-30",
+  "to": "2028-03-31",
+  "number": "001083/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007354/2024-POG/01-D01",
+  "published": "2026-04-08",
+  "files": [
+   {
+    "name": "ANEKS 446-2026_33-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkxOTc0O0FORUtTIDQ0Ni0yMDI2XzMzLTIwMjZfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 170816,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714089,
+  "idDosje": 378812,
+  "title": "Mesečna naročnina na storitev SLEDAT",
+  "procurement": "Mesečna naročnina na storitev SLEDAT",
+  "kind": 1,
+  "value": 172712.47,
+  "signed": "2021-01-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "USCOM, telekomunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1882414000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007569/2020-C01/POG-170816",
+  "published": "2021-01-15",
+  "files": [
+   {
+    "name": "pogodba SLEDAT, št. DARS 45-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDgxNjtwb2dvZGJhIFNMRURBVCwgxaF0LiBEQVJTIDQ1LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

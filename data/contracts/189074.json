@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 189074,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724097,
+  "idDosje": 401102,
+  "title": "Najem avtonomne mobilne varnostne nadzorne naprave",
+  "procurement": "Najem avtonomne mobilne varnostne nadzorne naprave",
+  "kind": 1,
+  "value": 80520.0,
+  "signed": "2021-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VTO, raziskovalne in razvojne dejavnosti, JURE OBLAK S.P."
+  ],
+  "contractor_ids": [
+   "3136701000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003643/2021-X01/POG-189074",
+  "published": "2021-08-19",
+  "files": [
+   {
+    "name": "pogodba 1065-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4OTA3NDtwb2dvZGJhIDEwNjUtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

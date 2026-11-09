@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271524,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 827371,
+  "idDosje": 509434,
+  "title": "Avtomobilsko zavarovanje",
+  "procurement": "Zavarovanje oseb, premoženja in premoženjskih interesov družbe DARS",
+  "kind": 1,
+  "value": 1811391.66,
+  "signed": "2024-07-09",
+  "from": "2024-07-01",
+  "to": "2028-09-30",
+  "number": "000788/2024",
+  "contractors": [
+   "Zavarovalnica Sava, zavarovalna družba, d.d."
+  ],
+  "contractor_ids": [
+   "5063400000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002901/2024-POG/02",
+  "published": "2024-07-12",
+  "files": [
+   {
+    "name": "POGODBA 788-2024 SAVA_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk0ODM0O1BPR09EQkEgNzg4LTIwMjQgU0FWQV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

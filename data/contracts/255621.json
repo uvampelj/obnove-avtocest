@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255621,
+  "type": "DOD",
+  "prev": 114328,
+  "idObrazec": 771434,
+  "idDosje": 263886,
+  "title": "Aneks št. 1, št DARS 12/2024 k osnovni pogodbi DARS 2023/2018 za podaljšanje pogodbenega roka, imenovanje dodatnega koordinatorja in povišanje cene delovnega dne",
+  "procurement": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu v fazi izvedbe del na HC H4 Razdrto - Ajdovščina",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-01-08",
+  "from": "2024-01-08",
+  "to": "2028-11-15",
+  "number": "000012/2024",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004668/2018-X01/DOD-255621",
+  "published": "2024-01-09",
+  "files": [
+   {
+    "name": "Aneks št. 1_DARS_st._12_2024_k_2023_2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTM3MDtBbmVrcyDFoXQuIDFfREFSU19zdC5fMTJfMjAyNF9rXzIwMjNfMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

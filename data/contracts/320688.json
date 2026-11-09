@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320688,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 945156,
+  "idDosje": 523364,
+  "title": "Vzdrževanje avtomatskih števcev prometa",
+  "procurement": "Vzdrževanje avtomatskih števcev prometa",
+  "kind": 1,
+  "value": 137799.0,
+  "signed": "2025-09-11",
+  "from": "2025-09-11",
+  "to": "2028-09-11",
+  "number": "001079/2025",
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005101/2025-POG/01",
+  "published": "2025-09-26",
+  "files": [
+   {
+    "name": "Pogodba-167-2025-OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAyMjMyO1BvZ29kYmEtMTY3LTIwMjUtT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

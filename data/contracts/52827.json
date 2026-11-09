@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52827,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 zaradi dogovorjenega plačila razlike v stopnji DDV",
+  "procurement": "Izvedba monitoringa flore, favne in habitatnih tipov, biotopov, območij Natura 2000, EPO in naravnih vrednot med obratovanjem HC Razdrto - Vipava",
+  "kind": 1,
+  "value": 711.0,
+  "signed": "2016-10-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ERICo d.o.o."
+  ],
+  "contractor_ids": [
+   "5583055000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "828_2016_A1 k 0001_13_podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODI3OzgyOF8yMDE2X0ExIGsgMDAwMV8xM19wb2RwaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

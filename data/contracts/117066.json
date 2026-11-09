@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 117066,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681789,
+  "idDosje": 278549,
+  "title": "Vzdrževanje sistema nadzora in vodenja prometa",
+  "procurement": "Vzdrževanje sistema nadzora in vodenja prometa",
+  "kind": 1,
+  "value": 557330.11,
+  "signed": "2018-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007234/2018-C01/POG-117066",
+  "published": "2019-01-03",
+  "files": [
+   {
+    "name": "002154-2018 Vzdrževanje sistema nadzora in vodenja prometa.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzA2NjswMDIxNTQtMjAxOCBWemRyxb5ldmFuamUgc2lzdGVtYSBuYWR6b3JhIGluIHZvZGVuamEgcHJvbWV0YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

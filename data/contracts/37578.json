@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 37578,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646426,
+  "idDosje": 51744,
+  "title": "Servisiranje tovornih vozil Iveco",
+  "procurement": "Servisiranje tovornih vozil Iveco",
+  "kind": 1,
+  "value": 1057642.4,
+  "signed": "2016-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000108/2016-C01/POG-37578",
+  "published": "2016-05-23",
+  "files": [
+   {
+    "name": "Scan-2016-05-10-08-20-37-667.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM3NTc4O1NjYW4tMjAxNi0wNS0xMC0wOC0yMC0zNy02NjcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

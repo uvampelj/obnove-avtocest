@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 367698,
+  "type": "DOD",
+  "prev": 330246,
+  "idObrazec": 1019896,
+  "idDosje": 525233,
+  "title": "Aneks št. 1 k okvirnemu sporazumu DARS št. 23/2026 (skupna številka OS 28/2026) za Nakup in najem licenčne programske opreme – okvirni sporazum",
+  "procurement": "Nakup in najem licenčne programske opreme – okvirni sporazum",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-02-23",
+  "from": "2026-01-09",
+  "to": "2030-01-09",
+  "number": "000028/2026",
+  "contractors": [
+   "CRAYON, celovite IT rešitve, d.o.o.",
+   "INTEGRALIS, sistemske rešitve, d.o.o.",
+   "Kontron SI, sistemske integracije, d.o.o.",
+   "SRC sistemske integracije d.o.o.",
+   "UNISTAR LC, zastopstvo, izdelava in vzdrževanje računalniške opreme in računalniških aplikacij d.o.o. Ljubljana",
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "9170545000",
+   "8507295000",
+   "9750681000",
+   "1447190000",
+   "5302722000",
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006742/2025-POG/01-D01",
+  "published": "2026-03-20",
+  "files": [
+   {
+    "name": "Aneks-1-k-23-2026_17-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY4MDI3O0FuZWtzLTEtay0yMy0yMDI2XzE3LTIwMjZfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

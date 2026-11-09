@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 57473,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654149,
+  "idDosje": 163745,
+  "title": "Dobava pnevmatik",
+  "procurement": "Letne in zimske pnevmatike za osebna vozila,Letne in zimske pnevmatike za tovorna vozila,Pnevmatike za traktorje, gradbene stroje in ostala vozila",
+  "kind": 2,
+  "value": 359826.24,
+  "signed": "2016-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FELNAR CENTER d.o.o.",
+   "TRANS FELIX d.o.o.",
+   "ŠPAN d.o.o."
+  ],
+  "contractor_ids": [
+   "6498400000",
+   "5981158000",
+   "5542910000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004113/2016-C01/POG-57473",
+  "published": "2016-12-30",
+  "files": [
+   {
+    "name": "Dobava pnevmatik.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3NDczO0RvYmF2YSBwbmV2bWF0aWsuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

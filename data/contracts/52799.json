@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52799,
+  "type": "DOD",
+  "prev": 10993,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 89/15:PZI IN IZVLEČKA PZI (ZA POTREBE RAZPISA) ZA SANACIJO VIADUKTA RAVBARKOMANDA VA0174 (DESNI) NA AC A1/0055 UNEC - POSTOJNA V KM 6,337 TER VIADUKTA RAVBARKOMANDA VA0175 (LEVI) NA AC A1/0655 UNEC – POSTOJNA V KM 6,347-podaljšanje roka , nominacija podizvajalca in zamenj",
+  "procurement": "aneks št. 1 k pog. DARS št. 89/15",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-09-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROMICO d.o.o."
+  ],
+  "contractor_ids": [
+   "2170388000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "783-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyNzk5Ozc4My0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

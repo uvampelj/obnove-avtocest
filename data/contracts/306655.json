@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 306655,
+  "type": "DOD",
+  "prev": 189636,
+  "idObrazec": 903700,
+  "idDosje": 391963,
+  "title": "Aneks št. 1 k pogodbi DARS 921/2021: izvedbo del: Preplastitev in preventivno zaščito voziščne konstrukcije na odsekih AC A3 0068/0668 Gabrk–Sežana V, 0069/0669 Sežana V–Sežana Z, 0670 Sežana Z–Fernetiči in 0165 priključka Sežana",
+  "procurement": "Preplastitev in preventivna zaščita voziščne konstrukcije na odsekih AC A3 0068/0668 Gabrk–Sežana V, 0069/0669 Sežana V–Sežana Z, 0670 Sežana Z–Fernetiči in 0165 priključka Sežana V",
+  "kind": 3,
+  "value": 97945.19,
+  "signed": "2025-03-12",
+  "from": "2021-06-28",
+  "to": "2025-05-31",
+  "number": "000921/2021",
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "5143497000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001806/2021-C01/POG-189636-D01",
+  "published": "2025-04-09",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY4NDI4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

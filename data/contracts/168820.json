@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168820,
+  "type": "DOD",
+  "prev": 132774,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 964/2019",
+  "procurement": "Servisiranje dvižnih garažnih vrat",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Hörmann Slovenija, montaža, zastopanje in posredovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5332729000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-18",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog. DARS št. 964-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODgyMDtBbmVrcyDFoXQuMSBrIHBvZy4gREFSUyDFoXQuIDk2NC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

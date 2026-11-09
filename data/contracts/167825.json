@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167825,
+  "type": "DOD",
+  "prev": 120582,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 1904/2018: Izvedba sistema nadzora in vodenja prometa (SNVP) na AC Brezovica - Divača, Severna, Vzhodna, Južna ljubljanska obvoznica in AC Zadobrova-Lukovica-periferna oprema - dodatna in več dela",
+  "procurement": "IZVEDBA SISTEMA NADZORA IN VODENJA PROMETA (SNVP) NA AC BREZOVICA – DIVAČA, SEVERNA, VZHODNA, JUŽNA LJUBLJANSKA OBVOZNICA IN AC ZADOBROVA – LUKOVICA – PERIFERNA OPREMA ",
+  "kind": 3,
+  "value": 503109.0,
+  "signed": "2020-07-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o.",
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-08",
+  "files": [
+   {
+    "name": "Aneks št.4 k pog.1904-18_1294-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzgyNTtBbmVrcyDFoXQuNCBrIHBvZy4xOTA0LTE4XzEyOTQtMjAtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120518,
+  "type": "DOD",
+  "prev": 95863,
+  "idObrazec": 770493,
+  "idDosje": 222770,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 3: državna cesta od priključka Velenje jug do priključka Slovenj Gradec jug",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 3: državna cesta od priključka Velenje jug do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008246/2017-C01/DOD-120518",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "aneks-1-287-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUxODthbmVrcy0xLTI4Ny0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26288,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641052,
+  "idDosje": 71963,
+  "title": "Dobava kalcijevega klorida",
+  "procurement": "Dobava kalcijevega klorida",
+  "kind": 2,
+  "value": 533140.0,
+  "signed": "2015-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MA-YDI d.o.o."
+  ],
+  "contractor_ids": [
+   "5609283000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8460/2015/POG-26288",
+  "published": "2015-12-01",
+  "files": [
+   {
+    "name": "POGODBA 989-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2Mjg4O1BPR09EQkEgOTg5LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

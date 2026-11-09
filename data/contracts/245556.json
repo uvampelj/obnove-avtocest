@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 245556,
+  "type": "DOD",
+  "prev": 220041,
+  "idObrazec": 781177,
+  "idDosje": 444270,
+  "title": "Aneks 1, DARS št. 907/2023 k pogodbi DARS št. 1060/2022",
+  "procurement": "Izvedba nakupa in menjave virtualizacijske platforme MS Hyper-V z VMware vSphere",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2023-08-17",
+  "from": "2023-08-17",
+  "to": "2024-05-31",
+  "number": null,
+  "contractors": [
+   "S&T Slovenija, informacijske rešitve in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003003/2022-X01/DOD-245556",
+  "published": "2023-08-23",
+  "files": [
+   {
+    "name": "aneks 1, DARS št. 907-2023 k pog. DARS št. 1060-2022, podpisano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0ODM0OTthbmVrcyAxLCBEQVJTIMWhdC4gOTA3LTIwMjMgayBwb2cuIERBUlMgxaF0LiAxMDYwLTIwMjIsIHBvZHBpc2Fuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

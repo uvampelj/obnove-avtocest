@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 22554,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639462,
+  "idDosje": 80202,
+  "title": "Servisiranje in popravila zimske in letne mehanizacije",
+  "procurement": "Sklop 1: Vzdrževanje zimske mehanizacije: RIKO, EPOKE, ZAUGG.,Sklop 2: Vzdrževanje letne  mehanizacije: RIKO, BORUM, DOPPSTADT, BUCHER, VALTRA.",
+  "kind": 1,
+  "value": 614709.2,
+  "signed": "2015-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o."
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6980/2015/POG-22554",
+  "published": "2015-10-07",
+  "files": [
+   {
+    "name": "D13150000799_151006_140248.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTU0O0QxMzE1MDAwMDc5OV8xNTEwMDZfMTQwMjQ4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

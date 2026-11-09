@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90528,
+  "type": "DOD",
+  "prev": 11755,
+  "idObrazec": 767301,
+  "idDosje": 71394,
+  "title": "aneks št. 1 k pog. DARS št. 1606/14: IZDELAVA IDEJNEGA PROJEKTA ODLAGALIŠČ ZEMELJSKEGA IZKOPA, KI BO NASTAL OB GRADNJI HC KOPER-DRAGONJA",
+  "procurement": "IZDELAVA IDEJNEGA PROJEKTA ODLAGALIŠČ ZEMELJSKEGA IZKOPA, KI BO NASTAL OB GRADNJI HITRE CESTE KOPER - DRAGONJA",
+  "kind": 1,
+  "value": 17888.25,
+  "signed": "2016-03-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN11527/2014/DOD-90528",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTI4O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

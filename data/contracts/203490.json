@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 203490,
+  "type": "DOD",
+  "prev": 190193,
+  "idObrazec": 777396,
+  "idDosje": 392738,
+  "title": "Aneks številka 1 - Sklop 4",
+  "procurement": "Kalcijev klorid CaCl2 - raztopina, granulat",
+  "kind": 2,
+  "value": 165920.0,
+  "signed": "2021-12-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SLOVENIJA TRADE SPOL. S.R.O., Praga 4, Urešova 1384/8, 148 00, Češka Republika - Podružnica v Ljubljani"
+  ],
+  "contractor_ids": [
+   "8484511000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001979/2021-C01/DOD-203490",
+  "published": "2022-02-02",
+  "files": [
+   {
+    "name": "Aneks 1 - 1481-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzQ5MDtBbmVrcyAxIC0gMTQ4MS0yMDIxX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

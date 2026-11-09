@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 151813,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 702197,
+  "idDosje": 338696,
+  "title": "Sanacija vozišč po izrednih dogodkih",
+  "procurement": "Dela na območju AC baz Postojna, Kozina, Ljubljana, Hrušica in Novo mesto,Dela na območju AC baz Slovenske Konjice, Vransko, Maribor in Murska Sobota",
+  "kind": 3,
+  "value": 245154.73,
+  "signed": "2020-05-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "3512592000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000240/2020-X01/POG-151813",
+  "published": "2020-05-13",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTgxMztQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

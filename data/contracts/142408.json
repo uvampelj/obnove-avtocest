@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142408,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695969,
+  "idDosje": 321017,
+  "title": "Izdelava in dobava službenih oblek",
+  "procurement": "Izdelava in dobava službenih oblek",
+  "kind": 2,
+  "value": 385678.6,
+  "signed": "2019-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UTG VODNIK proizvodnja, trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "2372754000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005806/2019-C01/POG-142408",
+  "published": "2019-12-19",
+  "files": [
+   {
+    "name": "pogodba 1669-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjQwODtwb2dvZGJhIDE2NjktMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

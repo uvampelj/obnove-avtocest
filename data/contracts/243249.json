@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243249,
+  "type": "DOD",
+  "prev": 192466,
+  "idObrazec": 777689,
+  "idDosje": 400380,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1123/2021 za: Izvajanje inženirskih storitev v postopkih vzpostavitve in delovanja sistema e-Vinjeta",
+  "procurement": "Izvajanje inženirskih storitev v postopkih vzpostavitve in delovanja sistema e-Vinjeta",
+  "kind": 1,
+  "value": 297387.2,
+  "signed": "2023-07-06",
+  "from": "2023-07-06",
+  "to": "2023-12-31",
+  "number": "822/2023",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003494/2021-C01/DOD-243249",
+  "published": "2023-07-18",
+  "files": [
+   {
+    "name": "aneks 1 k pog. DARS 1123-2021_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NTkyNDthbmVrcyAxIGsgcG9nLiBEQVJTIDExMjMtMjAyMV9wb2RwaXNhbl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

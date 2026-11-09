@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193608,
+  "type": "DOD",
+  "prev": 163679,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1307/20: Dobava in postavitev cestno-vremenskih postaj in detekcijsko nadzornih kamer na primorskem kraku AC: Sklop 2: Dobava in postavitev detekcijsko nadzornih kamer na primorskem kraku AC",
+  "procurement": "Sklop 2: Dobava in postavitev detekcijsko nadzornih kamer na primorskem kraku AC",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2021-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., projektiranje in proizvodnja, Kamnik"
+  ],
+  "contractor_ids": [
+   "5753155000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-10-05",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MzYwODtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

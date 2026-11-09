@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 66853,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657690,
+  "idDosje": 190978,
+  "title": "Vzdrževanje, podpora in razvoj informacijskega sistema DARSEN",
+  "procurement": "Vzdrževanje, podpora in razvoj informacijskega sistema DARSEN",
+  "kind": 1,
+  "value": 61768.6,
+  "signed": "2017-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001587/2017-C01/POG-66853",
+  "published": "2017-03-31",
+  "files": [
+   {
+    "name": "Pogodba 293-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY2ODUzO1BvZ29kYmEgMjkzLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

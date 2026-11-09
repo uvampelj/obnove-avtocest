@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216668,
+  "type": "DOD",
+  "prev": 204453,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 51/2022 za Najem prekrškovne aplikacije kot podpore nadzoru pri sistemu elektronske vinjete in prekrškovnih postopkov cestninskega nadzora",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 51/2022 za Najem prekrškovne aplikacije kot podpore nadzoru pri sistemu elektronske vinjete in prekrškovnih postopkov cestninskega nadzora",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-06-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INPORES, razvojne in informacijske rešitve za javno upravo d.o.o."
+  ],
+  "contractor_ids": [
+   "2153203000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-20",
+  "files": [
+   {
+    "name": "R Aneks 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjY2ODtSIEFuZWtzIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 229203,
+  "type": "DOD",
+  "prev": 175673,
+  "idObrazec": 775620,
+  "idDosje": 361633,
+  "title": "Aneks št. 1 k pogodbi DARS št. 116/2021: Rekonstrukcija priključka Letališka cesta na AC A1 - sklop 2",
+  "procurement": "Rekonstrukcija priključka Letališka cesta na AC A1 - sklop 2",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-12-12",
+  "from": "2022-12-12",
+  "to": "2022-12-27",
+  "number": null,
+  "contractors": [
+   "TRGOGRAD trgovina in gradbeništvo, d.o.o., Litija",
+   "GP KRK d. d."
+  ],
+  "contractor_ids": [
+   "5567548000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004627/2020-C01/DOD-229203",
+  "published": "2023-01-12",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTg5NDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

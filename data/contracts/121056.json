@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 121056,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 684037,
+  "idDosje": 280687,
+  "title": "Izdelava projektne dokumentacije za nadgradnjo obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko – Blagovica ",
+  "procurement": "Izdelava projektne dokumentacije za nadgradnjo obstoječega sistema nadzora in vodenja prometa (SNVP) na AC Vransko – Blagovica ",
+  "kind": 1,
+  "value": 156343.0,
+  "signed": "2019-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007488/2018-X01/POG-121056",
+  "published": "2019-02-22",
+  "files": [
+   {
+    "name": "Pogodba-Elektoenergetika.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTA1NjtQb2dvZGJhLUVsZWt0b2VuZXJnZXRpa2EucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

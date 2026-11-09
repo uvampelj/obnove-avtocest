@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52888,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 2 k pog.DARS št. 402/13:NOVELACIJA POROČILA O VPLIVIH NA OKOLJE ZA HC KOPER-DRAGONJA-dodatna dela, podaljšanje roka   ",
+  "procurement": "aneks št. 2 k pog.DARS št. 402/13:NOVELACIJA POROČILA O VPLIVIH NA OKOLJE ZA HC KOPER-DRAGONJA-dodatna dela, podaljšanje roka   ",
+  "kind": 1,
+  "value": 3904.0,
+  "signed": "2016-10-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AQUARIUS d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5424534000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "823-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODg4OzgyMy0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

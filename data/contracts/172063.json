@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 172063,
+  "type": "DOD",
+  "prev": 152565,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1, DARS št. 96/2021",
+  "procurement": "Nadgradnja radijskega sistema DMR",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-01-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-28",
+  "files": [
+   {
+    "name": "aneks 1, št. DARS 96-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MjA2MzthbmVrcyAxLCDFoXQuIERBUlMgOTYtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 130805,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 689970,
+  "idDosje": 311794,
+  "title": "Dobava hidravličnih in pnevmatskih komponent",
+  "procurement": "Dobava hidravličnih in pnevmatskih komponent",
+  "kind": 2,
+  "value": 29612.82,
+  "signed": "2019-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDROCEV, proizvodnja, trgovina, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3431576000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003802/2019-X01/POG-130805",
+  "published": "2019-07-25",
+  "files": [
+   {
+    "name": "POGODBA Dobava hidravličnih in pnevmatskih komponent.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMDgwNTtQT0dPREJBIERvYmF2YSBoaWRyYXZsacSNbmloIGluIHBuZXZtYXRza2loIGtvbXBvbmVudC56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 241105,
+  "type": "DOD",
+  "prev": 168761,
+  "idObrazec": 775138,
+  "idDosje": 350005,
+  "title": "Aneks št. 1 k pog. DARS št. 1559/2020: Zamenjava dilatacij na premostitvenih objektih VA0103, VA0729, VA0730, A0341, VA0368, VA0804, VA0805 in VA0284",
+  "procurement": "Zamenjava dilatacij na premostitvenih objektih: VA0103, VA0729, VA0730, VA0341, VA0368, VA0804, VA0805 in VA0284",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-05-25",
+  "from": "2023-05-25",
+  "to": "2023-07-26",
+  "number": "708/2023",
+  "contractors": [
+   "FINAL PASARIČ proizvodnja in trgovina d.o.o.",
+   "MAR d.o.o."
+  ],
+  "contractor_ids": [
+   "5452341000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002383/2020-C01/DOD-241105",
+  "published": "2023-06-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MzU1NDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

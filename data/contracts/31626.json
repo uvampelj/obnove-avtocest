@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 31626,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 643585,
+  "idDosje": 80665,
+  "title": "Implementacija in vzdrževanje podpornega sistema za zimsko službo (MDSS)",
+  "procurement": "Implementacija in vzdrževanje podpornega sistema za zimsko službo (MDSS)",
+  "kind": 1,
+  "value": 231068.0,
+  "signed": "2016-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS plus d.o.o."
+  ],
+  "contractor_ids": [
+   "1880128000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN906/2016/POG-31626",
+  "published": "2016-02-09",
+  "files": [
+   {
+    "name": "D13160000083_160205_123531.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMxNjI2O0QxMzE2MDAwMDA4M18xNjAyMDVfMTIzNTMxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

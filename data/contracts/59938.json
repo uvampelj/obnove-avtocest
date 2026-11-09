@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 59938,
+  "type": "DOD",
+  "prev": 37775,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 za nominacijo dodatnega podizvajalca pri gradnji priključne brežine pri viaduktu Boršt 1 od P75 do P79 na odseku HC Razdrto Vipava; Rebernice.",
+  "procurement": "Izvedba gradnje priključne brežine pri viaduktu Boršt 1 od P75 do P79 na odseku HC Razdrto Vipava; Rebernice.",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RAFAEL d.o.o. Sevnica"
+  ],
+  "contractor_ids": [
+   "5617316000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-01-20",
+  "files": [
+   {
+    "name": "697_2016 Aneks 2 Nominacija GINEX D13160000697_160823_125850.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU5OTM4OzY5N18yMDE2IEFuZWtzIDIgTm9taW5hY2lqYSBHSU5FWCBEMTMxNjAwMDA2OTdfMTYwODIzXzEyNTg1MC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

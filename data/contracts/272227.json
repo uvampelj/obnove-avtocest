@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 272227,
+  "type": "DOD",
+  "prev": 127717,
+  "idObrazec": 829677,
+  "idDosje": 297107,
+  "title": "Aneks št. 1 k pogodbi »Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja, Sklop 1 – Premoženjska zavarovanja«, št. 747/2019",
+  "procurement": "Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja",
+  "kind": 1,
+  "value": 227850.0,
+  "signed": "2024-07-19",
+  "from": "2024-07-19",
+  "to": "2025-01-30",
+  "number": "000799/2024",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d.",
+   "Zavarovalnica Sava, zavarovalna družba, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000",
+   "5063400000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000962/2019-C01/POG-127717-D02",
+  "published": "2024-07-23",
+  "files": [
+   {
+    "name": "Aneks 799_2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk2Njc1O0FuZWtzIDc5OV8yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

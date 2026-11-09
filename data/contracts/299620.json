@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 299620,
+  "type": "DOD",
+  "prev": 225057,
+  "idObrazec": 886750,
+  "idDosje": 449038,
+  "title": "Aneks 2, DARS št. 262/2025 k pog. DARS št. 1352/2022",
+  "procurement": "SERVISIRANJE IN POPRAVILA TOVORNIH VOZIL ZNAMKE IVECO",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-02-05",
+  "from": null,
+  "to": null,
+  "number": "001352/2022",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004435/2022-C01/POG-225057-D02",
+  "published": "2025-02-05",
+  "files": [
+   {
+    "name": "Aneks 2, DARS št. 262-2025, k pog. DARS št. 1352-2022,objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ0MjA5O0FuZWtzIDIsIERBUlMgxaF0LiAyNjItMjAyNSwgayBwb2cuIERBUlMgxaF0LiAxMzUyLTIwMjIsb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

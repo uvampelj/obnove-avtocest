@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 37373,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646329,
+  "idDosje": 18731,
+  "title": "Opravljanje odvoza, hrambe in uničenja zapuščenih vozil",
+  "procurement": "Opravljanje odvoza, hrambe in uničenja zapuščenih vozil",
+  "kind": 1,
+  "value": 37972.5,
+  "signed": "2016-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "A.N.B. TRADE, d.o.o."
+  ],
+  "contractor_ids": [
+   "5565855000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001068/2016-X01/POG-37373",
+  "published": "2016-05-19",
+  "files": [
+   {
+    "name": "Pogodba - odvoz zapuščenih vozil.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM3MzczO1BvZ29kYmEgLSBvZHZveiB6YXB1xaHEjWVuaWggdm96aWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220465,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740651,
+  "idDosje": 436772,
+  "title": "Izdelava IZP z razširjeno vsebino za rekonstrukcijo AC telesa in objektov na širšem območju razcepa Lj (Kozarje) in izdelavo Analize prometa",
+  "procurement": "Izdelava IZP z razširjeno vsebino za rekonstrukcijo AC telesa in objektov na širšem območju razcepa Lj (Kozarje) in izdelavo Analize prometa",
+  "kind": 1,
+  "value": 392946.75,
+  "signed": "2022-08-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001198/2022-C01/POG-220465",
+  "published": "2022-08-31",
+  "files": [
+   {
+    "name": "Pogodba-PNZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDQ2NTtQb2dvZGJhLVBOWl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

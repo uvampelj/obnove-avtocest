@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 378122,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1030940,
+  "idDosje": 528436,
+  "title": "Sklop 1 - Mini bager 8-9t s pripadajočo opremo",
+  "procurement": "Dobava in vzdrževanje gradbene mehanizacije in opreme",
+  "kind": 2,
+  "value": 962943.56,
+  "signed": "2026-03-23",
+  "from": "2026-03-23",
+  "to": "2027-02-23",
+  "number": "000447/2026",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009557/2025-POG/01",
+  "published": "2026-03-25",
+  "files": [
+   {
+    "name": "Podpisana pogodba 447-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDc4ODc2O1BvZHBpc2FuYSBwb2dvZGJhIDQ0Ny0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

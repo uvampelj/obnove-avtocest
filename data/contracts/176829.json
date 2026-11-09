@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 176829,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 717320,
+  "idDosje": 383771,
+  "title": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d. d.",
+  "procurement": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d. d.",
+  "kind": 1,
+  "value": 200000.0,
+  "signed": "2021-03-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000297/2021-X01/POG-176829",
+  "published": "2021-03-23",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUM 532-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjgyOTtPS1ZJUk5JIFNQT1JBWlVNIDUzMi0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

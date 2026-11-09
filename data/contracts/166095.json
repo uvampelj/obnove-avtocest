@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 166095,
+  "type": "DOD",
+  "prev": 100698,
+  "idObrazec": 770703,
+  "idDosje": 242341,
+  "title": "Aneks št. 3 k pogodbi DARS št. 1523/2018 za: Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije in objektov na odsekih HC H4/ 0378 in 0778 Selo - Vogrsko od km 0,650 do km 6,731 in na H4/0379 in 0779 Vogrsko - Šempeter od km 0,000 do km 4,470 in na priključku 0444 Vogrsko",
+  "procurement": "Izdelava PZI za obnovo voziščne konstrukcije in objektov na HC H4/ 0378 in 0778 Selo - Vogrsko km 0,650-km 6,731 in H4/0379 in 0779 Vogrsko - Šempeter km 0,000 - km 4,470 in priključku 0444 Vogrsko",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-01-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000799/2018-C01/DOD-166095",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št.3-275-19-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjA5NTthbmVrcyDFoXQuMy0yNzUtMTktb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

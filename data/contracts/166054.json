@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166054,
+  "type": "DOD",
+  "prev": 99671,
+  "idObrazec": 770646,
+  "idDosje": 220828,
+  "title": "Aneks št. 2 k pog. DARS št. 38/2018: Sklop 2: izdelava PZI za nadvoza Formin in Gorišnica ter izdelava izvlečka iz PZI za potrebe razpisa (PZR) za dokončanje glavne ceste Hajdina – Ormož, odsek Gorišnica – Ormož od km 0,000 do km 10,360\" – dodatna dela in sprememba roka",
+  "procurement": "izdelava PZI za nadvoza Formin in Gorišnica ter izdelava izvlečka iz PZI za potrebe razpisa (PZR) za dokončanje glavne ceste Hajdina – Ormož, odsek Gorišnica – Ormož od km 0,000 do km 10,360",
+  "kind": 1,
+  "value": 9862.48,
+  "signed": "2019-12-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008054/2017-C01/DOD-166054",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št.2 k pog-247-19-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjA1NDthbmVrcyDFoXQuMiBrIHBvZy0yNDctMTktT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

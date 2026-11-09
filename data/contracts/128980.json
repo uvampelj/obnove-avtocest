@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 128980,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688816,
+  "idDosje": 288605,
+  "title": "Izdelava PZI za obnovo ceste in objektov na AC A5 0809/0909 Sv. Jurij ob Ščavnici–Vučja Vas od km 7,740 do km 8,499, 0810/0910 Vučja Vas-Murska Sobota, 0174 priklj. Vučja vas, 0175 priklj. Murska Sobota, 0811/0911 Murska Sobota-Lipovci, 0176 priklj. Lipovci ter 0812/0912 Lipovci-Turnišče od km 0,000",
+  "procurement": "Izdelava PZI za obnovo ceste in objektov na AC A5 0809/0909 Sv. Jurij ob Ščavnici–Vučja Vas od km 7,740 do km 8,499, 0810/0910 Vučja Vas-Murska Sobota, 0174 priklj. Vučja vas, 0175 priklj. Murska Sobota, 0811/0911 Murska Sobota-Lipovci, 0176 priklj. Lipovci ter 0812/0912 Lipovci-Turnišče od km 0,000",
+  "kind": 1,
+  "value": 537625.33,
+  "signed": "2019-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5459966000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008824/2018-C01/POG-128980",
+  "published": "2019-06-27",
+  "files": [
+   {
+    "name": "Pogodba-JV PNG+PNZ+Elea iC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODk4MDtQb2dvZGJhLUpWIFBORytQTlorRWxlYSBpQy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

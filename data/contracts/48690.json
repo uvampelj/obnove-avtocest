@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48690,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650857,
+  "idDosje": 155043,
+  "title": "Izdelava projektne dokumentacije IP, PZI in izvleček iz PZI za potrebe javnega razpisa za sistem nadzora in vodenja prometa (SNVP) na AC Brezovica – Divača in severna, vzhodna, južna ljubljanska obvoz",
+  "procurement": "Izdelava projektne dokumentacije IP, PZI in izvleček iz PZI za potrebe javnega razpisa za sistem nadzora in vodenja prometa (SNVP) na AC Brezovica – Divača in severna, vzhodna, južna ljubljanska obvoz",
+  "kind": 1,
+  "value": 156526.0,
+  "signed": "2016-08-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE d.d."
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001396/2016-X01/POG-48690",
+  "published": "2016-09-23",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4NjkwO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

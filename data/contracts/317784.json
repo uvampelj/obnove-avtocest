@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 317784,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 937070,
+  "idDosje": 521011,
+  "title": "Najem Microsoft licenc",
+  "procurement": "Najem Microsoft licenc",
+  "kind": 2,
+  "value": 3835052.97,
+  "signed": "2025-07-29",
+  "from": "2025-07-29",
+  "to": "2029-01-31",
+  "number": "000973/2025",
+  "contractors": [
+   "Comtrade SI Sistemske Integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "8371741000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003088/2025-POG/01",
+  "published": "2025-08-25",
+  "files": [
+   {
+    "name": "R_Pogodba COMTRADE - 000973-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk1MjI5O1JfUG9nb2RiYSBDT01UUkFERSAtIDAwMDk3My0yMDI1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

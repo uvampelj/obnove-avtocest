@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 365944,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1015634,
+  "idDosje": 539812,
+  "title": "Dopolnitve OP (2. zvezek) in Dodatka na varovana območja za pripravo DPN za DC od Slovenj Gradca do Dravograda z obvoznicami - dopolnitve po javni objavi in pridobljenih mnenjih NUP",
+  "procurement": "Dopolnitve OP (2. zvezek) in Dodatka na varovana območja za pripravo DPN za DC od Slovenj Gradca do Dravograda z obvoznicami - dopolnitve po javni objavi in pridobljenih mnenjih NUP",
+  "kind": 1,
+  "value": 52596.64,
+  "signed": "2026-02-26",
+  "from": "2026-02-26",
+  "to": "2027-02-26",
+  "number": "000191/2026",
+  "contractors": [
+   "AQUARIUS ekološki inženiring d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5424534000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000615/2026-POG/01",
+  "published": "2026-03-05",
+  "files": [
+   {
+    "name": "AQUARIUS_pogodba_191-26_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY0MzY5O0FRVUFSSVVTX3BvZ29kYmFfMTkxLTI2X3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

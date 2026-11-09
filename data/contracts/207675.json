@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 207675,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 734519,
+  "idDosje": 417002,
+  "title": "Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Kastelec in Dekani ",
+  "procurement": "Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Kastelec in Dekani ",
+  "kind": 1,
+  "value": 573326.8,
+  "signed": "2022-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+   "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "2074699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006679/2021-C01/POG-207675",
+  "published": "2022-03-25",
+  "files": [
+   {
+    "name": "Pogodba-JV ISKRATEL+GEOPORTAL_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzY3NTtQb2dvZGJhLUpWIElTS1JBVEVMK0dFT1BPUlRBTF9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 87124,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666994,
+  "idDosje": 223444,
+  "title": "Nabava računalniške strojne opreme",
+  "procurement": "Osebni računalniki, prenosniki in zasloni,Strežniška oprema",
+  "kind": 2,
+  "value": 558143.46,
+  "signed": "2017-12-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATR.SIS informacijska oprema in storitve d.o.o.",
+   "S&T SLOVENIJA, informacijske rešitve in storitve, d.d."
+  ],
+  "contractor_ids": [
+   "2087707000",
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008402/2017-C01/POG-87124",
+  "published": "2017-12-19",
+  "files": [
+   {
+    "name": "pogodba .zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3MTI0O3BvZ29kYmEgLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

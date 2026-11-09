@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 124596,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686351,
+  "idDosje": 297520,
+  "title": "Razvoj, vzdrževanje in podpora IS BCP DARS",
+  "procurement": "Razvoj, vzdrževanje in podpora IS BCP DARS",
+  "kind": 1,
+  "value": 247904.0,
+  "signed": "2019-04-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO"
+  ],
+  "contractor_ids": [
+   "1782355000",
+   "1626981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000886/2019-X01/POG-124596",
+  "published": "2019-04-15",
+  "files": [
+   {
+    "name": "pogodba 602-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDU5Njtwb2dvZGJhIDYwMi0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 171779,
+  "type": "DOD",
+  "prev": 122547,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "a1 k pogodbi 126/2019 za projektiranje poslovne stavbe DARS - dodatna dela",
+  "procurement": "a1 k pogodbi 126/2019 za projektiranje poslovne stavbe DARS - dodatna dela",
+  "kind": 1,
+  "value": 126489.6,
+  "signed": "2021-01-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "studio abiro, arhitekturno načrtovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2136392000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-26",
+  "files": [
+   {
+    "name": "podpisan a1 k pog 126-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTc3OTtwb2RwaXNhbiBhMSBrIHBvZyAxMjYtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

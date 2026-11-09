@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192343,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725550,
+  "idDosje": 401012,
+  "title": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja »Optimizacija požarnega algoritma delovanja mehanskega prezračevanja v predoru Šentvid«",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja »Optimizacija požarnega algoritma delovanja mehanskega prezračevanja v predoru Šentvid«",
+  "kind": 1,
+  "value": 82886.8,
+  "signed": "2021-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003561/2021-X01/POG-192343",
+  "published": "2021-09-21",
+  "files": [
+   {
+    "name": "Pogodba-IBE_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjM0MztQb2dvZGJhLUlCRV9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198593,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728831,
+  "idDosje": 413291,
+  "title": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "procurement": "Servisiranje mehanizacije Riko, Epoke, Zaugg,Servisiranje mehanizacije, Borum, Doppstadt, Bucher in Ferri",
+  "kind": 1,
+  "value": 804163.0,
+  "signed": "2021-11-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006027/2021-C01/POG-198593",
+  "published": "2021-11-29",
+  "files": [
+   {
+    "name": "Pogodba 1289-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODU5MztQb2dvZGJhIDEyODktMjAyMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 292937,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 870090,
+  "idDosje": 512974,
+  "title": "VZDRŽEVANJE SREDNJENAPETOSTNIH NAPRAV IN NIZKONAPETOSTNIH PRIKLJUČKOV\n",
+  "procurement": "VZDRŽEVANJE SREDNJENAPETOSTNIH NAPRAV IN NIZKONAPETOSTNIH PRIKLJUČKOV",
+  "kind": 1,
+  "value": 774180.43,
+  "signed": "2024-11-25",
+  "from": "2024-11-25",
+  "to": "2028-02-25",
+  "number": "001181/2024",
+  "contractors": [
+   "ELEKTRO LJUBLJANA, podjetje za distribucijo električne energije, d.d."
+  ],
+  "contractor_ids": [
+   "5227992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005828/2024-POG/01",
+  "published": "2024-11-27",
+  "files": [
+   {
+    "name": "Pogodba - ELEKTRO LJUBLJANA_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzMwOTQ0O1BvZ29kYmEgLSBFTEVLVFJPIExKVUJMSkFOQV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

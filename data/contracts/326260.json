@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 326260,
+  "type": "DOD",
+  "prev": 240133,
+  "idObrazec": 961552,
+  "idDosje": 474097,
+  "title": "Aneks št. 1 k Pogodbi Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H -",
+  "procurement": "Geološko - geotehnična spremljava v času gradnje predora Konovo na novi cestni povezavi od priključka Velenje jug do priključka Slovenj Gradec jug (2. odsek severnega dela 3. razvojne osi), Sklop H -",
+  "kind": 1,
+  "value": -30195.0,
+  "signed": "2025-11-20",
+  "from": "2023-05-30",
+  "to": "2026-03-30",
+  "number": "001269/2025",
+  "contractors": [
+   "GEOTOČKA IN 2GR, geodetsko svetovanje in storitve, d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "3833399000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001543/2023-C01/POG-240133-D01",
+  "published": "2025-11-26",
+  "files": [
+   {
+    "name": "PJN Aneks 000211-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE0ODQxO1BKTiBBbmVrcyAwMDAyMTEtMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

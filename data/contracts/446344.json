@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 446344,
+  "type": "DOD",
+  "prev": 287259,
+  "idObrazec": 1125245,
+  "idDosje": 509534,
+  "title": "Aneks št. 1 k pogodbi DARS št. 917/2024: Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500 ",
+  "procurement": "Obnova ceste in objektov na odseku AC A1 0038/0638 Slovenske Konjice - Dramlje od km 0.071 do km 6.500",
+  "kind": 3,
+  "value": 2956785.7,
+  "signed": "2026-06-19",
+  "from": "2026-06-19",
+  "to": "2028-09-04",
+  "number": "000917/2024",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d.",
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+   "ISKRA, elektro in sistemske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5069149000",
+   "5185726000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002969/2024-POG/01-D01",
+  "published": "2026-06-23",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY4MDEyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

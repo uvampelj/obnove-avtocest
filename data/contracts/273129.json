@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273129,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 832010,
+  "idDosje": 509914,
+  "title": "DOBAVA TER VZDRŽEVANJE POLNILNIH POSTAJ",
+  "procurement": "DOBAVA TER VZDRŽEVANJE POLNILNIH POSTAJ",
+  "kind": 1,
+  "value": 48983.0,
+  "signed": "2024-07-31",
+  "from": "2024-07-31",
+  "to": "2027-07-31",
+  "number": "000838/2024",
+  "contractors": [
+   "VARIKON VARILNA TEHNIKA, SERVIS, PROIZVODNJA, TRGOVINA, družba za storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2170531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003245/2024-POG/01",
+  "published": "2024-08-01",
+  "files": [
+   {
+    "name": "Pogodba VARIKON_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk4NTM3O1BvZ29kYmEgVkFSSUtPTl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

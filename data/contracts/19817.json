@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 19817,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638109,
+  "idDosje": 74781,
+  "title": "Pogodba za izdelavo dopolnitve projektne dokumentacije PGD in PZI hitre ceste Jagodje - Lucija in priključne ceste za Piran - objekti, zid",
+  "procurement": "Izdelava dopolnitve projektne dokumentacije PGD in PZI hitre ceste Jagodje - Lucija in priključne ceste za Piran-objekti, zidovi, KVS in SNVP",
+  "kind": 1,
+  "value": 317335.54,
+  "signed": "2015-07-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5625/2015/POG-19817",
+  "published": "2015-09-03",
+  "files": [
+   {
+    "name": "Podpisana pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODE3O1BvZHBpc2FuYSBwb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

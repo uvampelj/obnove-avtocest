@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 109592,
+  "type": "DOD",
+  "prev": 100698,
+  "idObrazec": 770702,
+  "idDosje": 242341,
+  "title": "Izdelava PZI za obnovo voziščne konstrukcije in objektov na HC H4/ 0378 in 0778 Selo - Vogrsko km 0,650-km 6,731 in H4/0379 in 0779 Vogrsko - Šempeter km 0,000 - km 4,470 in priključku 0444 Vogrsko",
+  "procurement": "Izdelava PZI za obnovo voziščne konstrukcije in objektov na HC H4/ 0378 in 0778 Selo - Vogrsko km 0,650-km 6,731 in H4/0379 in 0779 Vogrsko - Šempeter km 0,000 - km 4,470 in priključku 0444 Vogrsko",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-09-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000799/2018-C01/DOD-109592",
+  "published": "2018-09-22",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTU5MjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

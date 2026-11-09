@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 232786,
+  "type": "DOD",
+  "prev": 229838,
+  "idObrazec": 782782,
+  "idDosje": 455632,
+  "title": "Aneks št. 1 k pogodbi Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "procurement": "Izvedba zunanje kontrole kakovosti pri izgradnji hitre ceste od  priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni  osi, sever, sklop B - Škalsko jezero in sklop H - Konovo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-03-08",
+  "from": "2023-03-08",
+  "to": "2026-03-08",
+  "number": "000485/2023",
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005983/2022-C01/DOD-232786",
+  "published": "2023-03-09",
+  "files": [
+   {
+    "name": "Aneks_1_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMzkyMTtBbmVrc18xX1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

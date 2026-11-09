@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 33006,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 644195,
+  "idDosje": 72390,
+  "title": "Prevzem odpadne tunelske pralne vode",
+  "procurement": "5-ACB Hrušica,6-ACB Novo mesto,7-ACB Postojna,8-ACB Kozina,4-ACB Ljubljana,3-ACB Vransko",
+  "kind": 1,
+  "value": 149467.5,
+  "signed": "2015-11-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREN, d.o.o.",
+   "EKO-EFEKT d.o.o."
+  ],
+  "contractor_ids": [
+   "3698289000",
+   "6052762000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1153/2016/POG-33006",
+  "published": "2016-02-19",
+  "files": [
+   {
+    "name": "POGODBI.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMzMDA2O1BPR09EQkkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315668,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930774,
+  "idDosje": 518858,
+  "title": "Sklop 1 - Univerzalno delovno vozilo moči nad 230 Kw z opremo",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 9817340.0,
+  "signed": "2025-07-25",
+  "from": "2025-07-25",
+  "to": "2026-07-25",
+  "number": "000958/2025",
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001310/2025-POG/01",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "Pogodba Autocommerce 1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMjEyO1BvZ29kYmEgQXV0b2NvbW1lcmNlIDFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

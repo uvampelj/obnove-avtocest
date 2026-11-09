@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 323809,
+  "type": "DOD",
+  "prev": 274147,
+  "idObrazec": 954499,
+  "idDosje": 511500,
+  "title": "Aneks št. 1 k pogodbi DARS d. d., št. 853/2024: Izdelava dela projektne dokumentacije PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana – Obrežje pri Novem mestu do priključka Maline ",
+  "procurement": "Izdelava dela projektne dokumentacije PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-10-24",
+  "from": "2025-10-24",
+  "to": "2026-09-30",
+  "number": "000853/2024",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004516/2024-POG/01-D01",
+  "published": "2025-10-28",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA5MTk2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193605,
+  "type": "DOD",
+  "prev": 161167,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1201/20: Dobava in postavitev cestno-vremenskih postaj (CVP) na primorskem avtocestnem kraku - dodatna in manj dela ter podaljšanje izvedbenega roka",
+  "procurement": "Dobava in postavitev cestno-vremenskih postaj (CVP) na primorskem avtocestnem kraku",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2021-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VNET, komunikacijski sistemi d.o.o."
+  ],
+  "contractor_ids": [
+   "3714268000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-10-05",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MzYwNTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

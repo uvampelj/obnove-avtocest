@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307415,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 905825,
+  "idDosje": 518282,
+  "title": "DOBAVA PRIKLOPNIH VOZIL S SIGNALNO TABLO SPREMENLJIVE VSEBINE",
+  "procurement": "DOBAVA PRIKLOPNIH VOZIL S SIGNALNO TABLO SPREMENLJIVE VSEBINE",
+  "kind": 2,
+  "value": 1220829.6,
+  "signed": "2025-04-16",
+  "from": "2025-04-16",
+  "to": "2029-07-16",
+  "number": "000662/2025",
+  "contractors": [
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o."
+  ],
+  "contractor_ids": [
+   "5444063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000854/2025-POG/01",
+  "published": "2025-04-17",
+  "files": [
+   {
+    "name": "Pogodba Swarco Lea_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcwMTY5O1BvZ29kYmEgU3dhcmNvIExlYV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

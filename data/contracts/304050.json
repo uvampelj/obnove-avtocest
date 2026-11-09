@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 304050,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 897576,
+  "idDosje": 517594,
+  "title": "Izdelava dela PZI projektne dokumentacije zaobnovo viadukta Moste VA0321\n",
+  "procurement": "Izdelava dela PZI projektne dokumentacije za obnovo viadukta Moste VA0321",
+  "kind": 1,
+  "value": 402600.0,
+  "signed": "2025-02-26",
+  "from": "2025-02-26",
+  "to": "2026-02-26",
+  "number": "000316/2025",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1708597000",
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000300/2025-POG/01",
+  "published": "2025-03-19",
+  "files": [
+   {
+    "name": "Pogodba-JV PNZ+Pipenbaher inž+Ponting_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUzMTg0O1BvZ29kYmEtSlYgUE5aK1BpcGVuYmFoZXIgaW7FvitQb250aW5nX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

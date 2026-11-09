@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 81533,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663994,
+  "idDosje": 211136,
+  "title": "Premična črpalka za točenje goriva",
+  "procurement": "Premična črpalka za točenje goriva",
+  "kind": 1,
+  "value": 384983.2,
+  "signed": "2017-09-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TO-TI d.o.o. Trgovina in storitve"
+  ],
+  "contractor_ids": [
+   "5791596000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006198/2017-C01/POG-81533",
+  "published": "2017-09-26",
+  "files": [
+   {
+    "name": "pogodba 729-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgxNTMzO3BvZ29kYmEgNzI5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

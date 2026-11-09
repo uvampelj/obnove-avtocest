@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316707,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933888,
+  "idDosje": 518990,
+  "title": "Sklop 8 - Lahko tovorno vozilo, dovoljene skupne mase 3,5t in min. 125 kW – dolga kabina (LV 2)",
+  "procurement": "Dobava preglednih in vozil za nadzor del",
+  "kind": 2,
+  "value": 130247.2,
+  "signed": "2025-07-15",
+  "from": "2025-07-15",
+  "to": "2026-04-15",
+  "number": "000922/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001403/2025-POG/05",
+  "published": "2025-08-08",
+  "files": [
+   {
+    "name": "pogodba sklop 8_st 922-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyNzAzO3BvZ29kYmEgc2tsb3AgOF9zdCA5MjItMjAyNSBSRUQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

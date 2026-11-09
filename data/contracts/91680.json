@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91680,
+  "type": "DOD",
+  "prev": 16896,
+  "idObrazec": 767434,
+  "idDosje": 25740,
+  "title": " IZDELAVA IDEJNEGA PROJEKTA SANACIJE VIADUKTA DOLGI MOST ",
+  "procurement": "Izdelava idejnega projekta sanacije viadukta Dolgi most",
+  "kind": 1,
+  "value": 14108.08,
+  "signed": "2017-07-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRADIS, BP MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5075084000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV4007/2015/DOD-91680",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjgwO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

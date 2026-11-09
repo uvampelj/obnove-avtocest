@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 251733,
+  "type": "DOD",
+  "prev": 190193,
+  "idObrazec": 777391,
+  "idDosje": 392738,
+  "title": "Aneks številka 2 - Sklop 3",
+  "procurement": "Sol natrijev klorid NaCl, granulacija srednja (grade M  medium salt), vlažnost mokra (Wet salt), raztreseno stanje za solarne,Sol natrijev klorid NaCl, granulacija  srednja (grade M  medium salt), vlažnost pol suha (Semi Dry salt), sol za silose, raztreseno stanje za solarne,Sol natrijev klorid NaCl, granulacija ekstra fina (grade EF - Extra Fine salt), vlažnost suha (Dry salt), vakuumsko evaporirana sol za silose,Kalcijev klorid CaCl2 - raztopina, granulat",
+  "kind": 2,
+  "value": 219539.0,
+  "signed": "2023-11-13",
+  "from": "2023-11-13",
+  "to": "2024-10-31",
+  "number": "001133/2023",
+  "contractors": [
+   "SALINEN PROSOL proizvodnja, trgovina in zastopstva, d.o.o."
+  ],
+  "contractor_ids": [
+   "5687667000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001979/2021-C01/DOD-251733",
+  "published": "2023-11-13",
+  "files": [
+   {
+    "name": "Aneks št. 2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NTE1NztBbmVrcyDFoXQuIDJfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

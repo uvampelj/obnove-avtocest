@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91689,
+  "type": "DOD",
+  "prev": 17073,
+  "idObrazec": 767440,
+  "idDosje": 72141,
+  "title": "IZVEDBA ZUNANJE KONTROLE KAKOVOSTI PRI OBNAVLJANJU AVTOCEST",
+  "procurement": "IZVEDBA ZUNANJE KONTROLE KAKOVOSTI PRI OBNAVLJANJU AVTOCEST",
+  "kind": 1,
+  "value": 110320.94,
+  "signed": "2017-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGMAT, d.d."
+  ],
+  "contractor_ids": [
+   "5498503000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN4902/2015/DOD-91689",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjg5O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

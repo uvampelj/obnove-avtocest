@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 323832,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 954555,
+  "idDosje": 524392,
+  "title": "Nakup strežniške opreme",
+  "procurement": "Nakup strežniške opreme",
+  "kind": 2,
+  "value": 2769400.0,
+  "signed": "2025-10-24",
+  "from": "2025-10-24",
+  "to": "2029-10-24",
+  "number": "001210/2025",
+  "contractors": [
+   "SRC sistemske integracije d.o.o.",
+   "SMARTIS, informacijski sistemi d.o.o.",
+   "Kontron SI, sistemske integracije, d.o.o.",
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000",
+   "3637735000",
+   "9750681000",
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006000/2025-POG/01",
+  "published": "2025-10-29",
+  "files": [
+   {
+    "name": "R_Okvirni sporazumi 1210-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA5MjM4O1JfT2t2aXJuaSBzcG9yYXp1bWkgMTIxMC0yMDI1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

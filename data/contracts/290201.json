@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 290201,
+  "type": "DOD",
+  "prev": 172716,
+  "idObrazec": 862673,
+  "idDosje": 368762,
+  "title": "Aneks št. 3 k pogodbi DARS št. 46/2021: Izdelava strokovnih podlag, študije variant / predinvesticijske zasnove in okoljskega poročila za avtocesto na odseku Postojna-Jelšane ",
+  "procurement": "\tIzdelava strokovnih podlag, študije variant / predinvesticijske zasnove in okoljskega poročila za avtocesto na odseku Postojna - Jelšane",
+  "kind": 1,
+  "value": 317503.46,
+  "signed": "2024-10-17",
+  "from": "2024-10-17",
+  "to": "2025-12-31",
+  "number": "000046/2021",
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005996/2020-C01/POG-172716-D01",
+  "published": "2024-10-25",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI0OTg2O0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

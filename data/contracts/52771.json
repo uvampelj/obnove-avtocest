@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52771,
+  "type": "DOD",
+  "prev": 18458,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 za nominacijo dodatnega podizvajalca in spremembo vodje nadzora",
+  "procurement": "Izvedba predhodnih arheoloških raziskav na lokaciji Lancova vas (EŠD 27971 in EŠD 27972) na trasi AC Draženci – MMP Gruškovje",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-10-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PJP d.o.o."
+  ],
+  "contractor_ids": [
+   "5476089000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "840_2016_Aneks 1_arh_526_15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyNzcxOzg0MF8yMDE2X0FuZWtzIDFfYXJoXzUyNl8xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

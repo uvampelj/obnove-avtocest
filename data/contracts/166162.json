@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 166162,
+  "type": "DOD",
+  "prev": 120353,
+  "idObrazec": 771748,
+  "idDosje": 263360,
+  "title": "Aneks št.1 k pogodbi DARS št. 2020/2018:\"Postavitev in zamenjava jeklenih varnostnih ograj ob odstavnem pasu avtocest A1 in A3 ter hitrih cest H5 in H6, območje AC baz Postojna in Kozina\" - dodatna dela, več in manj dela,ter podaljšanja roka za dokončanje gradbenih del.",
+  "procurement": "POSTAVITEV IN ZAMENJAVA JEKLENIH VARNOSTNIH OGRAJ OB ODSTAVNEM PASU AVTOCEST A1 IN A3 TER HITRIH CEST H5 IN H6, OBMOČJE AC BAZ POSTOJNA IN KOZINA",
+  "kind": 3,
+  "value": 394633.16,
+  "signed": "2020-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o.",
+   "KVEDER, trgovina, proizvodnja in predelava lesenih in kovinskih izdelkov, d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000",
+   "2033984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004581/2018-C01/DOD-166162",
+  "published": "2020-11-18",
+  "files": [
+   {
+    "name": "aneks št.1 k pog-2020-18-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjE2MjthbmVrcyDFoXQuMSBrIHBvZy0yMDIwLTE4LU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

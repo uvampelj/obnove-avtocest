@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 170889,
+  "type": "DOD",
+  "prev": 144060,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 966/2019: Sanacija viaduktov Podmežakla 1L VA0310, Podmežakla 2L VA0312 na AC A2/0602 Hrušica – Lipce - podaljšanje roka za izvedbo gradbenih del in vključitev naknadno nominiranih podizvajalcev",
+  "procurement": "SANACIJA VIADUKTOV PODMEŽAKLA 1L VA0310, PODMEŽAKLA 2L VA0312 NA AC A2/0602 HRUŠICA-LIPCE",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-21",
+  "files": [
+   {
+    "name": "Aneks-1-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDg4OTtBbmVrcy0xLXphLW9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

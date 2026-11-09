@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 130,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630299,
+  "idDosje": 80174,
+  "title": "Vzdrževanje stabilnih gasilnih sistemov BONPET – elektro del.",
+  "procurement": "Vzdrževanje stabilnih gasilnih sistemov BONPET – elektro del.,Vzdrževanje stabilnih gasilnih sistemov BONPET – strojni del.,Sklop 3 - Vzdrževanje stabilnih gasilnih sistemov INERGEN.",
+  "kind": 1,
+  "value": 48184.51,
+  "signed": "2015-04-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZARJA ELEKTRONIKA, d.o.o., Kamnik"
+  ],
+  "contractor_ids": [
+   "5521475000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2722/2015/POG-130",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000326_150429_090239.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMDtEMTMxNTAwMDAzMjZfMTUwNDI5XzA5MDIzOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

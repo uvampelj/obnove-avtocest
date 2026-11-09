@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 203169,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731579,
+  "idDosje": 420703,
+  "title": "SERVISIRANJE BLAŽILCEV TRKA",
+  "procurement": "Blažilci trka VECO STOP,Blažilci trka TAU 80 in TAU 100,Blažilci trka QUAD OUARD,Blažilci trka TAU TUBE XLarge 110 in TAU TUBE Parallel 110,Naletne zaključnice OBEX P4",
+  "kind": 1,
+  "value": 2093246.11,
+  "signed": "2022-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO Industrija kovinske opreme, d.d. Liboje",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5206855000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007204/2021-C01/POG-203169",
+  "published": "2022-01-28",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzE2OTtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

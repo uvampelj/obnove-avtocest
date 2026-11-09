@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72785,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660276,
+  "idDosje": 196692,
+  "title": "Izvajanje varnostne interventne službe",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 132318.76,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIVAL - VTS, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5966639000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002704/2017-X01/POG-72785",
+  "published": "2017-06-15",
+  "files": [
+   {
+    "name": "Pogodba 485-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyNzg1O1BvZ29kYmEgNDg1LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

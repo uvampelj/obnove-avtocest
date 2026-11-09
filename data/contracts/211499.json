@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 211499,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 736593,
+  "idDosje": 434960,
+  "title": "SERVISIRANJE UPS NAPRAV PROIZVAJALCA SOCOMEC",
+  "procurement": "SERVISIRANJE UPS NAPRAV PROIZVAJALCA SOCOMEC",
+  "kind": 1,
+  "value": 619125.6,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SOCOMEC SICON podjetje za proizvodnjo in prodajo elektronskih in elektrotehničnih sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000767/2022-C01/POG-211499",
+  "published": "2022-05-24",
+  "files": [
+   {
+    "name": "Pogodba - Socomec_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMTQ5OTtQb2dvZGJhIC0gU29jb21lY19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

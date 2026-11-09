@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 148971,
+  "type": "DOD",
+  "prev": 94520,
+  "idObrazec": 770405,
+  "idDosje": 229933,
+  "title": "Aneks št. 2 k pog. DARS št. 189/2018: IZVEDBA PREDHODNIH ARHEOLOŠKIH RAZISKAV (ITP) 3.RAZVOJNA OS-SEVER: SKLOP 1: DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG - podaljšanje roka",
+  "procurement": "IZVEDBA PREDHODNIH ARHEOLOŠKIH RAZISKAV (EKSTENZIVNI IN INTENZIVNI ARHEOLOŠKI PREGLED) - 3. RAZVOJNA OS – SEVER: SKLOP 1: DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNI ZAVOD REPUBLIKE SLOVENIJE ZA VARSTVO KULTURNE DEDIŠČINE"
+  ],
+  "contractor_ids": [
+   "1423215000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009429/2017-X01/DOD-148971",
+  "published": "2020-03-20",
+  "files": [
+   {
+    "name": "aneks št 2 k pog. 189-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0ODk3MTthbmVrcyDFoXQgMiBrIHBvZy4gMTg5LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

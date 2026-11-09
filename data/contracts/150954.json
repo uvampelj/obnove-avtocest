@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 150954,
+  "type": "DOD",
+  "prev": 133951,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1344/2019",
+  "procurement": "Dobava osebne varovalne opreme; sklop 4: Zaščita glave in dihal",
+  "kind": 2,
+  "value": 18639.28,
+  "signed": "2020-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UTG VODNIK proizvodnja, trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "2372754000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-04-24",
+  "files": [
+   {
+    "name": "aneks 603-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MDk1NDthbmVrcyA2MDMtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

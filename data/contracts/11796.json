@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 11796,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634841,
+  "idDosje": 9742,
+  "title": "ZI IN IZVLEČEK PZI ZA REKONSTRUKCIJO OBJEKTA GRAPA TER SANACIJI OBJEKTOV ŠKEDENJ I IN ŠKEDENJ II NA AC A1, ODSEKU 0638 IN KILOMETRIH 3,500, 4,350 IN 4,450",
+  "procurement": "PZI IN IZVLEČEK PZI ZA REKONSTRUKCIJO OBJEKTA GRAPA TER SANACIJI OBJEKTOV ŠKEDENJ I IN ŠKEDENJ II NA AC A1, ODSEKU 0638 IN KILOMETRIH 3,500, 4,350 IN 4,450",
+  "kind": 1,
+  "value": 91097.4,
+  "signed": "2015-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o.",
+   "GRAVITAS d.o.o.",
+   "GRADIS, BP MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "1659189000",
+   "5075084000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV1380/2015/POG-11796",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "172-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzk2OzE3Mi0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

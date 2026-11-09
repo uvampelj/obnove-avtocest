@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271620,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 827685,
+  "idDosje": 509934,
+  "title": "Izdelava dela PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja",
+  "procurement": "Izdelava dela PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja",
+  "kind": 1,
+  "value": 512381.7,
+  "signed": "2024-06-13",
+  "from": "2024-06-13",
+  "to": "2025-06-13",
+  "number": "000717/2024",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003350/2024-POG/01",
+  "published": "2024-07-15",
+  "files": [
+   {
+    "name": "Pogodba-LINEAL_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk1MTI2O1BvZ29kYmEtTElORUFMX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

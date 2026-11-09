@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 201877,
+  "type": "DOD",
+  "prev": 151045,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "A1 št. 28/2022 k osnovni pogodbi DARS št. 626/2020 za izvedbo dodatnih del zaradi odstranitve objektov na območju izkopavanj pri izvajanju arheološkega izkopavanja in arheoloških raziskav ob gradnji na območju Srminske vpadnice",
+  "procurement": "Izvedba dodatnih del zaradi odstranitve objektov na območju izkopavanj pri izvajanju arheološkega izkopavanja in arheoloških raziskav ob gradnji na območju Srminske vpadnice",
+  "kind": 1,
+  "value": 21658.27,
+  "signed": "2022-01-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ARHEJ d.o.o., arheološke raziskave in druge intelektualne storitve, Sevnica",
+   "Skupina STIK, zavod za preučevanje povezovalnih področij preteklosti in sedanjosti",
+   "PJP založništvo, trgovina, najem, medicina, arheologija in druge storitve d.o.o.",
+   "AVGUSTA, raziskovalna in storitvena dejavnost, d.o.o."
+  ],
+  "contractor_ids": [
+   "1253239000",
+   "6249027000",
+   "5476089000",
+   "2298716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-01-13",
+  "files": [
+   {
+    "name": "A1_DARS_28_2022_k pog_626_2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMTg3NztBMV9EQVJTXzI4XzIwMjJfayBwb2dfNjI2XzIwMjAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167023,
+  "type": "DOD",
+  "prev": 92433,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 20/2018: Izdelava študije preveritve možnosti izvedbe rekonstrukcije obstoječe cestne povezave Postojna-Jelšane - podaljšanje pogodbenega roka",
+  "procurement": "IZDELAVA ŠTUDIJE PREVERITVE MOŽNOSTI IZVEDBE REKONSTRUKCIJE OBSTOJEČE CESTNE POVEZAVE POSTOJNA-JELŠANE",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-18",
+  "files": [
+   {
+    "name": "Aneks št.2 -43-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAyMztBbmVrcyDFoXQuMiAtNDMtMjAtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 75971,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 661412,
+  "idDosje": 197257,
+  "title": "Opravljanje tehničnih pregledov",
+  "procurement": "ACB Postojna,ACB Hrušica,ACB Kozina,ACB Maribor,ACB Novo mesto",
+  "kind": 1,
+  "value": 545125.76,
+  "signed": "2017-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO KRKA PO, trgovina, servis, zastopstvo, d.o.o.",
+   "INTEGRAL AVTO prodaja vozil in servisi d.o.o. Jesenice - skupina Alpetour Potovalna agencija",
+   "AVTO KRKA SE, trgovina, servis, zastopstvo, d.o.o.",
+   "AVTO KRKA MB, trgovina, servis, zastopstvo, d.o.o.",
+   "AVTO KRKA NM, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3530728000",
+   "2159708000",
+   "6616615000",
+   "3530833000",
+   "3510310000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002940/2017-C01/POG-75971",
+  "published": "2017-07-21",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc1OTcxO3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

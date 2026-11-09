@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 144058,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 697032,
+  "idDosje": 288496,
+  "title": "Zajem dodatnih podatkov in izdelavo dodatnih geodetskih podlag za pripravo državnega prostorskega načrta za državno cestno Slovenj Gradec-jug – Dravograd, III. razvojna os",
+  "procurement": "Zajem dodatnih podatkov in izdelavo dodatnih geodetskih podlag za pripravo državnega prostorskega načrta za državno cestno Slovenj Gradec-jug – Dravograd, III. razvojna os",
+  "kind": 1,
+  "value": 118238.5,
+  "signed": "2019-07-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008786/2018-C01/POG-144058",
+  "published": "2020-01-18",
+  "files": [
+   {
+    "name": "Pogodba-IBE.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDA1ODtQb2dvZGJhLUlCRS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

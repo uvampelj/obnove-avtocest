@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 76816,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 661931,
+  "idDosje": 196777,
+  "title": "Zagotavljanje delavcev za opravljanje dela",
+  "procurement": "Zagotavljanje delavcev za opravljanje dela",
+  "kind": 1,
+  "value": 1159000.0,
+  "signed": "2017-07-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HSG KARIERA nacionalni kadrovski operater d.o.o."
+  ],
+  "contractor_ids": [
+   "2111357000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002870/2017-C01/POG-76816",
+  "published": "2017-08-02",
+  "files": [
+   {
+    "name": "pogodba 600-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc2ODE2O3BvZ29kYmEgNjAwLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

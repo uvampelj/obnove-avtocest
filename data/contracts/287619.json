@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287619,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 855140,
+  "idDosje": 510167,
+  "title": "Letni pregled in dobava bremenske in dvižne tehnike",
+  "procurement": "Letni pregled in dobava bremenske in dvižne tehnike",
+  "kind": 1,
+  "value": 169214.0,
+  "signed": "2024-09-16",
+  "from": "2024-09-16",
+  "to": "2027-12-16",
+  "number": "000954/2024",
+  "contractors": [
+   "VODUŠEK, proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1722697000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003458/2024-POG/01",
+  "published": "2024-09-26",
+  "files": [
+   {
+    "name": "pogodba st 954-2024_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE4OTYwO3BvZ29kYmEgc3QgOTU0LTIwMjRfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

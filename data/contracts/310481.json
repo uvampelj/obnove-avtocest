@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 310481,
+  "type": "DOD",
+  "prev": 162268,
+  "idObrazec": 914822,
+  "idDosje": 349926,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1401/2020 za Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS; dodatne storitve; podaljšanje pogodbenih rokov",
+  "procurement": "Svetovalne in inženirske storitve za izgradnjo nove poslovne stavbe DARS",
+  "kind": 1,
+  "value": 138600.0,
+  "signed": "2025-05-14",
+  "from": "2020-09-24",
+  "to": "2034-10-29",
+  "number": "001401/2020",
+  "contractors": [
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "PROCTOR gradbeništvo, inženiring, trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1782355000",
+   "1527703000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002395/2020-C01/POG-162268-D01",
+  "published": "2025-05-26",
+  "files": [
+   {
+    "name": "podpisan a1 k pog 1401-2020-redigiran za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NDY2O3BvZHBpc2FuIGExIGsgcG9nIDE0MDEtMjAyMC1yZWRpZ2lyYW4gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

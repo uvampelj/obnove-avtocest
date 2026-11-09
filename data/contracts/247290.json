@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 247290,
+  "type": "DOD",
+  "prev": 160032,
+  "idObrazec": 774576,
+  "idDosje": 334196,
+  "title": "Aneks št. 1 k pogodbi DARS št. 602/2020 Investicijska vzdrževalna dela na voziščih avtocest in hitrih cest na avtocestni mreži Republike Slovenije v letih 2020 in 2021; Sklop 1: Območje ACB: Ljubljana, Postojna, Novo mesto, Kozina in Hrušica",
+  "procurement": "Območje ACB: Ljubljana, Postojna, Novo mesto, Kozina in Hrušica",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-08-16",
+  "from": "2023-08-16",
+  "to": "2023-10-16",
+  "number": "897/2023",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000",
+   "5069149000",
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008456/2019-C01/DOD-247290",
+  "published": "2023-09-14",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MDM1MjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 310493,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 914875,
+  "idDosje": 518373,
+  "title": "Dobava olj, maziv in tekočin",
+  "procurement": "Dobava olj, maziv in tekočin",
+  "kind": 2,
+  "value": 203256.64,
+  "signed": "2025-05-21",
+  "from": "2025-05-21",
+  "to": "2028-08-21",
+  "number": "000755/2025",
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000",
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000894/2025-POG/01",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "Podpisana pogodba 755-2025 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NTA3O1BvZHBpc2FuYSBwb2dvZGJhIDc1NS0yMDI1IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

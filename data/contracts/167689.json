@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167689,
+  "type": "DOD",
+  "prev": 154538,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1552/2020",
+  "procurement": "Servisiranje in popravila tovornih vozil",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-07",
+  "files": [
+   {
+    "name": "Aneks št.1.-000239-2020-podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzY4OTtBbmVrcyDFoXQuMS4tMDAwMjM5LTIwMjAtcG9kcGlzYW4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

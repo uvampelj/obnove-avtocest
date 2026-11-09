@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320210,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 943750,
+  "idDosje": 522176,
+  "title": "Izdelava elaborata preveritve možnosti vzpostavitve parkirišča za vozila pod premostitvenimi objekti, vključno z izdelavo načrta požarne varnosti",
+  "procurement": "Izdelava elaborata preveritve možnosti vzpostavitve parkirišča za vozila pod premostitvenimi objekti, vključno z izdelavo načrta požarne varnosti",
+  "kind": 1,
+  "value": 81683.88,
+  "signed": "2025-09-01",
+  "from": "2025-09-01",
+  "to": "2026-03-01",
+  "number": "001052/2025",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004052/2025-POG/01",
+  "published": "2025-09-18",
+  "files": [
+   {
+    "name": "Pogodba BPI_113-25_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAwNTc4O1BvZ29kYmEgQlBJXzExMy0yNV9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

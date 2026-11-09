@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 240863,
+  "type": "DOD",
+  "prev": 163450,
+  "idObrazec": 774776,
+  "idDosje": 353320,
+  "title": "Aneks št. 1  k pogodbi DARS št. 1428/2020 za izdelavo cenitev kmetijskih zemljišč; več dela",
+  "procurement": "Izdelava cenitev kmetijskih zemljišč",
+  "kind": 1,
+  "value": 23600.0,
+  "signed": "2023-06-12",
+  "from": "2023-06-12",
+  "to": "2024-10-02",
+  "number": null,
+  "contractors": [
+   "ALEŠ EBER - SAMOZAPOSLENI V KULTURI, ARHITEKT"
+  ],
+  "contractor_ids": [
+   "1362712000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002823/2020-C01/DOD-240863",
+  "published": "2023-06-14",
+  "files": [
+   {
+    "name": "aneks 1 za objavo na portalu JN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MzMwMTthbmVrcyAxIHphIG9iamF2byBuYSBwb3J0YWx1IEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

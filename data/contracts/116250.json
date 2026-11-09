@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 116250,
+  "type": "DOD",
+  "prev": 89597,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 za določitev enotnih cen za dodatna dela, izvedbo dodatnih in manj del ter spremembe višine del nominiranega podizvajalca",
+  "procurement": "Aneks št. 2  k pog. DARS št. 26/2018 za določitev enotnih cen za dodatna dela, izvedbo dodatnih in manj del ter spremembe višine del nominiranega podizvajalca",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-12-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "IPI, izvajalski in projektantski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5111498000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-12-13",
+  "files": [
+   {
+    "name": "A2_2108_2018_k_pog_26_2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjI1MDtBMl8yMTA4XzIwMThfa19wb2dfMjZfMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

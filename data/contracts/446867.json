@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 446867,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1126815,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 7 - ACB Vransko",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 66227.82,
+  "signed": "2026-06-02",
+  "from": "2026-07-07",
+  "to": "2029-07-07",
+  "number": "000689/2026",
+  "contractors": [
+   "A-MB, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5044880000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/01",
+  "published": "2026-07-02",
+  "files": [
+   {
+    "name": "sklop 7 pogodba st 000689-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5MjU0O3NrbG9wIDcgcG9nb2RiYSBzdCAwMDA2ODktMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

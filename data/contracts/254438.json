@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 254438,
+  "type": "DOD",
+  "prev": 151813,
+  "idObrazec": 773730,
+  "idDosje": 338696,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1041/2020 za Sanacija vozišč po izrednih dogodkih, sklop 1; razlika v cenah in podaljšanje pogodbenega roka",
+  "procurement": "Dela na območju AC baz Postojna, Kozina, Ljubljana, Hrušica in Novo mesto,Dela na območju AC baz Slovenske Konjice, Vransko, Maribor in Murska Sobota",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-12-14",
+  "from": "2023-05-08",
+  "to": "2023-12-31",
+  "number": null,
+  "contractors": [
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "3512592000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000240/2020-X01/DOD-254438",
+  "published": "2023-12-19",
+  "files": [
+   {
+    "name": "Aneks-st1-k-pogodbi-1041-2020_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODA5MTtBbmVrcy1zdDEtay1wb2dvZGJpLTEwNDEtMjAyMF9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

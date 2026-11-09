@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248772,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 761239,
+  "idDosje": 477341,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A2 za odseke 0009 Brnik - Vodice, 0010 Vodice - LJ (Šmartno), 0011 LJ (Šmartno - Brod) in 0012 LJ (Brod - Šentvid)",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A2 za odseke 0009 Brnik - Vodice, 0010 Vodice - LJ (Šmartno), 0011 LJ (Šmartno - Brod) in 0012 LJ (Brod - Šentvid)",
+  "kind": 1,
+  "value": 25742.0,
+  "signed": "2023-09-08",
+  "from": "2023-09-27",
+  "to": "2024-09-27",
+  "number": "000963/2023",
+  "contractors": [
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1300342000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002263/2023-X01/POG-248772",
+  "published": "2023-10-04",
+  "files": [
+   {
+    "name": "Pogodba-Epi-spektrum_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTk5NTtQb2dvZGJhLUVwaS1zcGVrdHJ1bV9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

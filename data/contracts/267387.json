@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 267387,
+  "type": "DOD",
+  "prev": 214845,
+  "idObrazec": 813870,
+  "idDosje": 423636,
+  "title": "Aneks št. 1 k pogodbi DARS št. 960/2022: Izvedba sistema za prepoznavanje nevarnih tovorov (ADR)",
+  "procurement": "Izvedba sistema za prepoznavanje nevarnih tovorov (ADR)",
+  "kind": 3,
+  "value": 24467.75,
+  "signed": "2024-05-09",
+  "from": "2024-05-09",
+  "to": "2024-06-15",
+  "number": "599/2024",
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o.",
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007497/2021-C01/POG-214845-D01",
+  "published": "2024-05-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg0MDkzO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

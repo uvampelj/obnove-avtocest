@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 99019,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673147,
+  "idDosje": 238276,
+  "title": "Letni pregled in servisiranje plinskih in oljnih grelnih naprav",
+  "procurement": "Sklop 1 - Plinske grelne naprave,Sklop 2 - Oljne grelne naprave",
+  "kind": 1,
+  "value": 328796.1,
+  "signed": "2018-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISTRABENZ PLINI, plini in plinske tehnologije, d.o.o.",
+   "KOVINTRADE Mednarodna trgovina d.d. Celje"
+  ],
+  "contractor_ids": [
+   "5419263000",
+   "5025524000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000262/2018-C01/POG-99019",
+  "published": "2018-05-14",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk5MDE5O1BvZ29kYmkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

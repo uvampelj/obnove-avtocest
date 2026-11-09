@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 330515,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 972989,
+  "idDosje": 526695,
+  "title": "Dobava in montaža avtomatskih števcev prometa s klasifikacijo vozil na AC in HC v Republiki Sloveniji",
+  "procurement": "Dobava in montaža avtomatskih števcev prometa s klasifikacijo vozil na AC in HC v Republiki Sloveniji",
+  "kind": 2,
+  "value": 1339291.6,
+  "signed": "2026-01-12",
+  "from": "2026-01-12",
+  "to": "2031-05-12",
+  "number": "000034/2026",
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008035/2025-POG/01",
+  "published": "2026-01-16",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 34-2026, MIKROBIT_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIzODYyO1BvZ29kYmEgREFSUyDFoXQuIDM0LTIwMjYsIE1JS1JPQklUX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

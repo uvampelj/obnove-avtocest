@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63391,
+  "type": "DOD",
+  "prev": 63390,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi 108/2013",
+  "procurement": "AC DRAŽENCI – MEDNARODNI MEJNI PREHOD GRUŠKOVJE; Opravljanje storitev odkupov nepremičnin (zemljišča + objekti)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZPKSU d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5226996000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-02-27",
+  "files": [
+   {
+    "name": "aneks 2 k pog 108-2013.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMzkxO2FuZWtzIDIgayBwb2cgMTA4LTIwMTMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

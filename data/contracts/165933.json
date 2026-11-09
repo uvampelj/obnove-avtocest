@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165933,
+  "type": "DOD",
+  "prev": 115366,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 2019/2018 za svetovalne storitve pri pripravi tehničnih zahtev integracije in centralizacije ITS sistemov v nadzornih centrih; podaljšanje pogodbenega roka",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 2019/2018 za svetovalne storitve pri pripravi tehničnih zahtev integracije in centralizacije ITS sistemov v nadzornih centrih; podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-11-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA ELEKTROTEHNIKO",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA RAČUNALNIŠTVO IN INFORMATIKO"
+  ],
+  "contractor_ids": [
+   "1626965000",
+   "1627023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-16",
+  "files": [
+   {
+    "name": "podpisan aneks 1 k pog 2019-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTkzMztwb2RwaXNhbiBhbmVrcyAxIGsgcG9nIDIwMTktMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

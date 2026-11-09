@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48895,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650933,
+  "idDosje": 164027,
+  "title": "Vzdrževanje strojne, komunikacijske in programske opreme sistema GPS",
+  "procurement": "Vzdrževanje strojne, komunikacijske in programske opreme sistema GPS",
+  "kind": 1,
+  "value": 174996.8,
+  "signed": "2016-09-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CIFRA, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5477875000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004160/2016-X01/POG-48895",
+  "published": "2016-09-27",
+  "files": [
+   {
+    "name": "Pogodba 781-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4ODk1O1BvZ29kYmEgNzgxLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

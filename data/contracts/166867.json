@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 166867,
+  "type": "DOD",
+  "prev": 166855,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 2 k pog. DARS št.463/12: ŠTUDIJA VARIANT/PREDINVESTICIJSKA ZASNOVA S PREDLOGOM NAJUSTREZNEJŠE VARIANTNE REŠITVE TRASE AVTOCESTE POSTOJNA/ DIVAČA - JELŠANE-dodatna dela, ter sprememba vmesnega roka za izdelavo dodatnih del ",
+  "procurement": "ŠTUDIJA VARIANT s predlogom najustreznejše variantne rešitve trase avtoceste POSTOJNA / DIVAČA – JELŠANE",
+  "kind": 1,
+  "value": 13990.35,
+  "signed": "2019-04-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "OMEGA CONSULT projektni management, d.o.o., Ljubljana",
+   "PROJEKTIVNI ATELJE - NIZKE GRADNJE d.o.o., projektiranje, inženiring in storitve"
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5300568000",
+   "5622646000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-26",
+  "files": [
+   {
+    "name": "Aneks-2-je OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2Njg2NztBbmVrcy0yLWplIE9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

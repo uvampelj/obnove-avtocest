@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 241926,
+  "type": "DOD",
+  "prev": 175980,
+  "idObrazec": 775653,
+  "idDosje": 370068,
+  "title": "Aneks št. 4 k pog. DARS št. 210/2021: Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije in objektov na delih odsekov hitre ceste: Sklop 1 - H4/0374 in 0774 Razdrto-Vipava, 0375 in 0775 Vipava-Ajdovščina in na 0451 priključku Vipava",
+  "procurement": "Izdelava PZI za obnovo voziščne konstrukcije in objektov na delih odsekov HC H4/0374 in 0774 Razdrto-Vipava, 0375 in 0775 Vipava-Ajdovščina in na 0451 priključku Vipava",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-05-31",
+  "from": "2023-05-31",
+  "to": "2023-08-10",
+  "number": "734/2023",
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006251/2020-C01/DOD-241926",
+  "published": "2023-06-29",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NDQ2ODtBbmVrcy00LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

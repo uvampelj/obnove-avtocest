@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 207678,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 734520,
+  "idDosje": 417000,
+  "title": "Izdelava projektne dokumentacije IZP, DGD in PZI za razširitev avtocestne baze Novo mesto",
+  "procurement": "Izdelava projektne dokumentacije IZP, DGD in PZI za razširitev avtocestne baze Novo mesto",
+  "kind": 1,
+  "value": 111363.19,
+  "signed": "2022-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAVAPROJEKT družba za razvoj, projektiranje, konzalting, inženiring d.d. Krško"
+  ],
+  "contractor_ids": [
+   "5249686000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006541/2021-X01/POG-207678",
+  "published": "2022-03-25",
+  "files": [
+   {
+    "name": "Pogodba-Savaprojekt_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzY3ODtQb2dvZGJhLVNhdmFwcm9qZWt0X29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

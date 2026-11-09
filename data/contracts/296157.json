@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 296157,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 878798,
+  "idDosje": 512932,
+  "title": "Izdelava idejnih rešitev in PZI za aktivno protihrupno zaščito za severno ljubljansko obvoznico na odsekih HC H3 0086, 0088, 0089, 0090 (LJ Šmartinska–Koseze)",
+  "procurement": "Izdelava idejnih rešitev in PZI za aktivno protihrupno zaščito za severno ljubljansko obvoznico na odsekih HC H3 0086, 0088, 0089, 0090 (LJ Šmartinska–Koseze)",
+  "kind": 1,
+  "value": 798342.38,
+  "signed": "2024-12-06",
+  "from": "2024-12-06",
+  "to": "2026-12-06",
+  "number": "001216/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005718/2024-POG/01",
+  "published": "2025-01-06",
+  "files": [
+   {
+    "name": "Pogodba PNZ_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM3ODY1O1BvZ29kYmEgUE5aX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

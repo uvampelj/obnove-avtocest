@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 35175,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645364,
+  "idDosje": 72253,
+  "title": "Aneks št. 2 k pog. DARS št. 850/09: IZDELAVA IDEJNIH PROJEKTOV ZA PRIPRAVO DPN ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA SKLOP 1 OD RAZCEPA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG-dodatna dela",
+  "procurement": "Aneks št. 2 k pog. DARS št. 850/09: IZDELAVA IDEJNIH PROJEKTOV ZA PRIPRAVO DPN ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA SKLOP 1 OD RAZCEPA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG-dodatna dela",
+  "kind": 1,
+  "value": 45140.0,
+  "signed": "2016-03-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN1771/2016/POG-35175",
+  "published": "2016-03-15",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM1MTc1O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

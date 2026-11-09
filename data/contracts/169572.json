@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169572,
+  "type": "DOD",
+  "prev": 109530,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št.: 1799/2018: G 1- 2 Hajdina – Ormož, odsek Gorišnica - Ormož; dokončanje gradnje premostitvenega objekta viadukta Sejanca – manj dela",
+  "procurement": "G 1- 2 HAJDINA – ORMOŽ, ODSEK GORIŠNICA - ORMOŽ; DOKONČANJE GRADNJE PREMOSTITVENEGA OBJEKTA VIADUKTA SEJANCA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-10-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTU3MjtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

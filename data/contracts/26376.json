@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26376,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641084,
+  "idDosje": 80664,
+  "title": "Najem opreme za izvajanje zimske službe",
+  "procurement": "ACB Ljubljana – Izpostava Dob",
+  "kind": 1,
+  "value": 9821.0,
+  "signed": "2015-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OPRAVLJANJE STORITEV Z GRADBENO MEHANIZACIJO IN AVTOPREVOZNIŠTVO AVGUŠTIN SADAR S.P."
+  ],
+  "contractor_ids": [
+   "5397420000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8489/2015/POG-26376",
+  "published": "2015-12-02",
+  "files": [
+   {
+    "name": "1006-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2Mzc2OzEwMDYtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 300606,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 889141,
+  "idDosje": 514247,
+  "title": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent, sklop 2",
+  "procurement": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent",
+  "kind": 1,
+  "value": 44164.0,
+  "signed": "2025-01-09",
+  "from": "2025-01-09",
+  "to": "2028-04-09",
+  "number": "000056/2025",
+  "contractors": [
+   "HIDROCEV, proizvodnja, trgovina, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3431576000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006781/2024-POG/02",
+  "published": "2025-02-14",
+  "files": [
+   {
+    "name": "pogodba sklop 2_podpisana pog st 56-2025 RedUL HIDROCEV.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ2MDUxO3BvZ29kYmEgc2tsb3AgMl9wb2RwaXNhbmEgcG9nIHN0IDU2LTIwMjUgUmVkVUwgSElEUk9DRVYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

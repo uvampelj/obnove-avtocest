@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 79289,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663295,
+  "idDosje": 212140,
+  "title": "Izdelava sferičnega posnetka in oblaka laserskih točk obnovljenih odsekov v obdobju 2017-2019",
+  "procurement": "Izdelava sferičnega posnetka in oblaka laserskih točk obnovljenih odsekov v obdobju 2017-2019",
+  "kind": 1,
+  "value": 121878.0,
+  "signed": "2017-09-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MENSURAS geodetski inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6136893000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006382/2017-X01/POG-79289",
+  "published": "2017-09-11",
+  "files": [
+   {
+    "name": "pogodba 695-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc5Mjg5O3BvZ29kYmEgNjk1LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

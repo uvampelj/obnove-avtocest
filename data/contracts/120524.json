@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120524,
+  "type": "DOD",
+  "prev": 92433,
+  "idObrazec": 770300,
+  "idDosje": 221651,
+  "title": "IZDELAVA ŠTUDIJE PREVERITVE MOŽNOSTI IZVEDBE REKONSTRUKCIJE OBSTOJEČE CESTNE POVEZAVE POSTOJNA-JELŠANE",
+  "procurement": "IZDELAVA ŠTUDIJE PREVERITVE MOŽNOSTI IZVEDBE REKONSTRUKCIJE OBSTOJEČE CESTNE POVEZAVE POSTOJNA-JELŠANE",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008171/2017-X01/DOD-120524",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "Aneks-1-303-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUyNDtBbmVrcy0xLTMwMy0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

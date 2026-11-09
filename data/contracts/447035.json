@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447035,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127306,
+  "idDosje": 550488,
+  "title": "Tehnični pregledi in pripadajoče storitve, sklop 4 - ACB Hrušica",
+  "procurement": "Tehnični pregledi in pripadajoče storitve",
+  "kind": 1,
+  "value": 74303.46,
+  "signed": "2026-06-09",
+  "from": "2026-06-09",
+  "to": "2029-07-07",
+  "number": "000705/2026",
+  "contractors": [
+   "INTEGRAL AVTO prodaja, servisi in tehnični pregledi vozil d.o.o. Jesenice"
+  ],
+  "contractor_ids": [
+   "2159708000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001244/2026-POG/05",
+  "published": "2026-07-03",
+  "files": [
+   {
+    "name": "sklop 4 pogodba 000705-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5NjUyO3NrbG9wIDQgcG9nb2RiYSAwMDA3MDUtMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 184578,
+  "type": "DOD",
+  "prev": 154852,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi DARS št. 1112/2020",
+  "procurement": "Vzpostavitev, razvoj in vzdrževanje kadrovskega informacijskega sistema",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-06-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Agitavit Solutions, informacijske rešitve in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "1797174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-07-01",
+  "files": [
+   {
+    "name": "Aneks št. 1 DARS št. 914-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDU3ODtBbmVrcyDFoXQuIDEgREFSUyDFoXQuIDkxNC0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

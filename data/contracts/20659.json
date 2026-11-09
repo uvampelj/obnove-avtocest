@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 20659,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638558,
+  "idDosje": 12499,
+  "title": "DOKONČNA ODMERA OBVOZNICE MENGEŠ",
+  "procurement": "DOKONČNA ODMERA OBVOZNICE MENGEŠ",
+  "kind": 1,
+  "value": 4920.26,
+  "signed": "2015-09-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEONARIS d.o.o."
+  ],
+  "contractor_ids": [
+   "3893162000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV5215/2015/POG-20659",
+  "published": "2015-09-14",
+  "files": [
+   {
+    "name": "Pogodba sklop 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNjU5O1BvZ29kYmEgc2tsb3AgMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 342113,
+  "type": "DOD",
+  "prev": 228167,
+  "idObrazec": 986436,
+  "idDosje": 425118,
+  "title": "Aneks št. 2 k pogodbi DARS d. d., št. 1446/2022 za izvedbo revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte in predore na 3. in 4. etapi nove prometne povezave med avtocesto A2 Ljubljana Obrežje do priključka Maline ",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte in predore na 3. in 4. etapi nove prometne povezave med avtocesto A2 Ljubljana - Obrežje do priključka Maline",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-12-31",
+  "from": "2025-12-31",
+  "to": "2026-12-31",
+  "number": "001446/2022",
+  "contractors": [
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o.",
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "2170388000",
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007894/2021-C01/POG-228167-D02",
+  "published": "2026-01-29",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NjkyO0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

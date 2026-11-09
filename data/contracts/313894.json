@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 313894,
+  "type": "DOD",
+  "prev": 216345,
+  "idObrazec": 925512,
+  "idDosje": 434795,
+  "title": "Aneks št. 1 k pogodbi DARS št. 961/2022: izdelava IDZ in PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja ",
+  "procurement": "Izdelava IDZ in PZI projektne dokumentacije za rekonstrukcijo lokalne ceste po dolini potoka Velunja ",
+  "kind": 1,
+  "value": 30594.83,
+  "signed": "2025-06-09",
+  "from": "2025-06-09",
+  "to": "2025-10-31",
+  "number": "000961/2022",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000749/2022-C01/POG-216345-D01",
+  "published": "2025-07-07",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg1OTgxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

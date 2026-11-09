@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 168115,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712277,
+  "idDosje": 364239,
+  "title": " Pregledi ter popravilo aparatov za točenje goriva, dodatka ADBLUE ter sistema za spremljanje točenja goriva",
+  "procurement": "Pregledi in servisiranje točilnih aparatov za točenje goriva ter dodatka ADBLUE,Servisiranje sistema za prenos podatkov o točenju v sistem Navision",
+  "kind": 1,
+  "value": 317073.36,
+  "signed": "2020-12-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GIA SERVIS montaža in vzdrževanje industrijske opreme, d.o.o.",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5469040000",
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005106/2020-C01/POG-168115",
+  "published": "2020-12-11",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODExNTtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

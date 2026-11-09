@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254855,
+  "type": "DOD",
+  "prev": 228753,
+  "idObrazec": 782609,
+  "idDosje": 451973,
+  "title": "Aneks 1 k pog. DARS d. d. št. 1510/2022: Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja Zamenjava NN opreme, sistema NKS in sistema SCADA NKS predorov Cenkova in Vodole ter pokritih vkopov Močna in Malečnik",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za zamenjavo NN opreme, sistema NKS in sistema SCADA NKS predorov Cenkova in Vodole ter pokritih vkopov Močna in Malečnik",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-12-07",
+  "from": "2023-12-07",
+  "to": "2024-06-07",
+  "number": "1447/2023",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005126/2022-C01/DOD-254855",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODUyODtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

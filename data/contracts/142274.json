@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142274,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695885,
+  "idDosje": 312535,
+  "title": "Izdelava projektne dokumentacije IZP, DGD in PZI za ureditev prostorov Centra za operativno upravljanje cestnega prometa Ljubljana  ",
+  "procurement": "Izdelava projektne dokumentacije IZP, DGD in PZI za ureditev prostorov Centra za operativno upravljanje cestnega prometa Ljubljana  ",
+  "kind": 1,
+  "value": 115717.0,
+  "signed": "2019-12-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ING.KLAN podjetje za inženiring, proizvodnjo, trgovino in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5981395000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004058/2019-X01/POG-142274",
+  "published": "2019-12-17",
+  "files": [
+   {
+    "name": "Pogodba ING.KLAN-objava .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjI3NDtQb2dvZGJhIElORy5LTEFOLW9iamF2YSAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 127604,
+  "type": "DOD",
+  "prev": 106600,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1782/2018",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 1782/2018",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-05-31",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BO - MAC, servis, storitve, trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "8371075000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-06-03",
+  "files": [
+   {
+    "name": "Sprememba pogodbe 762-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzYwNDtTcHJlbWVtYmEgcG9nb2RiZSA3NjItMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

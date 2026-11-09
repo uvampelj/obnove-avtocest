@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 83101,
+  "type": "DOD",
+  "prev": 49050,
+  "idObrazec": 768390,
+  "idDosje": 45154,
+  "title": "Aneks št. 1 k pogodbi 721/2016; opravljanje nalog koordinatorja za varnost in zdravje pri delu",
+  "procurement": "Sklop C: opravljanje nalog koordinatorja za varnost in zdravje pri delu",
+  "kind": 1,
+  "value": 3150.0,
+  "signed": "2017-10-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BALEKS d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5476232000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005498/2016-C01/DOD-83101",
+  "published": "2017-10-16",
+  "files": [
+   {
+    "name": "ANEKS 1 K POG 721-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgzMTAxO0FORUtTIDEgSyBQT0cgNzIxLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

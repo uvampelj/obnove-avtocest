@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 244093,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757658,
+  "idDosje": 476031,
+  "title": "Prevzem različnih odpadnih materialov, SKLOP 1 - Odpadni les",
+  "procurement": "Prevzem različnih odpadnih materialov",
+  "kind": 1,
+  "value": 109500.0,
+  "signed": "2023-07-20",
+  "from": "2023-07-20",
+  "to": "2027-10-20",
+  "number": "000856/2023",
+  "contractors": [
+   "KOMTEKS, zbiranje in odkup sekundarnih surovin, d.o.o."
+  ],
+  "contractor_ids": [
+   "3451747000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002036/2023-C01/POG-244093",
+  "published": "2023-07-31",
+  "files": [
+   {
+    "name": "Pogodba_sklop1-Komteks_47-2023_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjgyMDtQb2dvZGJhX3NrbG9wMS1Lb210ZWtzXzQ3LTIwMjNfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

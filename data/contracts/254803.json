@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254803,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765515,
+  "idDosje": 492157,
+  "title": "Sklop 5 - Mulčarji Tehnos",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 65880.0,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2025-12-20",
+  "number": "001498/2023",
+  "contractors": [
+   "TEHNOS proizvodnja strojev in naprav d.o.o."
+  ],
+  "contractor_ids": [
+   "5302935000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005994/2023-C01/POG-254803",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Pogodba - TEHNOS_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQ3MjtQb2dvZGJhIC0gVEVITk9TX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

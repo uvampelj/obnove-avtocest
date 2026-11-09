@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 86583,
+  "type": "DOD",
+  "prev": 18593,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks  št. 1 k pogodbi DARS št. 656/2015 »Dobava vertikalne prometne signalizacije«",
+  "procurement": "Dobava vertikalne prometne signalizacije",
+  "kind": 2,
+  "value": 215641.89,
+  "signed": "2017-11-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MEBLO SIGNALIZACIJA, prometna signalizacija d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "6137903000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-12-11",
+  "files": [
+   {
+    "name": "Aneks DARS št. 965-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg2NTgzO0FuZWtzIERBUlMgxaF0LiA5NjUtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

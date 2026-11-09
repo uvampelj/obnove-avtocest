@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 215923,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 738581,
+  "idDosje": 439537,
+  "title": "Vzpostavitev in vzdrževanje informacijskega sistema za planiranje s podporo drsečega napovedovanja",
+  "procurement": "Vzpostavitev in vzdrževanje informacijskega sistema za planiranje s podporo drsečega napovedovanja",
+  "kind": 1,
+  "value": 204130.4,
+  "signed": "2022-06-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADD trgovina, inženiring, vzdrževanje d.o.o., Tbilisijska 85, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5673500000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001781/2022-X01/POG-215923",
+  "published": "2022-07-08",
+  "files": [
+   {
+    "name": "Pogodba _podpisana UL-PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNTkyMztQb2dvZGJhIF9wb2RwaXNhbmEgVUwtUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

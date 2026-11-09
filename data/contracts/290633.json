@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290633,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 863817,
+  "idDosje": 513701,
+  "title": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault - LJUBLJANA",
+  "procurement": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault - LJUBLJANA",
+  "kind": 1,
+  "value": 59691.55,
+  "signed": "2024-10-30",
+  "from": "2024-11-04",
+  "to": "2028-02-04",
+  "number": "001080/2024",
+  "contractors": [
+   "AVTOHIŠA REAL, trgovina in servis, d.o.o.,"
+  ],
+  "contractor_ids": [
+   "1663810000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006351/2024-POG/01",
+  "published": "2024-11-04",
+  "files": [
+   {
+    "name": "Pogodba 1080-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1OTEyO1BvZ29kYmEgMTA4MC0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

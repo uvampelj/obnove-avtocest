@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 192904,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725924,
+  "idDosje": 403222,
+  "title": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA MULČERJE, VILIČARJE IN MOTORNE ŽAGE",
+  "procurement": "Servisiranje in dobava nadomestnih delov za mulčerje proizvajalca Rapid,Servisiranje in dobava nadomestnih delov za orodje proizvajalcev Stihi in Husqvarna",
+  "kind": 1,
+  "value": 540439.94,
+  "signed": "2021-09-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina",
+   "ČESNIK storitve in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5490600000",
+   "5589118000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004188/2021-C01/POG-192904",
+  "published": "2021-09-28",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjkwNDtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

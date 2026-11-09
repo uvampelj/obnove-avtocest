@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 473543,
+  "type": "DOD",
+  "prev": 245637,
+  "idObrazec": 1175797,
+  "idDosje": 481966,
+  "title": "Aneks št. 3 k pogodbi DARS št. 000899/2023 za Izvajanja varnostne interventne službe",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-08-16",
+  "from": "2023-08-14",
+  "to": "2027-02-16",
+  "number": "000899/2023",
+  "contractors": [
+   "RIVAL - VTS sistemi in varovanje, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5966639000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003628/2023-C01/POG-245637-D03",
+  "published": "2026-09-16",
+  "files": [
+   {
+    "name": "aneks-st3-k-pogodbi-899-2023_178-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjE0NDk1O2FuZWtzLXN0My1rLXBvZ29kYmktODk5LTIwMjNfMTc4LTIwMjZfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

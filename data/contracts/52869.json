@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52869,
+  "type": "DOD",
+  "prev": 10977,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 220/15:IZDELAVA IZVEDBENEGA NAČRTA »UREDITEV DVEH KRIŽIŠČ NA IZVOZNIH KRAKIH A IN C IZ AVTOCESTE A1/0139 PRIKLJUČEK ŽALEC (ARJA VAS) NA GLAVNO CESTO G1-4/1262 ČRNOVA-ARJA VAS IN REGIONALNO CESTO R2-451/1448 ARJA VAS-ŽALEC-dodatna dela, zamenjava podizvajalca in kadra, pod",
+  "procurement": "aneks št. 1 k pog. DARS št. 220/15:IZDELAVA IZVEDBENEGA NAČRTA »UREDITEV DVEH KRIŽIŠČ NA IZVOZNIH KRAKIH A IN C IZ AVTOCESTE A1/0139 PRIKLJUČEK ŽALEC (ARJA VAS) NA GLAVNO CESTO G1-4/1262 ČRNOVA-ARJA VAS IN REGIONALNO CESTO R2-451/1448 ARJA VAS-ŽALEC-dodatna dela, zamenjava podizvajalca in kadra, pod",
+  "kind": 1,
+  "value": 8235.0,
+  "signed": "2016-08-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "657-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODY5OzY1Ny0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

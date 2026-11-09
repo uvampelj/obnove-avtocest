@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 222387,
+  "type": "DOD",
+  "prev": 129022,
+  "idObrazec": 772288,
+  "idDosje": 285421,
+  "title": "Aneks št. 2 k pogodbi DARS št. 474/2019: Rušitev in preureditev cestninskih postaj Videž, Bazara, Senožeče, Divača, Kozina ter sanacija voziščne konstrukcije priključkov Senožeče, Divača in Kozina-Sklop 6",
+  "procurement": "SKlop 6: RUŠITEV IN PREUREDITEV CESTNINSKIH POSTAJ VIDEŽ, BAZARA, SENOŽEČE, DIVAČA, KOZINA TER SANACIJA VOZIŠČNE KONSTRUKCIJE PRIKLJUČKOV SENOŽEČE, DIVAČA IN KOZINA",
+  "kind": 3,
+  "value": 8756830.22,
+  "signed": "2022-09-05",
+  "from": "2022-09-05",
+  "to": "2022-12-20",
+  "number": null,
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "5143497000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008174/2018-C01/DOD-222387",
+  "published": "2022-09-23",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjQ0NjtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

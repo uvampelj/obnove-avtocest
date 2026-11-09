@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 484681,
+  "type": "DOD",
+  "prev": 319941,
+  "idObrazec": 1198968,
+  "idDosje": 522930,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1030/2025 za POSLOVNI NAJEM VOZIL Z NIZKIMI EMISIJAMI: SKLOP 6 - Terensko vozilo, 4x4, vsaj 170 kW; prekinitev najema",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-09-17",
+  "from": "2025-08-25",
+  "to": "2034-06-25",
+  "number": "001030/2025",
+  "contractors": [
+   "Mobilia, poslovni najem vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "9657967000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004757/2025-POG/01-D01",
+  "published": "2026-09-30",
+  "files": [
+   {
+    "name": "Aneks-st1-k-pogodbi-1030-2025_195-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM3MTIyO0FuZWtzLXN0MS1rLXBvZ29kYmktMTAzMC0yMDI1XzE5NS0yMDI2X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

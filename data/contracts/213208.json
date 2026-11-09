@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 213208,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 737550,
+  "idDosje": 430307,
+  "title": "Izdelava PZI za rekonstrukcijo vozišča na AC A1 0058 in 0658 Senožeče – Gabrk, 0156 razcep Gabrk, A1 0059 in 0659 Gabrk – Divača in A3 0068 Gabrk – Sežana V",
+  "procurement": "Izdelava PZI za rekonstrukcijo vozišča na AC A1 0058 in 0658 Senožeče – Gabrk, 0156 razcep Gabrk, A1 0059 in 0659 Gabrk – Divača in A3 0068 Gabrk – Sežana V",
+  "kind": 1,
+  "value": 898866.23,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000017/2022-C01/POG-213208",
+  "published": "2022-06-15",
+  "files": [
+   {
+    "name": "Pogodba-Ginex international_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMzIwODtQb2dvZGJhLUdpbmV4IGludGVybmF0aW9uYWxfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

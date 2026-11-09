@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 184604,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721780,
+  "idDosje": 390229,
+  "title": "SERVISIRANJE IN POPRAVILO ROČNEGA ORODJA",
+  "procurement": "Servisiranje in dobava nadomestnih delov proizvajalca Hilti,Servisiranje in dobava nadomestnih delov proizvajalca Makita in Metabo",
+  "kind": 1,
+  "value": 148799.18,
+  "signed": "2021-06-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HILTI SLOVENIJA, trgovsko podjetje, d.o.o.",
+   "ELEKTROSERVIS POVŠE, servis, trgovina in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5640849000",
+   "7061005000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001319/2021-X01/POG-184604",
+  "published": "2021-07-01",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDYwNDtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

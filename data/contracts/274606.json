@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 274606,
+  "type": "DOD",
+  "prev": 192904,
+  "idObrazec": 836422,
+  "idDosje": 403222,
+  "title": "Aneks št. 1, DARS št. 865/2024 k pog. DARS št. 1146/2021, sklop 3",
+  "procurement": "Servisiranje in dobava nadomestnih delov za mulčerje proizvajalca Rapid,Servisiranje in dobava nadomestnih delov za orodje proizvajalcev Stihi in Husqvarna",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-08-20",
+  "from": null,
+  "to": null,
+  "number": "000865/2024",
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina",
+   "ČESNIK storitve in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5490600000",
+   "5589118000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004188/2021-C01/POG-192904-D01",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 865-2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDg2O0FuZWtzIDEsIERBUlMgxaF0LiA4NjUtMjAyNC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

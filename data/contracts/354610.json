@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354610,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1002414,
+  "idDosje": 528356,
+  "title": "Pogodba za dobavo priklopnih vozil za prevoz mehanizacije",
+  "procurement": "Dobava priklopnih vozil za prevoz mehanizacije",
+  "kind": 2,
+  "value": 345891.96,
+  "signed": "2026-02-10",
+  "from": "2026-02-10",
+  "to": "2026-08-10",
+  "number": "000152/2026",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009473/2025-POG/01",
+  "published": "2026-02-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba 330-2025 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUxNjgwO1BvZHBpc2FuYSBwb2dvZGJhIDMzMC0yMDI1IHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

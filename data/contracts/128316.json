@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 128316,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688395,
+  "idDosje": 297486,
+  "title": "Krpanje in sanacija vozišč 2019-2021",
+  "procurement": "Dela na območju AC baz Postojna, Kozina, Ljubljana, Hrušica in Novo mesto,Dela na  območju AC baz Slovenske Konjice, Vransko, Maribor in Murska Sobota",
+  "kind": 3,
+  "value": 5324643.64,
+  "signed": "2019-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000950/2019-C01/POG-128316",
+  "published": "2019-06-13",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 810-2019 in 811-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODMxNjtQb2dvZGJhIERBUlMgxaF0LiA4MTAtMjAxOSBpbiA4MTEtMjAxOS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

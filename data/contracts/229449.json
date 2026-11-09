@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 229449,
+  "type": "DOD",
+  "prev": 222564,
+  "idObrazec": 781512,
+  "idDosje": 441037,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1159/2022: Izdelava strokovnih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "procurement": "Izdelava strokovnih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-12-21",
+  "from": "2022-12-21",
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002277/2022-C01/DOD-229449",
+  "published": "2023-01-17",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMDE1NjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

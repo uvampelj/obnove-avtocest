@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315685,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930805,
+  "idDosje": 522188,
+  "title": "PREISKAVE POSIPNIH MATERIALOV",
+  "procurement": "PREISKAVE POSIPNIH MATERIALOV",
+  "kind": 1,
+  "value": 48757.3,
+  "signed": "2025-07-22",
+  "from": "2025-07-22",
+  "to": "2030-07-22",
+  "number": "000954/2025",
+  "contractors": [
+   "IGMAT, Inštitut za gradbene materiale, d.d."
+  ],
+  "contractor_ids": [
+   "5498503000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004059/2025-POG/01",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "pogodba IGMAT, DARS št. 954-2025_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMjM3O3BvZ29kYmEgSUdNQVQsIERBUlMgxaF0LiA5NTQtMjAyNV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

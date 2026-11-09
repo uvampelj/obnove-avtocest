@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 461771,
+  "type": "DOD",
+  "prev": 314850,
+  "idObrazec": 1150828,
+  "idDosje": 518977,
+  "title": "Aneks št. 1 k pogodbi DARS št. 848/2025: Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024 Trebnje-Novo mesto V od km 6+802 do km 11+893, 0624 Trebnje- Novo mesto V od km 6+802 do km 11+900 in priključek 0413 Novo mesto zahod od km 0+000 do km 0+913 ",
+  "procurement": "Preplastitev voziščne konstrukcije na delih odsekov AC A2 0024/0624 Trebnje-Novo mesto V in priključek 0413 Novo mesto zahod",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-08-12",
+  "from": "2026-06-24",
+  "to": "2026-11-30",
+  "number": "000848/2025",
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001373/2025-POG/01-D01",
+  "published": "2026-08-27",
+  "files": [
+   {
+    "name": "Aneks-1_Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjAwMzgxO0FuZWtzLTFfUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

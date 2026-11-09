@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 285701,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 849541,
+  "idDosje": 510581,
+  "title": "Sklop 6 - Servisiranje priklopnih vozil LOK",
+  "procurement": "SERVISIRANJE MEHANIZACIJE IN OPREME",
+  "kind": 1,
+  "value": 97478.0,
+  "signed": "2024-09-02",
+  "from": "2024-09-02",
+  "to": "2027-09-02",
+  "number": "000912/2024",
+  "contractors": [
+   "LOK KLJUČAVNIČARSTVO FRANC LOVŠIN S.P."
+  ],
+  "contractor_ids": [
+   "1856545000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003826/2024-POG/04",
+  "published": "2024-09-04",
+  "files": [
+   {
+    "name": "Pogodba - LOK 6_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE0NTAxO1BvZ29kYmEgLSBMT0sgNl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

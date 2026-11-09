@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324502,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956565,
+  "idDosje": 525216,
+  "title": "Pogodba za Dobava notranje energije iz lesnih sekancev - Sklop 2- Dobava notranje energije lesnih sekancev za ACB Postojna",
+  "procurement": "Dobava notranje energije iz lesnih sekancev",
+  "kind": 2,
+  "value": 53728.8,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2029-02-04",
+  "number": "001227/2025",
+  "contractors": [
+   "SOŠKO GOZDNO GOSPODARSTVO TOLMIN d.o.o."
+  ],
+  "contractor_ids": [
+   "5163757000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006693/2025-POG/02",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "Pogodba Sklop 2 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNzk4O1BvZ29kYmEgU2tsb3AgMiBQSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

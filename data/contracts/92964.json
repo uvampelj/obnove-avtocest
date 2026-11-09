@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 92964,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670079,
+  "idDosje": 217133,
+  "title": "RECENZIJSKI PREGLED STROKOVNIH PODLAG - IDEJNEGA PROJEKTA HC KOPER-DRAGONJA",
+  "procurement": "RECENZIJSKI PREGLED STROKOVNIH PODLAG - IDEJNEGA PROJEKTA HC KOPER-DRAGONJA",
+  "kind": 1,
+  "value": 24741.6,
+  "signed": "2017-11-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007215/2017-X01/POG-92964",
+  "published": "2018-02-22",
+  "files": [
+   {
+    "name": "Pogodba-BPI.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkyOTY0O1BvZ29kYmEtQlBJLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

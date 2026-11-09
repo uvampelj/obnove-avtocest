@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "id": 161510,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708516,
+  "idDosje": 354065,
+  "title": "Servisiranje strojev in opreme",
+  "procurement": "Mulčarji INO,Mulčarji Tehnos,Merilci slanosti Boschung,Gorski traktorji Aebi in komunalna oprema Schmidt,Varilni aparati,Nadgradnje Creina, stroja za pranje predorov,Dvigala v mehaničnih delavnicah,Gorski traktor Sauerburger",
+  "kind": 1,
+  "value": 822960.78,
+  "signed": "2020-09-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INDUSTRIJSKA OPREMA BREŽICE d.o.o.",
+   "TEHNOS Podjetje za proizvodnjo orodij, strojev in predelavo plastičnih mas d.o.o. Žalec",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "VARIKON VARILNA TEHNIKA, SERVIS, PROIZVODNJA, TRGOVINA, družba za storitve, d.o.o.",
+   "CREINA, proizvodnja in trgovina kmetijskih in industrijskih strojev in naprav, d.d., Kranj",
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o.",
+   "GRADBENA MEHANIZACIJA, PREVOZI JOŽE JANČAR S.P."
+  ],
+  "contractor_ids": [
+   "5005558000",
+   "5302935000",
+   "6015174000",
+   "2170531000",
+   "5076927000",
+   "5350131000",
+   "5749848000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003107/2020-C01/POG-161510",
+  "published": "2020-09-25",
+  "files": [
+   {
+    "name": "POGODBE 000101-2020.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTUxMDtQT0dPREJFIDAwMDEwMS0yMDIwLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

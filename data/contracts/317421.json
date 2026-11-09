@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 317421,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 935931,
+  "idDosje": 521268,
+  "title": "Dobava absorbcijskega sredstva",
+  "procurement": "Dobava absorbcijskega sredstva",
+  "kind": 2,
+  "value": 230580.0,
+  "signed": "2025-07-30",
+  "from": "2025-07-30",
+  "to": "2028-10-30",
+  "number": "000979/2025",
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003311/2025-POG/01",
+  "published": "2025-08-20",
+  "files": [
+   {
+    "name": "podpisana pogodba st 979-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk0MzM0O3BvZHBpc2FuYSBwb2dvZGJhIHN0IDk3OS0yMDI1IFJFRCAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

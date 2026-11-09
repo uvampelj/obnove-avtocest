@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 252540,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 764009,
+  "idDosje": 489519,
+  "title": "Izdelava cenitev kmetijskih zemljišč",
+  "procurement": "Izdelava cenitev kmetijskih zemljišč",
+  "kind": 1,
+  "value": 128148.8,
+  "signed": "2023-11-21",
+  "from": "2023-11-21",
+  "to": "2027-11-21",
+  "number": "001240/2023",
+  "contractors": [
+   "CARIS, nepremičninske, informacijske, gradbene in druge storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "6005853000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005369/2023-C01/POG-252540",
+  "published": "2023-11-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1240-2023_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NjA0MDtQb2RwaXNhbmEgcG9nb2RiYSAxMjQwLTIwMjNfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

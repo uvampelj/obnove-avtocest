@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 317783,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 937069,
+  "idDosje": 521136,
+  "title": "Vzpostavitev, razvoj in vzdrževanje sistema ERP",
+  "procurement": "Vzpostavitev, razvoj in vzdrževanje sistema ERP",
+  "kind": 2,
+  "value": 4002505.24,
+  "signed": "2025-08-06",
+  "from": "2025-08-06",
+  "to": "2030-11-06",
+  "number": "000999/2025",
+  "contractors": [
+   "BE-terna, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003204/2025-POG/01",
+  "published": "2025-08-25",
+  "files": [
+   {
+    "name": "R_Pogodba 999-2025 BE TERNA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk1MjI2O1JfUG9nb2RiYSA5OTktMjAyNSBCRSBURVJOQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

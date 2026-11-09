@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 143530,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 696654,
+  "idDosje": 328521,
+  "title": "Servisiranje in popravila tovornih in poltovornih vozil Renault",
+  "procurement": "ACB Postojna, Ljubljana, Hrušica, Kozina, Vransko, Novo mesto,ACB Slovenske Konjice, Maribor, Murska Sobota",
+  "kind": 1,
+  "value": 355154.2,
+  "signed": "2020-01-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VOLVO, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "1532189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007376/2019-C01/POG-143530",
+  "published": "2020-01-14",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 25-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MzUzMDtQb2dvZGJhIERBUlMgxaF0LiAyNS0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 12855,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 635221,
+  "idDosje": 71428,
+  "title": "Aneks št. 3 k pogodbi DARS št. 395/2013 za izdelavo projektne dokumentacije PGD in PZI za dograditev priključka Šmarje Sap - dodatna dela.",
+  "procurement": "Aneks št. 3 k pogodbi DARS št. 395/2013 za izdelavo projektne dokumentacije PGD in PZI za dograditev priključka Šmarje Sap - dodatna dela.",
+  "kind": 1,
+  "value": 14891.09,
+  "signed": "2015-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN3024/2015/POG-12855",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "339-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODU1OzMzOS0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

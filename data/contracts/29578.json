@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 29578,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 642497,
+  "idDosje": 12936,
+  "title": "Prevzem odpadnega materiala-odpadnih barv, lakov, razredčila",
+  "procurement": "Prevzem odpadnega materiala-odpadnih barv, lakov, razredčila.",
+  "kind": 1,
+  "value": 15603.75,
+  "signed": "2016-01-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREL d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV371/2016/POG-29578",
+  "published": "2016-01-20",
+  "files": [
+   {
+    "name": "POGODBA 36-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI5NTc4O1BPR09EQkEgMzYtMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

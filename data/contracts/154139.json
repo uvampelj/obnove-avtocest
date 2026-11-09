@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154139,
+  "type": "DOD",
+  "prev": 133951,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1343/2019",
+  "procurement": "Dobava osebne varovalne opreme; sklop 3: Rokavice",
+  "kind": 2,
+  "value": 12807.56,
+  "signed": "2020-06-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRIP TRGOVINA, proizvodnja, storitve, trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "1992236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-06-08",
+  "files": [
+   {
+    "name": "ANEKS dars ŠT. 1096-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDEzOTtBTkVLUyBkYXJzIMWgVC4gMTA5Ni0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

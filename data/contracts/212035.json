@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 212035,
+  "type": "DOD",
+  "prev": 207708,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 378/2022: Semaforizacija križišč na priključku A5, št.:0172 – priključek Sv. Trojica; regionalna cesta R2-433/1287 in R1-229/1286",
+  "procurement": "Semaforizacija križišč na priključku A5, št.:0172 – priključek Sv. Trojica; regionalna cesta R2-433/1287 in R1-229/1286",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-05-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-31",
+  "files": [
+   {
+    "name": "Aneks_1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMjAzNTtBbmVrc18xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

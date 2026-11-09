@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316625,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933571,
+  "idDosje": 523745,
+  "title": "Izdelava hidrološke analize za porečje Meže s sotočjem z Mislinjo",
+  "procurement": "Izdelava hidrološke analize za porečje Meže s sotočjem z Mislinjo",
+  "kind": 1,
+  "value": 164090.0,
+  "signed": "2025-07-30",
+  "from": "2025-07-30",
+  "to": "2027-03-30",
+  "number": "000978/2025",
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005407/2025-POG/01",
+  "published": "2025-08-07",
+  "files": [
+   {
+    "name": "Pogodba IZVO-R_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyNDc0O1BvZ29kYmEgSVpWTy1SX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

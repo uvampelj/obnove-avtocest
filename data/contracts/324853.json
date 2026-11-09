@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324853,
+  "type": "DOD",
+  "prev": 224700,
+  "idObrazec": 957744,
+  "idDosje": 449384,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1294/2022: Izdelava državnega prostorskega načrta za hitro cesto Koper–Dragonja",
+  "procurement": "Izdelava državnega prostorskega načrta za hitro cesto Koper-Dragonja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-11-06",
+  "from": "2025-11-06",
+  "to": "2028-03-01",
+  "number": "001294/2022",
+  "contractors": [
+   "URBIS urbanizem, arhitektura, projektiranje in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5560799000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004446/2022-C01/POG-224700-D01",
+  "published": "2025-11-11",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDExNzYwO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

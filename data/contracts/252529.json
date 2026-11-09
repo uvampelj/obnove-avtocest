@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 252529,
+  "type": "DOD",
+  "prev": 220465,
+  "idObrazec": 781227,
+  "idDosje": 436772,
+  "title": "Aneks št. 2 k pog. DARS št. 1075/2022: Izdelava IZP z razširjeno vsebino za rekonstrukcijo AC telesa in objektov na širšem območju razcepa Lj (Kozarje) in izdelava Analize prometa",
+  "procurement": "Izdelava IZP z razširjeno vsebino za rekonstrukcijo AC telesa in objektov na širšem območju razcepa Lj (Kozarje) in izdelavo Analize prometa",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-10-25",
+  "from": "2023-10-25",
+  "to": "2024-10-02",
+  "number": "1082/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001198/2022-C01/DOD-252529",
+  "published": "2023-11-22",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NjAyOTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

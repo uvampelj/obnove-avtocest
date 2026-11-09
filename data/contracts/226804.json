@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 226804,
+  "type": "DOD",
+  "prev": 207169,
+  "idObrazec": 779513,
+  "idDosje": 428896,
+  "title": "Aneks št. 1 k pogodbi DARS št. 448/2022 za preureditev poslovnih in tehničnih prostorov upravne stavbe na bivši CP Dane in izgradnja dodatnega parkirišča na CP Dane; dodatna in nepredvidena dela, sprememba naziva izvajalca, nominacija podizvajalcev, podaljšanje roka",
+  "procurement": "Sklop 1: Preureditev poslovnih in tehničnih prostorov Upravne stavbe na bivši CP Dane in izgradnja dodatnega parkirišča na CP Dane",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-11-28",
+  "from": "2022-11-28",
+  "to": "2022-12-28",
+  "number": null,
+  "contractors": [
+   "KOMUNALNO STANOVANJSKO PODJETJE d.d."
+  ],
+  "contractor_ids": [
+   "5073260000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008444/2021-X01/DOD-226804",
+  "published": "2022-12-02",
+  "files": [
+   {
+    "name": "aneks 1 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNzI3MDthbmVrcyAxIC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

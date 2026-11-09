@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 300944,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 889924,
+  "idDosje": 516287,
+  "title": "VZDRŽEVANJE INSTRUMENTOV IN OPREME V ELEKTRO DELAVNICAH",
+  "procurement": "VZDRŽEVANJE INSTRUMENTOV IN OPREME V ELEKTRO DELAVNICAH",
+  "kind": 1,
+  "value": 95526.0,
+  "signed": "2025-02-17",
+  "from": "2025-02-17",
+  "to": "2028-05-17",
+  "number": "000281/2025",
+  "contractors": [
+   "MICOM ELECTRONICS trgovina in proizvodnja d.o.o."
+  ],
+  "contractor_ids": [
+   "5607582000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008430/2024-POG/01",
+  "published": "2025-02-18",
+  "files": [
+   {
+    "name": "Pogodba MICOM_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ2NzEyO1BvZ29kYmEgTUlDT01fUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

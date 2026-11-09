@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 262654,
+  "type": "DOD",
+  "prev": 187353,
+  "idObrazec": 800849,
+  "idDosje": 389040,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 1002/2021 za Izgradnjo nove poslovne stavbe DARS; sprememba pogodbene vrednosti (dodatna dela, več in manj dela in podražitve), nominacija podizvajalcev, zamenjava kadra, sprememba rokov, obračun dobave obratne opreme in materiala",
+  "procurement": "Izgradnja nove poslovne stavbe DARS",
+  "kind": 3,
+  "value": 5249363.33,
+  "signed": "2024-03-22",
+  "from": "2021-07-21",
+  "to": "2025-02-28",
+  "number": "000457/2024",
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001160/2021-C01/POG-187353-D01",
+  "published": "2024-03-25",
+  "files": [
+   {
+    "name": "a1 k pog 1002-2021 - za objavo_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjczNzQ1O2ExIGsgcG9nIDEwMDItMjAyMSAtIHphIG9iamF2b19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224617,
+  "type": "DOD",
+  "prev": 191993,
+  "idObrazec": 777611,
+  "idDosje": 399212,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1119/2021",
+  "procurement": "Drobni material - cevi, nosilci in profili",
+  "kind": 2,
+  "value": 81489.78,
+  "signed": "2022-10-21",
+  "from": "2022-10-21",
+  "to": "2023-03-01",
+  "number": null,
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003189/2021-C01/DOD-224617",
+  "published": "2022-10-28",
+  "files": [
+   {
+    "name": "R Aneks st. 1 k pogodbi DARS st. 1119-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDg3MztSIEFuZWtzIHN0LiAxIGsgcG9nb2RiaSBEQVJTIHN0LiAxMTE5LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

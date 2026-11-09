@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167243,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711731,
+  "idDosje": 368145,
+  "title": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju PETROL",
+  "procurement": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju PETROL",
+  "kind": 1,
+  "value": 8784000.0,
+  "signed": "2020-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005845/2020-C01/POG-167243",
+  "published": "2020-12-02",
+  "files": [
+   {
+    "name": "POGODBA PETROL objava UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI0MztQT0dPREJBIFBFVFJPTCBvYmphdmEgVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

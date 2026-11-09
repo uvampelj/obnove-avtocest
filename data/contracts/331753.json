@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 331753,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 975497,
+  "idDosje": 527389,
+  "title": "Vzdrževanje sistema nDMS",
+  "procurement": "Vzdrževanje sistema nDMS",
+  "kind": 2,
+  "value": 1927007.08,
+  "signed": "2026-01-23",
+  "from": "2026-01-23",
+  "to": "2031-01-23",
+  "number": "000091/2026",
+  "contractors": [
+   "360ECM informatika d.o.o."
+  ],
+  "contractor_ids": [
+   "2344149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008632/2025-POG/01",
+  "published": "2026-01-27",
+  "files": [
+   {
+    "name": "R_Pogodba 000091-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI1OTM1O1JfUG9nb2RiYSAwMDAwOTEtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 261020,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 796716,
+  "idDosje": 493979,
+  "title": "Izdelava projektne dokumentacije DPP za izvedbo vzdrževalnih del in zamenjavo nadvoza VA0231 Meljska cesta na R2-430 0033/0633 Maribor-Tezno",
+  "procurement": "Izdelava projektne dokumentacije DPP za izvedbo vzdrževalnih del in zamenjavo nadvoza VA0231 Meljska cesta na R2-430 0033/0633 Maribor-Tezno",
+  "kind": 1,
+  "value": 140171.9,
+  "signed": "2024-02-15",
+  "from": "2024-02-15",
+  "to": "2025-02-15",
+  "number": "000293/2024",
+  "contractors": [
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PONTING, inženirski biro d.o.o."
+  ],
+  "contractor_ids": [
+   "1708597000",
+   "5303516000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006362/2023-POG/01",
+  "published": "2024-03-07",
+  "files": [
+   {
+    "name": "Pogodba JV Pipenbaher inž.+Ponting_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcwMjQzO1BvZ29kYmEgSlYgUGlwZW5iYWhlciBpbsW-LitQb250aW5nX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

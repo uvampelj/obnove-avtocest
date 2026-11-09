@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 20518,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638501,
+  "idDosje": 80940,
+  "title": "Vzdrževanje Oracle licenčne programske opreme",
+  "procurement": "Vzdrževanje Oracle licenčne programske opreme",
+  "kind": 1,
+  "value": 46126.1,
+  "signed": "2015-09-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ORACLE d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5572720000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6243/2015/POG-20518",
+  "published": "2015-09-10",
+  "files": [
+   {
+    "name": "D13150000746_150909_124703.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTE4O0QxMzE1MDAwMDc0Nl8xNTA5MDlfMTI0NzAzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

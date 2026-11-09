@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 226544,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 744670,
+  "idDosje": 450776,
+  "title": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za ekodukt na AC odseku Unec-Postojna",
+  "procurement": "Izdelava študije variant/predinvesticijske zasnove in državnega prostorskega načrta za ekodukt na AC odseku Unec-Postojna",
+  "kind": 1,
+  "value": 640238.19,
+  "signed": "2022-11-17",
+  "from": "2022-12-02",
+  "to": "2025-12-02",
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "2170388000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004800/2022-C01/POG-226544",
+  "published": "2022-11-30",
+  "files": [
+   {
+    "name": "Pogodba-JV BPI+ZUM+Promico_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNjk4OTtQb2dvZGJhLUpWIEJQSStaVU0rUHJvbWljb19vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72793,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660280,
+  "idDosje": 192010,
+  "title": "Servisiranje in popravila osebnih, kombiniranih in specialnih vozil znamke VW in Audi",
+  "procurement": "Servisiranje in popravila osebnih, kombiniranih in specialnih vozil znamke VW in Audi",
+  "kind": 1,
+  "value": 190942.2,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE INTER AUTO d.o.o."
+  ],
+  "contractor_ids": [
+   "1453831000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001822/2017-X01/POG-72793",
+  "published": "2017-06-15",
+  "files": [
+   {
+    "name": "Pogodba JN 037-17.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyNzkzO1BvZ29kYmEgSk4gMDM3LTE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

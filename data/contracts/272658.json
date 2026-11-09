@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 272658,
+  "type": "DOD",
+  "prev": 133184,
+  "idObrazec": 830839,
+  "idDosje": 232576,
+  "title": "Aneks št. 7 k pogodbi DARS št. 1579/2018 za izdelavo projektne dokumentacije PGD in PZI za izgradnjo 2. odseka nove prometne povezave med priključkom Velenje jug do priključka Slovenj Gradec jug - Sklop 2",
+  "procurement": "Izdelava projektne dokumentacije PGD in PZI za: Sklop 2: izgradnjo 2. odseka nove prometne povezave med priključkom Velenje jug do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-06-28",
+  "from": "2024-06-28",
+  "to": "2024-12-31",
+  "number": "742/24",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5397014000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009841/2017-C01/POG-133184-D04",
+  "published": "2024-07-26",
+  "files": [
+   {
+    "name": "Aneks-7-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk3NjA0O0FuZWtzLTctUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

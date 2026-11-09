@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 354340,
+  "type": "DOD",
+  "prev": 271988,
+  "idObrazec": 1001626,
+  "idDosje": 444925,
+  "title": "Naknadna vključitev novih podizvajalcev, nepredvidena, več, manj in dodatna dela ter podaljšanje vmesnih pogodbenih rokov in obdobja, za katero je sklenjena osnovna pogodba",
+  "procurement": "Aneks št. 1 k pogodbi DARS 708/2022 za izvedbo dodatnih protivetrnih ukrepov in ukrepov na objektih ter preplastitev in obnova vozišča na delih odsekov HC H4 Razdrto - Vipava - Ajdovščina - pokriti vkop Vipavski križ; 2 sklopa",
+  "kind": 3,
+  "value": 3171304.48,
+  "signed": "2024-06-10",
+  "from": "2024-06-10",
+  "to": "2027-09-09",
+  "number": "000161/2026",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "003330/2022-POG/01-D01",
+  "published": "2026-02-18",
+  "files": [
+   {
+    "name": "A1_st_000161_2026_k_pog_DARS_st_000807_2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUxMDM4O0ExX3N0XzAwMDE2MV8yMDI2X2tfcG9nX0RBUlNfc3RfMDAwODA3XzIwMjQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

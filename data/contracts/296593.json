@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 296593,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 879603,
+  "idDosje": 514627,
+  "title": "Izdelava izvedbenega načrta (IzN) za preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnovo vozne površine na delu odsekov 0009/0609 Brnik–Vodice",
+  "procurement": "Izdelava izvedbenega načrta (IzN) za preplastitev delov odsekov na AC A2 0006 Podtabor–Kranj Z, 0007 Kranj Z–Kranj V, 0008 Kranj V–Brnik in obnovo vozne površ. na delu odsekov 0009/0609 Brnik–Vodice",
+  "kind": 1,
+  "value": 120437.79,
+  "signed": "2024-12-23",
+  "from": "2024-12-23",
+  "to": "2026-12-23",
+  "number": "001263/2024",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007045/2024-POG/01",
+  "published": "2025-01-08",
+  "files": [
+   {
+    "name": "Pogodba-PNG_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM4NDgxO1BvZ29kYmEtUE5HX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

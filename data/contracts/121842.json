@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 121842,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 684567,
+  "idDosje": 286892,
+  "title": "Izvedba odkupov nepremičnin in premoženjskopravnih ureditev nepremičnin za gradnjo GC,AC, HC",
+  "procurement": "Izvedba odkupov nepremičnin in premoženjskopravnih ureditev nepremičnin za gradnjo GC,AC, HC",
+  "kind": 1,
+  "value": 26791.2,
+  "signed": "2019-02-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HT PLUS, nepremičnine in telekomunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "6567703000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008436/2018-X01/POG-121842",
+  "published": "2019-03-06",
+  "files": [
+   {
+    "name": "Pogodba HT PLUS.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTg0MjtQb2dvZGJhIEhUIFBMVVMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

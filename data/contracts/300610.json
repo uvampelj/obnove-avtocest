@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 300610,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 889145,
+  "idDosje": 514247,
+  "title": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent, sklop 3 in sklop 7",
+  "procurement": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent",
+  "kind": 1,
+  "value": 68564.0,
+  "signed": "2025-01-13",
+  "from": "2025-01-13",
+  "to": "2028-04-13",
+  "number": "000065/2025",
+  "contractors": [
+   "PRIT podjetje za proizvodnjo, trgovino in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5717914000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006781/2024-POG/03",
+  "published": "2025-02-14",
+  "files": [
+   {
+    "name": "pogodba sklop 3_sklop 7_podpisana pog st 65-2025 RedUL_PRIT.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ2MDU4O3BvZ29kYmEgc2tsb3AgM19za2xvcCA3X3BvZHBpc2FuYSBwb2cgc3QgNjUtMjAyNSBSZWRVTF9QUklULnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

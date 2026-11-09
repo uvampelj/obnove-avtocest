@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 87849,
+  "type": "DOD",
+  "prev": 29398,
+  "idObrazec": 767766,
+  "idDosje": 77755,
+  "title": "Aneks št. 1 k pogodbi DARS št. 33/2016",
+  "procurement": "Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom",
+  "kind": 2,
+  "value": 729421.92,
+  "signed": "2017-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ECE d.o.o."
+  ],
+  "contractor_ids": [
+   "6064892000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN366/2016/DOD-87849",
+  "published": "2018-01-04",
+  "files": [
+   {
+    "name": "Aneks 1049-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3ODQ5O0FuZWtzIDEwNDktMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

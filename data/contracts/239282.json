@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 239282,
+  "type": "DOD",
+  "prev": 209650,
+  "idObrazec": 779954,
+  "idDosje": 435831,
+  "title": "A N E K S št. 1 k okvirnem sporazumu DARS št. 788/2022 za nabavo električne energije 2022-2025",
+  "procurement": "Nabava električne energije 2022 - 2025",
+  "kind": 2,
+  "value": 3120000.0,
+  "signed": "2023-05-24",
+  "from": "2023-05-24",
+  "to": "2024-05-01",
+  "number": "694/2023",
+  "contractors": [
+   "ECE, energetska družba, d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "6064892000",
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000967/2022-C01/DOD-239282",
+  "published": "2023-05-29",
+  "files": [
+   {
+    "name": "R Aneks 1 k OS 788-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MTQyNTtSIEFuZWtzIDEgayBPUyA3ODgtMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

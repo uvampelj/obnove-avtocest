@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26296,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641055,
+  "idDosje": 76852,
+  "title": "Dobava in montaža silosov za sol",
+  "procurement": "Dobava in montaža silosov za sol",
+  "kind": 2,
+  "value": 203483.8,
+  "signed": "2015-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRANIT STORITVE, d.o.o."
+  ],
+  "contractor_ids": [
+   "3710769000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8458/2015/POG-26296",
+  "published": "2015-12-01",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2Mjk2O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

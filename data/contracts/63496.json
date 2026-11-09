@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63496,
+  "type": "DOD",
+  "prev": 49851,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k osnovni pogodbi DARS št. 736/2016",
+  "procurement": "Izvedba revizije po ZGO-1 za projektno dokumentacijo PGD za HC Jagodje - Lucija s priključno cesto za Piran",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-02-28",
+  "files": [
+   {
+    "name": "aneks št 1 k pog 736-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzNDk2O2FuZWtzIMWhdCAxIGsgcG9nIDczNi0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

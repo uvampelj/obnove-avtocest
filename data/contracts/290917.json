@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290917,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 864535,
+  "idDosje": 514940,
+  "title": "P O G O D B A za  Izvajanje inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo\n",
+  "procurement": "Izvajanje inženirskih storitev v obdobju delovanja elektronskega cestninskega sistema v prostem prometnem toku - DarsGo",
+  "kind": 1,
+  "value": 808585.5,
+  "signed": "2024-10-30",
+  "from": "2024-11-06",
+  "to": "2028-06-30",
+  "number": "001083/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007354/2024-POG/01",
+  "published": "2024-11-06",
+  "files": [
+   {
+    "name": "Pogodba 166_24_Redigirano PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI2NDYwO1BvZ29kYmEgMTY2XzI0X1JlZGlnaXJhbm8gUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

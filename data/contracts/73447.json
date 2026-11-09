@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 73447,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660586,
+  "idDosje": 192386,
+  "title": "Strokovno svetovalne in inženirske storitve za izvedbo projekta dodatnih protivetrnih ukrepov na HC Razdrto - Vipava - Ajdovščina",
+  "procurement": "Strokovno svetovalne in inženirske storitve za izvedbo projekta dodatnih protivetrnih ukrepov na HC Razdrto - Vipava - Ajdovščina",
+  "kind": 1,
+  "value": 609737.7,
+  "signed": "2017-06-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT d.d. NOVA GORICA"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001975/2017-C01/POG-73447",
+  "published": "2017-06-28",
+  "files": [
+   {
+    "name": "pogodba 518-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczNDQ3O3BvZ29kYmEgNTE4LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

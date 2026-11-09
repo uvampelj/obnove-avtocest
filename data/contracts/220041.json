@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220041,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740427,
+  "idDosje": 444270,
+  "title": "Izvedba nakupa in menjave virtualizacijske platforme MS Hyper-V z VMware vSphere",
+  "procurement": "Izvedba nakupa in menjave virtualizacijske platforme MS Hyper-V z VMware vSphere",
+  "kind": 2,
+  "value": 181035.07,
+  "signed": "2022-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T Slovenija, informacijske rešitve in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003003/2022-X01/POG-220041",
+  "published": "2022-08-25",
+  "files": [
+   {
+    "name": "Pogodba st_1060-2022_redUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDA0MTtQb2dvZGJhIHN0XzEwNjAtMjAyMl9yZWRVTC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

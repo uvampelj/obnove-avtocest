@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 17101,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636842,
+  "idDosje": 15024,
+  "title": "Dobava priključka za brisanje črt",
+  "procurement": "Dobava priključka za brisanje črt.",
+  "kind": 2,
+  "value": 84058.0,
+  "signed": "2015-07-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO EKOS d.o.o."
+  ],
+  "contractor_ids": [
+   "5773385000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV4618/2015/POG-17101",
+  "published": "2015-07-27",
+  "files": [
+   {
+    "name": "Pogodba 574-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTAxO1BvZ29kYmEgNTc0LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

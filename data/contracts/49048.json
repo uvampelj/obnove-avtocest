@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 49048,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650991,
+  "idDosje": 45154,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku - Sklop A: Izvajanje inženirskih storitev na tehnološkem segmentu projekta",
+  "procurement": "Sklop A: Izvajanje inženirskih storitev na tehnološkem segmentu projekta",
+  "kind": 1,
+  "value": 285629.76,
+  "signed": "2016-09-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE d.d."
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005498/2016-C01/POG-49048",
+  "published": "2016-09-28",
+  "files": [
+   {
+    "name": "pogodba 722-2016 - sklop A.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ5MDQ4O3BvZ29kYmEgNzIyLTIwMTYgLSBza2xvcCBBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

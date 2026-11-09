@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 150955,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 701677,
+  "idDosje": 340873,
+  "title": "Dobava tiskovin",
+  "procurement": "DOBAVA TISKOVIN",
+  "kind": 2,
+  "value": 88644.22,
+  "signed": "2020-04-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRAFIKA GRACER, Trgovina na debelo in drobno neživilskih proizvodov d.o.o."
+  ],
+  "contractor_ids": [
+   "5295866000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000527/2020-X01/POG-150955",
+  "published": "2020-04-24",
+  "files": [
+   {
+    "name": "Pogodba 628-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MDk1NTtQb2dvZGJhIDYyOC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

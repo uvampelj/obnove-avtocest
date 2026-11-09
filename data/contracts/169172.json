@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169172,
+  "type": "DOD",
+  "prev": 144051,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1535/2020: Postavitev spremenljivih prometnih znakov na AC priključkih Zakl in Podlehnik,dodatna in manj dela ter za vključitev novega podizvajalca",
+  "procurement": "Postavitev spremenljivih prometnih znakov na AC priključkih Zakl in Podlehnik ",
+  "kind": 3,
+  "value": 25519.59,
+  "signed": "2020-10-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-19",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.1535-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTE3MjtBbmVrcyDFoXQuMSBrIHBvZy4xNTM1LTIwLU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

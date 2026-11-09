@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27383,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641482,
+  "idDosje": 72168,
+  "title": "Aneks št. 3 k pogodbi 554/2006 za vodenje projektov za pridobitev strokovnih podlag za izdelavo prostorske dokumentacije za faze do sprejetja Uredbe o DLN za sklop II - Primorski krak AC omrežja",
+  "procurement": "Aneks št. 3 k pogodbi 554/2006 za vodenje projektov za pridobitev strokovnih podlag za izdelavo prostorske dokumentacije za faze do sprejetja Uredbe o DLN za sklop II - Primorski krak AC omrežja",
+  "kind": 1,
+  "value": 146253.21,
+  "signed": "2015-08-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6086/2015/POG-27383",
+  "published": "2015-12-17",
+  "files": [
+   {
+    "name": "aneks 683-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3MzgzO2FuZWtzIDY4My0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

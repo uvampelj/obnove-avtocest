@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 79,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630262,
+  "idDosje": 6930,
+  "title": "Dobava jeklene pločevine za nože plugov",
+  "procurement": "Dobava jeklene pločevine za nože plugov",
+  "kind": 2,
+  "value": 39194.0,
+  "signed": "2014-12-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "3619524000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV8/2015/POG-79",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13140001647_141230_073245.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc5O0QxMzE0MDAwMTY0N18xNDEyMzBfMDczMjQ1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

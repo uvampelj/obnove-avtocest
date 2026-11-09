@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 239935,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 754655,
+  "idDosje": 469535,
+  "title": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za avtocestni priključek Kranj sever",
+  "procurement": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za avtocestni priključek Kranj sever",
+  "kind": 1,
+  "value": 597729.36,
+  "signed": "2023-05-10",
+  "from": "2023-05-24",
+  "to": "2026-05-24",
+  "number": "000649/2023",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000403/2023-C01/POG-239935",
+  "published": "2023-06-05",
+  "files": [
+   {
+    "name": "Pogodba-JV Lineal+ZUM_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MjE2NTtQb2dvZGJhLUpWIExpbmVhbCtaVU1fb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

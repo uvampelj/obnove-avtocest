@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 326454,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 962149,
+  "idDosje": 524921,
+  "title": "Vzdrževanje NNN proizvajalca SOCOMEC",
+  "procurement": "Vzdrževanje NNN proizvajalca SOCOMEC",
+  "kind": 1,
+  "value": 547040.25,
+  "signed": "2025-11-19",
+  "from": "2025-11-19",
+  "to": "2029-02-19",
+  "number": "001267/2025",
+  "contractors": [
+   "SOCOMEC SICON podjetje za proizvodnjo in prodajo elektronskih in elektrotehničnih sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006463/2025-POG/01",
+  "published": "2025-11-28",
+  "files": [
+   {
+    "name": "Podpisana Pogodba 1267-2025 r.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE1MzE5O1BvZHBpc2FuYSBQb2dvZGJhIDEyNjctMjAyNSByLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

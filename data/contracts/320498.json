@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320498,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944672,
+  "idDosje": 522536,
+  "title": "Servisiranje, popravila in dobava nadomestnih delov blažilcev trka: sklop 2: blažilci trka Verdegro",
+  "procurement": "Servisiranje, popravila in dobava nadomestnih delov blažilcev trka: sklop 1: blažilci trka Stuer Egghe.sklop 2: blažilci trka Verdegro",
+  "kind": 1,
+  "value": 215818.0,
+  "signed": "2025-09-11",
+  "from": "2025-09-11",
+  "to": "2028-12-11",
+  "number": "001082/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004428/2025-POG/02",
+  "published": "2025-09-22",
+  "files": [
+   {
+    "name": "pog 1082-2025 - sklop 2 - redigirano za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxMzE4O3BvZyAxMDgyLTIwMjUgLSBza2xvcCAyIC0gcmVkaWdpcmFubyB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

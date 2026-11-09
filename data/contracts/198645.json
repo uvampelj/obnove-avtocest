@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198645,
+  "type": "DOD",
+  "prev": 156614,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1040/2020: Izvedba obnove signalizacije na predorih Pletovarje, Golo Rebro, Debeli hrib, Mali vrh, pokriti vkop Medvedjek 1 in Medvedjek 2",
+  "procurement": "Izvedba obnove prometne signalizacije na predorih Pletovarje, Golo Rebro, Debeli hrib, Mali vrh, pokriti vkop Medvedjek 1 in Medvedjek 2",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2021-04-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-11-29",
+  "files": [
+   {
+    "name": "Aneks-1-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODY0NTtBbmVrcy0xLXphLW9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

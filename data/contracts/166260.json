@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166260,
+  "type": "DOD",
+  "prev": 158311,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi DARS št. 1305/2020",
+  "procurement": "Opravljanje tehničnih pregledov za ACB Hrušica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-11-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INTEGRAL AVTO prodaja, servisi in tehnični pregledi vozil d.o.o. Jesenice"
+  ],
+  "contractor_ids": [
+   "2159708000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-19",
+  "files": [
+   {
+    "name": "Aneks 1529-2020,, podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjI2MDtBbmVrcyAxNTI5LTIwMjAsLCBwb2RwaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

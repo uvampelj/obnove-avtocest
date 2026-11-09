@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 176088,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716827,
+  "idDosje": 371963,
+  "title": "Izvajanje zimske službe",
+  "procurement": "Sklop 1: ACB Ljubljana - izpostava Dob (najem stroja),Sklop 3: ACB Ljubljana,SKLOP 4 - ACB Postojna,SKLOP 5 - ACB Novo mesto,Sklop 6: ACB Novo mesto - Izpostava Drnovo,Sklop 7: ACB Novo mesto - Izpostava Drnovo (MMP Obrežje),Sklop 8: ACB Slovenske Konjice",
+  "kind": 1,
+  "value": 160460.65,
+  "signed": "2021-01-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OPRAVLJANJE STORITEV Z GRADBENO MEHANIZACIJO IN AVTOPREVOZNIŠTVO AVGUŠTIN SADAR S.P.",
+   "GP LEVAR gradbeno podjetje d.o.o.",
+   "IZKOPI NOVAK, ŽELJKO NOVAK s.p.",
+   "OŠTIR, prevozništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5397420000",
+   "6659012000",
+   "3322807000",
+   "1816110000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006654/2020-C01/POG-176088",
+  "published": "2021-03-11",
+  "files": [
+   {
+    "name": "POGODBE za sklop 1 3 4 5 6 7 8.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjA4ODtQT0dPREJFIHphIHNrbG9wIDEgMyA0IDUgNiA3IDguemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

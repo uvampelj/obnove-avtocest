@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 110526,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678793,
+  "idDosje": 270113,
+  "title": "VZDRŽEVANJE KOMUNIKACIJSKIH SISTEMOV ERICSSON (MITEL)",
+  "procurement": "VZDRŽEVANJE KOMUNIKACIJSKIH SISTEMOV ERICSSON (MITEL)",
+  "kind": 1,
+  "value": 80122.72,
+  "signed": "2018-10-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KRON TELEKOM, telekomunikacijski engeniring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5948649000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005453/2018-X01/POG-110526",
+  "published": "2018-10-04",
+  "files": [
+   {
+    "name": "Pogodba 1905-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDUyNjtQb2dvZGJhIDE5MDUtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

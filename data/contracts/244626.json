@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 244626,
+  "type": "DOD",
+  "prev": 151665,
+  "idObrazec": 773721,
+  "idDosje": 338292,
+  "title": "Aneks št. 2  k pogodbi DARS št. 1044/2020: Izdelava investicijske zasnove za odsek 3. razvojne osi od priključka Slovenj Gradec do vključno Dravograda z obvoznicami",
+  "procurement": "Izdelava investicijske zasnove za odsek 3. razvojne osi od priključka Slovenj Gradec do vključno Dravograda z obvoznicami",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-07-10",
+  "from": "2023-07-10",
+  "to": "2024-06-30",
+  "number": "829/2023",
+  "contractors": [
+   "EPLAN podjetniško in poslovno svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "2155346000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000166/2020-X01/DOD-244626",
+  "published": "2023-08-08",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NzM4NDtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154852,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704232,
+  "idDosje": 335327,
+  "title": "Vzpostavitev, razvoj in vzdrževanje kadrovskega informacijskega sistema",
+  "procurement": "Vzpostavitev, razvoj in vzdrževanje kadrovskega informacijskega sistema",
+  "kind": 1,
+  "value": 191026.38,
+  "signed": "2020-06-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Agitavit Solutions, informacijske rešitve in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "1797174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008669/2019-C01/POG-154852",
+  "published": "2020-06-17",
+  "files": [
+   {
+    "name": "Pogodba Agitavit.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDg1MjtQb2dvZGJhIEFnaXRhdml0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

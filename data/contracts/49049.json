@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 49049,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650992,
+  "idDosje": 45154,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku  Sklop B: izvajanje inženirskih storitev na informacijskem delu projekta",
+  "procurement": "Sklop B: izvajanje inženirskih storitev na informacijskem delu projekta",
+  "kind": 1,
+  "value": 683999.95,
+  "signed": "2016-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, D.O.O."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005498/2016-C01/POG-49049",
+  "published": "2016-09-28",
+  "files": [
+   {
+    "name": "pogodba 734-2016 - sklop B.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ5MDQ5O3BvZ29kYmEgNzM0LTIwMTYgLSBza2xvcCBCLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

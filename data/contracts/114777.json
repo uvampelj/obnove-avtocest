@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 114777,
+  "type": "DOD",
+  "prev": 99292,
+  "idObrazec": 770629,
+  "idDosje": 227097,
+  "title": "IZDELAVA ŠTUDIJE POSODOBITVE CESTNIH POVEZAV NA ODSEKIH SLOVENJ GRADEC – DRAVOGRAD IN OTIŠKI VRH - HOLMEC",
+  "procurement": "IZDELAVA ŠTUDIJE POSODOBITVE CESTNIH POVEZAV NA ODSEKIH SLOVENJ GRADEC – DRAVOGRAD IN OTIŠKI VRH - HOLMEC",
+  "kind": 1,
+  "value": 44997.76,
+  "signed": "2018-11-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009095/2017-C01/DOD-114777",
+  "published": "2018-11-23",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNDc3NztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

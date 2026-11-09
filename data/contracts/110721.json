@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 110721,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678890,
+  "idDosje": 264942,
+  "title": "Izdelava in uskladitev načrtov za mednarodno vodenje prometa (TMP) ",
+  "procurement": "Izdelava in uskladitev načrtov za mednarodno vodenje prometa (TMP) ",
+  "kind": 1,
+  "value": 272182.0,
+  "signed": "2018-10-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "EUDOM, družba za energetsko svetovanje, d.o.o., socialno podjetje",
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000",
+   "6558453000",
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004920/2018-C01/POG-110721",
+  "published": "2018-10-09",
+  "files": [
+   {
+    "name": "Pogodba 1911-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDcyMTtQb2dvZGJhIDE5MTEtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

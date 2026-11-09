@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 200575,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 729952,
+  "idDosje": 417889,
+  "title": "Vzdrževanje DARS EIS",
+  "procurement": "Vzdrževanje DARS EIS",
+  "kind": 2,
+  "value": 111024.01,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AMIBIT, energetski sistemi, d.o.o."
+  ],
+  "contractor_ids": [
+   "6930808000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006775/2021-X01/POG-200575",
+  "published": "2021-12-27",
+  "files": [
+   {
+    "name": "pogodba 1457-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMDU3NTtwb2dvZGJhIDE0NTctMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

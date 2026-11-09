@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168080,
+  "type": "DOD",
+  "prev": 49052,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 8 k pogodbi DARS št. 381/2000",
+  "procurement": "strokovno svetovalne storitve pri izgradnji AC",
+  "kind": 1,
+  "value": 12821.35,
+  "signed": "2020-12-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-10",
+  "files": [
+   {
+    "name": "Aneks podpisan-pog. 381-2000.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODA4MDtBbmVrcyBwb2RwaXNhbi1wb2cuIDM4MS0yMDAwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

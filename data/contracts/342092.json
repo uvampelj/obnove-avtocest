@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 342092,
+  "type": "DOD",
+  "prev": 267322,
+  "idObrazec": 986329,
+  "idDosje": 488398,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 573/2024 za Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda ",
+  "procurement": "Ureditev kraka A na priključku Logatec, zamenjava JVO in VO na odseku Logatec-Unec, zamenjava kažipotne signalizacije na priključkih Logatec in Unec ter počivališčih Lom in Ravbarkomanda",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-12-30",
+  "from": "2025-12-30",
+  "to": "2026-04-26",
+  "number": "000573/2024",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "005094/2023-POG/01-D01",
+  "published": "2026-01-29",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NjA2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

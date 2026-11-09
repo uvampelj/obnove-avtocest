@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 108154,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677941,
+  "idDosje": 263451,
+  "title": "Dobava fitofarmacevtskih sredstev in pomožnih materialov za vrtnarstvo",
+  "procurement": "Dobava fitofarmacevtskih sredstev in pomožnih materialov za vrtnarstvo",
+  "kind": 2,
+  "value": 161348.83,
+  "signed": "2018-09-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004590/2018-C01/POG-108154",
+  "published": "2018-09-14",
+  "files": [
+   {
+    "name": "pogodba 1831-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwODE1NDtwb2dvZGJhIDE4MzEtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

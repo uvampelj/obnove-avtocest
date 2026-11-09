@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 100131,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673798,
+  "idDosje": 245010,
+  "title": "Dobava pisarniškega materiala",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 139097.7,
+  "signed": "2018-05-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BIROPRODAJA storitve in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "3991512000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001274/2018-X01/POG-100131",
+  "published": "2018-05-31",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1522-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMDEzMTtQb2dvZGJhIERBUlMgxaF0LiAxNTIyLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

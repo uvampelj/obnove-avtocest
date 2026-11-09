@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 213080,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 737455,
+  "idDosje": 431379,
+  "title": "Dobava prometne opreme",
+  "procurement": "Dobava prometne opreme",
+  "kind": 2,
+  "value": 862250.13,
+  "signed": "2022-06-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZMAS SI, prometne storitve in signalizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "2372169000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000190/2022-C01/POG-213080",
+  "published": "2022-06-15",
+  "files": [
+   {
+    "name": "R Pogodba 944-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMzA4MDtSIFBvZ29kYmEgOTQ0LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

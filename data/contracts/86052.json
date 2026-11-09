@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 86052,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666442,
+  "idDosje": 205944,
+  "title": "Dobava priklopnih vozil z naletnim mehom  ",
+  "procurement": "Priklopno vozilo z naletnim mehom - sukcesivna  dobava,Priklopno vozilo z naletnim mehom -   enkratna dobava",
+  "kind": 2,
+  "value": 665449.0,
+  "signed": "2017-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004885/2017-C01/POG-86052",
+  "published": "2017-11-30",
+  "files": [
+   {
+    "name": "Pogodba 792-2017 in 955-2017.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg2MDUyO1BvZ29kYmEgNzkyLTIwMTcgaW4gOTU1LTIwMTcuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91671,
+  "type": "DOD",
+  "prev": 36847,
+  "idObrazec": 767915,
+  "idDosje": 17414,
+  "title": "Pasivna protihrupna zaščita za HC Koper – Izola",
+  "procurement": "PASIVNA PHZ ZA HC KOPER-IZOLA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AJM OKNA-VRATA-SENČILA d.o.o."
+  ],
+  "contractor_ids": [
+   "5391610000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001347/2016-X01/DOD-91671",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks-176-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjcxO2FuZWtzLTE3Ni0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

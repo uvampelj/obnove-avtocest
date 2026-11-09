@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 365828,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1015372,
+  "idDosje": 528311,
+  "title": "Promocijski material in darila",
+  "procurement": "Promocijski material in darila",
+  "kind": 2,
+  "value": 153412.56,
+  "signed": "2026-03-04",
+  "from": "2026-03-04",
+  "to": "2028-03-04",
+  "number": "000220/2026",
+  "contractors": [
+   "EURO-T, prosredništvo pri prodaji, d.o.o."
+  ],
+  "contractor_ids": [
+   "8492352000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009422/2025-POG/01",
+  "published": "2026-03-05",
+  "files": [
+   {
+    "name": "R_Pogodba 220-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY0MTUwO1JfUG9nb2RiYSAyMjAtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

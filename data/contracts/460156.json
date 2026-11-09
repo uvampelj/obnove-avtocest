@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 460156,
+  "type": "DOD",
+  "prev": 220088,
+  "idObrazec": 1146171,
+  "idDosje": 438993,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1061/2022 za Obnovo cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja ",
+  "procurement": "Obnova cestnega odseka AC A2 0002/0602 Hrušica-Lipce, vključno s sanacijo viaduktov Podmežakla 3L, 4L, 3D, 4D, 4aD in izvedbo zaščite odseka pred padajočim kamenjem s pobočja",
+  "kind": 3,
+  "value": 295321.68,
+  "signed": "2026-08-03",
+  "from": "2024-07-21",
+  "to": "2026-09-21",
+  "number": "001061/2022",
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "GARNOL, inženiring, gradnje in kadri, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5284830000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001738/2022-C01/POG-220088-D01",
+  "published": "2026-08-07",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg2NzM2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

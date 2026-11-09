@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 62942,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656347,
+  "idDosje": 25975,
+  "title": "Izdelava projektne dokumentacije PGD/PZI za izpostavo AC baze Kozina v Bertokih",
+  "procurement": "Izdelava projektne dokumentacije PGD/PZI za izpostavo AC baze Kozina v Bertokih.",
+  "kind": 1,
+  "value": 28047.8,
+  "signed": "2015-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAVAPROJEKT d.d."
+  ],
+  "contractor_ids": [
+   "5249686000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV3566/2015/POG-62942",
+  "published": "2017-02-22",
+  "files": [
+   {
+    "name": "pogodba 357-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYyOTQyO3BvZ29kYmEgMzU3LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

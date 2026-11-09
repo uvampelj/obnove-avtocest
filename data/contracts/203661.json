@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 203661,
+  "type": "DOD",
+  "prev": 133137,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 808/2019: Izdelava projektne dokumentacije IZP in PZI za rekonstrukcijo dela odseka na AC A1/0056 in 0656 Postojna – Razdrto od km 0,850 do km 1,300 vključno z zamenjavo mostu čez Pivko VA0187 in VA0188",
+  "procurement": "\tIzdelava projektne dokumentacije IZP in PZI za rekonstrukcijo dela odseka na AC A1/0056 in 0656 Postojna – Razdrto od km 0,850 do km 1,300 vključno z zamenjavo mostu čez Pivko VA0187 in VA0188",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-07-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-03",
+  "files": [
+   {
+    "name": "Aneks št.2 k pog.808-19.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzY2MTtBbmVrcyDFoXQuMiBrIHBvZy44MDgtMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

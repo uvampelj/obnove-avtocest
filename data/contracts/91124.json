@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91124,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 668876,
+  "idDosje": 232891,
+  "title": "Dobava in montaža klimatskih naprav v tovorna vozila",
+  "procurement": "Dobava in montaža klimatskih naprav v tovorna vozila",
+  "kind": 2,
+  "value": 34221.0,
+  "signed": "2018-02-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BEJA avtoservis in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5474116000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009835/2017-X01/POG-91124",
+  "published": "2018-02-02",
+  "files": [
+   {
+    "name": "pogodba 115-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxMTI0O3BvZ29kYmEgMTE1LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

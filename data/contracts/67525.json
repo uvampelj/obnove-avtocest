@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67525,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658001,
+  "idDosje": 186488,
+  "title": "Dobava zalivne mase in prednamaza za rege",
+  "procurement": "Dobava zalivne mase in prednamaza za rege",
+  "kind": 2,
+  "value": 107106.24,
+  "signed": "2017-04-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POSSEHL d.o.o."
+  ],
+  "contractor_ids": [
+   "5312841000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000760/2017-X01/POG-67525",
+  "published": "2017-04-11",
+  "files": [
+   {
+    "name": "pogodba 312-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3NTI1O3BvZ29kYmEgMzEyLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

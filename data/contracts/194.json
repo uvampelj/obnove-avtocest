@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 194,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630352,
+  "idDosje": 72001,
+  "title": "SKLOP 1— Naprava za postavitev in pobiranje stožcev",
+  "procurement": "Naprava za postavitev in pobiranje stožcev.",
+  "kind": 2,
+  "value": 77945.8,
+  "signed": "2015-01-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN541/2015/POG-194",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "POGODBA 48-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NDtQT0dPREJBIDQ4LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

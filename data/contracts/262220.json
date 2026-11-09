@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 262220,
+  "type": "DOD",
+  "prev": 190108,
+  "idObrazec": 799763,
+  "idDosje": 382554,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1033/2021 za Izvedbo revizije gradbenih načrtov PZI dokumentacije za premostitvene objekte in predore na novi prometni povezavi od priključka Šentrupert na A1 Šentilj-Koper do priključka Slovenj Gradec jug ",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za premostitvene objekte in predore na novi prometni povezavi od priključka Šentrupert na A1 Šentilj–Koper do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-02-29",
+  "from": "2024-02-29",
+  "to": "2024-08-03",
+  "number": "364/2024",
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000225/2021-C01/POG-190108-D02",
+  "published": "2024-03-19",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcyNjY2O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

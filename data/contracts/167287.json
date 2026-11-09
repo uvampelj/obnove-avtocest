@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167287,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711752,
+  "idDosje": 366144,
+  "title": "Prevzem različnih odpadnih materialov",
+  "procurement": "Odpadek številka 02,Odpadek številka 03,Odpadek številka 07,Odpadek številka 08,Odpadek številka 15",
+  "kind": 1,
+  "value": 87304.35,
+  "signed": "2020-11-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAUBERMACHER SLOVENIJA storitve pri varstvu okolja, trgovina in transport d.o.o.",
+   "EKOREL, ekološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5432391000",
+   "2229447000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005337/2020-X01/POG-167287",
+  "published": "2020-12-02",
+  "files": [
+   {
+    "name": "POGODBI.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI4NztQT0dPREJJLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

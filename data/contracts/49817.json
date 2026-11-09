@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 49817,
+  "type": "DOD",
+  "prev": 38909,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št.: 282/2016",
+  "procurement": "Rušenje objekta z naslovom Jagodje 33, Izola",
+  "kind": 3,
+  "value": 19032.0,
+  "signed": "2016-10-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRAFIST d.o.o."
+  ],
+  "contractor_ids": [
+   "1263293000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-10",
+  "files": [
+   {
+    "name": "Podpisan Aneks št. 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ5ODE3O1BvZHBpc2FuIEFuZWtzIMWhdC4gMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

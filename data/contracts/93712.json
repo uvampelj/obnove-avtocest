@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 93712,
+  "type": "DOD",
+  "prev": 35650,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 244/2016 \"Prevoz in varovanje vinjet\"",
+  "procurement": "Prevoz in varovanje vinjet",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-03-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d."
+  ],
+  "contractor_ids": [
+   "5263565000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-03-06",
+  "files": [
+   {
+    "name": "sprememba pogodbe št. 247-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzNzEyO3NwcmVtZW1iYSBwb2dvZGJlIMWhdC4gMjQ3LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

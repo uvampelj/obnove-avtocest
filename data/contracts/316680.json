@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 316680,
+  "type": "DOD",
+  "prev": 275115,
+  "idObrazec": 933827,
+  "idDosje": 509470,
+  "title": "Aneks št. 1 k pogodbi DARS 862/2024 : Izdelava IzN za obnovo vozne površine na delih odsekov na AC A5 0814/0914 Dolga vas—Lendava, 0816/0916 Lendava—Pince ter priključka 0185 Lendava in 0172 Pince ",
+  "procurement": "Izdelava izvedbenega načrta za obnovo vozne površine na delih odsekov na AC A5 0814/0914 Dolga vas—Lendava, 0816/0916 Lendava—Pince ter priključka 0185 Lendava in 0172 Pince",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-08-06",
+  "from": "2025-08-06",
+  "to": "2025-08-14",
+  "number": "000862/2024",
+  "contractors": [
+   "TNT Projektiranje in inženiring d.o.o.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "9047115000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002879/2024-POG/01-D01",
+  "published": "2025-08-08",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyNjYyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

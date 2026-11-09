@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 148048,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699846,
+  "idDosje": 334935,
+  "title": "Koordinator VZD 2020-2024",
+  "procurement": "Koordinator VZD 2020-2024",
+  "kind": 1,
+  "value": 96075.0,
+  "signed": "2020-03-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AKIS, Storitve in gradbeništvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3340759000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008503/2019-X01/POG-148048",
+  "published": "2020-03-06",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0ODA0ODtwb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

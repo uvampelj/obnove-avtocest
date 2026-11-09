@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 270082,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 823131,
+  "idDosje": 508639,
+  "title": "Dobava fitofarmacevtskih sredstev za zatiranje plevelov in ambrozije",
+  "procurement": "Dobava fitofarmacevtskih sredstev za zatiranje plevelov in ambrozije",
+  "kind": 2,
+  "value": 278361.3,
+  "signed": "2024-06-19",
+  "from": "2024-06-19",
+  "to": "2027-09-19",
+  "number": "000729/2024",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002300/2024-POG/01",
+  "published": "2024-06-26",
+  "files": [
+   {
+    "name": "Podpisana pogodba_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkxNDQ4O1BvZHBpc2FuYSBwb2dvZGJhX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

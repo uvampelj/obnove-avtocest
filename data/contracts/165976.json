@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165976,
+  "type": "DOD",
+  "prev": 100706,
+  "idObrazec": 770706,
+  "idDosje": 191605,
+  "title": "Aneks št.1 k pog.DARS št. 191/2018: Izvedba gradbeno instalacijskih del in digitalnega video nadzora na AC v Republiki Sloveniji - dodatna, več in manj dela, ter podaljšanje roka",
+  "procurement": "JN001733/2017-C01 ",
+  "kind": 3,
+  "value": 69260.93,
+  "signed": "2019-10-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001733/2017-C01/DOD-165976",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTk3NjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

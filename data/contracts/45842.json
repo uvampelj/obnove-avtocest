@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 45842,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 649974,
+  "idDosje": 158700,
+  "title": "Dobava pisarniškega materiala",
+  "procurement": "Papir na osnovi primarnih vlaken, ki izvirajo iz zakonitih virov in drug pisarniški material,Tonerji in kartuše",
+  "kind": 2,
+  "value": 175072.49,
+  "signed": "2016-08-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DZS, d.d.",
+   "PAVLIN d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5132088000",
+   "5357209000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002731/2016-X01/POG-45842",
+  "published": "2016-08-31",
+  "files": [
+   {
+    "name": "Dobava pisarniškega materiala - pogodba.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ1ODQyO0RvYmF2YSBwaXNhcm5pxaFrZWdhIG1hdGVyaWFsYSAtIHBvZ29kYmEuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146341,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 698641,
+  "idDosje": 328376,
+  "title": "Strokovno svetovalne storitve s področja upravljanj in rednega vzdrževanja AC in HC v upravljanju DARS d.d.",
+  "procurement": "Strokovno svetovalne storitve s področja upravljanj in rednega vzdrževanja AC in HC v upravljanju DARS d.d.",
+  "kind": 1,
+  "value": 1777662.0,
+  "signed": "2020-02-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007516/2019-C01/POG-146341",
+  "published": "2020-02-13",
+  "files": [
+   {
+    "name": "pogodba 346-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjM0MTtwb2dvZGJhIDM0Ni0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

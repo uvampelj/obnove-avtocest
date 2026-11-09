@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "id": 18886,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637663,
+  "idDosje": 77282,
+  "title": "Opravljanje tehničnih pregledov, registracije, letne dajatve za uporabo cest in pregledi tahografov",
+  "procurement": "ACB Postojna,ACB Hrušica,ACB Kozina,ACB Maribor,ACB Novo mesto",
+  "kind": 1,
+  "value": 434274.25,
+  "signed": "2015-08-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTOPLUS d.o.o. Koper",
+   "INTEGRAL AVTO d.o.o. Jesenice - skupina Alpetour Potovalna agencija",
+   "AVTO KRKA MB d.o.o.",
+   "AVTO KRKA NM d.o.o."
+  ],
+  "contractor_ids": [
+   "5516684000",
+   "2159708000",
+   "3530833000",
+   "3510310000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5644/2015/POG-18886",
+  "published": "2015-08-21",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4ODg2O3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

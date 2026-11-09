@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 96601,
+  "type": "DOD",
+  "prev": 25028,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 915/2015 -  Redno in intervencijsko vzdrževanje dilatacijskih naprav premostitvenih objektov",
+  "procurement": "Redno in intervencijsko vzdrževanje dilatacijskih naprav premostitvenih objektov",
+  "kind": 3,
+  "value": 174408.52,
+  "signed": "2018-04-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IPI, izvajalski in projektantski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5111498000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-18",
+  "files": [
+   {
+    "name": "Aneks DARS št. 1370-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk2NjAxO0FuZWtzIERBUlMgxaF0LiAxMzcwLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

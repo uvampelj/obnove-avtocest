@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 171631,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714603,
+  "idDosje": 369547,
+  "title": "Izdelava PZI za namestitev LED smernikov za vidno vodenje prometa v primeru megle Grosuplje - Bič",
+  "procurement": "Izdelava PZI za namestitev LED smernikov za vidno vodenje prometa v primeru megle Grosuplje - Bič",
+  "kind": 1,
+  "value": 39709.78,
+  "signed": "2021-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "TK PROJEKT, projektiranje, inženiring, nadzor, d.o.o.",
+   "CORUS INŽENIRJI d.o.o. Družba za inženiring, projektiranje in tehnično svetovanje"
+  ],
+  "contractor_ids": [
+   "1507664000",
+   "1554107000",
+   "3362183000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006083/2020-X01/POG-171631",
+  "published": "2021-01-25",
+  "files": [
+   {
+    "name": "Pogodba J.V. GVO+TK projekt+Corus inženirji-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTYzMTtQb2dvZGJhIEouVi4gR1ZPK1RLIHByb2pla3QrQ29ydXMgaW7FvmVuaXJqaS1vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290639,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 863834,
+  "idDosje": 511384,
+  "title": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault\nSKLOP 3 - Maribor",
+  "procurement": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault",
+  "kind": 1,
+  "value": 52582.0,
+  "signed": "2024-10-30",
+  "from": "2024-10-30",
+  "to": "2028-01-30",
+  "number": "001081/2024",
+  "contractors": [
+   "AVTO KOLETNIK prodaja in servis motornih vozil, obdelava kovin, trgovina, gostinstvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1391941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004410/2024-POG/02",
+  "published": "2024-11-04",
+  "files": [
+   {
+    "name": "Pogodba 1081-2024 S3_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1OTIzO1BvZ29kYmEgMTA4MS0yMDI0IFMzX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

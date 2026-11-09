@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "id": 110661,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678867,
+  "idDosje": 261116,
+  "title": "Vzdrževanje avtomatske detekcije (ADP) ter videonadzora (VNP) v predorih in pokritih vkopih",
+  "procurement": "Vzdrževanje avtomatske detekcije (ADP) ter videonadzora (VNP) v predorih in pokritih vkopih; sklop 1: ADP in VNP v predorih in na trasi,Vzdrževanje avtomatske detekcije (ADP) ter videonadzora (VNP) v predorih in pokritih vkopih; sklop 2: ADP in VNP v predorih in na trasi,Vzdrževanje avtomatske detekcije (ADP) ter videonadzora (VNP) v predorih in pokritih vkopih; sklop 3: tehnološko ethernet omrežje",
+  "kind": 1,
+  "value": 1077238.41,
+  "signed": "2018-09-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., projektiranje in proizvodnja, Kamnik",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+   "SMART COM d.o.o. informacijski in komunikacijski sistemi"
+  ],
+  "contractor_ids": [
+   "5753155000",
+   "5389984000",
+   "5315727000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004175/2018-C01/POG-110661",
+  "published": "2018-10-08",
+  "files": [
+   {
+    "name": "2018-000124 - podpisane pogodbe - 3 sklopi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDY2MTsyMDE4LTAwMDEyNCAtIHBvZHBpc2FuZSBwb2dvZGJlIC0gMyBza2xvcGkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

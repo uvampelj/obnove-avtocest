@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167612,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711963,
+  "idDosje": 364424,
+  "title": "Izdelava državnih načrtov za operativno vodenje avtocestnega prometa (TMP)",
+  "procurement": "Izdelava državnih načrtov za operativno vodenje avtocestnega prometa (TMP)",
+  "kind": 1,
+  "value": 311344.0,
+  "signed": "2020-11-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005107/2020-C01/POG-167612",
+  "published": "2020-12-07",
+  "files": [
+   {
+    "name": "pogodba 1558-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzYxMjtwb2dvZGJhIDE1NTgtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

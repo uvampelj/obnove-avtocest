@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 24076,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640093,
+  "idDosje": 72144,
+  "title": "aneks št. 2 k pog. DARS št. 1559/08: Predelava popisa del iz projektne dokumentacije PGD po matrični metodi za izkopna dela in izdelava projekta za izvedbo PZI pri izgradnji predora Markovec-dodatna d",
+  "procurement": "aneks št. 2 k pog. DARS št. 1559/08: Predelava popisa del iz projektne dokumentacije PGD po matrični metodi za izkopna dela in izdelava projekta za izvedbo PZI pri izgradnji predora Markovec-dodatna d",
+  "kind": 1,
+  "value": 118297.3,
+  "signed": "2015-10-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o.",
+   "IBE d.d.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000",
+   "5075696000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN7561/2015/POG-24076",
+  "published": "2015-10-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MDc2O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

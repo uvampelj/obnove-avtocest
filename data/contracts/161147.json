@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 161147,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708264,
+  "idDosje": 343523,
+  "title": "Izdelava projektne dokumentacije PZI za rekonstrukcijo odseka AC A1/0036 in 0636 Fram Slovenska Bistrica od km 6+450 do km 7+150 z zamenjavo viadukta VA0065 in rekonstrukcijo viadukta VA0361",
+  "procurement": "Izdelava projektne dokumentacije PZI za rekonstrukcijo odseka AC A1/0036 in 0636 Fram Slovenska Bistrica od km 6+450 do km 7+150 z zamenjavo viadukta VA0065 in rekonstrukcijo viadukta VA0361",
+  "kind": 1,
+  "value": 307421.33,
+  "signed": "2020-07-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000",
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000927/2020-C01/POG-161147",
+  "published": "2020-09-21",
+  "files": [
+   {
+    "name": "Pogodba J.V. Cestni inženiring d.o.o.+Ponting d.o.o.+Pipenbaher-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTE0NztQb2dvZGJhIEouVi4gQ2VzdG5pIGluxb5lbmlyaW5nIGQuby5vLitQb250aW5nIGQuby5vLitQaXBlbmJhaGVyLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

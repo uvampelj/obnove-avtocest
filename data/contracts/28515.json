@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 28515,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641940,
+  "idDosje": 14695,
+  "title": "Servisiranje vodnih aparatov",
+  "procurement": "Servisiranje vodnih aparatov",
+  "kind": 1,
+  "value": 77011.28,
+  "signed": "2016-01-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Broline d.o.o."
+  ],
+  "contractor_ids": [
+   "1459007000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV130/2016/POG-28515",
+  "published": "2016-01-08",
+  "files": [
+   {
+    "name": "pogodba 16-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI4NTE1O3BvZ29kYmEgMTYtMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

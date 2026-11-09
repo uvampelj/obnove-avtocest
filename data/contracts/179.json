@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 179,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630338,
+  "idDosje": 14638,
+  "title": "Dobava steklenih kroglic - perl.",
+  "procurement": "Dobava steklenih kroglic - perl.",
+  "kind": 2,
+  "value": 60390.0,
+  "signed": "2014-11-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Helios TBLUS d.o.o."
+  ],
+  "contractor_ids": [
+   "5043212000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV5205/2014/POG-179",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13140001586_141124_080939.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3OTtEMTMxNDAwMDE1ODZfMTQxMTI0XzA4MDkzOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 269540,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 821177,
+  "idDosje": 506934,
+  "title": "Servisiranje tovornih, delovnih in gospodarskih vozil\nSklop 1: Servisiranje tovornih vozil Mercedes Benz\nSklop 2: Servisiranje delovnih vozil Unimog\nSklop 3: Servisiranje gospodarskih vozil Mercedes Benz",
+  "procurement": "Servisiranje tovornih, delovnih in gospodarskih vozil",
+  "kind": 1,
+  "value": 334341.0,
+  "signed": "2024-06-10",
+  "from": "2024-06-10",
+  "to": "2027-09-10",
+  "number": "000703/2024",
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000999/2024-POG/01",
+  "published": "2024-06-17",
+  "files": [
+   {
+    "name": "Pogodba 703-2024_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg5OTI5O1BvZ29kYmEgNzAzLTIwMjRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

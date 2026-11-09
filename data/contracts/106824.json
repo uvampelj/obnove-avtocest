@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 106824,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677124,
+  "idDosje": 230491,
+  "title": "Dobava posipnih materialov",
+  "procurement": "Sol za silos - natrijev klorid - NaCl, granulacija 0/4 mm, vlaga do 1 %,Sol za silos - natrijev klorid - NaCl, granulacija 0/1 mm, vlaga do 1 %,Kalcijev klorid - CaCl2 - raztopina, granulat",
+  "kind": 2,
+  "value": 4818390.0,
+  "signed": "2018-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "MA-YDI trgovina in distribucija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5609283000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009737/2017-C01/POG-106824",
+  "published": "2018-08-28",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNjgyNDtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 507484,
+  "type": "DOD",
+  "prev": 228597,
+  "idObrazec": 1226893,
+  "idDosje": 449248,
+  "title": "Aneks št. 4 k pogodbi DARS, d. d., št. 1509/2022 za izdelavo sprememb in dopolnitev strokovnih podlag za izdelavo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "procurement": "Izdelava sprememb in dopolnitev strokovnih podlag za izdelavo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "kind": 1,
+  "value": 384332.4,
+  "signed": "2026-10-27",
+  "from": "2026-10-27",
+  "to": "2027-12-31",
+  "number": "001509/2022",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004439/2022-C01/POG-228597-D04",
+  "published": "2026-10-29",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjYzNjE4O0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

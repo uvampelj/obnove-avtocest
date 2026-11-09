@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 292537,
+  "type": "DOD",
+  "prev": 246876,
+  "idObrazec": 868960,
+  "idDosje": 483231,
+  "title": "Aneks št. 1 k pogodbi DARS št. 000951/2023 Čiščenje službenih oblek in osebne varovalne opreme",
+  "procurement": "Čiščenje službenih oblek in osebne varovalne opreme",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-11-20",
+  "from": "2024-11-20",
+  "to": "2025-12-07",
+  "number": "000951/2023",
+  "contractors": [
+   "CWS higienski sistemi in vzdrževanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5842018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003819/2023-X01/POG-246876-D01",
+  "published": "2024-11-22",
+  "files": [
+   {
+    "name": "Podpisan aneks 1177_2024_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzMwMDQyO1BvZHBpc2FuIGFuZWtzIDExNzdfMjAyNF9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

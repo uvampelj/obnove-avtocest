@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 163563,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 709663,
+  "idDosje": 356111,
+  "title": "Dobava osebne varovalne opreme in dezinfekcijskih sredstev",
+  "procurement": "Dobava osebne varovalne opreme in dezinfekcijskih sredstev",
+  "kind": 2,
+  "value": 195200.0,
+  "signed": "2020-10-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UTG VODNIK proizvodnja, trgovina d.o.o.",
+   "TOTAL trgovina na debelo, d.o.o.",
+   "GRIP TRGOVINA, proizvodnja, storitve, trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "2372754000",
+   "5335949000",
+   "1992236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003551/2020-C01/POG-163563",
+  "published": "2020-10-16",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUM objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MzU2MztPS1ZJUk5JIFNQT1JBWlVNIG9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315678,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930796,
+  "idDosje": 518858,
+  "title": "Sklop 5 - Prikolica selitvena 3 osna",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 71359.02,
+  "signed": "2025-07-25",
+  "from": "2025-07-25",
+  "to": "2026-04-25",
+  "number": "000962/2025",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001310/2025-POG/05",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "Pogodba Riko Ribnica 5_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMjI1O1BvZ29kYmEgUmlrbyBSaWJuaWNhIDVfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 81923,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 664210,
+  "idDosje": 212357,
+  "title": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "procurement": "Vzdrževanje usmerjevalnikov in mrežnih stikal",
+  "kind": 1,
+  "value": 140852.27,
+  "signed": "2017-09-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SRC sistemske integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006457/2017-X01/POG-81923",
+  "published": "2017-09-29",
+  "files": [
+   {
+    "name": "Pogodba 749-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgxOTIzO1BvZ29kYmEgNzQ5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

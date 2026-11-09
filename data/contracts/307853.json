@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 307853,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 907207,
+  "idDosje": 515498,
+  "title": "Dobava dizelskega goriva v interne črpalke naročnika (okvirni sporazum)",
+  "procurement": "Dobava dizelskega goriva v interne črpalke naročnika",
+  "kind": 2,
+  "value": 10736000.0,
+  "signed": "2025-03-27",
+  "from": "2025-03-27",
+  "to": "2029-06-27",
+  "number": "000619/2025, 000620/2025",
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "LOGO ENERGIJA, skladiščenje in prevozi, d.o.o."
+  ],
+  "contractor_ids": [
+   "5025796000",
+   "6394981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007811/2024-POG/01",
+  "published": "2025-04-23",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUMI red .zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcxMjU3O09LVklSTkkgU1BPUkFaVU1JIHJlZCAuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

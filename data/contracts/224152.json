@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 224152,
+  "type": "DOD",
+  "prev": 135509,
+  "idObrazec": 772832,
+  "idDosje": 309583,
+  "title": "Aneks št. 1 k pogodbi za Dobava in montaža varnostnih ograj",
+  "procurement": "tip LOS OPREMA,tip IM,tip RAL,sistem K-LIGHT,sistem Krems barrier - Voestalpine,Miniguards,Elementi varnostnih ograj pred uvedbo SIST EN 1317,Elementi varnostnih ograj v skladu s SIST EN 1317,Elementi varnostnih ograj H2 W4 v skladu s SIST EN 1317,Elementi varnostnih ograj LIGHT v skladu s SIST EN 1317,Elementi varnostnih ograj vgrajenih na AC v skladu s SIST EN 1317",
+  "kind": 2,
+  "value": 333153.16,
+  "signed": "2022-10-12",
+  "from": "2022-10-12",
+  "to": "2022-10-12",
+  "number": null,
+  "contractors": [
+   "LOS CESTNA OPREMA, trgovina in storitve, d.o.o.",
+   "KVEDER, trgovina, proizvodnja in predelava lesenih in kovinskih izdelkov, d.o.o.",
+   "LIKO Industrija kovinske opreme, d.d. Liboje",
+   "PETRIČ Proizvodnja in trgovina d.o.o.",
+   "SIGNALINEA d.o.o."
+  ],
+  "contractor_ids": [
+   "3771105000",
+   "2033984000",
+   "5206855000",
+   "5565316000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003310/2019-C01/DOD-224152",
+  "published": "2022-10-21",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog. 1454-2019, DARS št. 1288-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDM2MjtBbmVrcyDFoXQuIDEgayBwb2cuIDE0NTQtMjAxOSwgREFSUyDFoXQuIDEyODgtMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

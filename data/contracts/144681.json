@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 144681,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 697460,
+  "idDosje": 328123,
+  "title": "Izbira specialistov medicine dela",
+  "procurement": "Ljubljana, Dunajska 7,ACB Ljubljana,ACB Postojna,ACB Kozina,ACB Vransko,ACB Slovenske Konjice,ACB Maribor,ACB Murska Sobota",
+  "kind": 1,
+  "value": 294203.05,
+  "signed": "2020-01-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZDRAVSTVENI DOM LJUBLJANA",
+   "MEDICINA DELA, PROMETA IN ŠPORTA, ZASEBNA SPECIALISTIČNA ORDINACIJA, STARC PRELC DARJA, DR.MED.",
+   "ZDRAVSTVENI DOM CELJE",
+   "ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR",
+   "ZDRAVSTVENI DOM GORNJA RADGONA"
+  ],
+  "contractor_ids": [
+   "5056063000",
+   "1735764000",
+   "5619017000",
+   "5054095000",
+   "5858267000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007223/2019-C01/POG-144681",
+  "published": "2020-01-24",
+  "files": [
+   {
+    "name": "pogodbe.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDY4MTtwb2dvZGJlLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

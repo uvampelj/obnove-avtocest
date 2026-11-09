@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 106972,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677198,
+  "idDosje": 257408,
+  "title": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja",
+  "procurement": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja",
+  "kind": 2,
+  "value": 2654079.5,
+  "signed": "2018-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003196/2018-C01/POG-106972",
+  "published": "2018-08-29",
+  "files": [
+   {
+    "name": "pogodba 1776-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNjk3Mjtwb2dvZGJhIDE3NzYtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 141064,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695760,
+  "idDosje": 313647,
+  "title": "Nabava pohištva in ostale opreme 2019",
+  "procurement": "Pisarniško in ostalo pohištvo,Aparati in naprave,Kovinsko pohištvo",
+  "kind": 2,
+  "value": 326304.98,
+  "signed": "2019-12-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATLAS OPREMA, podjetje za proizvodnjo in trgovino z notranjo opremo, d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o.",
+   "TREVIS posredništvo in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5730716000",
+   "5898617000",
+   "5895243000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004426/2019-C01/POG-141064",
+  "published": "2019-12-12",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MTA2NDtwb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

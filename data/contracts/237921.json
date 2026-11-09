@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 237921,
+  "type": "DOD",
+  "prev": 176466,
+  "idObrazec": 775690,
+  "idDosje": 369284,
+  "title": "Aneks 1 k pog. DARS št. 494/2021, DARS št. 660/2023",
+  "procurement": "Izvedba intervencijskih in sanacijskih del na betonskih voziščnih konstrukcijah v predorih in na odprtih trasah AC in HC v upravljanju DARS d.d.",
+  "kind": 3,
+  "value": 55354.36,
+  "signed": "2023-05-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o.",
+   "HIPOX gradbeništvo, hidroizolacije, industrijski tlaki, d.o.o.",
+   "HIPOX gradbeništvo, hidroizolacije, industrijski tlaki, d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000",
+   "5689023000",
+   "5689023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006030/2020-C01/DOD-237921",
+  "published": "2023-05-15",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog, DARS št. 494-2021, DARS št. 660-2023,podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzOTY1OTtBbmVrcyDFoXQuIDEgayBwb2csIERBUlMgxaF0LiA0OTQtMjAyMSwgREFSUyDFoXQuIDY2MC0yMDIzLHBvZHBpc2FuLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

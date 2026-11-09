@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 174794,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 715976,
+  "idDosje": 373128,
+  "title": "Izvedba odkupov in PP ureditev nepremičnin za gradnjo odseka 3. in 4. etape (2. del) nove prometne povezave med AC A2 Ljubljana - Obrežje pri Novem mestu do priključka Maline  ",
+  "procurement": "Izvedba odkupov in PP ureditev nepremičnin za gradnjo odseka 3. in 4. etape (2. del) nove prometne povezave med AC A2 Ljubljana - Obrežje pri Novem mestu do priključka Maline  ",
+  "kind": 1,
+  "value": 122915.0,
+  "signed": "2021-02-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006699/2020-X01/POG-174794",
+  "published": "2021-02-22",
+  "files": [
+   {
+    "name": "Pogodba-LMR.-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDc5NDtQb2dvZGJhLUxNUi4tb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

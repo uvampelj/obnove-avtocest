@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228188,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745724,
+  "idDosje": 435831,
+  "title": "Nabava električne energije od 1. 1. 2023 od 00:00 ure do 31. 12. 2023 do 24:00 ure",
+  "procurement": "Nabava električne energije od 1. 1. 2023 od 00:00 ure do 31. 12. 2023 do 24:00 ure",
+  "kind": 2,
+  "value": 9353747.27,
+  "signed": "2022-12-23",
+  "from": "2023-01-01",
+  "to": "2023-12-31",
+  "number": "1657/2022",
+  "contractors": [
+   "ECE, energetska družba, d.o.o."
+  ],
+  "contractor_ids": [
+   "6064892000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000967/2022-C01/POG-228188",
+  "published": "2022-12-28",
+  "files": [
+   {
+    "name": "r pogodba 1657-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODgxNjtyIHBvZ29kYmEgMTY1Ny0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

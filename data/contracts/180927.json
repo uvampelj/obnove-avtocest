@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 180927,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 719293,
+  "idDosje": 371316,
+  "title": "Nabava pisarniškega pohištva, aparatov, biro opreme in ostale opreme",
+  "procurement": "Sklop 1  Pohištvo,Sklop 2  Aparati",
+  "kind": 2,
+  "value": 151755.8,
+  "signed": "2021-04-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LESNINA MG OPREMA podjetje za inženiring, d.d., Ljubljana",
+   "ATLAS OPREMA, podjetje za proizvodnjo in trgovino z notranjo opremo, d.o.o."
+  ],
+  "contractor_ids": [
+   "5662257000",
+   "5730716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006384/2020-C01/POG-180927",
+  "published": "2021-05-10",
+  "files": [
+   {
+    "name": "Pog. sklop1 in sklop 2.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MDkyNztQb2cuIHNrbG9wMSBpbiBza2xvcCAyLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

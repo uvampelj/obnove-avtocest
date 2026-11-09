@@ -1,0 +1,47 @@
+{
+ "meta": {
+  "id": 184292,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721592,
+  "idDosje": 371589,
+  "title": "OBNOVA VOZIL IN OPREME",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana,ACB Kozina,ACB Vransko,ACB Novo mesto,ACB Murska Sobota",
+  "kind": 1,
+  "value": 236039.01,
+  "signed": "2021-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna",
+   "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+   "AVTOSTORITVE ROGELJ avtokleparstvo in trgovina, d.o.o.",
+   "BENUSSI, podjetje za trgovino, d.o.o.",
+   "AVTO CENTER MAKOTER, servis in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "1570307000",
+   "1482696000",
+   "5898692000",
+   "6272070000",
+   "5358701000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006646/2020-C01/POG-184292",
+  "published": "2021-06-28",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDI5MjtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

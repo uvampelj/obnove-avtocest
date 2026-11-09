@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 169570,
+  "type": "DOD",
+  "prev": 87551,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.2 k pog.DARS št.: 836/2017: Izdelava strokovnih podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prostorski načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi državnega prostorskega načrta) - podaljšanje roka",
+  "procurement": "Izdelava strok. podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prost. načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi držav. prost.načrta)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTU3MDtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "id": 44188,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 649044,
+  "idDosje": 52334,
+  "title": "Dobava vozil, cestne mehanizacije in opreme",
+  "procurement": "Blažilec trka na tovornjaku,Svetilni balon z agregatom,Kombinirana tovorna vozila,Stroj za pometanje cest,Kosilnica - mulčer za brežine",
+  "kind": 2,
+  "value": 1019403.18,
+  "signed": "2016-07-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ d.o.o.",
+   "IMEXA d.o.o.",
+   "AVTOTEHNA VIS, d.o.o.",
+   "RIKO RIBNICA d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000",
+   "5898617000",
+   "5504023000",
+   "5742960000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004414/2016-C01/POG-44188",
+  "published": "2016-08-05",
+  "files": [
+   {
+    "name": "Pogodbe -Dobava vozil, cestne mehanizacije in opreme.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ0MTg4O1BvZ29kYmUgLURvYmF2YSB2b3ppbCwgY2VzdG5lIG1laGFuaXphY2lqZSBpbiBvcHJlbWUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

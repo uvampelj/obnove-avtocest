@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 434767,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1110539,
+  "idDosje": 540028,
+  "title": "Poslovni najem vozil z nizkimi emisijami: SKLOP 1 - Osebno vozilo, vsaj 110 kW; SKLOP 2 - Terensko vozilo, 4x4, vsaj 150 kW",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 543841.78,
+  "signed": "2026-06-03",
+  "from": "2026-06-03",
+  "to": "2033-07-03",
+  "number": "000697/2026",
+  "contractors": [
+   "ATET PODJETJE ZA IZPOSOJO AVTOMOBILOV D.O.O., LJUBLJANA"
+  ],
+  "contractor_ids": [
+   "5967155001"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000826/2026-POG/01",
+  "published": "2026-06-08",
+  "files": [
+   {
+    "name": "Red_Pogodba 697-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU0Mjk2O1JlZF9Qb2dvZGJhIDY5Ny0yMDI2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165841,
+  "type": "DOD",
+  "prev": 120582,
+  "idObrazec": 771761,
+  "idDosje": 249306,
+  "title": "Aneks št. 3 k pog. DARS št. 1904/2018: IZVEDBA SISTEMA NADZORA IN VODENJA PROMETA (SNVP) NA AC BREZOVICA – DIVAČA, SEVERNA, VZHODNA, JUŽNA LJUBLJANSKA OBVOZNICA IN AC ZADOBROVA – LUKOVICA – PERIFERNA OPREMA - dodatna, več in manj dela ",
+  "procurement": "IZVEDBA SISTEMA NADZORA IN VODENJA PROMETA (SNVP) NA AC BREZOVICA DIVAČA, SEVERNA, VZHODNA, JUŽNA LJUBLJANSKA OBVOZNICA IN AC ZADOBROVA LUKOVICA PERIFERNA OPREMA",
+  "kind": 3,
+  "value": 612709.95,
+  "signed": "2019-12-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in elektronska industrija, d.d.",
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002373/2018-C01/DOD-165841",
+  "published": "2020-11-15",
+  "files": [
+   {
+    "name": "aneks-3.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTg0MTthbmVrcy0zLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

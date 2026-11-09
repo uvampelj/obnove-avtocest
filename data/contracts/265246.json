@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265246,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807819,
+  "idDosje": 506094,
+  "title": "Posebna revizija za preveritev vodenja posameznih poslov družbe DARS d. d., za obdobje od 1. 1. 2019 do 31. 12. 2023 ter podaja priporočil za izboljšanje procesov",
+  "procurement": "Posebna revizija za preveritev vodenja posameznih poslov družbe DARS, d. d., za obdobje od 1. 1. 2019 do 31. 12. 2023 ter podaja priporočil za izboljšanje procesov",
+  "kind": 1,
+  "value": 183000.0,
+  "signed": "2024-04-02",
+  "from": "2024-04-02",
+  "to": "2024-11-01",
+  "number": "000495/2024",
+  "contractors": [
+   "ERNST & YOUNG Revizija, poslovno svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5716888000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000413/2024-POG/01",
+  "published": "2024-04-19",
+  "files": [
+   {
+    "name": "podpisana pogodba_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5MjE2O3BvZHBpc2FuYSBwb2dvZGJhX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

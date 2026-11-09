@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 171138,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714279,
+  "idDosje": 366918,
+  "title": "Poslovni najem vozil z nizkimi emisijami",
+  "procurement": "Vozilo z večjo oddaljenostjo od tal, vsaj 80 kW,Karavan, vsaj 110 kW,Karavan z večjo oddaljenostjo od tal, vsaj 140 kW,Osebno vozilo, vsaj 200 kW,Električni avtomobil, vsaj 60 kW,Električni najem, vsaj 110 kW",
+  "kind": 2,
+  "value": 819832.0,
+  "signed": "2021-01-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana",
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "5790760000",
+   "5504023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005614/2020-C01/POG-171138",
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "POGODBI 43-44-2021.rar",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTEzODtQT0dPREJJIDQzLTQ0LTIwMjEucmFy"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

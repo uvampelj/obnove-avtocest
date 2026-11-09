@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 367279,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1018983,
+  "idDosje": 528722,
+  "title": "Dobava opreme za delavnice; Sklop 1 - Tester za diagnostiko",
+  "procurement": "Dobava opreme za delavnice",
+  "kind": 2,
+  "value": 18897.8,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2026-09-16",
+  "number": "000415/2026",
+  "contractors": [
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5350131000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009769/2025-POG/01",
+  "published": "2026-03-18",
+  "files": [
+   {
+    "name": "RED_Pogodba SKLOP 1_415-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY3Mjc2O1JFRF9Qb2dvZGJhIFNLTE9QIDFfNDE1LTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

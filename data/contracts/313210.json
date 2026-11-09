@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 313210,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 923436,
+  "idDosje": 520102,
+  "title": "Sklop 5: Oprema za vzdrževanje",
+  "procurement": "DOBAVA DROBNE OPREME",
+  "kind": 2,
+  "value": 4776.54,
+  "signed": "2025-06-26",
+  "from": "2025-06-26",
+  "to": "2026-03-26",
+  "number": "000865/2025",
+  "contractors": [
+   "MANA OMERZU, proizvodnja,servis, trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "6318070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002308/2025-POG/04",
+  "published": "2025-06-30",
+  "files": [
+   {
+    "name": "Pogodba Mana Omerzu 5_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0MzI3O1BvZ29kYmEgTWFuYSBPbWVyenUgNV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

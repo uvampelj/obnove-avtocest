@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95911,
+  "type": "DOD",
+  "prev": 19817,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 569/2015 z dne 24.7.2015",
+  "procurement": "Izdelava dopolnitve projektne dokumentacije PGD in PZI HC Jagodje-Lucija in priključne ceste za Piran - objekti, zidovi, KVS in SNVP",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-04-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-10",
+  "files": [
+   {
+    "name": "podpisan aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1OTExO3BvZHBpc2FuIGFuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 390294,
+  "type": "DOD",
+  "prev": 242344,
+  "idObrazec": 1046934,
+  "idDosje": 468531,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 752/2023 za Obnovo lokalnih cestninskih centrov nadzora Dragotinci, Pesnica in Tepanje",
+  "procurement": "Obnova lokalnih centrov cestninskega nadzora: Sklop 1: Dragotinci, Pesnica in Tepanje; Sklop 2: Nanos in Videž; Sklop 3: Krško z izpostavo Drnovo",
+  "kind": 3,
+  "value": 569840.08,
+  "signed": "2026-03-31",
+  "from": "2026-03-31",
+  "to": "2026-03-31",
+  "number": "000752/2023",
+  "contractors": [
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o.",
+   "VOC Objekti, visoke gradnje d.o.o.",
+   "REMONT obrtno gradbeno podjetje, d.d."
+  ],
+  "contractor_ids": [
+   "5511941000",
+   "6303501000",
+   "5066816000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000170/2023-C01/POG-242344-D01",
+  "published": "2026-04-15",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkzNTk2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

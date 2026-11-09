@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192027,
+  "type": "DOD",
+  "prev": 36467,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 2 k pog. DARS št. 264/16: Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokumentacije v predorih Pletovarje in Golo rebro ",
+  "procurement": "Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokum.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-09-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-09-17",
+  "files": [
+   {
+    "name": "aneks št.2 k pog. 264-2016-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjAyNzthbmVrcyDFoXQuMiBrIHBvZy4gMjY0LTIwMTYtb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

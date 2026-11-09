@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 192045,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 725326,
+  "idDosje": 404535,
+  "title": "DARS 1118/2021 Izdelava novelacije DGD / PZI projektne dokumentacije za projekt Navezava luke Koper na AC omrežje (Srminska vpadnica)",
+  "procurement": "Izdelava novelacije DGD / PZI projektne dokumentacije za projekt Navezava luke Koper na AC omrežje (Srminska vpadnica)",
+  "kind": 1,
+  "value": 284635.46,
+  "signed": "2021-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004938/2021-C01/POG-192045",
+  "published": "2021-09-17",
+  "files": [
+   {
+    "name": "Pogodba_DARS_1118_2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MjA0NTtQb2dvZGJhX0RBUlNfMTExOF8yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

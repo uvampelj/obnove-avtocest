@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 144406,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 697261,
+  "idDosje": 310628,
+  "title": "Dobava in montaža skladiščnih regalov",
+  "procurement": "Dobava in montaža skladiščnih regalov",
+  "kind": 2,
+  "value": 214890.8,
+  "signed": "2020-01-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003483/2019-X01/POG-144406",
+  "published": "2020-01-22",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDQwNjtQb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

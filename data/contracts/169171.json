@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169171,
+  "type": "DOD",
+  "prev": 147583,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 425/2020: Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 10,350 do km 11,717 ter 0029 in 0329 Brežice-Obrežje od km 0,000 do km 8,150 ",
+  "procurement": "Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 10,350 do km 11,717 ter 0029 in 0329 Brežice-Obrežje od km 0,000 do km 8,150 ",
+  "kind": 1,
+  "value": 15298.8,
+  "signed": "2020-10-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-19",
+  "files": [
+   {
+    "name": "Aneks št.1-za-objavo_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTE3MTtBbmVrcyDFoXQuMS16YS1vYmphdm9fUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

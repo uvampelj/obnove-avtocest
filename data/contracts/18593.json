@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "id": 18593,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637536,
+  "idDosje": 80392,
+  "title": "Dobava vertikalne prometne signalizacije",
+  "procurement": "Dobava vertikalne prometne signalizacije",
+  "kind": 2,
+  "value": 729786.31,
+  "signed": "2015-08-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MEBLO SIGNALIZACIJA d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "6137903000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5618/2015/POG-18593",
+  "published": "2015-08-18",
+  "files": [
+   {
+    "name": "D13150000656_150810_131556.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NTkzO0QxMzE1MDAwMDY1Nl8xNTA4MTBfMTMxNTU2LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

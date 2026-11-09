@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124677,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686412,
+  "idDosje": 298090,
+  "title": "Prevoz in varovanje vinjet",
+  "procurement": "Prevoz in varovanje vinjet",
+  "kind": 1,
+  "value": 195200.0,
+  "signed": "2019-04-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d."
+  ],
+  "contractor_ids": [
+   "5263565000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000980/2019-X01/POG-124677",
+  "published": "2019-04-15",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDY3Nztwb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

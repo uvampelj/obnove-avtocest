@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 100698,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 674117,
+  "idDosje": 242341,
+  "title": "IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA OBNOVO VOZIŠČNE KONSTRUKCIJE IN OBJEKTOV NA ODSEKIH HC H4/ 0378 IN 0778 SELO - VOGRSKO OD KM 0,650 DO KM 6,731 IN NA H4/0379 IN 0779 VOGRSKO - ŠEMPETER OD KM 0,000 DO KM 4,470 IN NA PRIKLJUČKU 0444 VOGRSKO ",
+  "procurement": "IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA OBNOVO VOZIŠČNE KONSTRUKCIJE IN OBJEKTOV NA ODSEKIH HC H4/ 0378 IN 0778 SELO - VOGRSKO OD KM 0,650 DO KM 6,731 IN NA H4/0379 IN 0779 VOGRSKO - ŠEMPETER OD KM 0,000 DO KM 4,470 IN NA PRIKLJUČKU 0444 VOGRSKO ",
+  "kind": 1,
+  "value": 296483.7,
+  "signed": "2018-05-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000799/2018-C01/POG-100698",
+  "published": "2018-06-07",
+  "files": [
+   {
+    "name": "Pogodba-J.V. Ginex Int.+PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMDY5ODtQb2dvZGJhLUouVi4gR2luZXggSW50LitQTloucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

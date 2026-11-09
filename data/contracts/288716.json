@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 288716,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 858281,
+  "idDosje": 511951,
+  "title": "Sklop 3 - Servisiranje strojev Kubota",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 54412.0,
+  "signed": "2024-10-07",
+  "from": "2024-10-07",
+  "to": "2027-10-07",
+  "number": "001025/2024",
+  "contractors": [
+   "MKB CENTER trgovina, zastopstva in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2098113000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004930/2024-POG/03",
+  "published": "2024-10-09",
+  "files": [
+   {
+    "name": "Pogodba - MKB CENTER d.o.o.-3_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIxNDQ2O1BvZ29kYmEgLSBNS0IgQ0VOVEVSIGQuby5vLi0zX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 144053,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 697030,
+  "idDosje": 306346,
+  "title": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše viadukte, predore in pokrite vkope na novi prometni povezavi med priključkom Velenje jug do priključka Slovenj Gradec jug",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše viadukte, predore in pokrite vkope na novi prometni povezavi med priključkom Velenje jug do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 389668.0,
+  "signed": "2019-08-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000",
+   "1626981000",
+   "1795490000",
+   "1708597000",
+   "2074699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002705/2019-C01/POG-144053",
+  "published": "2020-01-18",
+  "files": [
+   {
+    "name": "Pogodba-JV ELEA iC+UL FGG+GI ZRMK+PIPENBAHER INŽENIRJI+ GEOPORTAL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDA1MztQb2dvZGJhLUpWIEVMRUEgaUMrVUwgRkdHK0dJIFpSTUsrUElQRU5CQUhFUiBJTsW9RU5JUkpJKyBHRU9QT1JUQUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

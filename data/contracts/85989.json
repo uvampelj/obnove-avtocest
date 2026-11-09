@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85989,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666400,
+  "idDosje": 225819,
+  "title": "Izvedba oglaševanja sistema DarsGo",
+  "procurement": "Izvedba oglaševanja sistema DarsGo - Izvedba oglaševanja na zadnjih stranicah priklopnih vozil",
+  "kind": 1,
+  "value": 59780.0,
+  "signed": "2017-11-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRETOK IDEJE, poslovne komunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5921546000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008815/2017-X01/POG-85989",
+  "published": "2017-11-29",
+  "files": [
+   {
+    "name": "Pogodba 947-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1OTg5O1BvZ29kYmEgOTQ3LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

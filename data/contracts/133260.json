@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 133260,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691449,
+  "idDosje": 311737,
+  "title": "Hidrološko hidravlična študija za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "procurement": "Hidrološko hidravlična študija za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "kind": 1,
+  "value": 201847.78,
+  "signed": "2019-08-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003789/2019-X01/POG-133260",
+  "published": "2019-09-04",
+  "files": [
+   {
+    "name": "Pogodba Izvor-R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzI2MDtQb2dvZGJhIEl6dm9yLVIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

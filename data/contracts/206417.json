@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 206417,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 733768,
+  "idDosje": 418735,
+  "title": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za ureditev platoja Karavanke",
+  "procurement": "Izdelava študije variant / predinvesticijske zasnove in državnega prostorskega načrta za ureditev platoja Karavanke",
+  "kind": 1,
+  "value": 376949.5,
+  "signed": "2022-02-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007065/2021-C01/POG-206417",
+  "published": "2022-03-07",
+  "files": [
+   {
+    "name": "Pogodba-JV LUZ+PNZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNjQxNztQb2dvZGJhLUpWIExVWitQTlpfb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

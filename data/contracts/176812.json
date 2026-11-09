@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 176812,
+  "type": "DOD",
+  "prev": 139019,
+  "idObrazec": 773040,
+  "idDosje": 327347,
+  "title": "Aneks št. 1 DARS št. 527/2021",
+  "procurement": "Vzdrževanje in    nadgradnja sistemov Registracija delovnega časa (RDČ) in kontrole pristopa (KP)",
+  "kind": 1,
+  "value": 25967.7,
+  "signed": "2021-03-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ČETRTA POT, avtomatska identifikacija, računalništvo in informatika, d.o.o."
+  ],
+  "contractor_ids": [
+   "5337976000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007082/2019-C01/DOD-176812",
+  "published": "2021-03-22",
+  "files": [
+   {
+    "name": "Aneks št. 1, DARS št. 527-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjgxMjtBbmVrcyDFoXQuIDEsIERBUlMgxaF0LiA1MjctMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

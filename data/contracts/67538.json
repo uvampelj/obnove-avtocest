@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67538,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658014,
+  "idDosje": 184862,
+  "title": "Izdelava projekta za obnovo ACB Hrušica – idejni projekt in projekt za izvedbo",
+  "procurement": "Izdelava projekta za obnovo ACB Hrušica – idejni projekt in projekt za izvedbo",
+  "kind": 1,
+  "value": 36966.0,
+  "signed": "2017-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT d.d. NOVA GORICA"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000351/2017-X01/POG-67538",
+  "published": "2017-04-11",
+  "files": [
+   {
+    "name": "pogodba Projekt dd.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3NTM4O3BvZ29kYmEgUHJvamVrdCBkZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

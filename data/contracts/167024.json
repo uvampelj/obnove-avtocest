@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167024,
+  "type": "DOD",
+  "prev": 128985,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 601/2019: Izdelava študije variant / predinvesticijske zasnove za glavno cesto Ptuj – Markovci - dodatna in več dela",
+  "procurement": "IZDELAVA ŠTUDIJE VARIANT / PREDINVESTICIJSKE ZASNOVE ZA GLAVNO CESTO PTUJ - MARKOVCI",
+  "kind": 1,
+  "value": 74768.38,
+  "signed": "2020-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-28",
+  "files": [
+   {
+    "name": "Aneks št. 2 k pog-601-2019-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAyNDtBbmVrcyDFoXQuIDIgayBwb2ctNjAxLTIwMTktT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

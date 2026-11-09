@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 175,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630335,
+  "idDosje": 11751,
+  "title": "Prevzem odpadnih materialov po nezgodah",
+  "procurement": "Odpadki iz zdravstva ali veterinarstva in/ali z njima povezanih raziskav",
+  "kind": 1,
+  "value": 15877.5,
+  "signed": "2015-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RETAL d.o.o."
+  ],
+  "contractor_ids": [
+   "3282252000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1424/2015/POG-175",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000191_150316_134138.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NTtEMTMxNTAwMDAxOTFfMTUwMzE2XzEzNDEzOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

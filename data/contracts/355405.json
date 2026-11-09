@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 355405,
+  "type": "DOD",
+  "prev": 273427,
+  "idObrazec": 1004286,
+  "idDosje": 500910,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 819/2024 za Prenovo ESO v predorih Debeli hrib in Mali vrh ",
+  "procurement": "Prenova ESO v predorih Debeli hrib in Mali vrh",
+  "kind": 3,
+  "value": -486.28,
+  "signed": "2026-02-19",
+  "from": "2026-02-19",
+  "to": "2026-02-22",
+  "number": "000819/2024",
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "007948/2023-POG/01-D01",
+  "published": "2026-03-02",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUzMjM5O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

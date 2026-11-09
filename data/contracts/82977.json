@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 82977,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 664751,
+  "idDosje": 218928,
+  "title": "Servisiranje RDA metrov",
+  "procurement": "Servisiranje RDA metrov",
+  "kind": 1,
+  "value": 129930.0,
+  "signed": "2017-10-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JUTI Zastopstva, svetovanje, trgovina in nepremičnine d.o.o."
+  ],
+  "contractor_ids": [
+   "2098156000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007591/2017-X01/POG-82977",
+  "published": "2017-10-13",
+  "files": [
+   {
+    "name": "Pogodba 791-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgyOTc3O1BvZ29kYmEgNzkxLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

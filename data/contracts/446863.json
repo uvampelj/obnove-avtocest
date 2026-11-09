@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 446863,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1126809,
+  "idDosje": 550719,
+  "title": "Aktivna TK oprema",
+  "procurement": "Aktivna TK oprema",
+  "kind": 2,
+  "value": 5978000.0,
+  "signed": "2026-06-30",
+  "from": "2026-06-30",
+  "to": "2030-06-30",
+  "number": "000759/2026",
+  "contractors": [
+   "SRC sistemske integracije d.o.o.",
+   "NIL Podatkovne komunikacije, d.o.o.",
+   "Kontron SI, sistemske integracije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000",
+   "5286174000",
+   "9750681000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001418/2026-POG/01",
+  "published": "2026-07-02",
+  "files": [
+   {
+    "name": "RED_OKVIRNI SPORAZUMI 000759-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5MjQ2O1JFRF9PS1ZJUk5JIFNQT1JBWlVNSSAwMDA3NTktMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

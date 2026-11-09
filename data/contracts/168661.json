@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168661,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712615,
+  "idDosje": 356733,
+  "title": "Recenzija projektne dokumentacije za investicije na obstoječih AC in HC v upravljanju DARS d.d.",
+  "procurement": "Recenzija projektne dokumentacije za investicije na obstoječih AC in HC v upravljanju DARS d.d.",
+  "kind": 1,
+  "value": 1144893.75,
+  "signed": "2020-12-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003670/2020-C01/POG-168661",
+  "published": "2020-12-17",
+  "files": [
+   {
+    "name": "podpisana pogodba za objavo 1590-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODY2MTtwb2RwaXNhbmEgcG9nb2RiYSB6YSBvYmphdm8gMTU5MC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 35487,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645499,
+  "idDosje": 9750,
+  "title": "Vzdrževanje telekomunikacijske opreme SDH",
+  "procurement": "Vzdrževanje telekomunikacijske opreme SDH.",
+  "kind": 1,
+  "value": 127797.44,
+  "signed": "2016-03-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, d.d."
+  ],
+  "contractor_ids": [
+   "5185726000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1775/2016/POG-35487",
+  "published": "2016-03-22",
+  "files": [
+   {
+    "name": "pogodba 223-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM1NDg3O3BvZ29kYmEgMjIzLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

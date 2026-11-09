@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287875,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 855789,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov; Kategorija 1-M-W (NaCl)",
+  "procurement": "Dobava posipnih materialov ",
+  "kind": 2,
+  "value": 627049.5,
+  "signed": "2024-09-25",
+  "from": "2024-10-15",
+  "to": "2025-08-15",
+  "number": "000990/2024",
+  "contractors": [
+   "SOLTIS, družba za promet blaga in storitev, d.o.o."
+  ],
+  "contractor_ids": [
+   "3526402000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/04",
+  "published": "2024-09-30",
+  "files": [
+   {
+    "name": "pogodba 000990-2024 K1_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDg3O3BvZ29kYmEgMDAwOTkwLTIwMjQgSzFfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 328813,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 969317,
+  "idDosje": 524394,
+  "title": "Samohodni stroj za urejanje vegetacije",
+  "procurement": "Samohodni stroj za urejanje vegetacije",
+  "kind": 2,
+  "value": 658312.0,
+  "signed": "2025-12-22",
+  "from": "2025-12-22",
+  "to": "2031-08-22",
+  "number": "001532/2025",
+  "contractors": [
+   "Energreen S.p.A"
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005998/2025-POG/01",
+  "published": "2025-12-29",
+  "files": [
+   {
+    "name": "R_Pogodba 001532-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwOTgwO1JfUG9nb2RiYSAwMDE1MzItMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

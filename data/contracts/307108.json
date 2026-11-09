@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307108,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 904870,
+  "idDosje": 519754,
+  "title": "Pogodba za Upravljanje in nadgradnja informacijskega sistema za avtomatske števce prometa - QLTCnet",
+  "procurement": "Upravljanje in nadgradnja informacijskega sistema za avtomatske števce prometa - QLTCnet",
+  "kind": 1,
+  "value": 55192.8,
+  "signed": "2025-04-09",
+  "from": "2025-04-01",
+  "to": "2026-07-01",
+  "number": "000644/2025",
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002036/2025-POG/01",
+  "published": "2025-04-15",
+  "files": [
+   {
+    "name": "Pogodba_34_2025 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY5NDE0O1BvZ29kYmFfMzRfMjAyNSBQSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

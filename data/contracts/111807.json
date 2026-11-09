@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 111807,
+  "type": "DOD",
+  "prev": 111731,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1058/2017 za Vzdrževanje srednjenapetostnih 10/20 kV naprav",
+  "procurement": "Vzdrževanje srednjenapetostnih 10/20 kV naprav",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-10-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTRO LJUBLJANA, podjetje za distribucijo električne energije, d.d."
+  ],
+  "contractor_ids": [
+   "5227992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-10-19",
+  "files": [
+   {
+    "name": "aneks 1_vzdr srednjenapetostnih kV naprav.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTgwNzthbmVrcyAxX3Z6ZHIgc3JlZG5qZW5hcGV0b3N0bmloIGtWIG5hcHJhdi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

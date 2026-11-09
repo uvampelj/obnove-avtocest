@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 156495,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 705196,
+  "idDosje": 348066,
+  "title": "Izdelava projektne dokumentacije IZN sanacije geotehničnih sider na opornem zidu Sela (VA6175) na AC A2/0020 odsek med Malencami in Šmarjem -Sap v km 1,814 do 1,918  ",
+  "procurement": "Izdelava projektne dokumentacije IZN sanacije geotehničnih sider na opornem zidu Sela (VA6175) na AC A2/0020 odsek med Malencami in Šmarjem -Sap v km 1,814 do 1,918  ",
+  "kind": 1,
+  "value": 36420.54,
+  "signed": "2020-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001993/2020-X01/POG-156495",
+  "published": "2020-07-14",
+  "files": [
+   {
+    "name": "Pogodba IRGO CONSULTING d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NjQ5NTtQb2dvZGJhIElSR08gQ09OU1VMVElORyBkLm8uby4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

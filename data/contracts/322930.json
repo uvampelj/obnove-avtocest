@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322930,
+  "type": "DOD",
+  "prev": 285921,
+  "idObrazec": 951681,
+  "idDosje": 509406,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 900/2024 za izdelavo PZI projektne dokumentacije za izvedbo vzdrževalnih del v javno korist na odseku lokalne ceste ”Klasirnica-Jezero” LC 450191 in LC 450192 ter križišča na regionalni cesti R2-425/1419 ”Pesje-Velenje” ",
+  "procurement": "Izdelava PZI projektne dokument. za izvedbo vzdrževalnih del v javno korist na odseku lokalne ceste Klasirnica-Jezero LC 450191 in LC 450192 ter križišča na regionalni cesti R2-425/1419 Pesje-Velenje",
+  "kind": 1,
+  "value": 47104.83,
+  "signed": "2025-10-10",
+  "from": "2025-10-10",
+  "to": "2026-01-28",
+  "number": "000900/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002895/2024-POG/01-D01",
+  "published": "2025-10-17",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2OTAwO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

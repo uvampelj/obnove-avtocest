@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255769,
+  "type": "DOD",
+  "prev": 213079,
+  "idObrazec": 780414,
+  "idDosje": 427582,
+  "title": "Aneks št. 3 k pogodbi DARS d.d., št. 942/2022 za Avtomatski prenos dogodkov iz predorskih nadzorno krmilnih sistemov v sistem Kažipot in v sistem C-ITS (2.del)",
+  "procurement": "Avtomatski prenos dogodkov iz predorskih nadzorno krmilnih sistemov v sistem Kažipot in v sistem C-ITS (2.del)",
+  "kind": 1,
+  "value": -88934.95,
+  "signed": "2024-01-08",
+  "from": "2023-10-20",
+  "to": "2023-12-30",
+  "number": "000020/2024",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008235/2021-C01/DOD-255769",
+  "published": "2024-01-10",
+  "files": [
+   {
+    "name": "Aneks št. 3 20_2024_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTUyMTtBbmVrcyDFoXQuIDMgMjBfMjAyNF9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

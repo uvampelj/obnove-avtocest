@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287490,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 854759,
+  "idDosje": 511762,
+  "title": "Zavarovanje premoženja in premoženjskih interesov družbe DARS",
+  "procurement": "Zavarovanje premoženja in premoženjskih interesov družbe DARS",
+  "kind": 1,
+  "value": 5006064.36,
+  "signed": "2024-09-23",
+  "from": "2024-10-01",
+  "to": "2028-12-30",
+  "number": "000984/2024",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004766/2024-POG/01",
+  "published": "2024-09-25",
+  "files": [
+   {
+    "name": "pogodba 000984-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE4NjYxO3BvZ29kYmEgMDAwOTg0LTIwMjRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

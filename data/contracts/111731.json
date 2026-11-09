@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 111731,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 679533,
+  "idDosje": 219726,
+  "title": "Vzdrževanje srednjenapetostnih 10/20 kV naprav",
+  "procurement": "Vzdrževanje srednjenapetostnih 10/20 kV naprav",
+  "kind": 1,
+  "value": 488222.2,
+  "signed": "2017-12-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTRO LJUBLJANA, podjetje za distribucijo električne energije, d.d."
+  ],
+  "contractor_ids": [
+   "5227992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007814/2017-C01/POG-111731",
+  "published": "2018-10-19",
+  "files": [
+   {
+    "name": "Pogodba 1058-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTczMTtQb2dvZGJhIDEwNTgtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

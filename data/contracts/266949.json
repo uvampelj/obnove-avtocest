@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 266949,
+  "type": "DOD",
+  "prev": 178627,
+  "idObrazec": 812564,
+  "idDosje": 365287,
+  "title": "Aneks št. 1, DARS št. 563/2024 k pog. DARS št. 647/2021",
+  "procurement": "Nakup goriva na bencinskih servisih s plačilnimi karticami dobavitelja",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2024-04-25",
+  "from": "2024-04-25",
+  "to": "2024-07-01",
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005299/2020-C01/POG-178627-D01",
+  "published": "2024-05-13",
+  "files": [
+   {
+    "name": "Aneks DARS št. 563-2024 k pog. DARS št. 647-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgzMDg2O0FuZWtzIERBUlMgxaF0LiA1NjMtMjAyNCBrIHBvZy4gREFSUyDFoXQuIDY0Ny0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

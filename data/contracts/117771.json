@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 117771,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 682172,
+  "idDosje": 279438,
+  "title": "Izdelava cenitev nepremičnin za namen računovodskega poročanja",
+  "procurement": "Izdelava cenitev nepremičnin za namen računovodskega poročanja",
+  "kind": 1,
+  "value": 73200.0,
+  "signed": "2019-01-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EVROVODA, cenitve, nadzori in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "3412075000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007332/2018-X01/POG-117771",
+  "published": "2019-01-11",
+  "files": [
+   {
+    "name": "pogodba EVROVODA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzc3MTtwb2dvZGJhIEVWUk9WT0RBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 118059,
+  "type": "DOD",
+  "prev": 85666,
+  "idObrazec": 769992,
+  "idDosje": 221671,
+  "title": "Aneks št. 1 k pogodbi DARS št. 901/2017 za »Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo« pri pogodbenem partnerju Petrol",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008213/2017-Q01/DOD-118059",
+  "published": "2019-01-15",
+  "files": [
+   {
+    "name": "a1_CUT Petrol_pog901-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExODA1OTthMV9DVVQgUGV0cm9sX3BvZzkwMS0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

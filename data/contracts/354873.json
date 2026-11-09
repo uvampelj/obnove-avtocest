@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354873,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1003062,
+  "idDosje": 528067,
+  "title": "Sklop 2 - Mulčarji Irus, Sklop 3: Mulčarji INO",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 148596.0,
+  "signed": "2026-02-19",
+  "from": "2025-02-19",
+  "to": "2028-05-19",
+  "number": "000168/2026",
+  "contractors": [
+   "INDUSTRIJSKA OPREMA BREŽICE d.o.o."
+  ],
+  "contractor_ids": [
+   "5005558000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009227/2025-POG/02",
+  "published": "2026-02-25",
+  "files": [
+   {
+    "name": "Podpisana pogodba DARS 168-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUyMjU1O1BvZHBpc2FuYSBwb2dvZGJhIERBUlMgMTY4LTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

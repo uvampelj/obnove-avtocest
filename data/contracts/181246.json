@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 181246,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 719535,
+  "idDosje": 383995,
+  "title": "Dobava dizelskega goriva v interne črpalke naročnika",
+  "procurement": "Dobava dizelskega goriva v interne črpalke naročnika",
+  "kind": 2,
+  "value": 8296000.0,
+  "signed": "2021-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o.",
+   "GATIS Goriški avtotransport, trgovina in storitve d.o.o. Šempeter pri Gorici",
+   "LOGO ENERGIJA, skladiščenje in prevozi, d.o.o."
+  ],
+  "contractor_ids": [
+   "5025796000",
+   "5540739000",
+   "5496152000",
+   "6394981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000411/2021-C01/POG-181246",
+  "published": "2021-05-13",
+  "files": [
+   {
+    "name": "okvirni sporazum 744-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MTI0Njtva3Zpcm5pIHNwb3JhenVtIDc0NC0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459789,
+  "type": "DOD",
+  "prev": 265222,
+  "idObrazec": 1145348,
+  "idDosje": 504953,
+  "title": "Aneks št. 1 k pogodbi DARS št. 543/2024 za Okolju prijazno čiščenje poslovnih prostorov, Sklop 1 - Osrednja Slovenija; sprememba pogodbenih cen",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000543/2024",
+  "contractors": [
+   "PELINI, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "7056265000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/01-D01",
+  "published": "2026-08-05",
+  "files": [
+   {
+    "name": "aneks-1-k-543-2024_89-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg2MDY3O2FuZWtzLTEtay01NDMtMjAyNF84OS0yMDI2X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

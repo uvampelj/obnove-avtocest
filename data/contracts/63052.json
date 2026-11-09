@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63052,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656398,
+  "idDosje": 25975,
+  "title": "Aneks št. 2 k pogodbi DARS št. 357/2015 Izdelava projektne dokumentacije  PGD/PZI za izpostavo AC baze Kozina v Bertokih",
+  "procurement": "Aneks št. 2 k pogodbi št. 357/2015 Izdelava projektne dokumentacije PGD/PZI za izpostavo AC baze Kozina v Bertokih",
+  "kind": 1,
+  "value": 4661.38,
+  "signed": "2017-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAVAPROJEKT d.d."
+  ],
+  "contractor_ids": [
+   "5249686000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001321/2017-Q01/POG-63052",
+  "published": "2017-02-22",
+  "files": [
+   {
+    "name": "aneks 2_PGD PZI izpostava ACB Bertoki_188-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMDUyO2FuZWtzIDJfUEdEIFBaSSBpenBvc3RhdmEgQUNCIEJlcnRva2lfMTg4LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

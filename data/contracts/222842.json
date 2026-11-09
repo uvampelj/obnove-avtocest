@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222842,
+  "type": "DOD",
+  "prev": 151884,
+  "idObrazec": 773734,
+  "idDosje": 340741,
+  "title": "Aneks št. 3 k pogodbi DARS št. 1065/2020",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2022-09-28",
+  "from": "2022-09-28",
+  "to": "2022-12-03",
+  "number": null,
+  "contractors": [
+   "BIROPRODAJA storitve in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "3991512000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000442/2020-X02/DOD-222842",
+  "published": "2022-10-03",
+  "files": [
+   {
+    "name": "R Aneks 1235-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjkxODtSIEFuZWtzIDEyMzUtMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

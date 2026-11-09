@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 242341,
+  "type": "DOD",
+  "prev": 123538,
+  "idObrazec": 771908,
+  "idDosje": 296378,
+  "title": "Aneks št. 1 k pogodbi DARS št. 475/2019: Hidrološko hidravlična študija za pripravo državnega prostorskega načrta za državno cesto Slovenj Gradec-jug - Dravograd , III. razvojna os",
+  "procurement": "HIDROLOŠKO HIDRAVLIČNA ŠTUDIJA ZA PRIPRAVO DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO SLOVENJ GRADEC-JUG - DRAVOGRAD, III. RAZVOJNA OS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-06-07",
+  "from": "2023-06-07",
+  "to": "2024-03-20",
+  "number": "750/2023",
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000623/2019-X01/DOD-242341",
+  "published": "2023-07-05",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NDkxNDtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

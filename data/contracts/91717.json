@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91717,
+  "type": "DOD",
+  "prev": 76816,
+  "idObrazec": 769413,
+  "idDosje": 196777,
+  "title": "Aneks št. 1 k pogodbi DARS št. 600/2017 za Zagotavljanje delavcev za opravljanje dela",
+  "procurement": "Zagotavljanje delavcev za opravljanje dela",
+  "kind": 1,
+  "value": 347700.0,
+  "signed": "2018-01-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HSG KARIERA nacionalni kadrovski operater d.o.o."
+  ],
+  "contractor_ids": [
+   "2111357000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002870/2017-Q01/DOD-91717",
+  "published": "2018-02-12",
+  "files": [
+   {
+    "name": "Aneks 47-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNzE3O0FuZWtzIDQ3LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

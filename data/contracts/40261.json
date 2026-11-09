@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 40261,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647756,
+  "idDosje": 52121,
+  "title": "Vzdrževanje elektro strojne opreme cestninskega sistema",
+  "procurement": "Vzdrževanje elektro strojne opreme cestninskega sistema",
+  "kind": 1,
+  "value": 413580.0,
+  "signed": "2016-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, d.o.o.",
+   "ASIST, d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000",
+   "1194682000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003057/2016-C01/POG-40261",
+  "published": "2016-06-27",
+  "files": [
+   {
+    "name": "Pogodba 498-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQwMjYxO1BvZ29kYmEgNDk4LTE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

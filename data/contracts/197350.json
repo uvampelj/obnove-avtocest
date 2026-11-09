@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197350,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728141,
+  "idDosje": 412051,
+  "title": "Nabava programa za upravljanje ter spremljanje hitrosti na sistemu prikazovalnikov hitrosti in podatkovno povezavo s sistemom Kažipot",
+  "procurement": "Nabava programa za upravljanje ter spremljanje hitrosti na sistemu prikazovalnikov hitrosti in podatkovno povezavo s sistemom Kažipot",
+  "kind": 1,
+  "value": 94501.2,
+  "signed": "2021-11-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Intermatic inženiring & consulting d.o.o."
+  ],
+  "contractor_ids": [
+   "5301823000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005663/2021-X01/POG-197350",
+  "published": "2021-11-09",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1247-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NzM1MDtQb2dvZGJhIERBUlMgxaF0LiAxMjQ3LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

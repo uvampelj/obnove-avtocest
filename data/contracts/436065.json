@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 436065,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1114504,
+  "idDosje": 560966,
+  "title": "Vzdrževanje talnih konvektorjev",
+  "procurement": "Vzdrževanje sistemov prezračevanja in hlajenja v PS DARS",
+  "kind": 1,
+  "value": 60951.2,
+  "signed": "2026-06-09",
+  "from": "2026-06-09",
+  "to": "2029-09-09",
+  "number": "000704/2026",
+  "contractors": [
+   "T3 TECH storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "6606512000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001633/2026-POG/04",
+  "published": "2026-06-22",
+  "files": [
+   {
+    "name": "Pogodba št. 704-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3NDMxO1BvZ29kYmEgxaF0LiA3MDQtMjAyNiBSLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

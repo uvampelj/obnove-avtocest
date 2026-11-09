@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 172876,
+  "type": "DOD",
+  "prev": 149482,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 963/2019: Preplastitev voziščne konstrukcije na AC A2/0605 Brezje – Podtabor, 0606 Podtabor – Kranj Z in 0607 Kranj Z – Kranj V, 0405 Razcep Podtabor, 0408 Priključek Naklo in 0106 Priključek Kranj Z  ",
+  "procurement": "PREPLASTITEV VOZIŠČNE KONSTRUKCIJE NA AC A2/0605 BREZJE–PODTABOR, 0606 PODTABOR –KRANJ Z IN 0607 KR Z – KR V, 0405 RAZCEP PODTABOR, 0408 PRIKLJUČEK NAKLO IN 0106 PRIKLJUČEK KR Z",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-02-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-02-09",
+  "files": [
+   {
+    "name": "Aneks-1-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3Mjg3NjtBbmVrcy0xLXphLW9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

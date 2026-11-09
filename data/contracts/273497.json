@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273497,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 833190,
+  "idDosje": 509876,
+  "title": "Dobava rezervnih delov ter vzdrževanje sistema klic v sili, Sklop 1: Dobava nadomestnih delov in popravila KVS ITAIA\n",
+  "procurement": "Dobava rezervnih delov ter vzdrževanje sistema klic v sili",
+  "kind": 1,
+  "value": 88267.0,
+  "signed": "2024-08-02",
+  "from": "2024-08-02",
+  "to": "2027-11-02",
+  "number": "000845/2024",
+  "contractors": [
+   "ITAIA d.o.o., podjetje za računalniški in elektro inženiring"
+  ],
+  "contractor_ids": [
+   "5505771000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003267/2024-POG/01",
+  "published": "2024-08-07",
+  "files": [
+   {
+    "name": "Pgd sklop 1 91_2024_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk5NTE0O1BnZCBza2xvcCAxIDkxXzIwMjRfUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

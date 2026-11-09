@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 328844,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 969385,
+  "idDosje": 523551,
+  "title": "Okvirni sporazum za izvedbo varnostnih pregledov in penetracijskih testov informacijskih sistemov na podlagi okvirnega sporazuma (4 leta)",
+  "procurement": "Izvedba varnostnih pregledov in penetracijskih testov informacijskih sistemov na podlagi okvirnega sporazuma (4 leta)",
+  "kind": 1,
+  "value": 195200.0,
+  "signed": "2025-12-10",
+  "from": "2025-12-10",
+  "to": "2030-04-10",
+  "number": "001351/2025",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d.",
+   "PRO.ASTEC podjetje za sistemsko programsko podporo, svetovanje in zastopanje d.o.o.",
+   "A1 Slovenija, telekomunikacijske storitve, d. d.",
+   "CARBONSEC, svetovanje s področja kibernetske varnosti, d.o.o.",
+   "TELPROM informacijske tehnologije d.o.o.",
+   "VIRIS, varnost in razvoj informacijskih sistemov, d.o.o."
+  ],
+  "contractor_ids": [
+   "5014018000",
+   "6861954000",
+   "1196332000",
+   "8035377000",
+   "5335752000",
+   "1926047000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005360/2025-POG/01",
+  "published": "2025-12-29",
+  "files": [
+   {
+    "name": "OS 161-25 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIxMDM3O09TIDE2MS0yNSBQSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

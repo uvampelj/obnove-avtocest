@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 172713,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 715271,
+  "idDosje": 376020,
+  "title": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "procurement": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "kind": 1,
+  "value": 47580.0,
+  "signed": "2021-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007203/2020-X01/POG-172713",
+  "published": "2021-02-05",
+  "files": [
+   {
+    "name": "Pogodba   UL .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MjcxMztQb2dvZGJhICAgVUwgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

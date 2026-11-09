@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274592,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836392,
+  "idDosje": 507279,
+  "title": "Sklop 9 - NV 2 Košara dvižna na delovnem vozilu višine 21 m",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 1053409.0,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2025-06-20",
+  "number": "000873/2024",
+  "contractors": [
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna"
+  ],
+  "contractor_ids": [
+   "1570307000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/08",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Pogodba - Hidravlik servis d.o.o. Postojna-9_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDU4O1BvZ29kYmEgLSBIaWRyYXZsaWsgc2VydmlzIGQuby5vLiBQb3N0b2puYS05X1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

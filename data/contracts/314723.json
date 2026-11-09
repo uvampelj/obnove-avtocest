@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 314723,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 928044,
+  "idDosje": 521688,
+  "title": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "procurement": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "kind": 1,
+  "value": 8125.2,
+  "signed": "2025-07-01",
+  "from": "2025-07-04",
+  "to": "2025-10-04",
+  "number": "000880/2025",
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o.",
+   "GEODETSKA DRUŽBA, geodezija, informatika in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000",
+   "2351943000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003644/2025-POG/01",
+  "published": "2025-07-16",
+  "files": [
+   {
+    "name": "Pogodba-JV FlycomTech+Geodetska družba_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4MDI0O1BvZ29kYmEtSlYgRmx5Y29tVGVjaCtHZW9kZXRza2EgZHJ1xb5iYV9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

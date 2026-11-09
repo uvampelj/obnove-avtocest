@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85279,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666042,
+  "idDosje": 220583,
+  "title": "Izdelava transparentov",
+  "procurement": "IZDELAVA TRANSPARENTOV",
+  "kind": 1,
+  "value": 14051.96,
+  "signed": "2017-11-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KIG podjetje za proizvodnjo in upravljanje družb d.d."
+  ],
+  "contractor_ids": [
+   "5034418000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007949/2017-X01/POG-85279",
+  "published": "2017-11-17",
+  "files": [
+   {
+    "name": "Pogodba 902-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1Mjc5O1BvZ29kYmEgOTAyLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

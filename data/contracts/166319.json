@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166319,
+  "type": "DOD",
+  "prev": 109960,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1775/2018: Preplastitev voziščne konstrukcije odseka AC A2/0027 in 0627 Dobruška vas – Drnovo od km 8,730 do km 13,654, 0418 priključek Drnovo od km 0,000 do km 2,844 ter odseka A2/0028 in 0628 Drnovo – Brežice od km 0,000 do km 2,700 ",
+  "procurement": "PREPLASTITEV VOZ. KON. ODSEKA AC A2/0027 IN 0627 DOBRUŠKA VAS–DRNOVO OD KM 8,730 DO 13,654, 0418 PRIKLJUČEK DRNOVO OD KM 0,000 DO 2,844 TER ODSEKA A2/0028 IN 0628 DRNOVO–BREŽICE OD KM 0,000 DO 2,700",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-05-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog-1775-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjMxOTtBbmVrcyDFoXQuMSBrIHBvZy0xNzc1LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

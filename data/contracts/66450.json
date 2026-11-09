@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 66450,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657522,
+  "idDosje": 181409,
+  "title": "Čiščenje sanitarnih objektov na malih počivališčih, sklop 2",
+  "procurement": "Dolinsko-sever, Dolinsko-jug",
+  "kind": 1,
+  "value": 79553.76,
+  "signed": "2017-03-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CELOVITE STORITVE d.o.o."
+  ],
+  "contractor_ids": [
+   "2010356000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007886/2016-C01/POG-66450",
+  "published": "2017-03-24",
+  "files": [
+   {
+    "name": "Pogodba 225-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY2NDUwO1BvZ29kYmEgMjI1LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

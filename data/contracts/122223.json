@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 122223,
+  "type": "DOD",
+  "prev": 80822,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.2 k pogodbi DARS št.697/2017; dodatna dela",
+  "procurement": "Vzdrževanje vremenski postaj",
+  "kind": 1,
+  "value": 97667.1,
+  "signed": "2019-03-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-13",
+  "files": [
+   {
+    "name": "Aneks št 2 k pog 697-2017-vremen postaje.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMjIyMztBbmVrcyDFoXQgMiBrIHBvZyA2OTctMjAxNy12cmVtZW4gcG9zdGFqZS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

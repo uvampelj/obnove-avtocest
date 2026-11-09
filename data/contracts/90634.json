@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90634,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 668563,
+  "idDosje": 222756,
+  "title": "IZDELAVA PZI PROJEKTA ZA OBČASNO DVOSMERNO VODENJE PROMETA V PREDORIH PLETOVARJE IN GOLO REBRO ",
+  "procurement": "IZDELAVA PZI PROJEKTA ZA OBČASNO DVOSMERNO VODENJE PROMETA V PREDORIH PLETOVARJE IN GOLO REBRO ",
+  "kind": 1,
+  "value": 41236.0,
+  "signed": "2018-01-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008198/2017-X01/POG-90634",
+  "published": "2018-01-29",
+  "files": [
+   {
+    "name": "Pogodba-IBE.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNjM0O1BvZ29kYmEtSUJFLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

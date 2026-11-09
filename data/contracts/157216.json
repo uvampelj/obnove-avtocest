@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 157216,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 705716,
+  "idDosje": 358839,
+  "title": "Nakup tehničnih specifikacij za vzpostavitev sistema elektronske vinjete in svetovanje pri pripravi javnega razpisa in implementaciji vzpostavitve sistema elektronske vinjete",
+  "procurement": "Nakup tehničnih specifikacij za vzpostavitev sistema elektronske vinjete in svetovanje pri pripravi javnega razpisa in implementaciji vzpostavitve sistema elektronske vinjete",
+  "kind": 1,
+  "value": 274500.0,
+  "signed": "2020-07-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASFINAG COMMERCIAL SERVICES GmbH"
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004242/2020-C01/POG-157216",
+  "published": "2020-07-22",
+  "files": [
+   {
+    "name": "pogodba 1273-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NzIxNjtwb2dvZGJhIDEyNzMtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

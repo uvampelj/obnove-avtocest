@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459306,
+  "type": "DOD",
+  "prev": 214775,
+  "idObrazec": 1143972,
+  "idDosje": 434809,
+  "title": "Aneks št. 2 k pogodbi DARS št. 908/2022 »Izdelava okoljskega poročila in dodatka za presojo sprejemljivosti vplivov izvedbe planov in posegov na varovana območja za državo cesto od Otiškega Vrha do priključka Prevalje – faza DPN«",
+  "procurement": "Izdelava okoljskega poročila in Dodatka za presojo sprejemljivosti vplivov izvedbe planov in posegov na varovana območja za državno cesto od Otiškega Vrha do priključka Prevalje - faza DPN",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-06-29",
+  "from": "2026-06-29",
+  "to": "2027-12-31",
+  "number": "000908/2022",
+  "contractors": [
+   "AQUARIUS ekološki inženiring d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5424534000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000659/2022-X01/POG-214775-D02",
+  "published": "2026-07-29",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg0OTk4O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

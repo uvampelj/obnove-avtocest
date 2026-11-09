@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 92948,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670075,
+  "idDosje": 219140,
+  "title": "IZDELAVA PZI IN IZVLEČKA PZI ZA RAZPIS ZA NADGRADNJO ELEKTRO STROJNE OPREME V PREDORU GOLOVEC - 2.FAZA ",
+  "procurement": "IZDELAVA PZI IN IZVLEČKA PZI ZA RAZPIS ZA NADGRADNJO ELEKTRO STROJNE OPREME V PREDORU GOLOVEC - 2.FAZA ",
+  "kind": 1,
+  "value": 108214.0,
+  "signed": "2018-01-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007633/2017-X01/POG-92948",
+  "published": "2018-02-22",
+  "files": [
+   {
+    "name": "Pogodba IBE.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkyOTQ4O1BvZ29kYmEgSUJFLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

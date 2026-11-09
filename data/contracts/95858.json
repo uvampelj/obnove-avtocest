@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95858,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 671767,
+  "idDosje": 222770,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 1: državna cesta od priključka Šentrupert na AC A1 Šentilj – Koper do priključka Velenje jug–1. del",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 1: državna cesta od priključka Šentrupert na AC A1 Šentilj – Koper do priključka Velenje jug–1. del",
+  "kind": 1,
+  "value": 170678.0,
+  "signed": "2018-01-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MONEA inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "3580679000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008246/2017-C01/POG-95858",
+  "published": "2018-04-09",
+  "files": [
+   {
+    "name": "Pogodba-Monea-Sklop1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1ODU4O1BvZ29kYmEtTW9uZWEtU2tsb3AxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

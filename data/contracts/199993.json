@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 199993,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 729578,
+  "idDosje": 417377,
+  "title": "Prevzem različnih odpadnih materialov",
+  "procurement": "Odpadna guma,Odpadne tunelske pralne vode,Odpadna OEEO - zavržena električna in elektronska oprema",
+  "kind": 1,
+  "value": 176252.63,
+  "signed": "2021-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAUBERMACHER SLOVENIJA storitve pri varstvu okolja, trgovina in transport d.o.o.",
+   "AGJ, arhitekturno projektiranje in ravnanje z odplakami, d.o.o.",
+   "AURENIS, podjetje za proizvodnjo, reciklažo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5432391000",
+   "3455980000",
+   "6074235000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006633/2021-C01/POG-199993",
+  "published": "2021-12-17",
+  "files": [
+   {
+    "name": "POGODBE.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5OTk5MztQT0dPREJFLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

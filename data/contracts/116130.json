@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 116130,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681367,
+  "idDosje": 273358,
+  "title": "SERVISIRANJE BLAŽILCEV TRKA",
+  "procurement": "Naletne naprave VECO STOP,Naletne naprave TAU 80 + TAU 100,Naletne naprave QUAD GUARD,Naletne naprave NISSEN,Naletne naprave STUER EGGHE,Naletne naprave VERDEGRO,Naletne naprave ALPINA",
+  "kind": 1,
+  "value": 1743445.39,
+  "signed": "2018-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO Industrija kovinske opreme, d.d. Liboje",
+   "PETRIČ Proizvodnja in trgovina d.o.o.",
+   "DP sistemi, zastopstvo, prodaja in storitve d.o.o.",
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "5206855000",
+   "5565316000",
+   "6381324000",
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006279/2018-C01/POG-116130",
+  "published": "2018-12-12",
+  "files": [
+   {
+    "name": "Pogodbe - servisiranje blažilcev trka.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjEzMDtQb2dvZGJlIC0gc2VydmlzaXJhbmplIGJsYcW-aWxjZXYgdHJrYS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

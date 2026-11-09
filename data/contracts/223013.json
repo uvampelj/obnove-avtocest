@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 223013,
+  "type": "DOD",
+  "prev": 45666,
+  "idObrazec": 768267,
+  "idDosje": 159760,
+  "title": "Aneks št. 3 k pogodbi DARS št. 628/2016 - Izvedba poizkopavalne obdelave arhivov najdišč za izvedena zaščitna arheološka izkopavanja na avtocestih odsekih in posameznih lokacij izkopavanj, kjer poizkopavalna obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "procurement": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-09-05",
+  "from": "2022-09-05",
+  "to": "2024-12-31",
+  "number": null,
+  "contractors": [
+   "ZAVOD ZA VARSTVO KULTURNE DEDIŠČINE SLOVENIJE - ZVKDS"
+  ],
+  "contractor_ids": [
+   "1423215000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003218/2016-C01/DOD-223013",
+  "published": "2022-10-04",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzExNztBbmVrcy0zLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

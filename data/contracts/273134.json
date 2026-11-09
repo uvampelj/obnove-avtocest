@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 273134,
+  "type": "DOD",
+  "prev": 239937,
+  "idObrazec": 832027,
+  "idDosje": 458137,
+  "title": "Aneks št. 1 k pogodbi DARS št. 647/2023: Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za Izvedba sistema za nadzor in vodenje prometa (SNVP) na AC A1 Štajerska in AC A5",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za izvedbo sistema za nadzor in vodenje prometa (SNVP) na AC A1 Štajerska in AC A5",
+  "kind": 1,
+  "value": 151277.34,
+  "signed": "2024-07-09",
+  "from": "2024-07-09",
+  "to": "2025-03-10",
+  "number": "782/2024",
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006521/2022-C01/POG-239937-D01",
+  "published": "2024-08-01",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk4Njc3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 64974,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657283,
+  "idDosje": 180830,
+  "title": "Dobava pnevmatik",
+  "procurement": "Dobava pnevmatik",
+  "kind": 2,
+  "value": 166866.52,
+  "signed": "2017-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BARTOG d.o.o. Trebnje"
+  ],
+  "contractor_ids": [
+   "5298555000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007818/2016-C01/POG-64974",
+  "published": "2017-03-15",
+  "files": [
+   {
+    "name": "Pogodba Bartog -238-2017.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY0OTc0O1BvZ29kYmEgQmFydG9nIC0yMzgtMjAxNy56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

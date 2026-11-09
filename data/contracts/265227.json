@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265227,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807758,
+  "idDosje": 504953,
+  "title": "Okolju prijazno čiščenje poslovnih prostorov, SKLOP 2 - Primorska in notranjska",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 530719.19,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000546/2024",
+  "contractors": [
+   "RINO, trgovina in ostale storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1510274000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/02",
+  "published": "2024-04-19",
+  "files": [
+   {
+    "name": "pogodba 546-2024 S2 RINO_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5MTY3O3BvZ29kYmEgNTQ2LTIwMjQgUzIgUklOT19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216232,
+  "type": "DOD",
+  "prev": 128316,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks številka 1",
+  "procurement": "Dela na območju AC baz Postojna, Kozina, Ljubljana, Hrušica in Novo mesto",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-13",
+  "files": [
+   {
+    "name": "Aneks 1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjIzMjtBbmVrcyAxX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 264454,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 805143,
+  "idDosje": 502849,
+  "title": "Vzdrževanje, podpora informacijskega sistema CDE Karavanke",
+  "procurement": "Vzdrževanje, podpora informacijskega sistema CDE Karavanke",
+  "kind": 1,
+  "value": 276637.44,
+  "signed": "2024-03-27",
+  "from": "2024-03-27",
+  "to": "2026-10-27",
+  "number": "000469/2024",
+  "contractors": [
+   "AXIS, Projektne IT rešitve in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1782355000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "008389/2023-POG/01",
+  "published": "2024-04-09",
+  "files": [
+   {
+    "name": "pogodba _podpisana pogodba št 469-2024_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc3MDcwO3BvZ29kYmEgX3BvZHBpc2FuYSBwb2dvZGJhIMWhdCA0NjktMjAyNF9SZWRVTC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

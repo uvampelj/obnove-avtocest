@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234996,
+  "type": "DOD",
+  "prev": 212680,
+  "idObrazec": 780369,
+  "idDosje": 437134,
+  "title": "Aneks št. 1 k pogodbi DARS št. 929/2022 za Preureditev poslovnih in tehničnih prostorov upravne stavbe na bivši CP Drnovo",
+  "procurement": "Preureditev poslovnih in tehničnih prostorov Upravne stavbe na bivši CP Drnovo",
+  "kind": 3,
+  "value": 55118.45,
+  "signed": "2023-04-06",
+  "from": "2023-04-06",
+  "to": "2023-05-15",
+  "number": "584/2023",
+  "contractors": [
+   "SL - INŽENIRING investicijski in izvajalski inženiring Boršt d.o.o."
+  ],
+  "contractor_ids": [
+   "5534623000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001209/2022-X01/DOD-234996",
+  "published": "2023-04-11",
+  "files": [
+   {
+    "name": "a1 k pog 929-2022_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNjQ4NTthMSBrIHBvZyA5MjktMjAyMl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

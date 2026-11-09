@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91723,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 669236,
+  "idDosje": 230350,
+  "title": "Dobava mobilnih naprav za merjenje drsnosti",
+  "procurement": "Dobava mobilnih naprav za merjenje drsnosti",
+  "kind": 2,
+  "value": 154320.24,
+  "signed": "2018-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "METEOTEH, trgovina in informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "6898327000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009530/2017-X01/POG-91723",
+  "published": "2018-02-12",
+  "files": [
+   {
+    "name": "Pogodba 138-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNzIzO1BvZ29kYmEgMTM4LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 18892,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637667,
+  "idDosje": 80578,
+  "title": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema DMS",
+  "kind": 1,
+  "value": 332853.87,
+  "signed": "2015-08-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "360ECM d.o.o."
+  ],
+  "contractor_ids": [
+   "2344149000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN5749/2015/POG-18892",
+  "published": "2015-08-21",
+  "files": [
+   {
+    "name": "D13150000693_150820_151140 - 360ECM.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4ODkyO0QxMzE1MDAwMDY5M18xNTA4MjBfMTUxMTQwIC0gMzYwRUNNLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

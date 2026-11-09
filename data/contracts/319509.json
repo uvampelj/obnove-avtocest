@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 319509,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 941831,
+  "idDosje": 522983,
+  "title": "Letni pregled in servisiranje dvižnih naprav proizvajalca Hiab",
+  "procurement": "Letni pregled in servisiranje dvižnih naprav proizvajalca Hiab",
+  "kind": 1,
+  "value": 22862.8,
+  "signed": "2025-09-09",
+  "from": "2025-09-09",
+  "to": "2028-09-09",
+  "number": "001073/2025",
+  "contractors": [
+   "ARKO, podjetje za intelektualne storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5407354000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004802/2025-POG/01",
+  "published": "2025-09-11",
+  "files": [
+   {
+    "name": "Pogodba Hiab_1073-2025, ARKO d.o.o._Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk5MDIzO1BvZ29kYmEgSGlhYl8xMDczLTIwMjUsIEFSS08gZC5vLm8uX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

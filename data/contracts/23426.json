@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 23426,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639783,
+  "idDosje": 11281,
+  "title": "Izdelava izvedbenih načrtov za sanacije brežin in plazov na vkopnih brežinah HC Vipava – Vrtojba in sanacijo brežine pred predorom Dekani",
+  "procurement": "Izdelava izvedbenih načrtov za sanacije brežin in plazov na vkopnih brežinah HC Vipava – Vrtojba in sanacijo brežine pred predorom Dekani",
+  "kind": 1,
+  "value": 6783.2,
+  "signed": "2015-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV5494/2015/POG-23426",
+  "published": "2015-10-19",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNDI2O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

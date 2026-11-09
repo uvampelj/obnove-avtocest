@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 158311,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 706506,
+  "idDosje": 357204,
+  "title": "Opravljanje tehničnih pregledov za ACB Hrušica",
+  "procurement": "Opravljanje tehničnih pregledov za ACB Hrušica",
+  "kind": 1,
+  "value": 90191.7,
+  "signed": "2020-08-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INTEGRAL AVTO prodaja, servisi in tehnični pregledi vozil d.o.o. Jesenice"
+  ],
+  "contractor_ids": [
+   "2159708000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003744/2020-C01/POG-158311",
+  "published": "2020-08-10",
+  "files": [
+   {
+    "name": "pogodba 1305-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1ODMxMTtwb2dvZGJhIDEzMDUtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

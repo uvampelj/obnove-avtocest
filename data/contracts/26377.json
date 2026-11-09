@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 26377,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641085,
+  "idDosje": 80664,
+  "title": "Najem opreme za izvajanje zimske službe",
+  "procurement": "ACB Ljubljana,ACB Novo mesto - Izpostava Drnovo (skladišče soli),ACB Novo mesto - Izpostava Drnovo (MMP Obrežje)",
+  "kind": 1,
+  "value": 84155.6,
+  "signed": "2015-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RESAL d.o.o."
+  ],
+  "contractor_ids": [
+   "3283917000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8489/2015/POG-26377",
+  "published": "2015-12-02",
+  "files": [
+   {
+    "name": "1007-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI2Mzc3OzEwMDctMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

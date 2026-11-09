@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 485201,
+  "type": "DOD",
+  "prev": 446706,
+  "idObrazec": 1200314,
+  "idDosje": 529670,
+  "title": "Aneks št. 1, DARS 000979/2026, k pogodbi DARS št. 000727/2026 za Obnovo obstoječih talnih označb: nominacija podizvajalca",
+  "procurement": "Obnova obstoječih talnih označb",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-06-18",
+  "from": null,
+  "to": null,
+  "number": "000727/2026",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "SIGNALINEA d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000509/2026-POG/01-D01",
+  "published": "2026-10-05",
+  "files": [
+   {
+    "name": "Podpisan aneks 1 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM4MjA0O1BvZHBpc2FuIGFuZWtzIDEgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

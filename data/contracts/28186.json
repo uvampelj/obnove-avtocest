@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 28186,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641821,
+  "idDosje": 77440,
+  "title": "Vzdrževanje in nadgrajevanje programske opreme cestninskega sistema",
+  "procurement": "Vzdrževanje in nadgrajevanje programske opreme cestninskega sistema",
+  "kind": 1,
+  "value": 243856.04,
+  "signed": "2015-12-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN9191/2015/POG-28186",
+  "published": "2015-12-31",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI4MTg2O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

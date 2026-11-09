@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 57914,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654358,
+  "idDosje": 171315,
+  "title": "Servisiranje mulčerjev Rapid",
+  "procurement": "Servisiranje mulčerjev Rapid",
+  "kind": 1,
+  "value": 66436.49,
+  "signed": "2017-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FUŽINAR d.o.o. Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5490600000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006044/2016-X01/POG-57914",
+  "published": "2017-01-06",
+  "files": [
+   {
+    "name": "Pogodba 009-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3OTE0O1BvZ29kYmEgMDA5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

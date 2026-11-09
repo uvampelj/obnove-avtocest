@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 174467,
+  "type": "DOD",
+  "prev": 143321,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2, DARS št. 217/2021",
+  "procurement": "Dograditev tipskih nadstreškov cestninskega nadzora po cestninskih postajah",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-02-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROLIFT storitve in servis d.o.o."
+  ],
+  "contractor_ids": [
+   "6144861000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-02-16",
+  "files": [
+   {
+    "name": "Aneks 2, DARS št. 217-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDQ2NztBbmVrcyAyLCBEQVJTIMWhdC4gMjE3LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

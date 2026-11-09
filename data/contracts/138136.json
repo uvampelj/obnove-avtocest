@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 138136,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 694236,
+  "idDosje": 311487,
+  "title": "DARS 1532/2019 Izvedba nadaljnjih arheoloških raziskav na arheoloških območjih na 1. in 2. etapi med AC A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izvedba nadaljnjih arheoloških raziskav na arheoloških območjih na 1. in 2. etapi nove prometne povezave, območju prestavitve magistralnega plinovoda in obeh mostov čez Krko med AC A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 255859.93,
+  "signed": "2019-10-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PJP založništvo, trgovina, najem, medicina, arheologija in druge storitve d.o.o.",
+   "Skupina Stik, zavod za preučevanje povezovalnih področij preteklosti in sedanjosti"
+  ],
+  "contractor_ids": [
+   "5476089000",
+   "6249027000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003822/2019-C01/POG-138136",
+  "published": "2019-11-07",
+  "files": [
+   {
+    "name": "DARS_1532_2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzODEzNjtEQVJTXzE1MzJfMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

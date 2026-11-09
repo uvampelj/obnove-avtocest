@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 208804,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735182,
+  "idDosje": 421287,
+  "title": "Izdelava izvedbenega načrta za obnovo nadvoza VA0250 Maribor nad R2-430 odsek 0032 Pesnica-Maribor center",
+  "procurement": "Izdelava izvedbenega načrta za obnovo nadvoza VA0250 Maribor nad R2-430 odsek 0032 Pesnica-Maribor center",
+  "kind": 1,
+  "value": 69832.8,
+  "signed": "2022-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1189620000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007178/2021-X01/POG-208804",
+  "published": "2022-04-13",
+  "files": [
+   {
+    "name": "Pogodba_KO-biro_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwODgwNDtQb2dvZGJhX0tPLWJpcm9fb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

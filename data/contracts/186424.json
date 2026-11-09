@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 186424,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 723024,
+  "idDosje": 395174,
+  "title": "Specialistične svetovalne storitve pri izdelavi projektne dokumentacije in drugih strokovnih gradiv v okviru upravljanja prometa na AC/HC",
+  "procurement": "Specialistične svetovalne storitve pri izdelavi projektne dokumentacije in drugih strokovnih gradiv v okviru upravljanja prometa na AC/HC",
+  "kind": 1,
+  "value": 245708.0,
+  "signed": "2021-07-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "UNIVERZA V MARIBORU Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo"
+  ],
+  "contractor_ids": [
+   "1626981000",
+   "5089638011"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002443/2021-C01/POG-186424",
+  "published": "2021-07-26",
+  "files": [
+   {
+    "name": "Podpisana pogodba DARS št. 1004-2021_Red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NjQyNDtQb2RwaXNhbmEgcG9nb2RiYSBEQVJTIMWhdC4gMTAwNC0yMDIxX1JlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315751,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 930986,
+  "idDosje": 519724,
+  "title": "Letni pregled in servisiranje dvižnih naprav, Sklop 2 - Dvigala proizvajalca Fassi, Liv, Cranab, Sklop 4 - Dvižne naprave in košare proizvajalcev Isoli, Ram, Genie",
+  "procurement": "Letni pregled in servisiranje dvižnih naprav",
+  "kind": 1,
+  "value": 277812.3,
+  "signed": "2025-06-20",
+  "from": "2025-06-20",
+  "to": "2028-09-20",
+  "number": "000844/2025",
+  "contractors": [
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna"
+  ],
+  "contractor_ids": [
+   "1570307000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002044/2025-POG/02",
+  "published": "2025-07-28",
+  "files": [
+   {
+    "name": "sklop 2_4 pogodba st 844-2025 red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwMzc5O3NrbG9wIDJfNCBwb2dvZGJhIHN0IDg0NC0yMDI1IHJlZCAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

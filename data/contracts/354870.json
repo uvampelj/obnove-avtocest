@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1003058,
+  "idDosje": 528067,
+  "title": "Sklop 1 - Stroji Capellotto",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 375028.0,
+  "signed": "2026-02-19",
+  "from": "2026-02-19",
+  "to": "2029-05-19",
+  "number": "000167/2026",
+  "contractors": [
+   "VERTEKS TG tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2312760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009227/2025-POG/01",
+  "published": "2026-02-25",
+  "files": [
+   {
+    "name": "Podpisana pogodba DARS 167-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUyMjUxO1BvZHBpc2FuYSBwb2dvZGJhIERBUlMgMTY3LTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

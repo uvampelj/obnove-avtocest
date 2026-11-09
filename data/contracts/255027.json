@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255027,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765679,
+  "idDosje": 496964,
+  "title": "Vzdrževanje CVIS MDSS",
+  "procurement": "Vzdrževanje CVIS MDSS",
+  "kind": 1,
+  "value": 217648.0,
+  "signed": "2023-12-14",
+  "from": "2023-12-14",
+  "to": "2026-12-14",
+  "number": "001473/2023",
+  "contractors": [
+   "CGS Labs, informacijske in okoljske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "8034150000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007046/2023-X01/POG-255027",
+  "published": "2023-12-28",
+  "files": [
+   {
+    "name": "Pogodba st 1473-2023_ULRed_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODcxMztQb2dvZGJhIHN0IDE0NzMtMjAyM19VTFJlZF8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

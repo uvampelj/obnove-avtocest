@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16924,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636783,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB NOVO MESTO",
+  "kind": 1,
+  "value": 45688.7,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TPV AVTO d.o.o."
+  ],
+  "contractor_ids": [
+   "1618881000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16924",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba TPV Avto d.o.o. - 553-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTI0O1BvZ29kYmEgVFBWIEF2dG8gZC5vLm8uIC0gNTUzLTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

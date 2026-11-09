@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168201,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712334,
+  "idDosje": 363974,
+  "title": "Izdelava elaborata prometne študije s prometnim modelom, prometno-ekonomskega vrednotenja in ocene učinka na varnost v prometu obravnavanih ukrepov na širšem območju Kranja, dodatnih tehničnih rešitev ter prostorskih in okoljskih preveritev",
+  "procurement": "Izdelava elaborata prometne študije s prometnim modelom, prometno-ekonomskega vrednotenja in ocene učinka na varnost v prometu obravnavanih ukrepov na širšem območju Kranja, dodatnih tehničnih rešitev ter prostorskih in okoljskih preveritev",
+  "kind": 1,
+  "value": 128527.0,
+  "signed": "2020-12-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004927/2020-X01/POG-168201",
+  "published": "2020-12-11",
+  "files": [
+   {
+    "name": "Pogodba Lineal d.o.o.-168-20-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODIwMTtQb2dvZGJhIExpbmVhbCBkLm8uby4tMTY4LTIwLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

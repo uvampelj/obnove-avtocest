@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 175641,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716569,
+  "idDosje": 369006,
+  "title": "Izdelava projektno tehnične dokumentacije za rekonstrukcijo ACB Postojna z izpostavama Vipava in Logatec ter enoto Senožeče",
+  "procurement": "Izdelava projektno tehnične dokumentacije za rekonstrukcijo ACB Postojna z izpostavama Vipava in Logatec ter enoto Senožeče",
+  "kind": 1,
+  "value": 262925.25,
+  "signed": "2021-02-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006054/2020-C01/POG-175641",
+  "published": "2021-03-05",
+  "files": [
+   {
+    "name": "Pogodba-LUZ-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NTY0MTtQb2dvZGJhLUxVWi1vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

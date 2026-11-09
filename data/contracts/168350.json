@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168350,
+  "type": "DOD",
+  "prev": 160612,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1070/2020: Preplastitev voziščne konstrukcije na AC A2 0028 in 0628 Drnovo – Brežice od km 2,700 do km 10,400 - več in manj dela, ter nominacija podizvajalca",
+  "procurement": "PREPLASTITEV VOZIŠČNE KONSTRUKCIJE NA AC A2 0028 IN 0628 DRNOVO - BREŽICE OD KM 2,700 DO KM10,400",
+  "kind": 3,
+  "value": 975547.78,
+  "signed": "2020-09-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-14",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODM1MDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

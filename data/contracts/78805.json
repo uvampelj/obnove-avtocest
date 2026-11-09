@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78805,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663025,
+  "idDosje": 210482,
+  "title": "SNVP KOPER – IZOLA – NAVEZAVA NA NKS MARKOVEC (VIŠINSKA KONTROLA)",
+  "procurement": "SNVP KOPER – IZOLA – NAVEZAVA NA NKS MARKOVEC (VIŠINSKA KONTROLA)",
+  "kind": 1,
+  "value": 34081.92,
+  "signed": "2017-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in elektronska industrija, d.d."
+  ],
+  "contractor_ids": [
+   "5185726000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005965/2017-C01/POG-78805",
+  "published": "2017-09-04",
+  "files": [
+   {
+    "name": "Pogodba-I.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4ODA1O1BvZ29kYmEtSS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

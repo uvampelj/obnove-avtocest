@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310602,
+  "type": "DOD",
+  "prev": 223980,
+  "idObrazec": 915189,
+  "idDosje": 445542,
+  "title": "Aneks št. 1  k pogodbi Dars št. 1276/2022  za Rekonstrukcijo ceste in objektov na odsekih AC A2 0023 Ivančna Gorica¬–Bič od km 4,130 do km 6,889, 0623 Ivančna Gorica–Bič od km 4,160 do km 6,875, 0072 in 0672 Bič–Trebnje V od km 0,000 do km 0,270 in 0411 priključek Bič od km 0,000 do km 0,702",
+  "procurement": "Rekonstrukcija delov odsekov na AC A2 0023 in 0623 Ivančna Gorica-Bič, 0072 in 0672 Bič-Trebnje V in 0411 priključek Bič",
+  "kind": 3,
+  "value": 1807689.12,
+  "signed": "2025-05-14",
+  "from": "2025-05-14",
+  "to": "2025-08-05",
+  "number": "001276/2022",
+  "contractors": [
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003442/2022-C01/POG-223980-D01",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NzU0O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

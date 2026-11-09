@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 226663,
+  "type": "DOD",
+  "prev": 213079,
+  "idObrazec": 780415,
+  "idDosje": 427582,
+  "title": "Aneks št. 1 DARS št. 1458/2022 k pog. DARS št. 942/2022",
+  "procurement": "Avtomatski prenos dogodkov iz predorskih nadzorno krmilnih sistemov v sistem Kažipot in v sistem C-ITS (2.del)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-11-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj"
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008235/2021-C01/DOD-226663",
+  "published": "2022-12-01",
+  "files": [
+   {
+    "name": "Aneks 1, št. DARS 1458-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNzEyMztBbmVrcyAxLCDFoXQuIERBUlMgMTQ1OC0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

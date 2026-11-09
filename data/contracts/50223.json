@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 50223,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 651634,
+  "idDosje": 52630,
+  "title": "Dobava letne mehanizacije",
+  "procurement": "Cistilec visokotlacni na paro, hladno vodo in detergent- mobilni na vozilu,Vibracijska plošca, Freza za asfalt- kot prikljucek na nosilni stroj, kosilna glava za košnjo po locilnem pasu – prikljucek na obstojeco kosilnico MHU 800 hidravlicni pogon, Obrezovalnik za veje - hid,Kosilnica – mulcer rocna rotacijska del. širine 1,3m,Kosilnica- mulcer za brežine samohodni,Kosilnica - mulcer za bankine, z dodatno kosilnico za natancno košnjo okoli stebrickov,Kosilnica - mulcer za brežine L=7 m (prikljucek delovnega vozila za montažo na zabojnik delovnega vozila Unimog U 400),Kosilnica z dvema glavama za košnjo bankine ob odbojni ograji,Kosilnica - enoosni mulcer- upravljane rocno in daljinsko, del širine 1,2 do 1,3m,Samohodni mulcer na gosenicah, daljinsko upravljanje",
+  "kind": 2,
+  "value": 882621.2,
+  "signed": "2016-09-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA d.o.o.",
+   "RIKO RIBNICA d.o.o.",
+   "FUŽINAR d.o.o. Ajdovščina",
+   "Autocommerce, d.o.o.",
+   "SVET STROJEV d.o.o.",
+   "GLOBEX S.R.L., podružnica v Sloveniji"
+  ],
+  "contractor_ids": [
+   "5898617000",
+   "5742960000",
+   "5490600000",
+   "5670209000",
+   "6015174000",
+   "6254888000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006302/2016-C01/POG-50223",
+  "published": "2016-10-14",
+  "files": [
+   {
+    "name": "Dobava letne mehanizacije.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUwMjIzO0RvYmF2YSBsZXRuZSBtZWhhbml6YWNpamUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

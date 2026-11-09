@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 95713,
+  "type": "DOD",
+  "prev": 78778,
+  "idObrazec": 769583,
+  "idDosje": 192644,
+  "title": "POSTAVITEV SPREMENLJIVE PROMETNE-INFORMATIVNO SIGNALIZACIJE CELJE, DRAMLJE IN TEPANJE",
+  "procurement": "POSTAVITEV SPREMENLJIVE PROMETNE-INFORMATIVNO SIGNALIZACIJE CELJE, DRAMLJE IN TEPANJE",
+  "kind": 3,
+  "value": 22517.02,
+  "signed": "2018-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in elektronska industrija, d.d.",
+   "JAVNA RAZSVETLJAVA d.d.",
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o.",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000",
+   "5406382000",
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001989/2017-C01/DOD-95713",
+  "published": "2018-04-06",
+  "files": [
+   {
+    "name": "aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NzEzO2FuZWtzLTIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

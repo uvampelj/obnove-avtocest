@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 486280,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1203363,
+  "idDosje": 635411,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0067 Trojane - Blagovica in 0044 Blagovica - Krtina",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0067 Trojane - Blagovica in 0044 Blagovica - Krtina",
+  "kind": 1,
+  "value": 29879.63,
+  "signed": "2026-10-02",
+  "from": "2026-10-02",
+  "to": "2028-04-02",
+  "number": "000987/2026",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005604/2026-POG/01",
+  "published": "2026-10-15",
+  "files": [
+   {
+    "name": "PNZ_pogodba_987-2026_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjQwNzE2O1BOWl9wb2dvZGJhXzk4Ny0yMDI2X3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

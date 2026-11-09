@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16680,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636694,
+  "idDosje": 7914,
+  "title": "Dobava zalivne mase in prednamaza za rege",
+  "procurement": "Dobava zalivne mase in prednamaza za rege",
+  "kind": 2,
+  "value": 45628.0,
+  "signed": "2015-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POSSEHL d.o.o."
+  ],
+  "contractor_ids": [
+   "5312841000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV4440/2015/POG-16680",
+  "published": "2015-07-20",
+  "files": [
+   {
+    "name": "pogodba POSSEHL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjgwO3BvZ29kYmEgUE9TU0VITC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

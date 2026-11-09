@@ -1,0 +1,52 @@
+{
+ "meta": {
+  "id": 70440,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659088,
+  "idDosje": 185009,
+  "title": "Dobava letne mehanizacije in opreme, sklop 2,4,5,6,7,8,9,10,11,12",
+  "procurement": "Kosilnica - mulčar čelni priključek univerzalnega delovnega vozila,Kosilnice, motorna žaga,Kosilnica -  mulčar ročna rotacijska,Kosilne glave,Mini bager in grabilec za les,Rovokopač s priključki,Priklopno vozilo,Signalna tabla,Merilec slanosti,Tester za diagnostiko",
+  "kind": 2,
+  "value": 770787.21,
+  "signed": "2017-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SVET STROJEV d.o.o.",
+   "RIKO RIBNICA d.o.o.",
+   "FUŽINAR d.o.o. Ajdovščina",
+   "MKB CENTER d.o.o.",
+   "GLOBEX S.R.L., podružnica v Sloveniji",
+   "ITAIA d.o.o.",
+   "SWARCO LEA d.o.o.",
+   "JUTI, d.o.o.",
+   "ASTILBA d.o.o."
+  ],
+  "contractor_ids": [
+   "6015174000",
+   "5742960000",
+   "5490600000",
+   "2098113000",
+   "6254888000",
+   "5505771000",
+   "5444063000",
+   "2098156000",
+   "5454468000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000474/2017-C01/POG-70440",
+  "published": "2017-05-11",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwNDQwO1BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

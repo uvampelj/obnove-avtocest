@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 366069,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1015849,
+  "idDosje": 529189,
+  "title": "Servisiranje in pregledi oljnih grelnih naprav",
+  "procurement": "Pregled ter servisiranje peči",
+  "kind": 1,
+  "value": 61000.0,
+  "signed": "2026-03-04",
+  "from": "2026-03-04",
+  "to": "2029-03-04",
+  "number": "000221/2026",
+  "contractors": [
+   "KOVINTRADE Mednarodna trgovina d.d. Celje",
+   "KOVINTRADE Mednarodna trgovina d.d. Celje"
+  ],
+  "contractor_ids": [
+   "5025524000",
+   "5025524000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000098/2026-POG/01",
+  "published": "2026-03-06",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 221-2026_KOVINTRADE_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY0NTY0O1BvZ29kYmEgREFSUyDFoXQuIDIyMS0yMDI2X0tPVklOVFJBREVfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

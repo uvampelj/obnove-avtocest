@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 298563,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 884164,
+  "idDosje": 514751,
+  "title": "Sklop 4: Hrušica",
+  "procurement": "Izvajanje nalog medicine dela",
+  "kind": 1,
+  "value": 43249.0,
+  "signed": "2025-01-16",
+  "from": "2025-01-16",
+  "to": "2030-04-16",
+  "number": "000168/2025",
+  "contractors": [
+   "POLJE HARMONIJE družba za kakovost življenja d.o.o."
+  ],
+  "contractor_ids": [
+   "2211858000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007182/2024-POG/04",
+  "published": "2025-01-27",
+  "files": [
+   {
+    "name": "Podpisana pogodba Polje harmonije sklop 4_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQyMTAwO1BvZHBpc2FuYSBwb2dvZGJhIFBvbGplIGhhcm1vbmlqZSBza2xvcCA0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

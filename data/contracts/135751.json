@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 135751,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 692960,
+  "idDosje": 320993,
+  "title": "Vzdrževanje, nadgradnja in podpora informacijskega sistema ZAHTEVKI",
+  "procurement": "Vzdrževanje, nadgradnja in podpora informacijskega sistema ZAHTEVKI",
+  "kind": 1,
+  "value": 114192.0,
+  "signed": "2019-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRO-BIT PROGRAMSKA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "5413796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005722/2019-X01/POG-135751",
+  "published": "2019-10-08",
+  "files": [
+   {
+    "name": "pogodba,PRO-BIT d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNTc1MTtwb2dvZGJhLFBSTy1CSVQgZC5vLm8uLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

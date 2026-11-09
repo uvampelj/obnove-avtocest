@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 1961,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630788,
+  "idDosje": 15011,
+  "title": "Čiščenje službenih oblek in varovalne opreme za ACB Novo mesto",
+  "procurement": "Čiščenje službenih oblek in varovalne opreme za ACB Novo mesto",
+  "kind": 1,
+  "value": 9580.05,
+  "signed": "2015-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KEMIČNA ČISTILNICA IN PRALNICA VENERA DULAR MATJAŽ S.P."
+  ],
+  "contractor_ids": [
+   "1091395001"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV2590/2015/POG-1961",
+  "published": "2015-05-26",
+  "files": [
+   {
+    "name": "pogodba Dular.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjE7cG9nb2RiYSBEdWxhci5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

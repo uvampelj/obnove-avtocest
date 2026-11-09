@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 484756,
+  "type": "DOD",
+  "prev": 256121,
+  "idObrazec": 1199228,
+  "idDosje": 492545,
+  "title": "Aneks št. 2, DARS 000978/2026, k pogodbi DARS št. 14/2024 za Čiščenje sanitarnih objektov in površin počivališča Lopata-jug, 2. faza, Grabonoš-sever, 2. faza in Murska Sobota-sever, 2. faza – SKLOP 2 – Počivališče Grabonoš-sever, 2. faza in SKLOP 3 – Počivališče Murska Sobota-sever, 2. faza",
+  "procurement": "Čiščenje sanitarnih objektov in površin počivališča Lopata-jug, 2. faza, Grabonoš-sever, 2. faza in Murska Sobota-sever, 2. faza",
+  "kind": 1,
+  "value": 8003.68,
+  "signed": "2026-09-28",
+  "from": null,
+  "to": null,
+  "number": "000014/2024",
+  "contractors": [
+   "RINO, trgovina in ostale storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1510274000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006113/2023-C01/POG-256121-D02",
+  "published": "2026-10-05",
+  "files": [
+   {
+    "name": "Podpisan aneks 2 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM3MzQ4O1BvZHBpc2FuIGFuZWtzIDIgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

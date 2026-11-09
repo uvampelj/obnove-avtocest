@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166764,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "IZDELAVA GRADBENO – TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA GRADNJO AVTOCESTE POSTOJNA / DIVAČA - JELŠANE",
+  "procurement": "IZDELAVA GRADBENO – TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA GRADNJO AVTOCESTE POSTOJNA / DIVAČA - JELŠANE",
+  "kind": 1,
+  "value": 155224.9,
+  "signed": "2010-07-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-26",
+  "files": [
+   {
+    "name": "Pogodba-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2Njc2NDtQb2dvZGJhLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

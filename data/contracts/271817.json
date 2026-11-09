@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271817,
+  "type": "DOD",
+  "prev": 29366,
+  "idObrazec": 828250,
+  "idDosje": 72174,
+  "title": "Aneks 2 k pogodbi DARS št. 14/2016 za\tizdelavo PGD in PZI projektne dokumentacije za izgradnjo vzhodne in sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo",
+  "procurement": "Izdelava PGD in PZI projektne dokumentacije za izgradnjo vzhodne cevi in sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-07-09",
+  "from": "2024-07-09",
+  "to": "2029-03-31",
+  "number": "000784/2024",
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN129/2016/POG-29366-D01",
+  "published": "2024-07-16",
+  "files": [
+   {
+    "name": "podpisan aneks 2 k pog 14-2016 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk1NTc2O3BvZHBpc2FuIGFuZWtzIDIgayBwb2cgMTQtMjAxNiAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

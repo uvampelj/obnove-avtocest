@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27809,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641660,
+  "idDosje": 72559,
+  "title": "Najem celovite storitve tiskalniškega sistema",
+  "procurement": "Najem celovite storitve tiskalniškega sistema",
+  "kind": 1,
+  "value": 470605.64,
+  "signed": "2015-12-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KONICA MINOLTA SLOVENIJA, d.o.o."
+  ],
+  "contractor_ids": [
+   "5475716000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN9067/2015/POG-27809",
+  "published": "2015-12-24",
+  "files": [
+   {
+    "name": "pogodba 1091-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3ODA5O3BvZ29kYmEgMTA5MS0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

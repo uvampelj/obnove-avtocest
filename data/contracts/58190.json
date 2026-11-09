@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 58190,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654526,
+  "idDosje": 171090,
+  "title": "Dobava hidravličnih in pnevmatskih komponent",
+  "procurement": "ACB Postojna,AC baza Hrušica,AC baza Maribor,AC baza Kozina,AC baza Vransko,AC baza Murska Sobota",
+  "kind": 2,
+  "value": 120634.6,
+  "signed": "2017-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDRAVLIK SERVIS, d.o.o., Postojna",
+   "HABERKORN, d.o.o."
+  ],
+  "contractor_ids": [
+   "1570307000",
+   "5795613000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006034/2016-C01/POG-58190",
+  "published": "2017-01-10",
+  "files": [
+   {
+    "name": "Pogodba.rar",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU4MTkwO1BvZ29kYmEucmFy"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

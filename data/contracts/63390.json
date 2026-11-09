@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63390,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656516,
+  "idDosje": 71430,
+  "title": "AC DRAŽENCI – MEDNARODNI MEJNI PREHOD GRUŠKOVJE; Opravljanje storitev odkupov nepremičnin (zemljišča + objekti)",
+  "procurement": "AC DRAŽENCI – MEDNARODNI MEJNI PREHOD GRUŠKOVJE; Opravljanje storitev odkupov nepremičnin (zemljišča + objekti)",
+  "kind": 1,
+  "value": 439500.0,
+  "signed": "2013-03-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZPKSU d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5226996000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2650/2013/POG-63390",
+  "published": "2017-02-27",
+  "files": [
+   {
+    "name": "000108-2013.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMzkwOzAwMDEwOC0yMDEzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

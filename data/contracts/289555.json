@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 289555,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 860782,
+  "idDosje": 512185,
+  "title": "Sklop 2: Servisiranje in dobava nadomestnih delov za orodje proizvajalcev Stihl in Husqvarna",
+  "procurement": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA MULČERJE IN MOTORNE ŽAGE",
+  "kind": 1,
+  "value": 360827.2,
+  "signed": "2024-10-16",
+  "from": "2024-10-16",
+  "to": "2028-01-16",
+  "number": "001042/2024",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005162/2024-POG/01",
+  "published": "2024-10-18",
+  "files": [
+   {
+    "name": "Pogodba - IMEXA_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIzNDIyO1BvZ29kYmEgLSBJTUVYQV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 388500,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1041945,
+  "idDosje": 527686,
+  "title": "SKLOP 2: cenitev gozdnih zemljišč in gozdov",
+  "procurement": "Izdelava cenitev za potrebe pridobivanja nepremičnin, na celotnem avtocestnem omrežju v Republiki Sloveniji",
+  "kind": 1,
+  "value": 90975.4,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2030-06-16",
+  "number": "000420/2026",
+  "contractors": [
+   "Poslovno svetovanje Bogomil Breznik s.p."
+  ],
+  "contractor_ids": [
+   "7002530000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008866/2025-POG/02",
+  "published": "2026-03-30",
+  "files": [
+   {
+    "name": "Pogodba B.Breznik 420-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDg5NzE0O1BvZ29kYmEgQi5CcmV6bmlrIDQyMC0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

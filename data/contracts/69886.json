@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 69886,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658755,
+  "idDosje": 192688,
+  "title": "Vzdrževanje in razvoj informacijskega sistema Navision",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema Navision",
+  "kind": 1,
+  "value": 200080.0,
+  "signed": "2017-05-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADACTA d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001998/2017-C01/POG-69886",
+  "published": "2017-05-05",
+  "files": [
+   {
+    "name": "pogodba 369-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY5ODg2O3BvZ29kYmEgMzY5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

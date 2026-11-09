@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 11015,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634569,
+  "idDosje": 9401,
+  "title": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0041 Arja vas - Šentrupert od km 0,000 do km 6,400 in na A1/0641 Arja vas - Šentrupert od km 1,050 do km 6,400 in",
+  "procurement": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0041 Arja vas - Šentrupert od km 0,000 do km 6,400 in na A1/0641 Arja vas - Šentrupert od km 1,050 do km 6,400 in",
+  "kind": 1,
+  "value": 48609.58,
+  "signed": "2015-04-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV2041/2015/POG-11015",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "307-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDE1OzMwNy0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

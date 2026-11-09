@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228560,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745963,
+  "idDosje": 453913,
+  "title": "Pogodba za vzdrževanje, dobavo in montažo klimatskih in prezračevalnih naprav",
+  "procurement": "Vzdrževanje, dobava in montaža klimatskih in prezračevalnih naprav",
+  "kind": 1,
+  "value": 509874.6,
+  "signed": "2022-12-28",
+  "from": "2022-12-28",
+  "to": "2024-12-28",
+  "number": "001674/2022",
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005551/2022-C01/POG-228560",
+  "published": "2023-01-04",
+  "files": [
+   {
+    "name": "PGD podpisana_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTIwMztQR0QgcG9kcGlzYW5hX1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

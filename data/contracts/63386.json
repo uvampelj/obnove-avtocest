@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63386,
+  "type": "DOD",
+  "prev": 12879,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Vzdrževanje nadzorno krmilnega sistema in sistema komunikacijske mreže v predorih in pokritih vkopih (sklop 1)",
+  "procurement": "Vzdrževanje nadzorno krmilnega sistema in sistema komunikacijske mreže v predorih in pokritih vkopih (sklop 1)",
+  "kind": 1,
+  "value": 48800.0,
+  "signed": "2017-02-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST, d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-02-27",
+  "files": [
+   {
+    "name": "Aneks št 1 k pog 4-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMzg2O0FuZWtzIMWhdCAxIGsgcG9nIDQtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

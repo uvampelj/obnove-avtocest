@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 203947,
+  "type": "DOD",
+  "prev": 168201,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1589/20: Izdelava elaborata prometne študije s prometnim modelom, prometno-ekonomskega vrednotenja in ocene učinka na varnost v prometu obravnavanih ukrepov na širšem območju Kranja, dodatnih tehničnih rešitev ter prostorskih in okoljskih preveritev",
+  "procurement": "\tIzdelava elaborata prometne študije s prometnim modelom, prometno-ekonomskega vrednotenja in ocene učinka na varnost v prometu obravnavanih ukrepov na širšem območju Kranja, dodatnih tehničnih rešitev ter prostorskih in okoljskih preveritev",
+  "kind": 1,
+  "value": 38332.4,
+  "signed": "2021-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-07",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzk0NztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

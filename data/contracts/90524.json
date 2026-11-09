@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90524,
+  "type": "DOD",
+  "prev": 47899,
+  "idObrazec": 768348,
+  "idDosje": 157150,
+  "title": "aneks št. 1 k pog. DARS št. 720/16:Zavarovanje nosilnih stebrov nadvozov z BVO na AC A1 ",
+  "procurement": "Zavarovanje nosilnih stebrov nadvozov z BVO na AC A1",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-12-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPG, d.d."
+  ],
+  "contractor_ids": [
+   "5143497000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002185/2016-X01/DOD-90524",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTI0O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

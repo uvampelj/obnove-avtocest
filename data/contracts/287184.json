@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 287184,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 853841,
+  "idDosje": 510753,
+  "title": "Izdelava idejnih rešitev in PZI za aktivno protihrupno zaščito za odseke AC A1 0030/0630 Meja A–Šentilj, 0031/0631 Šentilj–Pesnica in R2-430, del odseka HC H2 0632 Pesnica–Maribor",
+  "procurement": "Izdelava idejnih rešitev in PZI za aktivno protihrupno zaščito za odseke AC A1 0030/0630 Meja A–Šentilj, 0031/0631 Šentilj–Pesnica in R2-430, del odseka HC H2 0632 Pesnica–Maribor",
+  "kind": 1,
+  "value": 207392.68,
+  "signed": "2024-09-06",
+  "from": "2024-09-06",
+  "to": "2026-03-06",
+  "number": "000936/2024",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003914/2024-POG/01",
+  "published": "2024-09-20",
+  "files": [
+   {
+    "name": "Pogodba JV Lineal+Elea iC_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE3OTc5O1BvZ29kYmEgSlYgTGluZWFsK0VsZWEgaUNfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 73050,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660403,
+  "idDosje": 194556,
+  "title": "Specialistične svetovalne storitve pri izdelavi projektne dokumentacije in drugih strokovnih gradiv v okviru upravljanaj prometa na AC in HC",
+  "procurement": "Specialistične svetovalne storitve pri izdelavi projektne dokumentacije in drugih strokovnih gradiv v okviru upravljanaj prometa na AC in HC",
+  "kind": 1,
+  "value": 245708.0,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UL FGG",
+   "UM FGPA"
+  ],
+  "contractor_ids": [
+   "1626981000",
+   "5089638011"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002270/2017-C01/POG-73050",
+  "published": "2017-06-20",
+  "files": [
+   {
+    "name": "pog 491-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczMDUwO3BvZyA0OTEtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

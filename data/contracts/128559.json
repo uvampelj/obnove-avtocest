@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "id": 128559,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688561,
+  "idDosje": 300572,
+  "title": "Vzdrževanje in servisiranje vgrajenih sistemov aktivne požarne zaščite",
+  "procurement": "Sklop proizvajalca ZARJA,Sklop proizvajalca BOSCH,Sklop proizvajalca SIEMENS (točkovno javljanje),Sklop proizvajalca MORLEY,Sklop proizvajalca NOTIFIER,Sklop proizvajalca SIEMENS sistem Fibrolaser",
+  "kind": 1,
+  "value": 909789.01,
+  "signed": "2019-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZARJA ELEKTRONIKA proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o.",
+   "ISKRA, elektro in sistemske rešitve, d.o.o.",
+   "A KODA PLUS, tehnična oprema objektov d.o.o.",
+   "POŽARNI SISTEMI družba za inženiring, trgovino, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5521475000",
+   "5185726000",
+   "6377459000",
+   "1782215000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001586/2019-C01/POG-128559",
+  "published": "2019-06-19",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODU1OTtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

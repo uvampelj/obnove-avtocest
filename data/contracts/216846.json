@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216846,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 739096,
+  "idDosje": 440372,
+  "title": "PZI in izvleček iz PZI za potrebe razpisa za namestitev e-polnilnic na območju objektov DARS",
+  "procurement": "PZI in izvleček iz PZI za potrebe razpisa za namestitev e-polnilnic na območju objektov DARS",
+  "kind": 1,
+  "value": 81010.44,
+  "signed": "2022-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002018/2022-X01/POG-216846",
+  "published": "2022-07-22",
+  "files": [
+   {
+    "name": "R pogodba 1059-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjg0NjtSIHBvZ29kYmEgMTA1OS0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

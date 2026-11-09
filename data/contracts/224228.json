@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224228,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743155,
+  "idDosje": 450778,
+  "title": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo strokovnih podlag za študijo variant/predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "procurement": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo strokovnih podlag za študijo variant/predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 52277.0,
+  "signed": "2022-10-12",
+  "from": "2022-10-20",
+  "to": "2026-02-20",
+  "number": null,
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004714/2022-X01/POG-224228",
+  "published": "2022-10-21",
+  "files": [
+   {
+    "name": "Pogodba-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDQ0MztQb2dvZGJhLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

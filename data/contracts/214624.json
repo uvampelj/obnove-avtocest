@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 214624,
+  "type": "DOD",
+  "prev": 53712,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 816/2016 - Izdelava projektne dokumentacije PGD in PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 816/2016 - Izdelava projektne dokumentacije PGD in PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "kind": 1,
+  "value": 142937.18,
+  "signed": "2022-01-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "PROJEKTIVNI ATELJE - NIZKE GRADNJE d.o.o., projektiranje, inženiring in storitve"
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5522749000",
+   "5622646000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-06-22",
+  "files": [
+   {
+    "name": "R Aneks št. 1 k pog. Dars št. 816-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNDYyNDtSIEFuZWtzIMWhdC4gMSBrIHBvZy4gRGFycyDFoXQuIDgxNi0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

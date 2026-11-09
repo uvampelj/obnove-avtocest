@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 232540,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 748839,
+  "idDosje": 379394,
+  "title": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+  "procurement": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever; sklop B  Škalsko jezero in sklop H  Konovo",
+  "kind": 3,
+  "value": 67649553.58,
+  "signed": "2023-03-01",
+  "from": "2023-03-01",
+  "to": "2026-03-01",
+  "number": "000460/2023",
+  "contractors": [
+   "STRABAG AG",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   null,
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007789/2020-C01/POG-232540",
+  "published": "2023-03-06",
+  "files": [
+   {
+    "name": "pogodba za objavo 000241-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMzY1OTtwb2dvZGJhIHphIG9iamF2byAwMDAyNDEtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "ocr",
+ "pages": 18,
+ "text": "o panj šprey 2/9 |\n\n\"p'p Pfiuano]s PJULG UPAJJNUN lad SY76 96€S SO00 0067 9SIS\n\nejop PUBSJAZI |EnaJejd MUJOJEU OG eBOJDJEJ BU 'BUNJEJ EJANS(IONESUEI PYJIA91$\n9E6ZTO9ZIS NAGO €Z \"15 PYSlIDeMIJNUBPI\n\n0008766v8T PJ[lA91$ RUJNE\n\nJ8UUDY JOJEM B[ponojsod Ul Ye[J9J JeUnjdG e[ponojsod\negedojsez e3 pi 'eUeljANIJ (CE PISOI PSIJEJAT 'eUeljgNAJ PAJUZNIPOA \"OV DOVAVNIS\ne(iIaSAV PMIJgNdoH NEJJ JAG UV |eMIds OO86 LZ BSSLNSLOŽINJUBO DV DVAVNIS INJNIHVd\n\n\"p'P PliUdnOJS PULJ UPAJJNUN Hd 9EO OSTE O0OO 006Z 9SIS\n\nejap PUDSJAZI |EAdJEJA MlUJOJEU OG PBBAJAJEJ BU \"RUNJEJ PBAJS(ISMESUBJJ. PM|IA9IS\nS809TOZ£EIS NAGA €Z \"1S PJSIJENIJNUOPI\n\n0009956485 OJ IlA91$ PUJNEJA\n\ne24N»s efuos ui eYISLINAOJA Ul siM Uefa asianjoad\nS\n\nejedojsez e3 nj 'eUe(|gNI] 'EE PISOI PYSIJEJIT \"O'O'P DAJIJOJS JUdgpeJB DYAVNIS 'MINIHVd INTIJOA"
+}

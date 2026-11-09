@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 269483,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 820923,
+  "idDosje": 486744,
+  "title": "Geotehnični monitoring objektov na trasi HC H4 Razdrto - Vipava v obdobju 2024 - 2033",
+  "procurement": "Geotehnični monitoring objektov na trasi HC H4 Razdrto - Vipava v obdobju 2024 - 2033",
+  "kind": 1,
+  "value": 4648052.93,
+  "signed": "2024-06-12",
+  "from": "2024-06-12",
+  "to": "2034-11-30",
+  "number": "000712/2024",
+  "contractors": [
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica",
+   "IRGO CONSULTING d.o.o.",
+   "ELproing, računalniško programiranje, d.o.o.",
+   "GEOGRAD podjetje za geodetske storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "1795490000",
+   "5312957000",
+   "1305212000",
+   "8317143000",
+   "5476488000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "004861/2023-POG/01",
+  "published": "2024-06-14",
+  "files": [
+   {
+    "name": "Pogodba DARS_št_712_2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg5NzUwO1BvZ29kYmEgREFSU1_FoXRfNzEyXzIwMjQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

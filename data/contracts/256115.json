@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 256115,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 766456,
+  "idDosje": 492545,
+  "title": "Čiščenje sanitarnih objektov in površin počivališča Lopata-jug, 2. faza, Grabonoš-sever, 2. faza in Murska Sobota-sever, 2. faza,  Sklop 1: Čiščenje platoja in javnega sanitarnega objekta in površin počivališču Lopata-jug, 2. faza",
+  "procurement": "Čiščenje sanitarnih objektov in površin počivališča Lopata-jug, 2. faza, Grabonoš-sever, 2. faza in Murska Sobota-sever, 2. faza",
+  "kind": 1,
+  "value": 169092.0,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2028-01-20",
+  "number": "001507/2023",
+  "contractors": [
+   "UREJANJE OKOLICE - ERIH GOLIHLEB S.P."
+  ],
+  "contractor_ids": [
+   "3336085000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006113/2023-C01/POG-256115",
+  "published": "2024-01-15",
+  "files": [
+   {
+    "name": "Pgd 177_23 sklop 1_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTg5NTtQZ2QgMTc3XzIzIHNrbG9wIDFfUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

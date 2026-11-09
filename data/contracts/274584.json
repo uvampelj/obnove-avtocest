@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274584,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836382,
+  "idDosje": 507279,
+  "title": "Sklop 4 - LM 7 Kosilnica - rotacijski mulčar,  ročno upravljanje,  min. delovne širine 1,3 m",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 706743.46,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2025-06-20",
+  "number": "000877/2024",
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5490600000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/04",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Pogodba - FUŽINAR d.o.o.-4_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDQ1O1BvZ29kYmEgLSBGVcW9SU5BUiBkLm8uby4tNF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

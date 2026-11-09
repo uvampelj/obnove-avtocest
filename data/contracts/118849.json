@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 118849,
+  "type": "DOD",
+  "prev": 33006,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 135/2016",
+  "procurement": "Prevzem odpadne tunelske pralne vode, sklop 3: Vransko",
+  "kind": 1,
+  "value": 8048.25,
+  "signed": "2019-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREN, podjetje za zbiranje in ravnanje z odpadki, d.o.o."
+  ],
+  "contractor_ids": [
+   "3698289000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-01-25",
+  "files": [
+   {
+    "name": "Aneks 39-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExODg0OTtBbmVrcyAzOS0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

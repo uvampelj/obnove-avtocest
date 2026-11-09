@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 269985,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 822808,
+  "idDosje": 506214,
+  "title": "Čiščenje zadrževalnih bazenov in objektov lovilcev olj",
+  "procurement": "Čiščenje zadrževalnih bazenov in objektov lovilcev olj",
+  "kind": 1,
+  "value": 1616176.2,
+  "signed": "2024-05-27",
+  "from": "2024-06-27",
+  "to": "2028-09-27",
+  "number": "000657/2024",
+  "contractors": [
+   "EKOREL, ekološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000498/2024-POG/01",
+  "published": "2024-06-21",
+  "files": [
+   {
+    "name": "Pogodba podpisana_253-2023_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkxMjM0O1BvZ29kYmEgcG9kcGlzYW5hXzI1My0yMDIzX1JlZFVMLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 128985,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688819,
+  "idDosje": 287114,
+  "title": "Izdelava študije variant / predinvesticijske zasnove za glavno cesto Ptuj – Markovci",
+  "procurement": "Izdelava študije variant / predinvesticijske zasnove za glavno cesto Ptuj – Markovci",
+  "kind": 1,
+  "value": 363291.6,
+  "signed": "2019-04-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008543/2018-C01/POG-128985",
+  "published": "2019-06-27",
+  "files": [
+   {
+    "name": "Pogodba-ZUM (2).pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODk4NTtQb2dvZGJhLVpVTSAoMikucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

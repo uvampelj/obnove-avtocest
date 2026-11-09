@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 307628,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 906539,
+  "idDosje": 517351,
+  "title": "Sklop 6 - Servisiranje traktorjev proizvajalca Valtra in Fendt  in Sklop 7 - Servisiranje traktorske opreme  Mulag",
+  "procurement": "SERVISIRANJE TOVORNIH VOZIL IN MEHANIZACIJE",
+  "kind": 1,
+  "value": 205265.0,
+  "signed": "2025-04-16",
+  "from": "2025-04-16",
+  "to": "2028-07-16",
+  "number": "000668/2025",
+  "contractors": [
+   "INTEREXPORT mednarodna trgovina, d.o.o.",
+   "INTEREXPORT mednarodna trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5101956000",
+   "5101956000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000048/2025-POG/03",
+  "published": "2025-04-22",
+  "files": [
+   {
+    "name": "Pogodba - INTEREXPORT 6-7_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcwNzU5O1BvZ29kYmEgLSBJTlRFUkVYUE9SVCA2LTdfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

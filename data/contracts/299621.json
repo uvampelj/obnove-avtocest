@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 299621,
+  "type": "DOD",
+  "prev": 149433,
+  "idObrazec": 886756,
+  "idDosje": 340379,
+  "title": "Aneks št. 2 k pog. 560/2020 za opravljanje strokovno svetovalnih storitev inženirja na HC Razdrto - Vipava; podaljšanje pogodbenega roka, vključitev dodatnega kadra, menjava skrbnika pogodbe ",
+  "procurement": "Opravljanje strokovno svetovalnih storitev inženirja na HC Razdrto – Vipava",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-03-12",
+  "from": "2020-03-12",
+  "to": "2030-02-12",
+  "number": "000560/2020",
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000534/2020-C01/POG-149433-D01",
+  "published": "2025-02-05",
+  "files": [
+   {
+    "name": "podpisan a2 k pog560-2020 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ0MjExO3BvZHBpc2FuIGEyIGsgcG9nNTYwLTIwMjAgLSB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

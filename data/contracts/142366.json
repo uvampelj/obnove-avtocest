@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142366,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695944,
+  "idDosje": 320563,
+  "title": "Dobava elektro materiala",
+  "procurement": "Dobava elektro materiala",
+  "kind": 2,
+  "value": 240751.12,
+  "signed": "2019-12-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005705/2019-C01/POG-142366",
+  "published": "2019-12-18",
+  "files": [
+   {
+    "name": "Pogodba 1662-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjM2NjtQb2dvZGJhIDE2NjItMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

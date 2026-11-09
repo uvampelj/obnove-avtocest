@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 199194,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 729110,
+  "idDosje": 405211,
+  "title": "DOBAVA PRIKLOPNIH VOZIL IN OPREME ZA ZAGOTOVITEV VARNOSTI",
+  "procurement": "Svetlobna tabla za zapiranje prometnega pasu,Signalna tabla spremenljive vsebine,Priklopno vozilo z naletnim mehom,Viličar",
+  "kind": 2,
+  "value": 1443650.0,
+  "signed": "2021-12-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o.",
+   "JUNGHEINRICH trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5742960000",
+   "5444063000",
+   "1191527000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004762/2021-C01/POG-199194",
+  "published": "2021-12-07",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5OTE5NDtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

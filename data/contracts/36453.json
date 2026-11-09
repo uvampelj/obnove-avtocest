@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36453,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645892,
+  "idDosje": 10395,
+  "title": "Dobava ohišij za postavitev stacionarnih merilnikov hitrosti.",
+  "procurement": "Dobava ohišij za postavitev stacionarnih merilnikov hitrosti.",
+  "kind": 2,
+  "value": 93822.88,
+  "signed": "2016-03-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Intermatic d.o.o."
+  ],
+  "contractor_ids": [
+   "5301823000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1454/2016/POG-36453",
+  "published": "2016-05-12",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NDUzO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

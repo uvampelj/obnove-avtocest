@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 164570,
+  "type": "DOD",
+  "prev": 129019,
+  "idObrazec": 772286,
+  "idDosje": 285421,
+  "title": "aneks 1 - RUŠITEV IN PREUREDITEV CESTNINSKIH POSTAJ VKLJUČNO S PLATOJEM TER SANACIJA VOZ. KONSTRUKCIJE NA PRIKLJUČKIH BLAGOVICA, LUKOVICA, KRTINA, SENOŽEČE, DIVAČA, ŠENTILJ, KOZINA sklop 5",
+  "procurement": "Sklop 5:RUŠITEV IN PREUREDITEV CESTNINSKIH POSTAJ KOMPOLJE, DOB, BLAGOVICA-SEVER, BLAGOVICA-JUG, LUKOVICA SEVER, LUKOVICA JUG, KRTINA-SEVER, KRTINA-JUG, TER SANACIJA VOZIŠČNE KONSTRUKCIJE PRIKLJUČKOV",
+  "kind": 3,
+  "value": 753696.66,
+  "signed": "2020-09-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "1507664000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008174/2018-C01/DOD-164570",
+  "published": "2020-11-03",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NDU3MDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

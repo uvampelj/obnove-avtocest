@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 163679,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 709718,
+  "idDosje": 328126,
+  "title": "Sklop 2: Dobava in postavitev detekcijsko nadzornih kamer na primorskem kraku AC",
+  "procurement": "Dobava in postavitev detekcijsko nadzornih kamer na primorskem kraku AC",
+  "kind": 2,
+  "value": 162382.0,
+  "signed": "2020-08-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., projektiranje in proizvodnja, Kamnik"
+  ],
+  "contractor_ids": [
+   "5753155000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007329/2019-C01/POG-163679",
+  "published": "2020-10-19",
+  "files": [
+   {
+    "name": "Pogodba-Technix-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MzY3OTtQb2dvZGJhLVRlY2huaXgtb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

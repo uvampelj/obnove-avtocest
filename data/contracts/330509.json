@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 330509,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 972981,
+  "idDosje": 526586,
+  "title": "Sklop 2: Priklopno vozilo z naletnim mehom",
+  "procurement": "Dobava priklopnih vozil za zagotavljanje varnosti",
+  "kind": 2,
+  "value": 177693.0,
+  "signed": "2025-12-12",
+  "from": "2026-01-12",
+  "to": "2027-02-12",
+  "number": "000031/2026",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007925/2025-POG/02",
+  "published": "2026-01-16",
+  "files": [
+   {
+    "name": "Podpisana pogodba 31-2026 Benussi R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIzODU2O1BvZHBpc2FuYSBwb2dvZGJhIDMxLTIwMjYgQmVudXNzaSBSLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78812,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663027,
+  "idDosje": 210483,
+  "title": "SNVP KOPER – IZOLA – NAVEZAVA NA OBSTOJEČ SISTEM V RNC KOZINA",
+  "procurement": "SNVP KOPER – IZOLA – NAVEZAVA NA OBSTOJEČ SISTEM V RNC KOZINA",
+  "kind": 1,
+  "value": 226578.16,
+  "signed": "2017-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005966/2017-C01/POG-78812",
+  "published": "2017-09-04",
+  "files": [
+   {
+    "name": "Pogodba-I.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4ODEyO1BvZ29kYmEtSS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

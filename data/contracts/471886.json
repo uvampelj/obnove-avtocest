@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 471886,
+  "type": "DOD",
+  "prev": 261612,
+  "idObrazec": 1171227,
+  "idDosje": 494261,
+  "title": "Aneks št. 2 k pogodbi DARS d. d., št. 401/2024: izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte na 2. odseku 3. razvojne osi jug od priključka Maline do MMP Metlika",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše premostitvene objekte na 2. odseku 3. razvojne osi jug od priključka Maline do MMP Metlika",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-08-20",
+  "from": "2026-08-20",
+  "to": "2027-09-08",
+  "number": "000401/2024",
+  "contractors": [
+   "GRADBENI INŠTITUT ZRMK d.o.o."
+  ],
+  "contractor_ids": [
+   "1795490000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006425/2023-POG/01-D02",
+  "published": "2026-08-28",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNzY1O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

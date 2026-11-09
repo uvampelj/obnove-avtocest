@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290749,
+  "type": "DOD",
+  "prev": 213208,
+  "idObrazec": 864142,
+  "idDosje": 430307,
+  "title": "Aneks št. 1 k pog. DARS št. 875/2022: Izdelava PZI za rekonstrukcijo vozišča na AC A1 0058 in 0658 Senožeče – Gabrk, 0156 razcep Gabrk, A1 0059 in 0659 Gabrk – Divača in A3 0068 Gabrk – Sežana V ",
+  "procurement": "Izdelava PZI za rekonstrukcijo vozišča na AC A1 0058 in 0658 Senožeče – Gabrk, 0156 razcep Gabrk, A1 0059 in 0659 Gabrk – Divača in A3 0068 Gabrk – Sežana V",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-10-30",
+  "from": "2024-10-30",
+  "to": "2024-12-31",
+  "number": "000875/2022",
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000017/2022-C01/POG-213208-D01",
+  "published": "2024-11-05",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI2MTMxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

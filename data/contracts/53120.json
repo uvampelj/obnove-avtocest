@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53120,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652050,
+  "idDosje": 156015,
+  "title": "Aneks 1 k pogodbi DARS št. 1451/14 za dodatna dela pri izdelavi projektne dokumentacije faze PGD in PZI dodatnih protivetrnih ukrepov na hitri cesti H4 Razdrto-Vipava-Ajdovščina, od km 0+260 do km 21+765",
+  "procurement": "Aneks 1 za dodatna dela pri izdelavi projektne dokumentacije faze PGD in Pzl dodatnih protivetrnih ukrepov na hitri cesti H4 Razdrto-Vipava-Ajdovščina, od km 0+260 do km 21+765",
+  "kind": 1,
+  "value": 235020.8,
+  "signed": "2016-06-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001706/2016-C01/POG-53120",
+  "published": "2016-10-26",
+  "files": [
+   {
+    "name": "A1_467_2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzMTIwO0ExXzQ2N18yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

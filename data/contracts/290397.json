@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 290397,
+  "type": "DOD",
+  "prev": 213206,
+  "idObrazec": 863293,
+  "idDosje": 430570,
+  "title": "Aneks št. 3 k pogodbi DARS št. 910/22: Izdelava idejnih zasnov ureditve varnih in varovanih parkirišč (VVP) na lokacijah počivališč Lom, Barje, Maribor in na površini na priključku Razdrto ",
+  "procurement": "Izdelava idejnih zasnov ureditve varnih in varovanih parkirišč (VVP) na lokacijah počivališč Lom, Barje, Maribor in na površini na priključku Razdrto",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-10-18",
+  "from": "2024-10-18",
+  "to": "2024-11-25",
+  "number": "000910/2022",
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000",
+   "5444098000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000053/2022-C01/POG-213206-D03",
+  "published": "2024-10-29",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1NDg3O0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

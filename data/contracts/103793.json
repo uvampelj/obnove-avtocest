@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 103793,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 675291,
+  "idDosje": 247969,
+  "title": "Poslovni najem vozil z nizkimi emisijami",
+  "procurement": "Karavan, vsaj 70 kW,Karavan, vsaj 80 kW,Karavan, vsaj 110 kW",
+  "kind": 1,
+  "value": 783963.6,
+  "signed": "2018-07-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana",
+   "SAWAL, trgovina, zastopstva, storitve in posredovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5790760000",
+   "5615763000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001901/2018-C01/POG-103793",
+  "published": "2018-07-17",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1644,1645-2018.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMzc5MztQb2dvZGJhIERBUlMgxaF0LiAxNjQ0LDE2NDUtMjAxOC56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

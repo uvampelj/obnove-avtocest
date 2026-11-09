@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274576,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836369,
+  "idDosje": 507279,
+  "title": "Sklop 1 - UV3 Univerzalno delovno vozilo moči nad 220 Kw s priključki",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 5879912.0,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2025-06-20",
+  "number": "000879/2024",
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/01",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Pogodba - Autocommerce,d.o.o.-1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDM1O1BvZ29kYmEgLSBBdXRvY29tbWVyY2UsZC5vLm8uLTFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91662,
+  "type": "DOD",
+  "prev": 17071,
+  "idObrazec": 767438,
+  "idDosje": 72506,
+  "title": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih HC H4/0375 in 0775 Vipava - Ajdovščina od km 4,150 do km 6,763, H4/0376 in 0776 Ajdovščina – Selo od km 0,000 do km 9,170 in H4/0378 in 0778 Selo - Vogrsko od km 0,000 do km 0,650 in PZI za zamenjavo dilatacij na viadukt",
+  "procurement": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih HC H4/0375 in 0775 Vipava - Ajdovščina od km 4,150 do km 6,763, H4/0376 in 0776 Ajdovščina – Selo od km 0,000 do km 9,17",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-01-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN4895/2015/DOD-91662",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjYyO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

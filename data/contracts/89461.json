@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 89461,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667797,
+  "idDosje": 228497,
+  "title": "Vzdrževanje UPS naprav proizvajalca MGE",
+  "procurement": "Vzdrževanje UPS naprav proizvajalca MGE",
+  "kind": 1,
+  "value": 125175.66,
+  "signed": "2018-01-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FIBERNET storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5957699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009163/2017-X01/POG-89461",
+  "published": "2018-01-15",
+  "files": [
+   {
+    "name": "pogodba Fibernet.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg5NDYxO3BvZ29kYmEgRmliZXJuZXQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

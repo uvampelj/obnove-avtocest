@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48906,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650942,
+  "idDosje": 164588,
+  "title": "Letni pregled in servisiranje merilcev slanosti Boschung",
+  "procurement": "Letni pregled in servisiranje merilcev slanosti Boschung",
+  "kind": 1,
+  "value": 82008.4,
+  "signed": "2016-09-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SVET STROJEV d.o.o."
+  ],
+  "contractor_ids": [
+   "6015174000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004341/2016-X01/POG-48906",
+  "published": "2016-09-27",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 780-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4OTA2O1BvZ29kYmEgREFSUyDFoXQuIDc4MC0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

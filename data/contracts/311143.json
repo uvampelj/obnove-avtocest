@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 311143,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 916865,
+  "idDosje": 517706,
+  "title": "Sklop 8 - Dvižne platforme v skladiščih",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 157233.6,
+  "signed": "2025-05-30",
+  "from": "2025-05-30",
+  "to": "2026-02-28",
+  "number": "000781/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000366/2025-POG/06",
+  "published": "2025-06-03",
+  "files": [
+   {
+    "name": "Pogodba - Imexa 8_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc5MTA4O1BvZ29kYmEgLSBJbWV4YSA4X1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 288173,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 856742,
+  "idDosje": 508119,
+  "title": "Izdelava projektne dokumentacije za dobavo in postavitev sončnih elektrarn na objektih DARS – 2. faza",
+  "procurement": "Izdelava projektne dokumentacije za dobavo in postavitev sončnih elektrarn na objektih DARS – 2. faza",
+  "kind": 1,
+  "value": 265327.08,
+  "signed": "2024-09-19",
+  "from": "2024-09-19",
+  "to": "2025-09-19",
+  "number": "000971/2024",
+  "contractors": [
+   "ROBOTINA, Podjetje za inženiring, marketing, trgovino in proizvodnjo d.o.o."
+  ],
+  "contractor_ids": [
+   "5361907000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001922/2024-POG/01",
+  "published": "2024-10-02",
+  "files": [
+   {
+    "name": "Pogodba ROBOTINA_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIwMjUzO1BvZ29kYmEgUk9CT1RJTkFfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

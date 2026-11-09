@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 161673,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708628,
+  "idDosje": 358048,
+  "title": "Čiščenje službenih oblek in osebne varovalne opreme",
+  "procurement": "Sklop 1 - ACB PO in KO\t,Sklop 2 - ACB SK MB VR in MS,Sklop 3 - ACB LJ,Sklop 4 - ACB HR,Sklop 5 - ACB NM",
+  "kind": 1,
+  "value": 98230.74,
+  "signed": "2020-09-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CWS-boco higienski sistemi in vzdrževanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5842018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003973/2020-X01/POG-161673",
+  "published": "2020-09-28",
+  "files": [
+   {
+    "name": "POGODBA - CWS-boco d.o.o. - objava uradni list.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTY3MztQT0dPREJBIC0gQ1dTLWJvY28gZC5vLm8uIC0gb2JqYXZhIHVyYWRuaSBsaXN0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

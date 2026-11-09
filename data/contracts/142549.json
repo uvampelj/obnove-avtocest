@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 142549,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 696048,
+  "idDosje": 331311,
+  "title": "Izvajanje zimske službe AC baza Ljubljana (Dob), Postojna, Novo mesto, Slovenske Konjice in Vransko",
+  "procurement": "SKLOP 2 - ACB Ljubljana - izpostava Dob (najem plužne enote z voznikom),SKLOP 4 - ACB Postojna,SKLOP 5 - ACB Novo mesto,SKLOP 7 - ACB Slovenske Konjice",
+  "kind": 1,
+  "value": 82660.96,
+  "signed": "2019-12-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RESAL, gradbeništvo in prevozništvo d.o.o.",
+   "LEDALINE, inženiring, d.o.o.",
+   "IZKOPI NOVAK, ŽELJKO NOVAK s.p."
+  ],
+  "contractor_ids": [
+   "3283917000",
+   "6708285000",
+   "3322807000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007752/2019-X01/POG-142549",
+  "published": "2019-12-20",
+  "files": [
+   {
+    "name": "Pogodbe DARS št. 1684,1685,1686-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjU0OTtQb2dvZGJlIERBUlMgxaF0LiAxNjg0LDE2ODUsMTY4Ni0yMDE5LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

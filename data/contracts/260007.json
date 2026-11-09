@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 260007,
+  "type": "DOD",
+  "prev": 228568,
+  "idObrazec": 793914,
+  "idDosje": 458516,
+  "title": "Aneks št. 2, DARS št. 264/2024 k pog. DARS št. 1672/2022",
+  "procurement": "VZDRŽEVANJE SISTEMA RADIJSKIH ZVEZ",
+  "kind": 1,
+  "value": 85400.0,
+  "signed": "2024-02-12",
+  "from": null,
+  "to": null,
+  "number": "264/2024",
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006643/2022-C01/POG-228568-D02",
+  "published": "2024-02-27",
+  "files": [
+   {
+    "name": "Aneks 2, DARS št. 264-2024 k pog. DARS št. 1672-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY4MTE5O0FuZWtzIDIsIERBUlMgxaF0LiAyNjQtMjAyNCBrIHBvZy4gREFSUyDFoXQuIDE2NzItMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

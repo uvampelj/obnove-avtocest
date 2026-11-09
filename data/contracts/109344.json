@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 109344,
+  "type": "DOD",
+  "prev": 61116,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1, k pog DARS št. 132/2017 pri izgradnji pilotne stene nad HC Razdrto -Vipavana plazu v km 4,2 na odseku HC Razdrto - Vipava; Rebernice",
+  "procurement": "izgradnjo pilotne stene nad HC Razdrto -Vipavana plazu v km 4,2 na odseku HC Razdrto - Vipava; Rebernice - določitve enotnih cen za dodatna dela",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-09-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RAFAEL gradbena dejavnost d.o.o. Sevnica"
+  ],
+  "contractor_ids": [
+   "5617316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-09-19",
+  "files": [
+   {
+    "name": "A1_1842_2018_k_pog_132_2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTM0NDtBMV8xODQyXzIwMThfa19wb2dfMTMyXzIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

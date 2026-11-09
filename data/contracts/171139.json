@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 171139,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714280,
+  "idDosje": 372084,
+  "title": "Vzdrževanje visokonapetostnih naprav in nizkonapetostnih priključkov",
+  "procurement": "Vzdrževanje visokonapetostnih naprav in nizkonapetostnih priključkov",
+  "kind": 1,
+  "value": 524513.92,
+  "signed": "2021-01-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTRO LJUBLJANA, podjetje za distribucijo električne energije, d.d."
+  ],
+  "contractor_ids": [
+   "5227992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006651/2020-C01/POG-171139",
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "pogodba 49-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTEzOTtwb2dvZGJhIDQ5LTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 170306,
+  "type": "DOD",
+  "prev": 106231,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k pogodbi 1744/2018 za vzpostavitev sistema kooperativnih ITS (C-ITS V2X) z mikrovalovno tehnologijo (G5) na odseku Postojna-Divača; podaljšanje trajanja pogodbe",
+  "procurement": "Aneks št. 3 k pogodbi 1744/2018 za vzpostavitev sistema kooperativnih ITS (C-ITS V2X) z mikrovalovno tehnologijo (G5) na odseku Postojna-Divača; podaljšanje trajanja pogodbe",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-12-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-11",
+  "files": [
+   {
+    "name": "podpisan aneks 3 k pog 1744-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDMwNjtwb2RwaXNhbiBhbmVrcyAzIGsgcG9nIDE3NDQtMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

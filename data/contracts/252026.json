@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 252026,
+  "type": "DOD",
+  "prev": 214877,
+  "idObrazec": 780507,
+  "idDosje": 433627,
+  "title": "Aneks št. 1 k pogodbi DARS št. 909/2022: Izvedba zamenjave sidrnih vijakov obstoječih ventilatorjev v predorih Jasovnik, Trojane, Kastelec in Dekani",
+  "procurement": "Izvedba zamenjave sidrnih vijakov obstoječih ventilatorjev v predorih Jasovnik, Trojane, Kastelec in Dekani",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-10-19",
+  "from": "2023-10-19",
+  "to": "2024-11-25",
+  "number": "1073/2023",
+  "contractors": [
+   "KLIMA CELJE Industrija aerotermičnih naprav d.d."
+  ],
+  "contractor_ids": [
+   "5035490000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000467/2022-X01/DOD-252026",
+  "published": "2023-11-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NTQ4MztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

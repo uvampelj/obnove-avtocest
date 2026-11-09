@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70898,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659328,
+  "idDosje": 168007,
+  "title": "DOBAVA IN MONTAŽA AVTOMATSKIH ŠTEVCEV PROMETA S KLASIFIKACIJO VOZIL NA AC IN HC V REPUBLIKI SLOVENIJI",
+  "procurement": "DOBAVA IN MONTAŽA AVTOMATSKIH ŠTEVCEV PROMETA S KLASIFIKACIJO VOZIL NA AC IN HC V REPUBLIKI SLOVENIJI",
+  "kind": 2,
+  "value": 1031461.2,
+  "signed": "2017-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROBIT SENZORIKA d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005497/2016-C01/POG-70898",
+  "published": "2017-05-17",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwODk4O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

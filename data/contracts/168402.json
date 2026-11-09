@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 168402,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712476,
+  "idDosje": 368740,
+  "title": "VZDRŽEVANJE KOMUNIKACIJSKIH SISTEMOV ERICSSON (MITEL)",
+  "procurement": "VZDRŽEVANJE KOMUNIKACIJSKIH SISTEMOV ERICSSON (MITEL)",
+  "kind": 1,
+  "value": 79057.28,
+  "signed": "2020-12-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KRON TELEKOM, telekomunikacijski engeniring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5948649000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005916/2020-X01/POG-168402",
+  "published": "2020-12-15",
+  "files": [
+   {
+    "name": "Pogodba 1588-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2ODQwMjtQb2dvZGJhIDE1ODgtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

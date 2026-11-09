@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 355095,
+  "type": "DOD",
+  "prev": 297334,
+  "idObrazec": 1003517,
+  "idDosje": 517143,
+  "title": "Aneks št. 1 k POGODBI Dars št. 000064/2025 za Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "procurement": "Nadgradnja DarsGO sistema za zaračunavanje infrastrukturne pristojbine za težka vozila po Direktivi Evropskega parlamenta in Sveta 1999/62/ES z dne 17. junija 1999 - Implementacija diferenciacije infrastrukturne pristojbine glede na emisije CO2",
+  "kind": 1,
+  "value": -746243.58,
+  "signed": "2026-02-23",
+  "from": "2026-02-23",
+  "to": "2028-06-30",
+  "number": "000180/2026",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009192/2024-POG/01-D01",
+  "published": "2026-02-26",
+  "files": [
+   {
+    "name": "aneks št 180-2026_za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUyNjU2O2FuZWtzIMWhdCAxODAtMjAyNl96YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

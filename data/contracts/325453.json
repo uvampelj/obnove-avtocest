@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 325453,
+  "type": "DOD",
+  "prev": 314078,
+  "idObrazec": 959320,
+  "idDosje": 520716,
+  "title": "Dodatek št. 2 k Pogodbi za izvedbo forenzične revizije posameznih poslov ",
+  "procurement": "Forenzična revizija posameznih poslov družbe DARS d.d.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-11-12",
+  "from": "2025-06-26",
+  "to": "2026-02-21",
+  "number": "001253/2025",
+  "contractors": [
+   "AZ ODVETNIKI Avbreht, Erjavec Avbreht, Erjavec, Lešnik Sitar, Arnol o.p., d.o.o.",
+   "AVBREHT ALEŠ - ODVETNIK"
+  ],
+  "contractor_ids": [
+   "3735656000",
+   "1567535000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002826/2025-POG/01-D02",
+  "published": "2025-11-18",
+  "files": [
+   {
+    "name": "PJN Aneks št. 2 k pogodbi DARS št. 857-2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEzMDk0O1BKTiBBbmVrcyDFoXQuIDIgayBwb2dvZGJpIERBUlMgxaF0LiA4NTctMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

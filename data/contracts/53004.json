@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53004,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 3 k pog. DARS št. 1017/10:AC POSTOJNA/DIVAČA-JELŠANE: IZDELAVA OKOLJSKEGA POROČILA-podaljšanje roka ",
+  "procurement": "aneks št. 3 k pog. DARS št. 1017/10:AC POSTOJNA/DIVAČA-JELŠANE: IZDELAVA OKOLJSKEGA POROČILA-podaljšanje roka ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEATEH, d.o.o."
+  ],
+  "contractor_ids": [
+   "1714961000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-26",
+  "files": [
+   {
+    "name": "2-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzMDA0OzItMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

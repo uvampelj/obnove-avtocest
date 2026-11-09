@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 202868,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731411,
+  "idDosje": 418866,
+  "title": "POPRAVILO IN IZDELAVA HIDRAVLIČNIH IN PNEVMATSKIH KOMPONENT",
+  "procurement": "ACB Postojna,ACB Kozina",
+  "kind": 1,
+  "value": 72956.0,
+  "signed": "2022-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna"
+  ],
+  "contractor_ids": [
+   "1570307000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006982/2021-X01/POG-202868",
+  "published": "2022-01-25",
+  "files": [
+   {
+    "name": "Pogodba - 47-2022_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMjg2ODtQb2dvZGJhIC0gNDctMjAyMl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

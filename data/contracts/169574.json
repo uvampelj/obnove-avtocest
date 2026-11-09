@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 169574,
+  "type": "DOD",
+  "prev": 147576,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 483/2020: Izvedba predhodnih arheoloških raziskav - arheoloških izkopavanj na trasi obvoznice Vodice - podaljšanje pogodbenega roka",
+  "procurement": "Izvedba predhodnih arheoloških raziskav - arheoloških izkopavanj na trasi obvoznice Vodice",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ARHEOLOŠKE RAZISKAVE IN TRŽENJE KULTURNE DEDIŠČINE, PRIMOŽ STERGAR S.P.",
+   "LUXOR, arheološke raziskave, Luka Rozman s.p.",
+   "MARUŠA UREK, ARHEOLOŠKE RAZISKAVE S.P.",
+   "Skupina STIK, zavod za preučevanje povezovalnih področij preteklosti in sedanjosti",
+   "TERARHIS, arheološke, raziskovalne in druge storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "3110486000",
+   "8297975000",
+   "8296499000",
+   "6249027000",
+   "6038085000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-20",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.483-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTU3NDtBbmVrcyDFoXQuMSBrIHBvZy40ODMtMjAtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

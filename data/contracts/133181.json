@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 133181,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691404,
+  "idDosje": 232576,
+  "title": "Izdelava projektne dokumentacije PGD in PZI za: Sklop 1: izgradnjo 1. odseka nove prometne povezave med priključkom Šentrupert na avtocesti A1 Šentilj  Koper do priključka Velenje jug",
+  "procurement": "Izdelava projektne dokumentacije PGD in PZI za: Sklop 1: izgradnjo 1. odseka nove prometne povezave med priključkom Šentrupert na avtocesti A1 Šentilj  Koper do priključka Velenje jug",
+  "kind": 1,
+  "value": 11281992.7,
+  "signed": "2019-06-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5075742000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009841/2017-C01/POG-133181",
+  "published": "2019-09-03",
+  "files": [
+   {
+    "name": "Pogodba-JV PNZ+Projekt NG+Elea iC_Sklop1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzE4MTtQb2dvZGJhLUpWIFBOWitQcm9qZWt0IE5HK0VsZWEgaUNfU2tsb3AxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

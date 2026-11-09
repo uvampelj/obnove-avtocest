@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146390,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 698671,
+  "idDosje": 334486,
+  "title": "Nakup trajnih licenc ESRI programske opreme",
+  "procurement": "Nakup trajnih licenc ESRI programske opreme",
+  "kind": 1,
+  "value": 44200.6,
+  "signed": "2020-01-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GDi poslovne tehnološke rešitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5544017000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008402/2019-C01/POG-146390",
+  "published": "2020-02-13",
+  "files": [
+   {
+    "name": "Pogodba GDi.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjM5MDtQb2dvZGJhIEdEaS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

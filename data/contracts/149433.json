@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 149433,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 700755,
+  "idDosje": 340379,
+  "title": "Opravljanje strokovno svetovalnih storitev inženirja na HC Razdrto – Vipava",
+  "procurement": "Opravljanje strokovno svetovalnih storitev inženirja na HC Razdrto – Vipava",
+  "kind": 1,
+  "value": 625583.67,
+  "signed": "2020-03-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000534/2020-C01/POG-149433",
+  "published": "2020-03-30",
+  "files": [
+   {
+    "name": "pogodba 560-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0OTQzMztwb2dvZGJhIDU2MC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

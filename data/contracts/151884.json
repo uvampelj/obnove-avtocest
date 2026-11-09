@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 151884,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 702231,
+  "idDosje": 340741,
+  "title": "Dobava pisarniškega materiala",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 155143.24,
+  "signed": "2020-05-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BIROPRODAJA storitve in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "3991512000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000442/2020-X02/POG-151884",
+  "published": "2020-05-14",
+  "files": [
+   {
+    "name": "pogodba 1065-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTg4NDtwb2dvZGJhIDEwNjUtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

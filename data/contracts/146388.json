@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146388,
+  "type": "DOD",
+  "prev": 111574,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. št. 1937/2018",
+  "procurement": "Aneks št. 1 k pog. št. 1937/2018",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-12-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VISOKA ŠOLA ZA VARSTVO OKOLJA, VELENJE"
+  ],
+  "contractor_ids": [
+   "2257092000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-02-13",
+  "files": [
+   {
+    "name": "Aneks št. 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjM4ODtBbmVrcyDFoXQuIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

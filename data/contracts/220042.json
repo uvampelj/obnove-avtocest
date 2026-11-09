@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220042,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740428,
+  "idDosje": 442879,
+  "title": "Servisiranje dvižnih garažnih vrat",
+  "procurement": "Servisiranje dvižnih garažnih vrat",
+  "kind": 1,
+  "value": 298900.0,
+  "signed": "2022-08-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Hörmann Slovenija, montaža, zastopanje in posredovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5332729000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002796/2022-C01/POG-220042",
+  "published": "2022-08-25",
+  "files": [
+   {
+    "name": "Pogodba Ser dviznih gar vrat st 1074-2022 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDA0MjtQb2dvZGJhIFNlciBkdml6bmloIGdhciB2cmF0IHN0IDEwNzQtMjAyMiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

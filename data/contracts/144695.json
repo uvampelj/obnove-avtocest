@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "id": 144695,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 697471,
+  "idDosje": 319170,
+  "title": "Dobava priklopnih vozil in signalizacije",
+  "procurement": "Prikolice,Svetlobna tabla za zapiranje prometnega pasu,Signalna tabla spremenljive  vsebine,Blažilec trka na tovornjaku,Svetlobna tabla za zapiranje prometnega pasu (sukcesivna dobava),Signalna tabla spremenljive vsebine (sukcesivna dobava)",
+  "kind": 2,
+  "value": 1400714.94,
+  "signed": "2019-11-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme",
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o.",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5742960000",
+   "5444063000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005458/2019-C01/POG-144695",
+  "published": "2020-01-27",
+  "files": [
+   {
+    "name": "Pogodbe DARS št. 1567,1568,1569,1570,1571.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDY5NTtQb2dvZGJlIERBUlMgxaF0LiAxNTY3LDE1NjgsMTU2OSwxNTcwLDE1NzEuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

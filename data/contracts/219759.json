@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 219759,
+  "type": "DOD",
+  "prev": 207673,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.1 k pogodbi DARS št. 425/2022: Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Ločica in Jasovnik ",
+  "procurement": "Izdelava projektne dokumentacije PZI in izvlečka iz PZI za obnovo ESO opreme v predorih Ločica in Jasovnik",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-08-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+   "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "2074699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-08-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxOTc1OTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

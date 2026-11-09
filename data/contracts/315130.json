@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315130,
+  "type": "DOD",
+  "prev": 231224,
+  "idObrazec": 929083,
+  "idDosje": 451812,
+  "title": "Aneks št. 1 k pogodbi DARS št. 116/2023: Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+  "procurement": "Postavitev blažilnikov trkov in naletnih zaključnic na priključkih na AC omrežju v RS in postavitev montažnih prehodov pred predorom Cenkova",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-06-20",
+  "from": "2025-06-20",
+  "to": "2025-09-30",
+  "number": "000116/2023",
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004960/2022-X01/POG-231224-D01",
+  "published": "2025-07-21",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4ODU2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

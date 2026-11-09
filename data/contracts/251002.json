@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 251002,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 762905,
+  "idDosje": 489280,
+  "title": "Pogodba Dobava mobilnih naprav in opreme",
+  "procurement": "Dobava mobilnih naprav in opreme",
+  "kind": 2,
+  "value": 197155.54,
+  "signed": "2023-10-27",
+  "from": "2023-11-02",
+  "to": "2026-11-02",
+  "number": "001106/2023",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005353/2023-X01/POG-251002",
+  "published": "2023-11-02",
+  "files": [
+   {
+    "name": "Pgd 159_23_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NDM1ODtQZ2QgMTU5XzIzX1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

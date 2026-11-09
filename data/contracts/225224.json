@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 225224,
+  "type": "DOD",
+  "prev": 214871,
+  "idObrazec": 780506,
+  "idDosje": 437990,
+  "title": "Aneks št. 1 k pogodbi DARS št. 941/2022 za Spremljanje stanja premostitvenih objektov na cestah v upravljanju DARS za obdobje 2022-2024; Sklop 1: Izvedba rednih pregledov premostitvenih objektov; zamenjava predstavnika izvajalca",
+  "procurement": "Sklop 1: Izvedba rednih pregledov premostitvenih objektov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-11-08",
+  "from": "2022-06-28",
+  "to": "2025-06-28",
+  "number": null,
+  "contractors": [
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "1795490000",
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001514/2022-C01/DOD-225224",
+  "published": "2022-11-10",
+  "files": [
+   {
+    "name": "Podpisan aneks 1376-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTU0OTtQb2RwaXNhbiBhbmVrcyAxMzc2LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 84383,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 665523,
+  "idDosje": 210762,
+  "title": "Implementacija kooperativnih ITS (C-ITS) preko omrežij 3G/4G/LTE",
+  "procurement": "Implementacija kooperativnih ITS (C-ITS) preko omrežij 3G/4G/LTE",
+  "kind": 1,
+  "value": 979525.8,
+  "signed": "2017-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HERE EUROPE B.V."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006087/2017-C01/POG-84383",
+  "published": "2017-11-06",
+  "files": [
+   {
+    "name": "POGODBA 000834-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg0MzgzO1BPR09EQkEgMDAwODM0LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

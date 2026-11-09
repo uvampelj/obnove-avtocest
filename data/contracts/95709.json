@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95709,
+  "type": "DOD",
+  "prev": 81996,
+  "idObrazec": 769703,
+  "idDosje": 45981,
+  "title": "OBNOVA IN OPTIMIZACIJA SISTEMOV V RNC KOZINA ZA VODENJE IN NADZOR PROMETA",
+  "procurement": "OBNOVA IN OPTIMIZACIJA SISTEMOV V RNC KOZINA ZA VODENJE IN NADZOR PROMETA",
+  "kind": 3,
+  "value": 141933.26,
+  "signed": "2018-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007917/2017-C01/DOD-95709",
+  "published": "2018-04-06",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NzA5O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

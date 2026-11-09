@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 296701,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 879784,
+  "idDosje": 517040,
+  "title": "Izdelava dodatnega dela projektne dokumentacije DGD in PZI za izgradnjo 2. odseka nove prometne povezave med priključkom Velenje jug do priključka Slovenj Gradec jug - Sklop 2",
+  "procurement": "Izdelava dodatnega dela projektne dokumentacije DGD in PZI za izgradnjo 2. odseka nove prometne povezave med priključkom Velenje jug do priključka Slovenj Gradec jug - Sklop 2",
+  "kind": 1,
+  "value": 2012999.39,
+  "signed": "2024-12-24",
+  "from": "2024-12-24",
+  "to": "2025-06-24",
+  "number": "001270/2024",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5397014000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009103/2024-POG/01",
+  "published": "2025-01-09",
+  "files": [
+   {
+    "name": "Pogodba-JV Lineal+BPI+IRGO cons_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM4NjM1O1BvZ29kYmEtSlYgTGluZWFsK0JQSStJUkdPIGNvbnNfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 196724,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 727741,
+  "idDosje": 412598,
+  "title": "Vzdrževanje CVIS in MDSS",
+  "procurement": "Vzdrževanje CVIS in MDSS",
+  "kind": 1,
+  "value": 113606.4,
+  "signed": "2021-10-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS Labs, informacijske in okoljske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "8034150000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005765/2021-X01/POG-196724",
+  "published": "2021-10-29",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1231-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjcyNDtQb2dvZGJhIERBUlMgxaF0LiAxMjMxLTIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

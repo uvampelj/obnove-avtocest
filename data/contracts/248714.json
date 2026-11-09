@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248714,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 761206,
+  "idDosje": 489244,
+  "title": "Pogodba Vzdrževanje avtomatskih števcev prometa",
+  "procurement": "Vzdrževanje avtomatskih števcev prometa",
+  "kind": 1,
+  "value": 91500.0,
+  "signed": "2023-09-29",
+  "from": "2023-10-01",
+  "to": "2025-10-01",
+  "number": "001017/2023",
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005314/2023-X01/POG-248714",
+  "published": "2023-10-03",
+  "files": [
+   {
+    "name": "Pogodba 153_23_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTkyNDtQb2dvZGJhIDE1M18yM19QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

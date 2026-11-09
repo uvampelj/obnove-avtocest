@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 130376,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 689695,
+  "idDosje": 307733,
+  "title": "Letni pregled in dobava bremenske ter dvižne tehnike",
+  "procurement": "Letni pregled in dobava bremenske ter dvižne tehnike",
+  "kind": 1,
+  "value": 176988.08,
+  "signed": "2019-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VODUŠEK, proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1722697000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002811/2019-X01/POG-130376",
+  "published": "2019-07-19",
+  "files": [
+   {
+    "name": "Pogodba 906-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMDM3NjtQb2dvZGJhIDkwNi0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

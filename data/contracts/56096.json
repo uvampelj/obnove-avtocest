@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 56096,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 653447,
+  "idDosje": 176648,
+  "title": "Vzdrževanje opreme za sprejemanje DARS kartic",
+  "procurement": "Vzdrževanje opreme za sprejemanje DARS kartic",
+  "kind": 1,
+  "value": 57645.0,
+  "signed": "2016-12-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ČETRTA POT, d.o.o., Kranj"
+  ],
+  "contractor_ids": [
+   "5337976000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007024/2016-C01/POG-56096",
+  "published": "2016-12-09",
+  "files": [
+   {
+    "name": "pogodba 959-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU2MDk2O3BvZ29kYmEgOTU5LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67136,
+  "type": "DOD",
+  "prev": 18886,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Opravljanje tehničnih pregledov, registracije, letna dajatev za uporabo cest in pregledi tahografov, Sklop 4 ACB Maribor",
+  "procurement": "Opravljanje tehničnih pregledov, registracije, letna dajatev za uporabo cest in pregledi tahografov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-03-31",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO KRKA MB d.o.o."
+  ],
+  "contractor_ids": [
+   "3530833000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-04-05",
+  "files": [
+   {
+    "name": "Aneks 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3MTM2O0FuZWtzIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

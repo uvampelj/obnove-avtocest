@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268703,
+  "type": "DOD",
+  "prev": 192792,
+  "idObrazec": 818500,
+  "idDosje": 412105,
+  "title": "Aneks št. 1 k pogodbi DARS d.d. št. 1144/2021 za Vzdrževanje in razvoj informacijskega sistema za spremljanje in analizo stanja ostale avtocestne infrastrukture",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema za spremljanje in analizo stanja ostale avtocestne infrastrukture",
+  "kind": 1,
+  "value": 29097.0,
+  "signed": "2024-05-29",
+  "from": "2021-09-22",
+  "to": "2024-09-22",
+  "number": "000660/2024",
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005668/2021-C01/POG-192792-D01",
+  "published": "2024-06-05",
+  "files": [
+   {
+    "name": "aneks 1 k pog 1144-2021_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg3Nzk2O2FuZWtzIDEgayBwb2cgMTE0NC0yMDIxX3BvZHBpc2FuX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

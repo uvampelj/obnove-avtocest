@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 315926,
+  "type": "DOD",
+  "prev": 268755,
+  "idObrazec": 931478,
+  "idDosje": 506845,
+  "title": "Aneks št. 1 pogodbi DARS št. 676/2024 za Vzdrževanje instalacij",
+  "procurement": "Vzdrževanje instalacij",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-29",
+  "from": "2024-06-03",
+  "to": "2027-09-03",
+  "number": "000676/2024",
+  "contractors": [
+   "SIM trgovsko in turistično podjetje Radenci d.o.o."
+  ],
+  "contractor_ids": [
+   "5378214000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000923/2024-POG/01-D01",
+  "published": "2025-07-30",
+  "files": [
+   {
+    "name": "Aneks-1-k-676-2024_200-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkwODA4O0FuZWtzLTEtay02NzYtMjAyNF8yMDAtMjAyNV9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

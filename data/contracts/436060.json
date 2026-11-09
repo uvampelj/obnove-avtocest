@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 436060,
+  "type": "DOD",
+  "prev": 261913,
+  "idObrazec": 1114494,
+  "idDosje": 506499,
+  "title": "Aneks št. 1 k pogodbi DARS št. 408/2024 za Izvajanje inženirskih storitev v postopkih delovanja sistema e-vinjeta; sprememba podizvajalca",
+  "procurement": "Izvajanje inženirskih storitev v postopkih delovanja sistema e-vinjeta",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-03-12",
+  "from": "2024-03-12",
+  "to": "2027-03-31",
+  "number": "000408/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001088/2024-POG/01-D01",
+  "published": "2026-06-22",
+  "files": [
+   {
+    "name": "Aneks št 661-2026_97-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3NDIzO0FuZWtzIMWhdCA2NjEtMjAyNl85Ny0yMDI2X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

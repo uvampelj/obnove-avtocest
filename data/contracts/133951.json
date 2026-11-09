@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 133951,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691847,
+  "idDosje": 306028,
+  "title": "Dobava osebne varovalne opreme",
+  "procurement": "Zimska in dežna delovna oblačila,Delovna oblačila\t,Rokavice,Zaščita glave in dihal,Specialna zaščita",
+  "kind": 2,
+  "value": 898003.45,
+  "signed": "2019-09-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAS, poslovne rešitve, d.o.o.",
+   "TOTAL trgovina na debelo, d.o.o.; POSLOVNA ENOTA ZAŠČITA",
+   "GRIP TRGOVINA, proizvodnja, storitve, trgovina, d.o.o.",
+   "UTG VODNIK proizvodnja, trgovina d.o.o.",
+   "TOTAL trgovina na debelo, d.o.o."
+  ],
+  "contractor_ids": [
+   "5799791000",
+   "5335949002",
+   "1992236000",
+   "2372754000",
+   "5335949000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002644/2019-C01/POG-133951",
+  "published": "2019-09-13",
+  "files": [
+   {
+    "name": "POGODBE OVO.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzk1MTtQT0dPREJFIE9WTy56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

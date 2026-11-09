@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197179,
+  "type": "DOD",
+  "prev": 183783,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 813/2021 »Vzpostavitev in delovanje sistema elektronske vinjete« - skrajšanje roka za izvedbo projekta e-vinjeta",
+  "procurement": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "kind": 1,
+  "value": 889079.58,
+  "signed": "2021-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SkyToll, a.s."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-11-05",
+  "files": [
+   {
+    "name": "Aneks 2  k pog Dars 813-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NzE3OTtBbmVrcyAyICBrIHBvZyBEYXJzIDgxMy0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

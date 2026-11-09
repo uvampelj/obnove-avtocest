@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 245560,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 758778,
+  "idDosje": 479477,
+  "title": "Dobava osvežilnih, varstvenih napitkov in izvirske vode",
+  "procurement": "Dobava osvežilnih, varstvenih napitkov in izvirske vode",
+  "kind": 2,
+  "value": 264097.58,
+  "signed": "2023-08-01",
+  "from": "2023-08-01",
+  "to": "2026-11-01",
+  "number": "000885/2023",
+  "contractors": [
+   "BROLINE, trgovina, zastopstva, proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1459007000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002939/2023-C01/POG-245560",
+  "published": "2023-08-23",
+  "files": [
+   {
+    "name": "Pogodba st. 885-2023 ULRed.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0ODM1MztQb2dvZGJhIHN0LiA4ODUtMjAyMyBVTFJlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

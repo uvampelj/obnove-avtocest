@@ -1,0 +1,50 @@
+{
+ "meta": {
+  "id": 203164,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731576,
+  "idDosje": 415955,
+  "title": "SERVISIRANJE STROJEV IN OPREME",
+  "procurement": "Federal signal,Fendt Valtra,Bobcat,Ducker Kahelbacher,Capellotto,Kubota,Irus,Mulag",
+  "kind": 1,
+  "value": 1098439.2,
+  "signed": "2022-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IVL inženiring d.o.o.",
+   "INTEREXPORT mednarodna trgovina, d.o.o.",
+   "DIMEH napredne tehnologije d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "VERTEKS TG tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o.",
+   "MKB CENTER trgovina, zastopstva in storitve d.o.o.",
+   "GRIČ - TRGOVINA IN SERVIS KMETIJSKIH STROJEV JOŽE SMOLIČ S.P.",
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5737931000",
+   "5101956000",
+   "6960456000",
+   "6015174000",
+   "2312760000",
+   "2098113000",
+   "5496439000",
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006408/2021-C01/POG-203164",
+  "published": "2022-01-28",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzE2NDtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

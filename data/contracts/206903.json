@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 206903,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 734094,
+  "idDosje": 383771,
+  "title": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d.d. za drugo zavarovalno obdobje",
+  "procurement": "Zavarovanje odgovornosti poslovodstva in članov nadzornega sveta DARS d.d",
+  "kind": 1,
+  "value": 103884.12,
+  "signed": "2022-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000297/2021-X03/POG-206903",
+  "published": "2022-03-14",
+  "files": [
+   {
+    "name": "R POGODBA 447-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNjkwMztSIFBPR09EQkEgNDQ3LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

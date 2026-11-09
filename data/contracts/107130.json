@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 107130,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677293,
+  "idDosje": 263312,
+  "title": "Vzdrževanje in razvoj informacijskega sistema Navision",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema Navision",
+  "kind": 1,
+  "value": 421144.0,
+  "signed": "2018-08-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ADACTA, programska oprema d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5314054000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004681/2018-C01/POG-107130",
+  "published": "2018-08-31",
+  "files": [
+   {
+    "name": "Pogodba 1738-2018.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNzEzMDtQb2dvZGJhIDE3MzgtMjAxOC56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

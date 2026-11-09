@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 203766,
+  "type": "DOD",
+  "prev": 149138,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1008/2020: Izdelava Izvedbenega načrta za obnovo protihrupnih ograj na odsekih A1/0644, A1/0636, A1/0048-0648, A1/0049-0649, A1/0050-0650, H4/0776, H4/0778, H2/0032 in A2/0602 ",
+  "procurement": "\tIzdelava Izvedbenega načrta za obnovo protihrupnih ograj na odsekih A1/0644, A1/0636, A1/0048-0648, A1/0049-0649, A1/0050-0650, H4/0776, H4/0778, H2/0032 in A2/0602",
+  "kind": 1,
+  "value": 9829.3,
+  "signed": "2021-08-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-04",
+  "files": [
+   {
+    "name": "Aneks-1_Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMzc2NjtBbmVrcy0xX1BvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

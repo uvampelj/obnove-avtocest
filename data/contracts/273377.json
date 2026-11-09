@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273377,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 832879,
+  "idDosje": 507329,
+  "title": "Dobava samohodnih mulčarjev - sklop 1",
+  "procurement": "Dobava samohodnih mulčarjev",
+  "kind": 2,
+  "value": 1110088.98,
+  "signed": "2024-07-19",
+  "from": "2024-07-19",
+  "to": "2025-08-19",
+  "number": "000803/2024",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001288/2024-POG/01",
+  "published": "2024-08-06",
+  "files": [
+   {
+    "name": "Podpisana pogodba S1 803-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk5MjU4O1BvZHBpc2FuYSBwb2dvZGJhIFMxIDgwMy0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

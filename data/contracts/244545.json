@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 244545,
+  "type": "DOD",
+  "prev": 174249,
+  "idObrazec": 775515,
+  "idDosje": 366231,
+  "title": "Aneks št. 1 k pogodbi DARS št. 146/2021 - Čiščenje poslovnih prostorov; SKLOP 1, SKLOP 2, SKLOP 3, SKLOP 4 in SKLOP 5",
+  "procurement": "Osrednja Slovenija,Primorska in Notranjska,Hrušica,Dolenjska,Štajerska in Prekmurje",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-08-01",
+  "from": "2023-06-01",
+  "to": "2024-02-03",
+  "number": "000882/2023",
+  "contractors": [
+   "EES SISTEMI, družba za čiščenje prostorov, vzdrževanje ter urejanje zunanjih površin d.o.o."
+  ],
+  "contractor_ids": [
+   "5653100000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005437/2020-C01/DOD-244545",
+  "published": "2023-08-08",
+  "files": [
+   {
+    "name": "Aneks DARS 882-2023_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NzMwMTtBbmVrcyBEQVJTIDg4Mi0yMDIzX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

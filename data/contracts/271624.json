@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 271624,
+  "type": "DOD",
+  "prev": 127717,
+  "idObrazec": 827713,
+  "idDosje": 297107,
+  "title": "Aneks št. 1 k pogodbi »Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja, Sklop 2 - Zavarovanje vozil«, št. 748/2019",
+  "procurement": "Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja",
+  "kind": 1,
+  "value": 200000.0,
+  "signed": "2024-07-09",
+  "from": null,
+  "to": null,
+  "number": "000783/2024",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d.",
+   "Zavarovalnica Sava, zavarovalna družba, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000",
+   "5063400000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000962/2019-C01/POG-127717-D01",
+  "published": "2024-07-15",
+  "files": [
+   {
+    "name": "Aneks št. 1_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk1MTM1O0FuZWtzIMWhdC4gMV9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

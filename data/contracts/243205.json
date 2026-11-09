@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 243205,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757079,
+  "idDosje": 471787,
+  "title": "Nakup računalniške in strežniške strojne opreme, SKLOP 2",
+  "procurement": "Nakup računalniške in strežniške strojne opreme",
+  "kind": 2,
+  "value": 520830.2,
+  "signed": "2023-07-03",
+  "from": "2023-07-03",
+  "to": "2025-04-03",
+  "number": "000802/2023",
+  "contractors": [
+   "ATR računalniški inženiring d.o.o.",
+   "ATR.SIS informacijska oprema in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5286964000",
+   "2087707000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000988/2023-C01/POG-243205",
+  "published": "2023-07-18",
+  "files": [
+   {
+    "name": "POGODBA sklop 2_podpisana RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NTg3NjtQT0dPREJBIHNrbG9wIDJfcG9kcGlzYW5hIFJlZFVMLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

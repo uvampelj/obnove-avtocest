@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165874,
+  "type": "DOD",
+  "prev": 87551,
+  "idObrazec": 770159,
+  "idDosje": 223326,
+  "title": "aneks št.1 k pog.DARS št.: 836/2017: Izdelava strokovnih podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prostorski načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi državnega prostorskega načrta) - zamenjava kadra, podaljšanje faznih rokov ",
+  "procurement": "Izdelava strok. podlag/idejne zasnove za pobudo, pobude in analize smernic za državni prost. načrt za ureditev strateškega mejnega prehoda Karavanke (do sprejema sklepa o pripravi držav. prost.načrta)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-10-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008334/2017-C01/DOD-165874",
+  "published": "2020-11-15",
+  "files": [
+   {
+    "name": "aneks št.1k pog 836-2017-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTg3NDthbmVrcyDFoXQuMWsgcG9nIDgzNi0yMDE3LW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

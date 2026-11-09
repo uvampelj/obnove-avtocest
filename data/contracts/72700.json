@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72700,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660231,
+  "idDosje": 191460,
+  "title": "Vzdrževanje elektro strojne opreme cestninskega sistema",
+  "procurement": "Vzdrževanje elektro strojne opreme cestninskega sistema",
+  "kind": 1,
+  "value": 329997.8,
+  "signed": "2017-06-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001766/2017-C01/POG-72700",
+  "published": "2017-06-13",
+  "files": [
+   {
+    "name": "pogodba 468-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyNzAwO3BvZ29kYmEgNDY4LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

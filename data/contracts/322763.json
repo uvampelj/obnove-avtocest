@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322763,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 951278,
+  "idDosje": 523529,
+  "title": "Izdelava geološko-geotehničnih raziskav, nadgradnja tehničnega opazovanja območja plazu Košaki in PS9 (VA6263) ter IDR sanacije plazu Košaki in IZN sanacije PS9 nad cesto R2-430/0632 Pesnica–Maribor",
+  "procurement": "Izdelava geološko-geotehničnih raziskav, nadgradnja tehničnega opazovanja območja plazu Košaki in PS9 (VA6263) ter IDR sanacije plazu Košaki in IZN sanacije PS9 nad cesto R2-430/0632 Pesnica–Maribor",
+  "kind": 1,
+  "value": 260823.34,
+  "signed": "2025-10-01",
+  "from": "2025-10-01",
+  "to": "2028-10-01",
+  "number": "001145/2025",
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005283/2025-POG/01",
+  "published": "2025-10-16",
+  "files": [
+   {
+    "name": "Pogodba IRGO Consulting_1145-25_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2NTcwO1BvZ29kYmEgSVJHTyBDb25zdWx0aW5nXzExNDUtMjVfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 314412,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 927143,
+  "idDosje": 520321,
+  "title": "Sklop 7 - Kosilnica za traktor za dela levo in desno",
+  "procurement": "DOBAVA TOVORNIH VOZIL IN OPREME",
+  "kind": 2,
+  "value": 258640.0,
+  "signed": "2025-07-10",
+  "from": "2025-07-10",
+  "to": "2026-06-10",
+  "number": "000907/2025",
+  "contractors": [
+   "INTEREXPORT mednarodna trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5101956000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002530/2025-POG/04",
+  "published": "2025-07-14",
+  "files": [
+   {
+    "name": "Pogodba Interexport 7_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg3MzE0O1BvZ29kYmEgSW50ZXJleHBvcnQgN19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

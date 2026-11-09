@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91666,
+  "type": "DOD",
+  "prev": 41838,
+  "idObrazec": 768092,
+  "idDosje": 19295,
+  "title": "SANACIJA VKOPNIH BREŽIN NA HC VIPAVA-VRTOJBA IN SANACIJA BREŽINE PRED PREDOROM DEKANI",
+  "procurement": "SANACIJA VKOPNIH BREŽIN NA HC VIPAVA-VRTOJBA IN SANACIJA BREŽINE PRED PREDOROM DEKANI",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-01-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPG, d.d."
+  ],
+  "contractor_ids": [
+   "5143497000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003857/2016-X01/DOD-91666",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjY2O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

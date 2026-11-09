@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78780,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 663006,
+  "idDosje": 192613,
+  "title": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin 1. in 2. etape (1. del) nove prometne povezave med AC A2 Ljubljana – Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin 1. in 2. etape (1. del) nove prometne povezave med AC A2 Ljubljana – Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 91256.0,
+  "signed": "2017-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Z E U družba za načrtovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5051746000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001988/2017-C01/POG-78780",
+  "published": "2017-09-04",
+  "files": [
+   {
+    "name": "Pogodba-I.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4NzgwO1BvZ29kYmEtSS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

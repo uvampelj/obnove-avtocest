@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169025,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 712843,
+  "idDosje": 373030,
+  "title": "Poslovni najem vozil z nizkimi emisijami",
+  "procurement": "Vozilo z večjo oddaljenostjo od tal, vsaj 140 kW,Električni avtomobil, vsaj 150 kW",
+  "kind": 2,
+  "value": 114482.32,
+  "signed": "2020-12-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006760/2020-C01/POG-169025",
+  "published": "2020-12-23",
+  "files": [
+   {
+    "name": "pogodba 1605-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTAyNTtwb2dvZGJhIDE2MDUtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,50 @@
+{
+ "meta": {
+  "id": 208569,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735032,
+  "idDosje": 424792,
+  "title": "VULKANIZERSKE STORITVE",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana + splošna služba,ACB Hrušica,ACB Maribor,ACB Vransko,ACB Novo mesto,ACB Murska Sobota",
+  "kind": 1,
+  "value": 166285.63,
+  "signed": "2022-04-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DBF, vulkanizerstvo in hitri servis, d.o.o.",
+   "VULKANIZERSTVO VULKO GORAN DRAČA S.P.",
+   "AVTOCENTER MARTIN STIPIČ S.P.",
+   "ASP storitveno in trgovsko podjetje d.o.o.",
+   "AVTO KOLETNIK prodaja in servis motornih vozil, obdelava kovin, trgovina, gostinstvo in storitve d.o.o.",
+   "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+   "AVTOTRANSPORTI ZUPANČIČ prevozi, storitve in trgovina d.o.o.",
+   "AVTO CENTER MAKOTER, servis in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "6220231000",
+   "3311414000",
+   "5572386000",
+   "5524466000",
+   "1391941000",
+   "1482696000",
+   "2009501000",
+   "5358701000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007756/2021-X01/POG-208569",
+  "published": "2022-04-11",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwODU2OTtQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

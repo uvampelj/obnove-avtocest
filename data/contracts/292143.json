@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 292143,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 867819,
+  "idDosje": 513205,
+  "title": "Poslovni najem vozil z nizkimi emisijami\nSKLOP 2 - Osebno vozilo, vsaj 115 kW\nSKLOP 3 - Kombinirano vozilo z drsnimi vrati, vsaj 65 kW\nSKLOP 4 - Terensko vozilo, 4x4, vsaj 150 kW\nSKLOP 5 - Električno vozilo, vsaj 150 kW",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 560373.04,
+  "signed": "2024-11-12",
+  "from": "2024-11-12",
+  "to": "2033-09-12",
+  "number": "001152/2024",
+  "contractors": [
+   "Mobilia, poslovni najem vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "9657967000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005947/2024-POG/02",
+  "published": "2024-11-19",
+  "files": [
+   {
+    "name": "pogodba MOBILIA 1152-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI5MTM4O3BvZ29kYmEgTU9CSUxJQSAxMTUyLTIwMjRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

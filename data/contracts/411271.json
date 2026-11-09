@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 411271,
+  "type": "DOD",
+  "prev": 318755,
+  "idObrazec": 1080277,
+  "idDosje": 522522,
+  "title": "Aneks 1, DARS št. 584/2026",
+  "procurement": "Nabava pisarniške opreme in aparatov",
+  "kind": 2,
+  "value": 20496.0,
+  "signed": "2026-04-22",
+  "from": null,
+  "to": null,
+  "number": "001044/2025",
+  "contractors": [
+   "HI-PO Proizvodnja, inženiring in trgovina, d.o.o., Grosuplje"
+  ],
+  "contractor_ids": [
+   "5295548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004424/2025-POG/01-D01",
+  "published": "2026-04-30",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 584-2026_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI2MjI4O0FuZWtzIDEsIERBUlMgxaF0LiA1ODQtMjAyNl9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

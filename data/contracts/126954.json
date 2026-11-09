@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 126954,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687665,
+  "idDosje": 295099,
+  "title": "Univerzalno vozilo in delovni stroji",
+  "procurement": "Univerzalno vozilo z opremo,Traktor za košnjo na brežinah,Čelni viličar",
+  "kind": 2,
+  "value": 838384.0,
+  "signed": "2019-05-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o.",
+   "GRADBENA MEHANIZACIJA, PREVOZI JOŽE JANČAR S.P.",
+   "LINDE VILIČAR trgovina in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000",
+   "5749848000",
+   "5904480000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000698/2019-C01/POG-126954",
+  "published": "2019-05-21",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjk1NDtwb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

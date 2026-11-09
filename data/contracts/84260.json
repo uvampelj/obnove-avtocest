@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 84260,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 665447,
+  "idDosje": 220118,
+  "title": "Vzdrževanje Oracle licenčne programske opreme",
+  "procurement": "Vzdrževanje Oracle licenčne programske opreme",
+  "kind": 1,
+  "value": 25055.99,
+  "signed": "2017-10-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ORACLE software d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5572720000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007853/2017-X01/POG-84260",
+  "published": "2017-11-02",
+  "files": [
+   {
+    "name": "POGODBA Vzdrževanje ORACLE licnečne programske opreme.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg0MjYwO1BPR09EQkEgVnpkcsW-ZXZhbmplIE9SQUNMRSBsaWNuZcSNbmUgcHJvZ3JhbXNrZSBvcHJlbWUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216951,
+  "type": "DOD",
+  "prev": 187275,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 982/2021: Izvedba montaže optičnega kabla: CP Blagovica – ACB Slovenske Konjice",
+  "procurement": "Izvedba montaže optičnega kabla: CP Blagovica - ACB Slovenske Konjice",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-22",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjk1MTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

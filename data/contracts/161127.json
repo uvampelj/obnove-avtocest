@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 161127,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708256,
+  "idDosje": 341036,
+  "title": "Izdelava PZI rekonstrukcije avtocestnega odseka Slovenske Konjice – Dramlje od km 7,000 do km 7,600 vključno z viaduktom Slatina; SKLOP 2: Izdelava PZI rekonstrukcije avtocestnega odseka na avtocesti A1 0638 Slovenske Konjice – Dramlje od km 7,000 do km 7,600 vključno z zamenjavo viadukta Slatina-L ",
+  "procurement": "Izdelava PZI rekonstrukcije avtocestnega odseka na avtocesti A1 0638 Slovenske Konjice - Dramlje od km 7,000 do km 7,600 vključno z zamenjavo viadukta Slatina-L (VA0093)",
+  "kind": 1,
+  "value": 836066.0,
+  "signed": "2020-05-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000571/2020-C01/POG-161127",
+  "published": "2020-09-21",
+  "files": [
+   {
+    "name": "Pogodba-JV Ponting+Pipenbaher inž.-Sklop 2-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTEyNztQb2dvZGJhLUpWIFBvbnRpbmcrUGlwZW5iYWhlciBpbsW-Li1Ta2xvcCAyLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

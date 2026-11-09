@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 172654,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 715232,
+  "idDosje": 372842,
+  "title": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1, odsek 0054 Logatec – Unec in odsek 0056 Postojna – Razdrto",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1, odsek 0054 Logatec – Unec in odsek 0056 Postojna – Razdrto",
+  "kind": 1,
+  "value": 53985.0,
+  "signed": "2021-02-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1300342000",
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006674/2020-X01/POG-172654",
+  "published": "2021-02-05",
+  "files": [
+   {
+    "name": "Pogodba podpisana -objava .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MjY1NDtQb2dvZGJhIHBvZHBpc2FuYSAtb2JqYXZhIC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243506,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757271,
+  "idDosje": 472793,
+  "title": "Opravljanje tehničnih pregledov ter pripadajočih storitev, sklop 3",
+  "procurement": "Opravljanje tehničnih pregledov ter pripadajočih storitev",
+  "kind": 1,
+  "value": 91400.09,
+  "signed": "2023-07-06",
+  "from": "2023-07-06",
+  "to": "2026-07-06",
+  "number": "000818/2023",
+  "contractors": [
+   "INTEGRAL AVTO prodaja, servisi in tehnični pregledi vozil d.o.o. Jesenice"
+  ],
+  "contractor_ids": [
+   "2159708000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001215/2023-C01/POG-243506",
+  "published": "2023-07-21",
+  "files": [
+   {
+    "name": "pogodba SKLOP 3_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjIwNDtwb2dvZGJhIFNLTE9QIDNfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

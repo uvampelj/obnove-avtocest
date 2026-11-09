@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 132,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630301,
+  "idDosje": 14697,
+  "title": "SKLOP 3- Reflektometer",
+  "procurement": "Reflektometer",
+  "kind": 2,
+  "value": 14786.4,
+  "signed": "2015-03-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Autocommerce, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1408/2015/POG-132",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "pogodba 188-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMjtwb2dvZGJhIDE4OC0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

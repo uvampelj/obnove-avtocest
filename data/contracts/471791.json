@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 471791,
+  "type": "DOD",
+  "prev": 220594,
+  "idObrazec": 1170960,
+  "idDosje": 445712,
+  "title": "Aneks št. 1 k pogodbi DARS d. d. št. 1114/2022, za izvedbo del »Obnova voziščne konstrukcije in objektov na odsekih HC H4/0379 in 0779 Vogrsko – Šempeter od km 4,470 do km 4,779, 0380 in 0780 Šempeter – Vrtojba od km 0,000 do km 2,238, 0445 priključku Šempeter pri Gorici od km 0,000 do km 1,150 in na 1467 kamionski cesti Vrtojba v dolžini 795 m« ",
+  "procurement": "Obnova voziščne konstrukcije in objektov na delih odsekov hitre ceste H4/0379 in 0779 Vogrsko–Šempeter, 0380 in 0780 Šempeter–Vrtojba, na 0445 priključku Šempeter in na 1467 kamionski cesti Vrtojba",
+  "kind": 3,
+  "value": 822105.31,
+  "signed": "2026-08-14",
+  "from": "2024-08-17",
+  "to": "2026-11-17",
+  "number": "001114/2022",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003477/2022-C01/POG-220594-D01",
+  "published": "2026-08-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNTQyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16190,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636512,
+  "idDosje": 80587,
+  "title": "Izvajanje varnostne interventne službe",
+  "procurement": "Izvajanje varnostne interventne službe",
+  "kind": 1,
+  "value": 85247.5,
+  "signed": "2015-07-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIVAL - VTS, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5966639000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4462/2015/POG-16190",
+  "published": "2015-07-14",
+  "files": [
+   {
+    "name": "D13150000503_150703_091251.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTkwO0QxMzE1MDAwMDUwM18xNTA3MDNfMDkxMjUxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 272130,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 829363,
+  "idDosje": 507632,
+  "title": "Servisiranje in popravilo ročnega orodja, Sklop 2: Makita-Metabo",
+  "procurement": "Servisiranje in popravilo ročnega orodja, Sklop 2: Makita-Metabo",
+  "kind": 1,
+  "value": 64062.2,
+  "signed": "2024-07-19",
+  "from": "2024-07-22",
+  "to": "2027-11-22",
+  "number": "000801/2024",
+  "contractors": [
+   "ELEKTROSERVIS POVŠE, servis, trgovina in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "7061005000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001464/2024-POG/02",
+  "published": "2024-07-22",
+  "files": [
+   {
+    "name": "Pgd sklop 2 34_24_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk2NDIyO1BnZCBza2xvcCAyIDM0XzI0X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

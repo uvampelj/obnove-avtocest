@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123859,
+  "type": "DOD",
+  "prev": 92336,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 136/2018",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 136/2018 za razvoj, vzdrževanje in podporo IS GIS DARS",
+  "kind": 1,
+  "value": 0.1,
+  "signed": "2019-03-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-04-04",
+  "files": [
+   {
+    "name": "aneks 527-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzg1OTthbmVrcyA1MjctMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

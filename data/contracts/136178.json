@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 136178,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 693151,
+  "idDosje": 320335,
+  "title": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "procurement": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "kind": 1,
+  "value": 136258.66,
+  "signed": "2019-10-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T SLOVENIJA, informacijske rešitve in storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005584/2019-X01/POG-136178",
+  "published": "2019-10-11",
+  "files": [
+   {
+    "name": "POG. 1486-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNjE3ODtQT0cuIDE0ODYtMjAxOS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

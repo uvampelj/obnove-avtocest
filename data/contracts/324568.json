@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324568,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956734,
+  "idDosje": 524647,
+  "title": "Mulčarji Tehnos",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 83875.0,
+  "signed": "2025-10-24",
+  "from": "2025-10-24",
+  "to": "2029-01-24",
+  "number": "001212/2025",
+  "contractors": [
+   "TEHNOS proizvodnja strojev in naprav d.o.o."
+  ],
+  "contractor_ids": [
+   "5302935000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006232/2025-POG/02",
+  "published": "2025-11-07",
+  "files": [
+   {
+    "name": "Podpisana pogodba Tehnos sklop 5 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwOTQ3O1BvZHBpc2FuYSBwb2dvZGJhIFRlaG5vcyBza2xvcCA1IHJlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

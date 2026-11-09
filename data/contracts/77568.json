@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 77568,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662336,
+  "idDosje": 205380,
+  "title": "Izvajanje pregledov delovne opreme",
+  "procurement": "Izvajanje pregledov delovne opreme",
+  "kind": 1,
+  "value": 44575.14,
+  "signed": "2017-08-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VEPOZ, PODJETJE ZA VARNOST, EKOLOGIJO, POŽAR IN ZDRAVJE d.o.o."
+  ],
+  "contractor_ids": [
+   "6076742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004719/2017-X01/POG-77568",
+  "published": "2017-08-14",
+  "files": [
+   {
+    "name": "pogodba 631-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc3NTY4O3BvZ29kYmEgNjMxLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

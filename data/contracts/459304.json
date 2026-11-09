@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459304,
+  "type": "DOD",
+  "prev": 261015,
+  "idObrazec": 1143963,
+  "idDosje": 486573,
+  "title": "Aneks št. 1 k pogodbi DARS št. 294/2024: Izdelava IzN za obnovo nadvoza VA0255 Cikava na AC A2 0021/0621 Šmarje - Sap–Grosuplje ",
+  "procurement": "Izdelava IzN za obnovo nadvoza VA0255 Cikava na AC A2 0021/0621 Šmarje - Sap-Grosuplje",
+  "kind": 1,
+  "value": 7423.09,
+  "signed": "2026-06-24",
+  "from": "2026-06-24",
+  "to": "2026-11-15",
+  "number": "000294/2024",
+  "contractors": [
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "004648/2023-POG/01-D01",
+  "published": "2026-07-29",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg0OTkxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

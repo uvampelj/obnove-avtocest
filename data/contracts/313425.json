@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 313425,
+  "type": "DOD",
+  "prev": 274591,
+  "idObrazec": 924126,
+  "idDosje": 507279,
+  "title": "Aneks št. 1 k pogodbi DARS št. 000875/2024",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2025-06-20",
+  "from": "2024-08-20",
+  "to": "2026-03-01",
+  "number": "000875/2024",
+  "contractors": [
+   "INTEREXPORT mednarodna trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5101956000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/07-D01",
+  "published": "2025-07-02",
+  "files": [
+   {
+    "name": "Aneks-1-k-875-2024_145-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0ODgxO0FuZWtzLTEtay04NzUtMjAyNF8xNDUtMjAyNV9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

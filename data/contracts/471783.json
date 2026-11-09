@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 471783,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1170931,
+  "idDosje": 582128,
+  "title": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje, Sklop 1 - območje 4: Hrušica",
+  "procurement": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje",
+  "kind": 1,
+  "value": 47201.8,
+  "signed": "2026-07-30",
+  "from": "2026-07-30",
+  "to": "2027-10-30",
+  "number": "000860/2026",
+  "contractors": [
+   "APPIA družba za projektiranje, raziskave in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1829157000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002711/2026-POG/01",
+  "published": "2026-08-28",
+  "files": [
+   {
+    "name": "sklop 1 pogodba st 000860-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNTE5O3NrbG9wIDEgcG9nb2RiYSBzdCAwMDA4NjAtMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630290,
+  "idDosje": 5289,
+  "title": "Čiščenje platoja in javnega sanitarnega objekta na počivališču Lopata-jug",
+  "procurement": "Čiščenje platoja in javnega sanitarnega objekta na počivališču Lopata-jug.",
+  "kind": 1,
+  "value": 122366.0,
+  "signed": "2015-02-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VUR d.o.o."
+  ],
+  "contractor_ids": [
+   "6233643000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV710/2015/POG-120",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "pogodba 104-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDtwb2dvZGJhIDEwNC0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

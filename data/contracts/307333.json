@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307333,
+  "type": "DOD",
+  "prev": 214832,
+  "idObrazec": 905555,
+  "idDosje": 431130,
+  "title": "Aneks št. 1 k pog. DARS št. 943/2022: Namestitev LED smernikov za vidno vodenje prometa v primeru megle Grosuplje - Ivančna Gorica ",
+  "procurement": "Namestitev LED smernikov za vidno vodenje prometa v primeru megle Grosuplje – Ivančna Gorica",
+  "kind": 3,
+  "value": 220467.22,
+  "signed": "2025-04-09",
+  "from": "2025-04-09",
+  "to": "2025-06-28",
+  "number": "000943/2022",
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000083/2022-C01/POG-214832-D01",
+  "published": "2025-04-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY5OTQ2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

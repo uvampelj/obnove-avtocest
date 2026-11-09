@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 32955,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 644153,
+  "idDosje": 80787,
+  "title": "Strokovno svetovalne storitve za pridobitev pobude in študije variant v postopku priprave državnega prostorskega načrta ter vseh potrebnih strokovnih podlag za širitev ljubljanskega avtocestnega obroča in vpadnih avtocest",
+  "procurement": "Strokovno svetovalne storitve za pridobitev pobude in študije variant v postopku priprave državnega prostorskega načrta ter vseh potrebnih strokovnih podlag za širitev ljubljanskega avtocestnega ob...",
+  "kind": 1,
+  "value": 793491.66,
+  "signed": "2016-02-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN1146/2016/POG-32955",
+  "published": "2016-02-19",
+  "files": [
+   {
+    "name": "D13160000139_160218_122214.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMyOTU1O0QxMzE2MDAwMDEzOV8xNjAyMThfMTIyMjE0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

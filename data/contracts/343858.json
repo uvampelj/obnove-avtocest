@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 343858,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 990351,
+  "idDosje": 527232,
+  "title": "Dobava in montaža dvigal v izpostavi Podtabor - sklop 3",
+  "procurement": "Dobava in montaža dvigal v mehaničnih delavnicah",
+  "kind": 2,
+  "value": 7301.7,
+  "signed": "2026-02-02",
+  "from": "2026-02-02",
+  "to": "2026-09-02",
+  "number": "000128/2026",
+  "contractors": [
+   "MITRAS, trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "2162199000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008475/2025-POG/03",
+  "published": "2026-02-13",
+  "files": [
+   {
+    "name": "podpisana pog Mitras - sklop 3-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM5OTU4O3BvZHBpc2FuYSBwb2cgTWl0cmFzIC0gc2tsb3AgMy16YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

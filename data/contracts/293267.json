@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 293267,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 871065,
+  "idDosje": 513547,
+  "title": "Vzdrževanje sistema radijskih zvez",
+  "procurement": "Vzdrževanje sistema radijskih zvez",
+  "kind": 1,
+  "value": 551806.0,
+  "signed": "2024-11-12",
+  "from": "2024-11-12",
+  "to": "2028-02-12",
+  "number": "001148/2024",
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006190/2024-POG/01",
+  "published": "2024-11-29",
+  "files": [
+   {
+    "name": "Pogodba_ podpisana st. 001148-2024_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzMxNzA3O1BvZ29kYmFfIHBvZHBpc2FuYSBzdC4gMDAxMTQ4LTIwMjRfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

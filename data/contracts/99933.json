@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 99933,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673692,
+  "idDosje": 71455,
+  "title": "Aneks 1 k pogodbi 1512/2018 za opravljanje nalog medicine dela, sklopi 1,2,3,4  in 7; več dela",
+  "procurement": "Preventivni in obdobni zdravstveni pregledi vodilnih in vodstvenih delavcev v Ljubljani.,Preventivni in obdobni zdravstveni pregledi za delavce  iz Ljubljane z okolico.,Preventivni in obdobni zdravstveni pregledi za delavcev iz Jesenic z okolico.,Preventivni in obdobni zdravstveni pregledi za delavce iz Novega mesta z okolico.,Preventivni in obdobni zdravstveni pregledi za delavce iz  Vranskega z okolico.",
+  "kind": 1,
+  "value": 37927.63,
+  "signed": "2018-05-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZDRAVSTVENI DOM LJUBLJANA"
+  ],
+  "contractor_ids": [
+   "5056063000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN3787/2014/POG-99933",
+  "published": "2018-05-28",
+  "files": [
+   {
+    "name": "aneks 1 - ZD Lj.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk5OTMzO2FuZWtzIDEgLSBaRCBMai5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

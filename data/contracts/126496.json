@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 126496,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687389,
+  "idDosje": 298145,
+  "title": "Študija prometa v času gradnje 3. razvojne osi jug na odseku od AC A2 Ljubljana – Obrežje priključek Novo mesto - vzhod do priključka Osredek",
+  "procurement": "Študija prometa v času gradnje 3. razvojne osi jug na odseku od AC A2 Ljubljana – Obrežje priključek Novo mesto - vzhod do priključka Osredek",
+  "kind": 1,
+  "value": 48434.0,
+  "signed": "2019-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000990/2019-X01/POG-126496",
+  "published": "2019-05-15",
+  "files": [
+   {
+    "name": "Pogodba-PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjQ5NjtQb2dvZGJhLVBOWi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

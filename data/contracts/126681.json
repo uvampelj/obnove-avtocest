@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 126681,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687481,
+  "idDosje": 300568,
+  "title": "Letni pregled dvižnih naprav - sklop 2: Dvižne naprave proizvajalcev Fassi, Ram, MOOG, Isoli, Hidravlik servis",
+  "procurement": "Dvižne naprave proizvajalcev Fassi, Ram, MOOG, Isoli, Hidravlik servis",
+  "kind": 1,
+  "value": 194870.6,
+  "signed": "2019-05-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDRAVLIK SERVIS, servis dvigal, tehnične storitve in trgovina, d.o.o., Postojna"
+  ],
+  "contractor_ids": [
+   "1570307000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001476/2019-X01/POG-126681",
+  "published": "2019-05-17",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 705-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjY4MTtQb2dvZGJhIERBUlMgxaF0LiA3MDUtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

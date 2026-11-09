@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 107833,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677744,
+  "idDosje": 248545,
+  "title": "IZDELAVA PROJEKTNE DOKUMENTACIJE PZI ZA POSTAVITEV BETONSKE VARNOSTNE OGRAJE H4b V LOČILNEM PASU",
+  "procurement": "IZDELAVA PROJEKTNE DOKUMENTACIJE PZI ZA POSTAVITEV BETONSKE VARNOSTNE OGRAJE H4b V LOČILNEM PASU",
+  "kind": 1,
+  "value": 78387.44,
+  "signed": "2018-07-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001978/2018-X01/POG-107833",
+  "published": "2018-09-10",
+  "files": [
+   {
+    "name": "Pogodba-Ginex International.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNzgzMztQb2dvZGJhLUdpbmV4IEludGVybmF0aW9uYWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

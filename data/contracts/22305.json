@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 22305,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639345,
+  "idDosje": 72142,
+  "title": "aneks št. 1 k pog. DARS št.463/12: ŠTUDIJA VARIANT/PREDINVESTICIJSKA ZASNOVA S PREDLOGOM NAJUSTREZNEJŠE VARIANTNE REŠITVE TRASE AVTOCESTE POSTOJNA/ DIVAČA - JELŠANE-dodatna dela",
+  "procurement": "aneks št. 1 k pog. DARS št.463/12: ŠTUDIJA VARIANT/PREDINVESTICIJSKA ZASNOVA S PREDLOGOM NAJUSTREZNEJŠE VARIANTNE REŠITVE TRASE AVTOCESTE POSTOJNA/ DIVAČA - JELŠANE-dodatna dela",
+  "kind": 1,
+  "value": 30744.85,
+  "signed": "2015-09-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LUZ, d.d.",
+   "OMEGA consult, d.o.o., Ljubljana",
+   "PROJEKTIVNI ATELJE - NG d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5300568000",
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN6851/2015/POG-22305",
+  "published": "2015-10-02",
+  "files": [
+   {
+    "name": "aneks 116.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzA1O2FuZWtzIDExNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

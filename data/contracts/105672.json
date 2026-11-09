@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 105672,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 676365,
+  "idDosje": 263310,
+  "title": "Vzdrževanje, podpora in razvoj informacijskega sistema DARSEN",
+  "procurement": "Vzdrževanje, podpora in razvoj informacijskega sistema DARSEN",
+  "kind": 1,
+  "value": 136640.0,
+  "signed": "2018-08-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004563/2018-C01/POG-105672",
+  "published": "2018-08-10",
+  "files": [
+   {
+    "name": "pogodba 1742-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNTY3Mjtwb2dvZGJhIDE3NDItMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

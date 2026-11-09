@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 471784,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1170936,
+  "idDosje": 582128,
+  "title": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje, Sklop 2 - območje 3A: Ljubljana (AC A2)",
+  "procurement": "Izvedba redne presoje varnosti cestne infrastrukture (RSI) za območje avtoceste A2 Karavanke - Obrežje",
+  "kind": 1,
+  "value": 46774.8,
+  "signed": "2026-08-11",
+  "from": "2026-08-11",
+  "to": "2027-11-11",
+  "number": "000877/2026",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002711/2026-POG/02",
+  "published": "2026-08-28",
+  "files": [
+   {
+    "name": "sklop 2 pogodba st 000877-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNTIyO3NrbG9wIDIgcG9nb2RiYSBzdCAwMDA4NzctMjAyNiByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

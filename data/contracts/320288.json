@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320288,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944012,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov; Kategorija 2 - M-SD (NaCl)",
+  "procurement": "Dobava posipnih materialov; Kategorija 2 - M-SD (NaCl)",
+  "kind": 2,
+  "value": 408456.0,
+  "signed": "2025-09-16",
+  "from": "2025-10-15",
+  "to": "2026-08-15",
+  "number": "001117/2025",
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/06",
+  "published": "2025-09-19",
+  "files": [
+   {
+    "name": "R_Pogodba 001117-2025 K2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAwODA2O1JfUG9nb2RiYSAwMDExMTctMjAyNSBLMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 209030,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735322,
+  "idDosje": 429819,
+  "title": "Izdelava državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "procurement": "Izdelava državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "kind": 1,
+  "value": 165017.2,
+  "signed": "2022-04-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008654/2021-X01/POG-209030",
+  "published": "2022-04-15",
+  "files": [
+   {
+    "name": "Pogodba-LUZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwOTAzMDtQb2dvZGJhLUxVWl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

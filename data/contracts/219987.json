@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 219987,
+  "type": "DOD",
+  "prev": 212627,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, priglasitev podizvajalcev, sprememba strokovnega kadra, vključitev tč. 14.5 splošnih pogojev pogodbe",
+  "procurement": "Aneks 1 k pogodbi DARS št. 147/2020 za izgradnjo vzhodne cevi avtocestnega predora Karavanke; dodatna dela, priglasitev podizvajalcev, sprememba strokovnega kadra, vključitev tč. 14.5 splošnih pogojev pogodbe",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-08-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CENGIZ INSAAT SANAYI VE TICARET ANONIM SIRKETI, Podružnica Ljubljana"
+  ],
+  "contractor_ids": [
+   "8611815000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-08-25",
+  "files": [
+   {
+    "name": "podpisan aneks 1 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxOTk4Nztwb2RwaXNhbiBhbmVrcyAxIC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

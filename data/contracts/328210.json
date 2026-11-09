@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 328210,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 967250,
+  "idDosje": 526548,
+  "title": "Nadgradnja, vzdrževanje in podpora informacijskega sistema KAŽIPOT",
+  "procurement": "Nadgradnja, vzdrževanje in podpora informacijskega sistema KAŽIPOT",
+  "kind": 1,
+  "value": 1523292.0,
+  "signed": "2025-11-27",
+  "from": "2025-11-27",
+  "to": "2027-11-27",
+  "number": "001294/2025",
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007894/2025-POG/01",
+  "published": "2025-12-17",
+  "files": [
+   {
+    "name": "Pogodba-Realis_232-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE5MzE4O1BvZ29kYmEtUmVhbGlzXzIzMi0yMDI1X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

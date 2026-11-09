@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 329535,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 970869,
+  "idDosje": 526161,
+  "title": "Izdelava projektne dokumentacije IDP za izvedbo pasivne protivetrne mehanske zaščite predora Kastelec",
+  "procurement": "Izdelava projektne dokumentacije IDP za izvedbo pasivne protivetrne mehanske zaščite predora Kastelec",
+  "kind": 1,
+  "value": 303084.6,
+  "signed": "2025-12-30",
+  "from": "2025-12-30",
+  "to": "2028-03-30",
+  "number": "001576/2025",
+  "contractors": [
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007569/2025-POG/01",
+  "published": "2026-01-08",
+  "files": [
+   {
+    "name": "podpisana pogodba 1576-2025-redig za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIyMTU5O3BvZHBpc2FuYSBwb2dvZGJhIDE1NzYtMjAyNS1yZWRpZyB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

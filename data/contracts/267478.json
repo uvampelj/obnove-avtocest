@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 267478,
+  "type": "DOD",
+  "prev": 187256,
+  "idObrazec": 814182,
+  "idDosje": 361431,
+  "title": "Aneks 2 k pogodbi DARS št. 1003/2021 za izgradnjo hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever - sklop F - Jenina; sprememba valorizacijske klavzule",
+  "procurement": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3. razvojni osi sever – sklop F - Jenina",
+  "kind": 3,
+  "value": 7908592.64,
+  "signed": "2024-05-16",
+  "from": "2021-07-21",
+  "to": "2025-02-21",
+  "number": "000616/2024",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004678/2020-C01/POG-187256-D02",
+  "published": "2024-05-17",
+  "files": [
+   {
+    "name": "podpisan aneks 2 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg0MzU1O3BvZHBpc2FuIGFuZWtzIDIgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

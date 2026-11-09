@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228568,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745969,
+  "idDosje": 458516,
+  "title": "VZDRŽEVANJE SISTEMA RADIJSKIH ZVEZ",
+  "procurement": "VZDRŽEVANJE SISTEMA RADIJSKIH ZVEZ",
+  "kind": 1,
+  "value": 318267.5,
+  "signed": "2022-12-28",
+  "from": "2022-12-28",
+  "to": "2024-12-28",
+  "number": "001672/2022",
+  "contractors": [
+   "KOMPAS TELEKOMUNIKACIJE, inženiring in telekomunikacije d.o.o."
+  ],
+  "contractor_ids": [
+   "5603897000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006643/2022-C01/POG-228568",
+  "published": "2023-01-04",
+  "files": [
+   {
+    "name": "Pogodba - Kompas Telekomunikacije_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTIxNDtQb2dvZGJhIC0gS29tcGFzIFRlbGVrb211bmlrYWNpamVfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

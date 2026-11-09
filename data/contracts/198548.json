@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198548,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728801,
+  "idDosje": 408219,
+  "title": "Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije na AC A2 0026/0626 Kronovo–Dobruška vas, 0027/0627 Dobruška vas–Drnovo in 0416 priključka Dobruška vas",
+  "procurement": "Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije na AC A2 0026/0626 Kronovo–Dobruška vas, 0027/0627 Dobruška vas–Drnovo in 0416 priključka Dobruška vas",
+  "kind": 1,
+  "value": 124376.56,
+  "signed": "2021-11-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005112/2021-X01/POG-198548",
+  "published": "2021-11-26",
+  "files": [
+   {
+    "name": "Pogodba-PNG_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODU0ODtQb2dvZGJhLVBOR19vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

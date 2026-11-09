@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "id": 201479,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730458,
+  "idDosje": 412772,
+  "title": "Vzdrževanje video nadzornega sistema in avtomatske detekcije prometa v predorih in PV",
+  "procurement": "VDP in ADP, PV in NC,VDP, ADP in NC,Ethernet omrežje",
+  "kind": 1,
+  "value": 1137568.02,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., projektiranje in proizvodnja, Kamnik",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+   "SMART COM d.o.o. informacijski in komunikacijski sistemi"
+  ],
+  "contractor_ids": [
+   "5753155000",
+   "5389984000",
+   "5315727000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005877/2021-C01/POG-201479",
+  "published": "2022-01-06",
+  "files": [
+   {
+    "name": "2021-000136 - Vzdrževanje video in ADP in PV-pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMTQ3OTsyMDIxLTAwMDEzNiAtIFZ6ZHLFvmV2YW5qZSB2aWRlbyBpbiBBRFAgaW4gUFYtcG9nb2RiZS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

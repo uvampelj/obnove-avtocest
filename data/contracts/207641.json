@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 207641,
+  "type": "DOD",
+  "prev": 161510,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1387/2020",
+  "procurement": "Serbisiranje strojev in opreme; sklop 8 Nadgradnje Creina, stroja za pranje predorov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-03-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CREINA, proizvodnja in trgovina kmetijskih in industrijskih strojev in naprav, d.o.o."
+  ],
+  "contractor_ids": [
+   "5076927000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-03-25",
+  "files": [
+   {
+    "name": "R Aneks 633-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzY0MTtSIEFuZWtzIDYzMy0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

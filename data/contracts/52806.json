@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52806,
+  "type": "DOD",
+  "prev": 20136,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 570/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH AC A2/0022 GROSUPLJE - IVANČNA GORICA OD KM 7,000 DO KM 12,930 IN A2/0622 GROSUPLJE - IVANČNA GORICA OD KM 8,060 DO KM 13,390 IN OBNOVA DRENAŽNEGA ASFALTA -nominacija podizvajalcev  ",
+  "procurement": "aneks št. 1 k pog. DARS št. 570/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH AC A2/0022 GROSUPLJE - IVANČNA GORICA OD KM 7,000 DO KM 12,930 IN A2/0622 GROSUPLJE - IVANČNA GORICA OD KM 8,060 DO KM 13,390 IN OBNOVA DRENAŽNEGA ASFALTA -nominacija podizvajalcev  ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-01-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPG, d.d."
+  ],
+  "contractor_ids": [
+   "5143497000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "575-15 (3).pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODA2OzU3NS0xNSAoMykucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

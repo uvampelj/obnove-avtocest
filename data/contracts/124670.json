@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124670,
+  "type": "DOD",
+  "prev": 117624,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 17/2019",
+  "procurement": "Izvedba raziskave Merjenje zadovoljstva uporabnikov avtocest v Sloveniji za obdobje 2019-2021",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPISCENTER, tržne raziskave in direktni marketing d.o.o."
+  ],
+  "contractor_ids": [
+   "1545329000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-04-15",
+  "files": [
+   {
+    "name": "aneks 588-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDY3MDthbmVrcyA1ODgtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

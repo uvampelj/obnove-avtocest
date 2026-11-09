@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268382,
+  "type": "DOD",
+  "prev": 176466,
+  "idObrazec": 817361,
+  "idDosje": 369284,
+  "title": "Aneks št. 2, DARS št. 659/2024 k pog. DARS št. 494/2021",
+  "procurement": "Izvedba intervencijskih in sanacijskih del na betonskih voziščnih konstrukcijah v predorih in na odprtih trasah AC in HC v upravljanju DARS d.d.",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-05-29",
+  "from": null,
+  "to": null,
+  "number": "659/2024",
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006030/2020-C01/POG-176466-D02",
+  "published": "2024-05-31",
+  "files": [
+   {
+    "name": "Aneks 2, DARS št. 659-2024 k pog. DARS št. 494-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg2OTA1O0FuZWtzIDIsIERBUlMgxaF0LiA2NTktMjAyNCBrIHBvZy4gREFSUyDFoXQuIDQ5NC0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

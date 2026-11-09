@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 158,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630321,
+  "idDosje": 80378,
+  "title": "Dobava signalnih prikolic in varovalne opreme",
+  "procurement": "Prikolica selitvena",
+  "kind": 2,
+  "value": 42541.4,
+  "signed": "2015-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o."
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN3192/2015/POG-158",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000364_150518_143033.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1ODtEMTMxNTAwMDAzNjRfMTUwNTE4XzE0MzAzMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

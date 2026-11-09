@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 292142,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 867818,
+  "idDosje": 513205,
+  "title": "Poslovni najem vozil z nizkimi emisijami\nSKLOP 1 - Osebno vozilo, vsaj 80 kW",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 232983.86,
+  "signed": "2024-11-12",
+  "from": "2024-11-12",
+  "to": "2031-09-12",
+  "number": "001153/2024",
+  "contractors": [
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "5504023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005947/2024-POG/01",
+  "published": "2024-11-19",
+  "files": [
+   {
+    "name": "pogodba AVTOTEHNA VIS 1153-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI5MTM3O3BvZ29kYmEgQVZUT1RFSE5BIFZJUyAxMTUzLTIwMjRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

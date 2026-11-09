@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 252935,
+  "type": "DOD",
+  "prev": 89176,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 7 k pogodbi DARS št. 646/2005",
+  "procurement": "Aneks št. 5 k osnovni pogodbi DARS št. 646/2005 za Vodenje projektov za pridobitev prostorske dokumentacije za odseke AC, HC in državnih cest, katere naročnik je DARS D.D.; sklop III: dolenjski in štajerski krak AC omrežja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-11-27",
+  "from": "2023-11-27",
+  "to": "2026-12-31",
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2023-11-29",
+  "files": [
+   {
+    "name": "a7 k pog 646_2005_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NjQ1MTthNyBrIHBvZyA2NDZfMjAwNV9wb2RwaXNhbl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

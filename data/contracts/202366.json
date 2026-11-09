@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 202366,
+  "type": "DOD",
+  "prev": 169113,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.1 k pogodbi DARS št. 1614/2020 - »Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom«",
+  "procurement": "Aneks št.1 k pogodbi DARS št. 1614/2020 - »Dobava električne energije z deležem iz OVE in/ali SPTE z visokim izkoristkom«",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2021-12-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1587714000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-01-18",
+  "files": [
+   {
+    "name": "aneks DARS št. 35-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMjM2NjthbmVrcyBEQVJTIMWhdC4gMzUtMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

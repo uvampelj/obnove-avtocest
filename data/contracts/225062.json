@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "id": 225062,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743710,
+  "idDosje": 452131,
+  "title": "SERVISIRANJE STROJEV IN OPREME",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 709100.6,
+  "signed": "2022-11-02",
+  "from": "2022-11-02",
+  "to": "2024-11-02",
+  "number": null,
+  "contractors": [
+   "AGROMEHANIKA, proizvodnja in trgovina, Kranj, d.d.",
+   "AGROMETAL kmetijska mehanizacija, d.o.o.",
+   "BENUSSI, podjetje za trgovino, d.o.o.",
+   "KUHN, trgovina in posredovanje, d.o.o.",
+   "LOK KLJUČAVNIČARSTVO FRANC LOVŠIN S.P.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "TERRA JCB, podjetje za gradbene, komercialne in finančne storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5095450000",
+   "5448271000",
+   "6272070000",
+   "5895391000",
+   "1856545000",
+   "6015174000",
+   "5778778000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005132/2022-C01/POG-225062",
+  "published": "2022-11-08",
+  "files": [
+   {
+    "name": "Pogodba - TERRA JCB_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM2MDtQb2dvZGJhIC0gVEVSUkEgSkNCX1IucGRm"
+   },
+   {
+    "name": "Pogodba - SVET STROJEV_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1OTtQb2dvZGJhIC0gU1ZFVCBTVFJPSkVWX1IucGRm"
+   },
+   {
+    "name": "Pogodba - KUHN_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1ODtQb2dvZGJhIC0gS1VITl9SLnBkZg"
+   },
+   {
+    "name": "Pogodba - KLUČAVNIČARSTVO LOK_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1NztQb2dvZGJhIC0gS0xVxIxBVk5JxIxBUlNUVk8gTE9LX1IucGRm"
+   },
+   {
+    "name": "Pogodba - BENUSSI_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1NjtQb2dvZGJhIC0gQkVOVVNTSV9SLnBkZg"
+   },
+   {
+    "name": "Pogodba - AGROMETAL_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1NTtQb2dvZGJhIC0gQUdST01FVEFMX1IucGRm"
+   },
+   {
+    "name": "Pogodba - AGROMEHANIKA_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTM1NDtQb2dvZGJhIC0gQUdST01FSEFOSUtBX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 343857,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 990350,
+  "idDosje": 527232,
+  "title": "Dobava in montaža dvigal v ACB Vransko - sklop 2",
+  "procurement": "Dobava in montaža dvigal v mehaničnih delavnicah",
+  "kind": 2,
+  "value": 22570.0,
+  "signed": "2026-02-02",
+  "from": "2026-02-02",
+  "to": "2026-09-02",
+  "number": "000127/2026",
+  "contractors": [
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5350131000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008475/2025-POG/02",
+  "published": "2026-02-13",
+  "files": [
+   {
+    "name": "podpisana pog Produkt - sklop 2-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM5OTU3O3BvZHBpc2FuYSBwb2cgUHJvZHVrdCAtIHNrbG9wIDItemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

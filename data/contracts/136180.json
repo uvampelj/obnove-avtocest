@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "id": 136180,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 693152,
+  "idDosje": 294993,
+  "title": "Inicialni zajem dejanske rabe pod cestno infrastrukturo v upravljanju DARS",
+  "procurement": "Inicialni zajem dejanske rabe pod cestno infrastrukturo v upravljanju DARS",
+  "kind": 1,
+  "value": 138348.0,
+  "signed": "2019-04-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000539/2019-X01/POG-136180",
+  "published": "2019-10-11",
+  "files": [
+   {
+    "name": "pogodba 605-2019.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNjE4MDtwb2dvZGJhIDYwNS0yMDE5LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

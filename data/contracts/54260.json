@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 54260,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 5 za \"Izdelavo projektne dokumentacije PGD in PZI HC Jagodje - Lucija in priključne ceste za Piran\" - SKLOP 1",
+  "procurement": "Aneks št. 5 za \"Izdelavo projektne dokumentacije PGD in PZI HC Jagodje - Lucija in priključne ceste za Piran\" - SKLOP 1",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-05-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKTIVNI ATELJE - NG d.o.o."
+  ],
+  "contractor_ids": [
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-11-16",
+  "files": [
+   {
+    "name": "Aneks št  5 sklop 1 k pog  573-2011.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU0MjYwO0FuZWtzIMWhdCAgNSBza2xvcCAxIGsgcG9nICA1NzMtMjAxMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

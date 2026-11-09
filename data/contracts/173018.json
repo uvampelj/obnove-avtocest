@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 173018,
+  "type": "DOD",
+  "prev": 95873,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 88/2018: Prenos lege gradbene parcele državne ceste - 3. razvojna os – sever: Sklop 2: Državna cesta od priključka Velenje jug do priključka Slovenj Gradec - jug - podaljšanje pogodbenega roka",
+  "procurement": "PRENOS LEGE GRADBENE PARCELE DRŽAVNE CESTE – 3. RAZVOJNA OS – SEVER: SKLOP 2: DRŽAVNA CESTA OD PRIKLJUČKA VELENJE JUG DO PRIKLJUČKA SLOVENJ GRADEC JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-01-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEODETSKI ZAVOD CELJE, d.o.o.",
+   "GEODETSKA DRUŽBA, geodezija, informatika in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5066352000",
+   "2351943000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-02-09",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.št.88-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MzAxODtBbmVrcyDFoXQuMSBrIHBvZy7FoXQuODgtMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

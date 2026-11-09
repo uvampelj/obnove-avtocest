@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16782,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636723,
+  "idDosje": 77437,
+  "title": "Vzdrževanje klimatskih in prezračevalnih naprav ter dobava in montaža split klimatskih naprav, sklop 1: vzdrževanje klima in prezračevalnih naprav",
+  "procurement": "Vzdrževanje klimatskih in prezračevalnih naprav",
+  "kind": 1,
+  "value": 301110.64,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o."
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4903/2015/POG-16782",
+  "published": "2015-07-21",
+  "files": [
+   {
+    "name": "pogodba Astech d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzgyO3BvZ29kYmEgQXN0ZWNoIGQuby5vLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

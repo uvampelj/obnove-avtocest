@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 175856,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716694,
+  "idDosje": 375408,
+  "title": "DOBAVA MOBILNIH NAPRAV IN OPREME",
+  "procurement": "DOBAVA MOBILNIH NAPRAV IN OPREME",
+  "kind": 2,
+  "value": 54247.24,
+  "signed": "2021-03-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007098/2020-X01/POG-175856",
+  "published": "2021-03-09",
+  "files": [
+   {
+    "name": "Pogodba 437-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NTg1NjtQb2dvZGJhIDQzNy0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

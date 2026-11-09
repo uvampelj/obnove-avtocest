@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 327524,
+  "type": "DOD",
+  "prev": 322710,
+  "idObrazec": 965169,
+  "idDosje": 523847,
+  "title": "Aneks št. 1 k pogodbi Vulkanizerske storitve Sklop 6",
+  "procurement": "VULKANIZERSKE STORITVE",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-12-04",
+  "from": "2025-10-08",
+  "to": "2029-01-08",
+  "number": "001311/2025",
+  "contractors": [
+   "VULKANIZERSTVO DORJAN STARC S.P."
+  ],
+  "contractor_ids": [
+   "2109395000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005531/2025-POG/03-D01",
+  "published": "2025-12-10",
+  "files": [
+   {
+    "name": "PJN aneks 325-25.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE3NzE5O1BKTiBhbmVrcyAzMjUtMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

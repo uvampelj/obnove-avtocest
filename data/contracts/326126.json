@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 326126,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 961146,
+  "idDosje": 526927,
+  "title": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v šestpasovnico) za fazo izdelave projekta DGD in PZI",
+  "procurement": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v šestpasovnico) za fazo izdelave projekta DGD in PZI",
+  "kind": 1,
+  "value": 380884.0,
+  "signed": "2025-11-19",
+  "from": "2025-11-19",
+  "to": "2027-04-19",
+  "number": "001266/2025",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008257/2025-POG/01",
+  "published": "2025-11-25",
+  "files": [
+   {
+    "name": "podpisana pogodba 1266-2025-redigirano za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE0NTI2O3BvZHBpc2FuYSBwb2dvZGJhIDEyNjYtMjAyNS1yZWRpZ2lyYW5vIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

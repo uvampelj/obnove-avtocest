@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 161,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630324,
+  "idDosje": 80378,
+  "title": "Dobava signalnih prikolic in varovalne opreme",
+  "procurement": "Blažilec trka na tovornem vozilu",
+  "kind": 2,
+  "value": 53667.8,
+  "signed": "2015-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN3192/2015/POG-161",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000363_150518_143033.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTtEMTMxNTAwMDAzNjNfMTUwNTE4XzE0MzAzMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

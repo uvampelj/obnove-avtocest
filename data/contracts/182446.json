@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 182446,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 720423,
+  "idDosje": 392332,
+  "title": "Najem celovite storitve tiskalniškega sistema",
+  "procurement": "Najem celovite storitve tiskalniškega sistema",
+  "kind": 1,
+  "value": 574468.18,
+  "signed": "2021-05-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KONICA MINOLTA BUSINESS SOLUTIONS SLOVENIJA, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5475716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001923/2021-C01/POG-182446",
+  "published": "2021-05-28",
+  "files": [
+   {
+    "name": "Pogodba 787-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MjQ0NjtQb2dvZGJhIDc4Ny0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205349,
+  "type": "DOD",
+  "prev": 94520,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 5 k pogodbi DARS št. 189/2018: Izvedba predhodnih arheoloških raziskav (ekstenzivni in intenzivni arheološki pregled) 3.razvojna os-sever: Sklop 1: državna cesta od priključka Šentrupert do priključka Velenje jug ",
+  "procurement": "\tIZVEDBA PREDHODNIH ARHEOLOŠKIH RAZISKAV (EKSTENZIVNI IN INTENZIVNI ARHEOLOŠKI PREGLED) 3.RAZVOJNA OS-SEVER: SKLOP 1: DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-01-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNI ZAVOD REPUBLIKE SLOVENIJE ZA VARSTVO KULTURNE DEDIŠČINE"
+  ],
+  "contractor_ids": [
+   "1423215000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-23",
+  "files": [
+   {
+    "name": "Aneks-5-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTM0OTtBbmVrcy01LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

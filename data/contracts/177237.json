@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 177237,
+  "type": "DOD",
+  "prev": 166534,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks številka 1",
+  "procurement": "UREDITEV OZEMLJITEV IN ZUNANJIH UREDITEV ACB KOZINA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-03-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-03-30",
+  "files": [
+   {
+    "name": "Aneks številka 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NzIzNztBbmVrcyDFoXRldmlsa2EgMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

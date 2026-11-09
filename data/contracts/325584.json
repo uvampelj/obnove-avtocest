@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 325584,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 959662,
+  "idDosje": 525226,
+  "title": "Vzdrževalna dela na optičnem telekomunikacijskem omrežju",
+  "procurement": "Vzdrževalna dela na optičnem telekomunikacijskem omrežju",
+  "kind": 1,
+  "value": 725369.39,
+  "signed": "2025-11-06",
+  "from": "2025-11-06",
+  "to": "2029-02-06",
+  "number": "001234/2025",
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006735/2025-POG/01",
+  "published": "2025-11-18",
+  "files": [
+   {
+    "name": "Pogodba st 001234-2025_ULRed.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEzMzczO1BvZ29kYmEgc3QgMDAxMjM0LTIwMjVfVUxSZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

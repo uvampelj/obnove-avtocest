@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 162,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630325,
+  "idDosje": 80263,
+  "title": "Zamenjava UPS naprav in zamenjava sklopov UPS naprav",
+  "procurement": "Zamenjava UPS naprav,Zamenjava sklopov UPS naprav proizvajalca SOCOMEC",
+  "kind": 1,
+  "value": 649288.25,
+  "signed": "2015-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SOCOMEC SICON d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN2036/2015/POG-162",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000230_150331_083847 - pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MjtEMTMxNTAwMDAyMzBfMTUwMzMxXzA4Mzg0NyAtIHBvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

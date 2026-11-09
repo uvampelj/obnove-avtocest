@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 296808,
+  "type": "DOD",
+  "prev": 133181,
+  "idObrazec": 880018,
+  "idDosje": 232576,
+  "title": "Aneks št. 1 k pogodbi DARS št. 842/2019: izdelava projektne dokumentacije PGD in PZI za izgradnjo 1. odseka nove prometne povezave med priključkom Šentrupert na avtocesti A1 Šentilj – Koper do priključka Velenje jug – Sklop 1 ",
+  "procurement": "Izdelava projektne dokumentacije PGD in PZI za: Sklop 1: izgradnjo 1. odseka nove prometne povezave med priključkom Šentrupert na avtocesti A1 Šentilj  Koper do priključka Velenje jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-10",
+  "from": "2024-12-10",
+  "to": "2025-12-31",
+  "number": "000842/2019",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5075742000",
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009841/2017-C01/POG-133181-D01",
+  "published": "2025-01-09",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM4ODIwO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

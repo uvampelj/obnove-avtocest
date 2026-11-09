@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 255310,
+  "type": "DOD",
+  "prev": 190193,
+  "idObrazec": 777392,
+  "idDosje": 392738,
+  "title": "Aneks številka 3 - Sklop 2",
+  "procurement": "Sol natrijev klorid NaCl, granulacija  srednja (grade M  medium salt), vlažnost pol suha (Semi Dry salt), sol za silose, raztreseno stanje za solarne,/,/,/",
+  "kind": 2,
+  "value": 172264.0,
+  "signed": "2023-12-28",
+  "from": "2023-12-28",
+  "to": "2024-04-30",
+  "number": "001526/2023",
+  "contractors": [
+   "BISTRADE trgovina d.o.o.",
+   "BOM - IMPEX d.o.o. Banja Luka"
+  ],
+  "contractor_ids": [
+   "6450059000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001979/2021-C01/DOD-255310",
+  "published": "2024-01-04",
+  "files": [
+   {
+    "name": "Aneks št. 3_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTAxNDtBbmVrcyDFoXQuIDNfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

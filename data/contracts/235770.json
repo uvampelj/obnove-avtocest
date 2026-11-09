@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 235770,
+  "type": "DOD",
+  "prev": 160603,
+  "idObrazec": 774608,
+  "idDosje": 338387,
+  "title": "Aneks št.1 k pogodbi DARS št. 1039/2020: Postavitev in zamenjava jeklenih varnostnih ograj ob odstavnem pasu avtoceste A2, območje AC baze Hrušica",
+  "procurement": "POSTAVITEV IN ZAMENJAVA JEKLENIH VARNOSTNIH OGRAJ OB ODSTAVNEM PASU AVTOCESTE A2, OBMOČJE AC BAZE HRUŠICA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-03-24",
+  "from": "2023-03-24",
+  "to": "2026-08-11",
+  "number": "541/2023",
+  "contractors": [
+   "CBE, družba za gradnjo in inženiring, d.o.o.",
+   "SIGNALINEA d.o.o."
+  ],
+  "contractor_ids": [
+   "3976602000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000172/2020-C01/DOD-235770",
+  "published": "2023-04-21",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNzM2NztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

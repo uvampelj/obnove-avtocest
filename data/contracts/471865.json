@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 471865,
+  "type": "DOD",
+  "prev": 287239,
+  "idObrazec": 1171150,
+  "idDosje": 508026,
+  "title": "Aneks št. 2 k pogodbi DARS št. 943/2024 za Izgradnjo polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid – obvoznica)",
+  "procurement": "Izgradnja Polnega priključka na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid - obvoznica)",
+  "kind": 3,
+  "value": 950579.64,
+  "signed": "2024-08-30",
+  "from": "2024-09-12",
+  "to": "2027-04-12",
+  "number": "000943/2024",
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001836/2024-POG/01-D02",
+  "published": "2026-08-28",
+  "files": [
+   {
+    "name": "aneks-2-k-943-2024_137-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNzAzO2FuZWtzLTItay05NDMtMjAyNF8xMzctMjAyNl9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

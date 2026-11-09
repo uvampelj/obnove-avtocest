@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248147,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 760803,
+  "idDosje": 481822,
+  "title": "Izdelava izvedbenega načrta za preplastitev vozišča na delih odsekov AC A2 TrebnjeNovo mesto, Novo mestoKronovo, KronovoDobruška vas ter priključkih Kronovo, Novo mesto zahod in Novo mesto vzhod",
+  "procurement": "Izdelava izvedbenega načrta za preplastitev vozišča na delih odsekov AC A2 Trebnje-NM, NM-Kronovo, Kronovo-Dobruška vas ter priključkih Kronovo, Novo mesto zahod in Novo mesto vzhod",
+  "kind": 1,
+  "value": 264498.81,
+  "signed": "2023-09-07",
+  "from": "2023-09-07",
+  "to": "2025-02-07",
+  "number": "000953/2023",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003642/2023-C01/POG-248147",
+  "published": "2023-09-25",
+  "files": [
+   {
+    "name": "Pogodba-PNG_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTMxNztQb2dvZGJhLVBOR19vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

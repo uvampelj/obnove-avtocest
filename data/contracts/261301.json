@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 261301,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 797379,
+  "idDosje": 505927,
+  "title": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja Obnova ESO opreme predorov Podnanos in Barnica ter pokritih vkopov Rebernice I in II",
+  "kind": 1,
+  "value": 346398.2,
+  "signed": "2024-02-29",
+  "from": "2024-02-29",
+  "to": "2025-03-01",
+  "number": "000365/2024",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000350/2024-POG/01",
+  "published": "2024-03-11",
+  "files": [
+   {
+    "name": "Pogodba-IBE_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcwNzc3O1BvZ29kYmEtSUJFX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

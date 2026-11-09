@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 164568,
+  "type": "DOD",
+  "prev": 127987,
+  "idObrazec": 772190,
+  "idDosje": 235526,
+  "title": "aneks 1- Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik - Vodice od km 4,041 do km 5,246 in A2/0010 Vodice",
+  "procurement": "Rušitev in preureditev cestninskih postaj Log, Torovo, Hrušica in Vrhnika vključno s platojem ter obnovo voziščne konstrukcije na odseku A2/0009 Brnik - Vodice od km 4,041 do km 5,246 in A2/0010 Vodic",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-08-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010423/2017-C01/DOD-164568",
+  "published": "2020-11-03",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NDU2ODtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

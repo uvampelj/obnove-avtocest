@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 171739,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714668,
+  "idDosje": 360702,
+  "title": "Visokotlačno čiščenje kanalizacije in drenaž na AC in HC",
+  "procurement": "ACB Postojna, Kozina, Hrušica, Novo mesto,ACB Vransko, Murska Sobota",
+  "kind": 1,
+  "value": 162138.0,
+  "signed": "2021-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREN, podjetje za zbiranje in ravnanje z odpadki, d.o.o."
+  ],
+  "contractor_ids": [
+   "3698289000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004665/2020-X01/POG-171739",
+  "published": "2021-01-26",
+  "files": [
+   {
+    "name": "Pogodba 062-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MTczOTtQb2dvZGJhIDA2Mi0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

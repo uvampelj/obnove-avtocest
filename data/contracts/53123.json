@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53123,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652051,
+  "idDosje": 163349,
+  "title": "Vzdrževanje, podpora in razvoj IS PIS",
+  "procurement": "Vzdrževanje, podpora in razvoj IS PIS",
+  "kind": 1,
+  "value": 289811.0,
+  "signed": "2016-10-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UL FGG"
+  ],
+  "contractor_ids": [
+   "1626981000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003994/2016-C01/POG-53123",
+  "published": "2016-10-27",
+  "files": [
+   {
+    "name": "Pogodba 851-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzMTIzO1BvZ29kYmEgODUxLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

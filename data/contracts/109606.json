@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 109606,
+  "type": "DOD",
+  "prev": 100532,
+  "idObrazec": 770682,
+  "idDosje": 227918,
+  "title": "Ureditev spremembe prometnega režima in spremenljive prometne signalizacije v razcepu Kozarje",
+  "procurement": "Ureditev spremembe prometnega režima in spremenljive prometne signalizacije v razcepu Kozarje",
+  "kind": 3,
+  "value": 51555.22,
+  "signed": "2018-09-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in elektronska industrija, d.d.",
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o.",
+   "ASIST avtomatizacija sistemov d.o.o.",
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "5406382000",
+   "1194682000",
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009103/2017-C01/DOD-109606",
+  "published": "2018-09-22",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTYwNjtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

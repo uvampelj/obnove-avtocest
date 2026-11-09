@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 201518,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730479,
+  "idDosje": 413931,
+  "title": "Servisiranje osebnih, kombiniranih in gospodarskih vozil Renault in Volkswagen",
+  "procurement": "Vozila Renault - PO,Vozila Renault - LJ,Vozila Renault - MB",
+  "kind": 1,
+  "value": 140263.4,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRGO ABC prodajno servisni center d.o.o.",
+   "AVTOHIŠA REAL, trgovina in servis, d.o.o.,",
+   "AVTO KOLETNIK prodaja in servis motornih vozil, obdelava kovin in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5373077000",
+   "1663810000",
+   "1391941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006177/2021-C01/POG-201518",
+  "published": "2022-01-07",
+  "files": [
+   {
+    "name": "POGODBE.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMTUxODtQT0dPREJFLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

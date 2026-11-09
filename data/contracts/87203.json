@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 87203,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667037,
+  "idDosje": 225067,
+  "title": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem toku - sistem DarsGo pri pogodbenemu partnerju MOL",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem toku - sistem DarsGo pri pogodbenemu partnerju MOL",
+  "kind": 1,
+  "value": 1220000.0,
+  "signed": "2017-12-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOL SLOVENIJA, trgovsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5952441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008705/2017-C01/POG-87203",
+  "published": "2017-12-20",
+  "files": [
+   {
+    "name": "Pogodba 1017-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3MjAzO1BvZ29kYmEgMTAxNy0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

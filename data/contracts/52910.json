@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52910,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 2 k pog. DARS št. 1006/10:IZDELAVA GRADBENO - TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA IZGRADNJO AVTOCESTE POSTOJNA / DIVAČA – JELŠANE-podaljšanje pogodbenega roka  ",
+  "procurement": "aneks št. 2 k pog. DARS št. 1006/10:IZDELAVA GRADBENO - TEHNIČNEGA DELA ŠTUDIJE VARIANT ZA IZGRADNJO AVTOCESTE POSTOJNA / DIVAČA – JELŠANE-podaljšanje pogodbenega roka  ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "106-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyOTEwOzEwNi0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

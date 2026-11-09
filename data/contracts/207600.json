@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 207600,
+  "type": "DOD",
+  "prev": 161147,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1274/2020: Izdelava projektne dokumentacije PZI za rekonstrukcijo dela odseka na AC A1/0036 in 0636 Fram – Slovenska Bistrica od km 6+450 do km 7+150 vključno z zamenjavo viadukta Devina VA0065 v km 6+788 in rekonstrukcijo viadukta Devina VA0361 v km 6+783",
+  "procurement": "Izdelava projektne dokumentacije PZI za rekonstrukcijo odseka AC A1/0036 in 0636 Fram Slovenska Bistrica od km 6+450 do km 7+150 z zamenjavo viadukta VA0065 in rekonstrukcijo viadukta VA0361",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000",
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-03-24",
+  "files": [
+   {
+    "name": "Aneks-1_Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzYwMDtBbmVrcy0xX1BvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

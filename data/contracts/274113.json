@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 274113,
+  "type": "DOD",
+  "prev": 131229,
+  "idObrazec": 835117,
+  "idDosje": 310710,
+  "title": "Aneks 1, DARS št. 830/2024 k pog. DARS št. 943/2019",
+  "procurement": "Aneks 1, DARS št. 830/2024 k pog. DARS št. 943/2019",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-07-29",
+  "from": "2019-07-31",
+  "to": "2024-12-31",
+  "number": "830/2024",
+  "contractors": [
+   "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d.",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5263565000",
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003562/2019-C01/POG-131229-D01",
+  "published": "2024-08-16",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 830-2024 k pog. 943-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAxMDczO0FuZWtzIDEsIERBUlMgxaF0LiA4MzAtMjAyNCBrIHBvZy4gOTQzLTIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

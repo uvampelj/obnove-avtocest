@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27396,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641486,
+  "idDosje": 72172,
+  "title": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v 6-pasovnico) in za priključek Brezovica za fazo izdelave projekta za pridobitev gradbenega dovoljenja (PGD) in fazo",
+  "procurement": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v 6-pasovnico) in za priključek Brezovica za fazo izdelave projekta za pridobitev gradbenega dovoljenja (PGD) in fazo.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7104/2015/POG-27396",
+  "published": "2015-12-17",
+  "files": [
+   {
+    "name": "pog 797-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3Mzk2O3BvZyA3OTctMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

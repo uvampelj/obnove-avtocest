@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 133280,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691462,
+  "idDosje": 311047,
+  "title": "Izdelava IZP in IZN za izvedbo sanacije viaduktov Šentilj VA0289 in VA0290 v km 1.200 na A1, odsek 0030/0630 MEJA A – ŠENTILJ in IZN za izvedbo sanacije viaduktov Kresnica VA0392 in VA0393 v km 2.101 na A1, odsek 0031/0631 ŠENTILJ - PESNICA ",
+  "procurement": "Izdelava IZP in IZN za izvedbo sanacije viaduktov Šentilj VA0289 in VA0290 v km 1.200 na A1, odsek 0030/0630 MEJA A – ŠENTILJ in IZN za izvedbo sanacije viaduktov Kresnica VA0392 in VA0393 v km 2.101 na A1, odsek 0031/0631 ŠENTILJ - PESNICA ",
+  "kind": 1,
+  "value": 118464.44,
+  "signed": "2019-08-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003605/2019-X01/POG-133280",
+  "published": "2019-09-04",
+  "files": [
+   {
+    "name": "Pogodba Elea iC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzI4MDtQb2dvZGJhIEVsZWEgaUMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

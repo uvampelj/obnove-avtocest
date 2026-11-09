@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265230,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807761,
+  "idDosje": 504953,
+  "title": "Okolju prijazno čiščenje poslovnih prostorov, SKLOP 4 - Dolenjska",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 409485.63,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000540/2024",
+  "contractors": [
+   "CELOVITE STORITVE trgovina in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2010356000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/04",
+  "published": "2024-04-19",
+  "files": [
+   {
+    "name": "pogodba 540-2024 S4 CELOVITE STORITVE_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5MTcxO3BvZ29kYmEgNTQwLTIwMjQgUzQgQ0VMT1ZJVEUgU1RPUklUVkVfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

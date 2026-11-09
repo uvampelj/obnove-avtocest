@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 315531,
+  "type": "DOD",
+  "prev": 108371,
+  "idObrazec": 930298,
+  "idDosje": 258325,
+  "title": "Aneks št. 4 k osnovni pogodbi DARS št. 1830/2018 z dne 12. 9. 2018 za izdelavo prometne študije in prometno-ekonomskega vrednotenja za izgradnjo hitre ceste Koper - Dragonja ",
+  "procurement": "IZDELAVA PROMETNE ŠTUDIJE IN PROMETNO-EKONOMSKEGA VREDNOTENJA ZA IZGRADNJO HITRE CESTE KOPER–DRAGONJA ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-06-24",
+  "from": "2025-06-24",
+  "to": "2026-12-31",
+  "number": "001830/2018",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "APPIA družba za projektiranje, raziskave in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1829157000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003411/2018-X01/POG-108371-D03",
+  "published": "2025-07-24",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg5ODI3O0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

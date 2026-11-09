@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 124236,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686085,
+  "idDosje": 284884,
+  "title": "Dobava varovalne obutve",
+  "procurement": "Dobava varovalne obutve",
+  "kind": 2,
+  "value": 545462.0,
+  "signed": "2019-04-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OVERALL Trgovsko podjetje, d.o.o.",
+   "TEKONT trgovina in poslovne storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5798981000",
+   "5326818000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008065/2018-C01/POG-124236",
+  "published": "2019-04-09",
+  "files": [
+   {
+    "name": "Okvirni sporazum DARS št. 566-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDIzNjtPa3Zpcm5pIHNwb3JhenVtIERBUlMgxaF0LiA1NjYtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

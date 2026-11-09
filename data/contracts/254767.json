@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254767,
+  "type": "DOD",
+  "prev": 183864,
+  "idObrazec": 776407,
+  "idDosje": 389337,
+  "title": "Aneks 1, DARS št. 1483/2023 k pog. DARS št. 832/2021",
+  "procurement": "Vzdrževanje nadzorno krmilnega sistema v predorih in pokritih vkopih Sklop 1",
+  "kind": 1,
+  "value": 158600.0,
+  "signed": "2023-12-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001198/2021-C01/DOD-254767",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 1483-2023  k pog. DARS št.  832-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQzMztBbmVrcyAxLCBEQVJTIMWhdC4gMTQ4My0yMDIzICBrIHBvZy4gREFSUyDFoXQuICA4MzItMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 312356,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 920352,
+  "idDosje": 519448,
+  "title": "Izdelava strokovnih podlag za ureditev ljubljanskega avtocestnega obroča – južna in vzhodna obvoznica",
+  "procurement": "Izdelava strokovnih podlag za ureditev ljubljanskega avtocestnega obroča – južna in vzhodna obvoznica",
+  "kind": 1,
+  "value": 1369999.0,
+  "signed": "2025-06-03",
+  "from": "2025-06-03",
+  "to": "2027-09-03",
+  "number": "000796/2025",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001796/2025-POG/01",
+  "published": "2025-06-16",
+  "files": [
+   {
+    "name": "podpisana pog 796-2025-redigirano za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzgxODk4O3BvZHBpc2FuYSBwb2cgNzk2LTIwMjUtcmVkaWdpcmFubyB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

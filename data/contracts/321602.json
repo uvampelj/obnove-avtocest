@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 321602,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 947872,
+  "idDosje": 523450,
+  "title": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "procurement": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "kind": 1,
+  "value": 186416.0,
+  "signed": "2025-09-18",
+  "from": "2025-09-18",
+  "to": "2028-12-18",
+  "number": "001123/2025",
+  "contractors": [
+   "Kontron SI, sistemske integracije, d.o.o."
+  ],
+  "contractor_ids": [
+   "9750681000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005173/2025-POG/01",
+  "published": "2025-10-03",
+  "files": [
+   {
+    "name": "Pogodba st 1123-2025 RedUL .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAzODY1O1BvZ29kYmEgc3QgMTEyMy0yMDI1IFJlZFVMIC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

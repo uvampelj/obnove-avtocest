@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316553,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933362,
+  "idDosje": 518826,
+  "title": "Sklop 2 - Delovna oblačila",
+  "procurement": "Dobava osebne varovalne opreme",
+  "kind": 2,
+  "value": 400188.06,
+  "signed": "2025-07-21",
+  "from": "2025-07-21",
+  "to": "2028-10-21",
+  "number": "000946/2025",
+  "contractors": [
+   "ASTEKO center osebne varovalne opreme d.o.o."
+  ],
+  "contractor_ids": [
+   "1898795000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001276/2025-POG/02",
+  "published": "2025-08-06",
+  "files": [
+   {
+    "name": "Pogodba sklop 2 ASTEKO 015-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyMzU2O1BvZ29kYmEgc2tsb3AgMiBBU1RFS08gMDE1LTIwMjUgUkVEIC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

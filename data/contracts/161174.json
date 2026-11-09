@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 161174,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708279,
+  "idDosje": 296654,
+  "title": "Izdelava dopolnilnih geoloških, geotehničnih in hidrogeoloških raziskav za fazo IDP za državno cesto Slovenj Gradec-jug – Dravograd - III. razvojna os",
+  "procurement": "Izdelava dopolnilnih geoloških, geotehničnih in hidrogeoloških raziskav za fazo IDP za državno cesto Slovenj Gradec-jug – Dravograd - III. razvojna os",
+  "kind": 1,
+  "value": 527499.94,
+  "signed": "2020-01-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEOINŽENIRING družba za geološki inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "1328484000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000737/2019-C01/POG-161174",
+  "published": "2020-09-21",
+  "files": [
+   {
+    "name": "Pogodba-Geoinženiring-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTE3NDtQb2dvZGJhLUdlb2luxb5lbmlyaW5nLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 104162,
+  "type": "DOD",
+  "prev": 78717,
+  "idObrazec": 769571,
+  "idDosje": 180790,
+  "title": "aneks št. 2 k pog. DARS št. 263/2017 za NADGRADNJA IN INTEGRACIJA OBSTOJEČIH SISTEMOV VIDEO NADZORA IN AVTOMATSKE DETEKCIJE PROMETA (VN IN ADP) NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI NADZORNI CENTER KOZINA – podaljšanje pogodbenega roka ",
+  "procurement": "NADGRADNJA IN INTEGRACIJA OBSTOJEČIH SISTEMOV VIDEO NADZORA IN AVTOMATSKE DETEKCIJE PROMETA (VN IN ADP) NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI NADZORNI CENTER KOZINA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TECHNIX d.o.o., Kamnik",
+   "A KODA PLUS, tehnična oprema objektov d.o.o."
+  ],
+  "contractor_ids": [
+   "5753155000",
+   "6377459000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007819/2016-C01/DOD-104162",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Aneks-2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2MjtBbmVrcy0yLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

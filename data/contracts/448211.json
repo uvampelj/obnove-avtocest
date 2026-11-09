@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 448211,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1130586,
+  "idDosje": 603020,
+  "title": "Prevzem odpadnih tunelskih pralnih vod",
+  "procurement": "Prevzem odpadnih tunelskih pralnih vod",
+  "kind": 1,
+  "value": 133371.0,
+  "signed": "2026-07-14",
+  "from": "2026-07-14",
+  "to": "2030-01-14",
+  "number": "000796/2026",
+  "contractors": [
+   "AGJ, arhitekturno projektiranje in ravnanje z odplakami, d.o.o."
+  ],
+  "contractor_ids": [
+   "3455980000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003525/2026-POG/01",
+  "published": "2026-07-16",
+  "files": [
+   {
+    "name": "R_Pogodba 796-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTcyMjgxO1JfUG9nb2RiYSA3OTYtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 270936,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 825523,
+  "idDosje": 501779,
+  "title": "»Poslovni najem vozil z nizkimi emisijami«",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 1650078.38,
+  "signed": "2024-07-02",
+  "from": "2024-07-02",
+  "to": "2033-08-02",
+  "number": "000762/2024",
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "008244/2023-POG/01",
+  "published": "2024-07-05",
+  "files": [
+   {
+    "name": "Pgd Porsche 232_23_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkzMzcwO1BnZCBQb3JzY2hlIDIzMl8yM19QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

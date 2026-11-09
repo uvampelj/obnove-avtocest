@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 144998,
+  "type": "DOD",
+  "prev": 140384,
+  "idObrazec": 773102,
+  "idDosje": 321533,
+  "title": "Aneks št. 1",
+  "procurement": "SANACIJA ACB MURSKA SOBOTA",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-01-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TEGAR storitve in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "2333821000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005925/2019-X01/DOD-144998",
+  "published": "2020-01-29",
+  "files": [
+   {
+    "name": "Aneks št. 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDk5ODtBbmVrcyDFoXQuIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

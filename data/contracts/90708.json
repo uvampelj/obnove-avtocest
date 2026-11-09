@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 90708,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 668601,
+  "idDosje": 226342,
+  "title": "IZVEDBA ZUNANJE KONTROLE KAKOVOSTI PRI INVESTICIJAH NA OBSTOJEČIH AC IN HC, S KATERIMI UPRAVLJA DARS D.D.",
+  "procurement": "IZVEDBA ZUNANJE KONTROLE KAKOVOSTI PRI INVESTICIJAH NA OBSTOJEČIH AC IN HC, S KATERIMI UPRAVLJA DARS D.D.",
+  "kind": 1,
+  "value": 1448271.76,
+  "signed": "2018-01-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGMAT, Inštitut za gradbene materiale, d.d.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE"
+  ],
+  "contractor_ids": [
+   "5498503000",
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008944/2017-C01/POG-90708",
+  "published": "2018-01-30",
+  "files": [
+   {
+    "name": "pogodba 090-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNzA4O3BvZ29kYmEgMDkwLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "id": 18881,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637659,
+  "idDosje": 22135,
+  "title": "Izvedba nadstreškov cestninskega nadzora po cestninskih postajah",
+  "procurement": "Izvedba nadstreškov cestninskega nadzora po cestninskih postajah",
+  "kind": 3,
+  "value": 74198.23,
+  "signed": "2015-08-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CVP inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV5223/2015/POG-18881",
+  "published": "2015-08-21",
+  "files": [
+   {
+    "name": "D13150000692_150820_151035.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4ODgxO0QxMzE1MDAwMDY5Ml8xNTA4MjBfMTUxMDM1LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 252448,
+  "type": "DOD",
+  "prev": 194237,
+  "idObrazec": 777904,
+  "idDosje": 398407,
+  "title": "Aneks št. 1 k pog. DARS št. 1161/2021: Vzpostavitev nadzorne točke Hrušica na odseku 0001 - Meja A (predor)-Hrušica od km 3.900 do km 4.700",
+  "procurement": "Vzpostavitev nadzorne točke Hrušica na odseku 0001 - Meja A (predor)-Hrušica od km 3.900 do km 4.700",
+  "kind": 3,
+  "value": 108894.86,
+  "signed": "2023-10-25",
+  "from": "2023-10-25",
+  "to": "2023-10-29",
+  "number": "1081/2023",
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o.",
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3512592000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002911/2021-C01/DOD-252448",
+  "published": "2023-11-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NTk0NjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

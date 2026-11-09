@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 229209,
+  "type": "DOD",
+  "prev": 148964,
+  "idObrazec": 773485,
+  "idDosje": 328150,
+  "title": "Aneks št. 1 k pog. DARS št. 485/2020: Izdelava PZI projektne dokumentacije za izvedbo vzdrževalnih del v javno korist na območju priključka  Arja vas",
+  "procurement": "Izdelava PZI projektne dokumentacije za izvedbo vzdrževalnih del v javno korist na območju priključka Arja vas",
+  "kind": 1,
+  "value": 6556.91,
+  "signed": "2022-12-14",
+  "from": "2022-12-14",
+  "to": "2023-03-15",
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o.",
+   "SPIT Gradbeni inženiring d.o.o. Nova Gorica"
+  ],
+  "contractor_ids": [
+   "5346908000",
+   "5312957000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007330/2019-C01/DOD-229209",
+  "published": "2023-01-12",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTkwMDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

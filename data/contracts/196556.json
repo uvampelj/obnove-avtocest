@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 196556,
+  "type": "DOD",
+  "prev": 52913,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 5 k pog. DARS št. 524/2008:: Zajem podatkov z LIDAR tehnologijo in izdelava geodetskih podlag za DPN za HC Koper Dragonja - dodatna dela in statusna sprememba izvajalca",
+  "procurement": "ZAJEM PODATKOV Z LIDAR TEHNOLOGIJO IN IZDELAVA GEODETSKIH PODLAG ZA DPN ZA HC KOPER-DRAGONJA",
+  "kind": 1,
+  "value": 5664.58,
+  "signed": "2019-10-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o.",
+   "GEODETSKI ZAVOD CELJE, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000",
+   "5066352000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-10-27",
+  "files": [
+   {
+    "name": "aneks št 5 k pog 524-2008-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjU1NjthbmVrcyDFoXQgNSBrIHBvZyA1MjQtMjAwOC1PSy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

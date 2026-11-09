@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 320497,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 944670,
+  "idDosje": 522536,
+  "title": "Servisiranje, popravila in dobava nadomestnih delov blažilcev trka: sklop 1: blažilci trka Stuer Egghe",
+  "procurement": "Servisiranje, popravila in dobava nadomestnih delov blažilcev trka: sklop 1: blažilci trka Stuer Egghe.sklop 2: blažilci trka Verdegro",
+  "kind": 1,
+  "value": 222698.9,
+  "signed": "2025-09-02",
+  "from": "2025-09-02",
+  "to": "2028-12-01",
+  "number": "001061/2025",
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004428/2025-POG/01",
+  "published": "2025-09-22",
+  "files": [
+   {
+    "name": "pog sklop 1 - 1061-2025 - redig za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxMzE3O3BvZyBza2xvcCAxIC0gMTA2MS0yMDI1IC0gcmVkaWcgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123259,
+  "type": "DOD",
+  "prev": 2066,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 559/2017",
+  "procurement": "Opravljanje tehničnih pregledov, registracije, letne dajatve za uporabo cest in pregledi tahografov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-03-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO KRKA NM, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3510310000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-26",
+  "files": [
+   {
+    "name": "ANEKS 502.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzI1OTtBTkVLUyA1MDIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

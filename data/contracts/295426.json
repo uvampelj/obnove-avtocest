@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 295426,
+  "type": "DOD",
+  "prev": 273357,
+  "idObrazec": 876991,
+  "idDosje": 506800,
+  "title": "Aneks št. 1 k pogodbi DARS št. 812/2024 za Vzpostavitev sistema SIEM (Security Information and Event Management)",
+  "procurement": "Vzpostavitev sistema SIEM (Security Information and Event Management)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-04",
+  "from": "2024-07-22",
+  "to": "2030-07-23",
+  "number": "000812/2024",
+  "contractors": [
+   "Comtrade SI Sistemske Integracije d.o.o.",
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8371741000",
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000893/2024-POG/01-D01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Aneks-1-k-812-2024_246-2024_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NDYwO0FuZWtzLTEtay04MTItMjAyNF8yNDYtMjAyNF9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

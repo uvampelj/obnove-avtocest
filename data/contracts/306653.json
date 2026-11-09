@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 306653,
+  "type": "DOD",
+  "prev": 252956,
+  "idObrazec": 903696,
+  "idDosje": 485776,
+  "title": "Aneks št. 1 k pog. DARS št. 1159/2023: Zamenjava kažipotne signalizacije na AC A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica ",
+  "procurement": "Zamenjava kažipotne signalizacije na A1 med Žalcem in Krtino ter ureditev povratne ceste na počivališču Lukovica",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-03-19",
+  "from": "2023-11-15",
+  "to": "2025-11-15",
+  "number": "001159/2023",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004456/2023-X01/POG-252956-D01",
+  "published": "2025-04-09",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY4NDI1O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 305389,
+  "type": "DOD",
+  "prev": 200382,
+  "idObrazec": 900568,
+  "idDosje": 388647,
+  "title": "Aneks št. 5 k pog. DARS št. 1283/2021: Upravljanje s prometom na vpadnicah Ljubljane - periferna oprema",
+  "procurement": "Upravljanje s prometom na vpadnicah Ljubljane - periferna oprema ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-03-21",
+  "from": "2025-03-21",
+  "to": "2025-03-22",
+  "number": "001283/2021",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001031/2021-C01/POG-200382-D04",
+  "published": "2025-03-31",
+  "files": [
+   {
+    "name": "Aneks-5-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY1Nzc2O0FuZWtzLTUtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

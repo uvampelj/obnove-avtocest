@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 296929,
+  "type": "DOD",
+  "prev": 223538,
+  "idObrazec": 880300,
+  "idDosje": 450773,
+  "title": "Aneks št. 1 k pog. DARS št. 1233/2022: Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu ",
+  "procurement": "Preplastitev voziščne konstrukcije na odsekih AC A2 0003/0603 Lipce-Lesce, 0004/0604 Lesce-Brezje, 0005/0605 Brezje-Podtabor ter priključkih Lipce, Lesce, Brezje in Radovljica ter sanacija plazu",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-12-16",
+  "from": "2024-12-16",
+  "to": "2025-02-28",
+  "number": "001233/2022",
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5143802000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004799/2022-C01/POG-223538-D01",
+  "published": "2025-01-10",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM5MDI5O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

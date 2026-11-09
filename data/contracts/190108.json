@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 190108,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724695,
+  "idDosje": 382554,
+  "title": "Izvedba revizije gradbenih načrtov PZI dokumentacije za premostitvene objekte in predore na novi prometni povezavi od priključka Šentrupert na A1 Šentilj–Koper do priključka Slovenj Gradec jug",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za premostitvene objekte in predore na novi prometni povezavi od priključka Šentrupert na A1 Šentilj–Koper do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 261080.0,
+  "signed": "2021-08-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000225/2021-C01/POG-190108",
+  "published": "2021-09-06",
+  "files": [
+   {
+    "name": "Pogodba-JV_Ponting+Pipenbaher_ inz-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MDEwODtQb2dvZGJhLUpWX1BvbnRpbmcrUGlwZW5iYWhlcl8gaW56LW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

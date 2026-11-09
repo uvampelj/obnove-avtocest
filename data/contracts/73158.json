@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 73158,
+  "type": "DOD",
+  "prev": 39607,
+  "idObrazec": 768002,
+  "idDosje": 52637,
+  "title": "Aneks št. 1 k pogodbi za poslovni najem vozil z nizkimi emisijami, sklop 4",
+  "procurement": "Limuzina, vsaj 135 kW",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2017-06-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o."
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002442/2016-C01/DOD-73158",
+  "published": "2017-06-21",
+  "files": [
+   {
+    "name": "Aneks 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczMTU4O0FuZWtzIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

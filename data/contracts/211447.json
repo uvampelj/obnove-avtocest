@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 211447,
+  "type": "DOD",
+  "prev": 105483,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Napačna objava",
+  "procurement": "Aneks objavljen pod napačno pogodbo",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1587714000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-24",
+  "files": [
+   {
+    "name": "OBJAVA ANEKSA POD NAPAČNO POGODBO.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMTQ0NztPQkpBVkEgQU5FS1NBIFBPRCBOQVBBxIxOTyBQT0dPREJPLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

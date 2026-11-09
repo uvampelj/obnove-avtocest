@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 115202,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680937,
+  "idDosje": 275595,
+  "title": "TEHNIČNI SKRBNIK OBJEKTA DRAGOMELJ 116",
+  "procurement": "TEHNIČNI SKRBNIK OBJEKTA DRAGOMELJ 116",
+  "kind": 1,
+  "value": 84180.0,
+  "signed": "2018-11-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GARANTA INVEST podjetje za vzdrževanje stavb, nadzor sanacij in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "2213117000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006740/2018-X01/POG-115202",
+  "published": "2018-11-29",
+  "files": [
+   {
+    "name": "Pogodba 2060-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTIwMjtQb2dvZGJhIDIwNjAtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

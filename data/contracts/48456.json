@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48456,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650761,
+  "idDosje": 163648,
+  "title": "Vzdrževanje Oracle licenčne programske opreme",
+  "procurement": "Vzdrževanje Oracle licenčne programske opreme",
+  "kind": 1,
+  "value": 48786.06,
+  "signed": "2016-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ORACLE d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5572720000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004013/2016-X01/POG-48456",
+  "published": "2016-09-20",
+  "files": [
+   {
+    "name": "pogodba 755-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4NDU2O3BvZ29kYmEgNzU1LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

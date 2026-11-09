@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 400454,
+  "type": "DOD",
+  "prev": 46637,
+  "idObrazec": 1067422,
+  "idDosje": 51769,
+  "title": "ANEKS št. 23 K POGODBI O VZPOSTAVITVI IN DELOVANJU VEČSTEZNEGA ELEKTRONSKEGA CESTNINSKEGA SISTEMA V PROSTEM PROMETNEM TOKU NA AVTOCESTAH IN HITRIH CESTAH",
+  "procurement": "Vzpostavitev in delovanje večsteznega elektronskega cestninskega sistema v prostem prometnem toku na avtocestah in hitrih cestah",
+  "kind": 1,
+  "value": 441855.9,
+  "signed": "2026-04-10",
+  "from": "2026-04-10",
+  "to": "2028-03-26",
+  "number": "000544/2026",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d.",
+   "Q-Free ASA"
+  ],
+  "contractor_ids": [
+   "5014018000",
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005358/2016-C01/POG-46637-D23",
+  "published": "2026-04-17",
+  "files": [
+   {
+    "name": "Aneks št. 000544-2026 za objavo 42-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTEzOTQ4O0FuZWtzIMWhdC4gMDAwNTQ0LTIwMjYgemEgb2JqYXZvIDQyLTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

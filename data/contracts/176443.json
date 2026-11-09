@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 176443,
+  "type": "DOD",
+  "prev": 150734,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 608/2020: Izdelava študije ureditve odtoka vode iz območja med galerijo Šentvid in reko Savo - podaljšanje pogodbenega roka",
+  "procurement": "Izdelava študije ureditve odtoka vode iz območja med galerijo Šentvid in reko Savo ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-03-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-03-16",
+  "files": [
+   {
+    "name": "Aneks št.1 k 608-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjQ0MztBbmVrcyDFoXQuMSBrIDYwOC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

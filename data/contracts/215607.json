@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 215607,
+  "type": "DOD",
+  "prev": 198233,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1242/2021 za Razvoj in vzdrževanje sistema JANIS (informacijski sistem javnega naročanja)",
+  "procurement": "Aneks št. 1 k pog. DARS št. 1242/2021 za Razvoj in vzdrževanje sistema JANIS (informacijski sistem javnega naročanja)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-06-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-05",
+  "files": [
+   {
+    "name": "Aneks st 994-2022 UL_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNTYwNztBbmVrcyBzdCA5OTQtMjAyMiBVTF9yZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

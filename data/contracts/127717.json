@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 127717,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688051,
+  "idDosje": 297107,
+  "title": "Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja",
+  "procurement": "Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja",
+  "kind": 1,
+  "value": 6358379.55,
+  "signed": "2019-05-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d.",
+   "Zavarovalnica Sava, zavarovalna družba, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000",
+   "5063400000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000962/2019-C01/POG-127717",
+  "published": "2019-06-04",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzcxNztQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

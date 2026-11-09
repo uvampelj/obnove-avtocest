@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120865,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683893,
+  "idDosje": 277824,
+  "title": "Izdelava projekta PZI za upravljanje s prometom na vpadnicah Ljubljane ",
+  "procurement": "Izdelava projekta PZI za upravljanje s prometom na vpadnicah Ljubljane ",
+  "kind": 1,
+  "value": 151097.0,
+  "signed": "2019-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEKTROENERGETIKA, projektiranje, tehnično svetovanje, izvajanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2228599000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007054/2018-X01/POG-120865",
+  "published": "2019-02-20",
+  "files": [
+   {
+    "name": "Pogodba-Elektroenergetika.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDg2NTtQb2dvZGJhLUVsZWt0cm9lbmVyZ2V0aWthLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

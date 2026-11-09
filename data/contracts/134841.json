@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 134841,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 692460,
+  "idDosje": 315271,
+  "title": "Poslovni najem vozil",
+  "procurement": "Kombinirano vozilo, vsaj 75 kW,Vozilo z večjo oddaljenostjo od tal, vsaj 80 kW,Osebno vozilo, vsaj 80 kW,Vozilo z večjo oddaljenostjo od tal, vsaj 110 kW,Karavan, vsaj 170 kW",
+  "kind": 2,
+  "value": 933893.4,
+  "signed": "2019-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o. firma za leasing, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004806/2019-C01/POG-134841",
+  "published": "2019-09-26",
+  "files": [
+   {
+    "name": "pogodba 1433-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNDg0MTtwb2dvZGJhIDE0MzMtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

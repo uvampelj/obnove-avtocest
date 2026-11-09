@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255893,
+  "type": "DOD",
+  "prev": 128134,
+  "idObrazec": 772197,
+  "idDosje": 302910,
+  "title": "Aneks št. 4 k pogodbi DARS št. 722/2019: Izdelava in dopolnitev prostorskih dokumentov v sklopu priprave državnega prostorskega načrta za državno cesto od priključka Slovenj Gradec-jug do Dravograda z obvoznicami",
+  "procurement": "IZDELAVA IN DOPOLNITEV PROSTORSKIH DOKUMENTOV V SKLOPU PRIPRAVE DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO OD PRIKLJUČKA SLOVENJ GRADEC-JUG DO DRAVOGRADA Z OBVOZNICAMI",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-12-18",
+  "from": "2023-12-18",
+  "to": "2024-12-30",
+  "number": "1482/2023",
+  "contractors": [
+   "URBIS urbanizem, arhitektura, projektiranje in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5560799000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002028/2019-C01/DOD-255893",
+  "published": "2024-01-11",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTY1NTtBbmVrcy00LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

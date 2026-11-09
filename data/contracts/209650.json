@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 209650,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 735698,
+  "idDosje": 435831,
+  "title": "Nabava električne energije 2022 - 2025",
+  "procurement": "Nabava električne energije 2022 - 2025",
+  "kind": 2,
+  "value": 12688000.0,
+  "signed": "2022-04-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ECE, energetska družba, d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "6064892000",
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000967/2022-C01/POG-209650",
+  "published": "2022-04-26",
+  "files": [
+   {
+    "name": "OKVIRNA SPORAZUMA.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwOTY1MDtPS1ZJUk5BIFNQT1JBWlVNQS56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

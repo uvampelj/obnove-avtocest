@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324427,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956327,
+  "idDosje": 525491,
+  "title": "Vzdrževanje internetne požarne pregrade CheckPoint",
+  "procurement": "Vzdrževanje internetne požarne pregrade CheckPoint",
+  "kind": 2,
+  "value": 201993.68,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2029-02-04",
+  "number": "001230/2025",
+  "contractors": [
+   "Kontron SI, sistemske integracije, d.o.o."
+  ],
+  "contractor_ids": [
+   "9750681000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006943/2025-POG/01",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "Podpisana pogodba Kontron SI red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNTk1O1BvZHBpc2FuYSBwb2dvZGJhIEtvbnRyb24gU0kgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

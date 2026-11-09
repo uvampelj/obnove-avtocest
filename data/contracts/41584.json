@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 41584,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 648365,
+  "idDosje": 45534,
+  "title": "Dobava pomožnih materialov",
+  "procurement": "Dobava pomožnih materialov",
+  "kind": 2,
+  "value": 490000.8,
+  "signed": "2016-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003720/2016-C01/POG-41584",
+  "published": "2016-07-14",
+  "files": [
+   {
+    "name": "pogodba Imexa.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQxNTg0O3BvZ29kYmEgSW1leGEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

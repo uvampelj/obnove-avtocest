@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 104183,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 675528,
+  "idDosje": 244743,
+  "title": "Servisiranje ter dobava nadomestnih delov in ročnega orodja Hilti, Makita, Stihl in Husquarna",
+  "procurement": "Hilti,Makita",
+  "kind": 2,
+  "value": 185595.25,
+  "signed": "2018-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HILTI SLOVENIJA, trgovsko podjetje, d.o.o.",
+   "ELEKTROSERVIS POVŠE, servis, trgovina in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5640849000",
+   "7061005000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001257/2018-C01/POG-104183",
+  "published": "2018-07-23",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1559, 1560-2018.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE4MztQb2dvZGJhIERBUlMgxaF0LiAxNTU5LCAxNTYwLTIwMTguemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

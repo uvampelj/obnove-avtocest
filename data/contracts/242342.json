@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 242342,
+  "type": "DOD",
+  "prev": 189818,
+  "idObrazec": 777329,
+  "idDosje": 383068,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1034/2021: Sanacija sistema Klic v sili (KVS): AC Golovec - priključek Trebnje zahod",
+  "procurement": "Sanacija sistema Klic v sili (KVS): AC Golovec - priključek Trebnje zahod",
+  "kind": 3,
+  "value": 19382.64,
+  "signed": "2023-06-07",
+  "from": "2023-06-07",
+  "to": "2023-07-07",
+  "number": "753/2023",
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000222/2021-C01/DOD-242342",
+  "published": "2023-07-05",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NDkxNTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

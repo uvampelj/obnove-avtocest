@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 158903,
+  "type": "DOD",
+  "prev": 116538,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi 2121/2018 za Dograditev hladilnega agregata in sanacija obstoječih hladilnih agregatov v objektu nadzornega centra Dragomelj; nominacija podizvajalca",
+  "procurement": "Aneks št. 1 k pogodbi 2121/2018 za Dograditev hladilnega agregata in sanacija obstoječih hladilnih agregatov v objektu nadzornega centra Dragomelj; nominacija podizvajalca",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-08-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-08-20",
+  "files": [
+   {
+    "name": "aneks 1 k pog 2121-2018 - podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1ODkwMzthbmVrcyAxIGsgcG9nIDIxMjEtMjAxOCAtIHBvZHBpc2FuLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

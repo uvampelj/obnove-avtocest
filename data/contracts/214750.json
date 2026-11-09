@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 214750,
+  "type": "DOD",
+  "prev": 158311,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 1305/2020",
+  "procurement": "Aneks št. 2 k pog. DARS št. 1305/2020",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INTEGRAL AVTO prodaja, servisi in tehnični pregledi vozil d.o.o. Jesenice"
+  ],
+  "contractor_ids": [
+   "2159708000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-06-23",
+  "files": [
+   {
+    "name": "Aneks št. 2, DARS št. 972-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNDc1MDtBbmVrcyDFoXQuIDIsIERBUlMgxaF0LiA5NzItMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

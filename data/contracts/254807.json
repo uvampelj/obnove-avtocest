@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254807,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765519,
+  "idDosje": 492157,
+  "title": "Sklop 3 - Mulčarji Irus",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 79422.0,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2025-12-20",
+  "number": "001500/2023",
+  "contractors": [
+   "GRIČ - TRGOVINA IN SERVIS KMETIJSKIH STROJEV JOŽE SMOLIČ S.P."
+  ],
+  "contractor_ids": [
+   "5496439000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005994/2023-C01/POG-254807",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Pogodba - GRIČ, JOŽE SMOLIČ_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQ3NjtQb2dvZGJhIC0gR1JJxIwsIEpPxb1FIFNNT0xJxIxfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

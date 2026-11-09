@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 137478,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 693889,
+  "idDosje": 320120,
+  "title": "Najem Microsoftovih licenc",
+  "procurement": "Najem Microsoftovih licenc",
+  "kind": 1,
+  "value": 1762036.8,
+  "signed": "2019-10-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Comtrade programske rešitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3281841000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005610/2019-C01/POG-137478",
+  "published": "2019-10-25",
+  "files": [
+   {
+    "name": "Pogodba 1506-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNzQ3ODtQb2dvZGJhIDE1MDYtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

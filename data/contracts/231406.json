@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 231406,
+  "type": "DOD",
+  "prev": 142274,
+  "idObrazec": 773157,
+  "idDosje": 312535,
+  "title": "Aneks št. 4  k pogodbi DARS št. 1630/2019: Izdelava projektne dokumentacije IZP, DGD in PZI za ureditev prostorov Centra za operativno upravljanje cestnega prometa Ljubljana",
+  "procurement": "Izdelava projektne dokumentacije IZP, DGD in PZI za ureditev prostorov Centra za operativno upravljanje cestnega prometa Ljubljana",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-01-18",
+  "from": "2023-01-18",
+  "to": "2023-01-18",
+  "number": null,
+  "contractors": [
+   "ING.KLAN podjetje za inženiring, proizvodnjo, trgovino in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5981395000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004058/2019-X01/DOD-231406",
+  "published": "2023-02-16",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjQxOTtBbmVrcy00LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

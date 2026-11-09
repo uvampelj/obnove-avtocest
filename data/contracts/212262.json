@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 212262,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 736978,
+  "idDosje": 436261,
+  "title": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "procurement": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "kind": 1,
+  "value": 166067.86,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T SLOVENIJA, informacijske rešitve in storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000991/2022-X01/POG-212262",
+  "published": "2022-06-02",
+  "files": [
+   {
+    "name": "POGODBA 877-2022 _UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMjI2MjtQT0dPREJBIDg3Ny0yMDIyIF9VTC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165873,
+  "type": "DOD",
+  "prev": 87549,
+  "idObrazec": 770158,
+  "idDosje": 215049,
+  "title": "aneks št. 2 k pog. DARS št. 835/2017: PROMETNA UREDITEV ZA VZPOSTAVITEV ELEKTRONSKEGA SISTEMA CESTNINJENJA V PROSTEM PROMETNEM TOKU - dodatna dela in podaljšanje roka za izdajo Potrdila o izvedbi",
+  "procurement": "PROMETNA UREDITEV ZA VZPOSTAVITEV ELEKTRONSKEGA SISTEMA CESTNINJENJA V PROSTEM PROMETNEM TOKU",
+  "kind": 3,
+  "value": 67721.79,
+  "signed": "2019-08-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006958/2017-C01/DOD-165873",
+  "published": "2020-11-15",
+  "files": [
+   {
+    "name": "Aneks št.2 k pog.št.835-2017-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTg3MztBbmVrcyDFoXQuMiBrIHBvZy7FoXQuODM1LTIwMTctb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

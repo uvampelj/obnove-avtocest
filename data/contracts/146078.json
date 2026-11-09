@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 146078,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 698483,
+  "idDosje": 333270,
+  "title": "Izvajanje deratizacije na lokacijah DARS d.d.",
+  "procurement": "Izvajanje deratizacije na lokacijah DARS d.d.",
+  "kind": 1,
+  "value": 23542.5,
+  "signed": "2020-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ROMIT, poslovno svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "6202527000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008150/2019-X01/POG-146078",
+  "published": "2020-02-10",
+  "files": [
+   {
+    "name": "pogodba 348-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NjA3ODtwb2dvZGJhIDM0OC0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

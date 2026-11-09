@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 94566,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670947,
+  "idDosje": 232258,
+  "title": "IZDELAVA INDIVIDUALNIH SANACIJSKIH NAČRTOV POSAMEZNIH KMETIJSKIH GOSPODARSTEV ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AC A1 ŠENTILJ-KOPER DO PRIKLJUČKA VELENJE JUG",
+  "procurement": "IZDELAVA INDIVIDUALNIH SANACIJSKIH NAČRTOV POSAMEZNIH KMETIJSKIH GOSPODARSTEV ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AVTOCESTI A1 ŠENTILJ - KOPER DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 102120.0,
+  "signed": "2018-02-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009716/2017-X01/POG-94566",
+  "published": "2018-03-19",
+  "files": [
+   {
+    "name": "Pogodba-Drago Cerovšek s.p..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0NTY2O1BvZ29kYmEtRHJhZ28gQ2Vyb3bFoWVrIHMucC4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120269,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683551,
+  "idDosje": 280021,
+  "title": "PROJEKTNO DOKUMENTACIJO PZI ZA ZAMENJAVO KAŽIPOTNE SIGNALIZACIJE NA 16. PRIKLJUČKIH AC A1",
+  "procurement": "PROJEKTNO DOKUMENTACIJO PZI ZA ZAMENJAVO KAŽIPOTNE SIGNALIZACIJE NA 16. PRIKLJUČKIH AC A1",
+  "kind": 1,
+  "value": 180560.0,
+  "signed": "2019-01-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007399/2018-X01/POG-120269",
+  "published": "2019-02-12",
+  "files": [
+   {
+    "name": "Pogodba -Provia.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDI2OTtQb2dvZGJhIC1Qcm92aWEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

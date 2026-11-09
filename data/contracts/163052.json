@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 163052,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 709410,
+  "idDosje": 360734,
+  "title": "SERVISIRANJE STABILNIH GASILNIH SISTEMOV ZARJA ELEKTRONIKA",
+  "procurement": "SERVISIRANJE STABILNIH GASILNIH SISTEMOV ZARJA ELEKTRONIKA",
+  "kind": 1,
+  "value": 79903.9,
+  "signed": "2020-10-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZARJA ELEKTRONIKA proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o."
+  ],
+  "contractor_ids": [
+   "5521475000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004669/2020-C01/POG-163052",
+  "published": "2020-10-13",
+  "files": [
+   {
+    "name": "Pogodbe 1434-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MzA1MjtQb2dvZGJlIDE0MzQtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

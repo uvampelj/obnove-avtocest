@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72807,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660290,
+  "idDosje": 187841,
+  "title": "Zakup optičnih vlaken do Dunajske 7, Ljubljana",
+  "procurement": "Zakup optičnih vlaken do Dunajske 7, Ljubljana",
+  "kind": 1,
+  "value": 11126.4,
+  "signed": "2017-06-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Telemach d.o.o."
+  ],
+  "contractor_ids": [
+   "5692229000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001044/2017-X01/POG-72807",
+  "published": "2017-06-15",
+  "files": [
+   {
+    "name": "Pogodba 492-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyODA3O1BvZ29kYmEgNDkyLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

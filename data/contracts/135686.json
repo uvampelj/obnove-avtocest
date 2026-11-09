@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 135686,
+  "type": "DOD",
+  "prev": 77896,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneksa št. 1 k pogodbi DARS št. 614/2017 »Vzdrževanje klimatskih in prezračevalnih naprav«. ",
+  "procurement": "aneksa št. 1 k pogodbi DARS št. 614/2017 »Vzdrževanje klimatskih in prezračevalnih naprav«. ",
+  "kind": 1,
+  "value": 122000.0,
+  "signed": "2019-10-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-10-08",
+  "files": [
+   {
+    "name": "aneks 1 - 1467-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNTY4NjthbmVrcyAxIC0gMTQ2Ny0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

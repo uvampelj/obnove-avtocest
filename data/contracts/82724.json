@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 82724,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "IZDELAVA PZI ZA REKONSTRUKCIJO CESTE IN OBJEKTOV NA ODSEKIH NA A1/0042 IN 0642 ŠENTRUPERT – VRANSKO OD KM 1,470 DO KM 5,500",
+  "procurement": "IZDELAVA PZI ZA REKONSTRUKCIJO CESTE IN OBJEKTOV NA ODSEKIH NA A1/0042 IN 0642 ŠENTRUPERT – VRANSKO OD KM 1,470 DO KM 5,500",
+  "kind": 1,
+  "value": 115595.0,
+  "signed": "2017-09-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-10-10",
+  "files": [
+   {
+    "name": "Pogodba-Elea iC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgyNzI0O1BvZ29kYmEtRWxlYSBpQy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 198596,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 728832,
+  "idDosje": 413246,
+  "title": "Celovita izvedba marketinško-komunikacijskih aktivnosti pri prehodu na e-vinjeto",
+  "procurement": "Celovita izvedba marketinško-komunikacijskih aktivnosti pri prehodu na e-vinjeto",
+  "kind": 1,
+  "value": 386000.0,
+  "signed": "2021-11-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRISTOP družba za komunikacijski management d.o.o."
+  ],
+  "contractor_ids": [
+   "2038943000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005988/2021-C01/POG-198596",
+  "published": "2021-11-29",
+  "files": [
+   {
+    "name": "podpisana pogodba 1270-2021 - brez os podatkov.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5ODU5Njtwb2RwaXNhbmEgcG9nb2RiYSAxMjcwLTIwMjEgLSBicmV6IG9zIHBvZGF0a292LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

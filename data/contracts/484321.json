@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 484321,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1197901,
+  "idDosje": 623735,
+  "title": "Dobava in montaža štirih zalogovnikov in pripadajočo opremo za hrambo raztopin kloridov",
+  "procurement": "Dobava in montaža štirih zalogovnikov in pripadajočo opremo za hrambo raztopin kloridov",
+  "kind": 2,
+  "value": 472797.82,
+  "signed": "2026-09-22",
+  "from": "2026-09-22",
+  "to": "2027-02-22",
+  "number": "000972/2026",
+  "contractors": [
+   "IMP, d.d., družba za svetovanje, projektiranje, inženiring in gradnjo"
+  ],
+  "contractor_ids": [
+   "5077940000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004198/2026-POG/01",
+  "published": "2026-09-25",
+  "files": [
+   {
+    "name": "Pogodba 972-2026 r.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM2MjM1O1BvZ29kYmEgOTcyLTIwMjYgci5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

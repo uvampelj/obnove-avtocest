@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 303713,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 896777,
+  "idDosje": 516721,
+  "title": "Sklop 3: Servisiranje in dobava rezervnih delov za merilce slanosti proizvajalca Avera d.o.o.  ",
+  "procurement": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA MULČERJE, VILIČARJE IN MERILCE SLANOSTI",
+  "kind": 1,
+  "value": 104310.0,
+  "signed": "2025-03-10",
+  "from": "2025-03-10",
+  "to": "2028-06-10",
+  "number": "000385/2025",
+  "contractors": [
+   "AVERA proizvodnja, trgovina, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2295784000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008829/2024-POG/02",
+  "published": "2025-03-17",
+  "files": [
+   {
+    "name": "Pogodba - Avera_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUyNDk5O1BvZ29kYmEgLSBBdmVyYV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

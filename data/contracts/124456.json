@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124456,
+  "type": "DOD",
+  "prev": 113071,
+  "idObrazec": 771408,
+  "idDosje": 265280,
+  "title": " Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 2,700 do km 10,400",
+  "procurement": " Izdelava Izvedbenega načrta za preplastitev voziščne konstrukcije odseka na AC A2 0028 in 0628 Drnovo-Brežice od km 2,700 do km 10,400",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004927/2018-X01/DOD-124456",
+  "published": "2019-04-11",
+  "files": [
+   {
+    "name": "Aneks št.1 (1).pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDQ1NjtBbmVrcyDFoXQuMSAoMSkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

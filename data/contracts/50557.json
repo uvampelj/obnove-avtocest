@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 50557,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 651798,
+  "idDosje": 45140,
+  "title": "Vzdrževanje video nadzornega in video detekcijskega omrežja, Sklo V - tehnološko ethernet omrežje",
+  "procurement": "Tehnološko ethernet omrežje",
+  "kind": 1,
+  "value": 62020.19,
+  "signed": "2016-09-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SMART COM d.o.o."
+  ],
+  "contractor_ids": [
+   "5315727000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006279/2016-C01/POG-50557",
+  "published": "2016-10-19",
+  "files": [
+   {
+    "name": "pogodba778_2016 SmartCom.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUwNTU3O3BvZ29kYmE3NzhfMjAxNiBTbWFydENvbS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 125889,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687130,
+  "idDosje": 299945,
+  "title": "Popravilo nadgradenj Cappellotto",
+  "procurement": "Popravilo nadgradenj Cappellotto",
+  "kind": 1,
+  "value": 248880.0,
+  "signed": "2019-04-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VERTEKS TG tiskarstvo, proizvodnja, trgovina, promet in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2312760000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001299/2019-X01/POG-125889",
+  "published": "2019-05-07",
+  "files": [
+   {
+    "name": "pogodba 673-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTg4OTtwb2dvZGJhIDY3My0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

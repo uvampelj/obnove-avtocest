@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 343269,
+  "type": "DOD",
+  "prev": 267901,
+  "idObrazec": 988975,
+  "idDosje": 501747,
+  "title": "Aneks št. 2 k pogodbi DARS, d. d., št. 618/2024 za izdelavo projektne dokumentacije DPP, DGD in PZI za obnovo cestninske postaje in izpostave Dob",
+  "procurement": "Izdelava projektne dokumentacije DPP, DGD in PZI za obnovo cestninske postaje in izpostave Dob",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-01-12",
+  "from": "2026-01-12",
+  "to": "2026-02-14",
+  "number": "000618/2024",
+  "contractors": [
+   "KOSTAK GIP gradnje, inženiring,projektiranje d.o.o.",
+   "PRO-ELEKT, projektiranje električnih inštalacij, inženiring in tehnično svetovanje, d.o.o.",
+   "Inženirski biro Gašparič, Aleš Gašparič s.p., projektiranje in svetovanje"
+  ],
+  "contractor_ids": [
+   "3811107000",
+   "3977943000",
+   "8170371000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "008205/2023-POG/01-D02",
+  "published": "2026-02-09",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM4Nzk4O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

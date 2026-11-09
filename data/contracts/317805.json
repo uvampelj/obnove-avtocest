@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 317805,
+  "type": "DOD",
+  "prev": 170816,
+  "idObrazec": 937135,
+  "idDosje": 378812,
+  "title": "Aneks 1, DARS št. 1015/2025 k pogodbi DARS št. 45/2021",
+  "procurement": "Mesečna naročnina na storitev SLEDAT",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-08-18",
+  "from": null,
+  "to": null,
+  "number": "45/2021",
+  "contractors": [
+   "USCOM, telekomunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1882414000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007569/2020-C01/POG-170816-D01",
+  "published": "2025-08-25",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 1015-2025 k pog. DARS št. 45-2021_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk1MjczO0FuZWtzIDEsIERBUlMgxaF0LiAxMDE1LTIwMjUgayBwb2cuIERBUlMgxaF0LiA0NS0yMDIxX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

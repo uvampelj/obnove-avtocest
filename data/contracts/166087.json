@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166087,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711024,
+  "idDosje": 369445,
+  "title": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju OMV",
+  "procurement": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju OMV",
+  "kind": 1,
+  "value": 2342400.0,
+  "signed": "2020-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o."
+  ],
+  "contractor_ids": [
+   "5540739000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006123/2020-C01/POG-166087",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "POGODBA OMV  za objavo UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjA4NztQT0dPREJBIE9NViAgemEgb2JqYXZvIFVMLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

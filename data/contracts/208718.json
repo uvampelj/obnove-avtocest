@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 208718,
+  "type": "DOD",
+  "prev": 161115,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1200/2020: Obnova ceste in objektov AC A5 – 0810/0910 Vučja vas-Murska Sobota od km 5.494 do km 6.590, 0175 priključek Murska Sobota, 0811/0911 Murska Sobota-Lipovci od km 0.000 do km 3.789, 0176 priključek Lipovci in 0812/0912 Lipovci-Turnišče od km 0.000 do km 0.725 ",
+  "procurement": "OBNOVA CESTE IN OBJEKTOV AC A5 – 0810/0910 VUČJA VAS-MURSKA SOBOTA OD KM 5.494 DO KM 6.590, 0175 PRIKLJUČEK MURSKA SOBOTA, 0811/0911 MURSKA SOBOTA-LIPOVCI OD KM 0.000 DO KM 3.789, 0176 PRIKLJUČEK LIPOVCI IN 0812/0912 LIPOVCI-TURNIŠČE OD KM 0.000 DO KM 0.725",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2022-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-04-12",
+  "files": [
+   {
+    "name": "Aneks-1_Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwODcxODtBbmVrcy0xX1BvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

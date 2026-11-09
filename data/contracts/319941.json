@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 319941,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 943001,
+  "idDosje": 522930,
+  "title": "Poslovni najem vozil z nizkimi emisijami: SKLOP 6 - Terensko vozilo, 4x4, vsaj 170 kW in SKLOP 10 - Kombi za prevoz oseb, vsaj 180 kW",
+  "procurement": "Poslovni najem vozil z nizkimi emisijami",
+  "kind": 2,
+  "value": 299180.38,
+  "signed": "2025-08-25",
+  "from": "2025-08-25",
+  "to": "2034-06-25",
+  "number": "001030/2025",
+  "contractors": [
+   "Mobilia, poslovni najem vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "9657967000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004757/2025-POG/01",
+  "published": "2025-09-16",
+  "files": [
+   {
+    "name": "R_Pogodba 1030-2025 MOBILIA S6 S10.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk5OTcxO1JfUG9nb2RiYSAxMDMwLTIwMjUgTU9CSUxJQSBTNiBTMTAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

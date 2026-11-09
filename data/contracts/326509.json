@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 326509,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 962388,
+  "idDosje": 525592,
+  "title": "Dobava PVC vreč",
+  "procurement": "Dobava PVC vreč",
+  "kind": 2,
+  "value": 60960.35,
+  "signed": "2025-11-28",
+  "from": "2025-12-13",
+  "to": "2028-12-13",
+  "number": "001296/2025",
+  "contractors": [
+   "PIRMIT predelava in reciklaža plastike d.o.o."
+  ],
+  "contractor_ids": [
+   "1701134000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007023/2025-POG/01",
+  "published": "2025-11-28",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1296-2025_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDE1NDk4O1BvZ29kYmEgREFSUyDFoXQuIDEyOTYtMjAyNV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 328705,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 968886,
+  "idDosje": 525941,
+  "title": "DOBAVA OPREME ZA DELAVNICE TER VZDRŽEVANJE",
+  "procurement": "DOBAVA OPREME ZA DELAVNICE TER VZDRŽEVANJE",
+  "kind": 2,
+  "value": 34497.28,
+  "signed": "2025-12-19",
+  "from": "2025-12-19",
+  "to": "2026-09-19",
+  "number": "001503/2025",
+  "contractors": [
+   "Karcher trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "8020230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007335/2025-POG/02",
+  "published": "2025-12-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba Karcher r.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwNjI1O1BvZHBpc2FuYSBwb2dvZGJhIEthcmNoZXIgci5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

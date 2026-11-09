@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91664,
+  "type": "DOD",
+  "prev": 44168,
+  "idObrazec": 768180,
+  "idDosje": 46076,
+  "title": "IZVEDBA UREDITVE PROMETNE SIGNALIZACIJE Z ZNAKI SPREMENLJIVE VSEBINE NA AC POSTOJNA-SENOŽEČE IN IMPLEMENTACIJA V OBSTOJEČI SNVP",
+  "procurement": "IZVEDBA UREDITVE PROMETNE SIGNALIZACIJE Z ZNAKI SPREMENLJIVE VSEBINE NA AC POSTOJNA-SENOŽEČE IN IMPLEMENTACIJA V OBSTOJEČI SNVP",
+  "kind": 3,
+  "value": 16681.98,
+  "signed": "2017-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, d.d."
+  ],
+  "contractor_ids": [
+   "5185726000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004418/2016-C01/DOD-91664",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.št.582-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjY0O0FuZWtzIMWhdC4xIGsgcG9nLsWhdC41ODItMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

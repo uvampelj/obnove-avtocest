@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295430,
+  "type": "DOD",
+  "prev": 224319,
+  "idObrazec": 876996,
+  "idDosje": 454799,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1316/2022 za Vzdrževanje požarne pregrade Check Point",
+  "procurement": "Vzdrževanje požarne pregrade Check Point",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2024-12-05",
+  "from": "2022-10-19",
+  "to": "2026-01-19",
+  "number": "001316/2022",
+  "contractors": [
+   "S&T Iskratel, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005699/2022-X01/POG-224319-D01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Aneks-1-k-1316-2022_250-2024_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NDY1O0FuZWtzLTEtay0xMzE2LTIwMjJfMjUwLTIwMjRfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

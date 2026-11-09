@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316057,
+  "type": "DOD",
+  "prev": 289651,
+  "idObrazec": 931806,
+  "idDosje": 512125,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1046/2024 za Študijo obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0041, 0042 Arja vas – Vransko",
+  "procurement": "Študija obremenitve s hrupom s predlogom protihrupne zaščite na AC A1 za odseka 0041, 0042 Arja vas – Vransko",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-08",
+  "from": "2025-07-08",
+  "to": "2025-12-16",
+  "number": "001046/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005035/2024-POG/01-D01",
+  "published": "2025-07-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxMDYxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

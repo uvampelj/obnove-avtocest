@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 101228,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 674426,
+  "idDosje": 213540,
+  "title": "Nadzor kakovosti storitev v fazi delovanja ECS",
+  "procurement": "Nadzor kakovosti storitev v fazi delovanja ECS",
+  "kind": 1,
+  "value": 3640070.84,
+  "signed": "2018-06-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGI IT Czech Republic s.r.o."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006889/2017-C01/POG-101228",
+  "published": "2018-06-18",
+  "files": [
+   {
+    "name": "pogodba 1536-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMTIyODtwb2dvZGJhIDE1MzYtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

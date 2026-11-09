@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53712,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652339,
+  "idDosje": 51801,
+  "title": "Pogodba za izdelavo projektne dokumentacije PGD in PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "procurement": "Izdelava projektne dokumentacije PGD in PZI za avtocestni odsek Koseze - Kozarje (razširitev v šestpasovnico)",
+  "kind": 1,
+  "value": 563531.3,
+  "signed": "2016-10-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN006301/2016-C01/POG-53712",
+  "published": "2016-11-09",
+  "files": [
+   {
+    "name": "pogodba 13_2016_PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzNzEyO3BvZ29kYmEgMTNfMjAxNl9QTloucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

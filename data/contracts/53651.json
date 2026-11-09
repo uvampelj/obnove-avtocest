@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53651,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652304,
+  "idDosje": 165232,
+  "title": "Vzdrževanje stenskih prikazovalnikov BARCO",
+  "procurement": "Vzdrževanje stenskih prikazovalnikov BARCO",
+  "kind": 1,
+  "value": 91963.6,
+  "signed": "2016-11-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MICOS d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5358345000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004535/2016-X01/POG-53651",
+  "published": "2016-11-08",
+  "files": [
+   {
+    "name": "pogodba 871-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzNjUxO3BvZ29kYmEgODcxLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

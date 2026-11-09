@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 86000,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666409,
+  "idDosje": 218104,
+  "title": "Generalno popravilo vozil in opreme",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana,ACB Hrušica,ACB Maribor,ACB Kozina,ACB Vransko,ACB Novo mesto",
+  "kind": 1,
+  "value": 74249.2,
+  "signed": "2017-11-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTOMEHANIKA AVSENIK, Servis gospodarskih in osebnih vozil d.o.o.",
+   "PRO AVTO NOVAK antikorozijska zaščita in servis vozil d.o.o."
+  ],
+  "contractor_ids": [
+   "1625829000",
+   "1722344000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007424/2017-X01/POG-86000",
+  "published": "2017-11-29",
+  "files": [
+   {
+    "name": "Pogodbi 952-953-2007.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg2MDAwO1BvZ29kYmkgOTUyLTk1My0yMDA3LnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

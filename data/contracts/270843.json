@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 270843,
+  "type": "DOD",
+  "prev": 256121,
+  "idObrazec": 825241,
+  "idDosje": 492545,
+  "title": "Aneks št. 1 k pogodbi št. 000014/2024: Čiščenje sanitarnih objektov in površin počivališča Lopata–jug, 2. faza, Grabonoš–sever, 2. faza in Murska Sobota–sever, 2. faza Sklop 2: Čiščenje platoja in javnega sanitarnega objekta in površin počivališču Grabonoš - sever, II.",
+  "procurement": "Čiščenje sanitarnih objektov in površin počivališča Lopata-jug, 2. faza, Grabonoš-sever, 2. faza in Murska Sobota-sever, 2. faza",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-07-03",
+  "from": "2024-07-03",
+  "to": "2028-02-08",
+  "number": "000014/2024",
+  "contractors": [
+   "RINO, trgovina in ostale storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1510274000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006113/2023-C01/POG-256121-D01",
+  "published": "2024-07-04",
+  "files": [
+   {
+    "name": "Aneks podpisan109_24_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkzMTM4O0FuZWtzIHBvZHBpc2FuMTA5XzI0X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

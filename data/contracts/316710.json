@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316710,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933896,
+  "idDosje": 518990,
+  "title": "Sklop 11 - Lahko tovorno vozilo, skupne mase 3,5t - dolga kabina, s signalno tablo na kesonu (LV 5)",
+  "procurement": "Dobava preglednih in vozil za nadzor del",
+  "kind": 2,
+  "value": 440847.0,
+  "signed": "2025-07-15",
+  "from": "2025-07-15",
+  "to": "2027-06-15",
+  "number": "000925/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001403/2025-POG/08",
+  "published": "2025-08-08",
+  "files": [
+   {
+    "name": "pogodba sklop 11_st 925-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyNzEzO3BvZ29kYmEgc2tsb3AgMTFfc3QgOTI1LTIwMjUgUkVEIC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

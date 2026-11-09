@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 318765,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 939727,
+  "idDosje": 520625,
+  "title": "Vzdrževanje silosov – Obrtniška dela, sklop 3: Ljubljana, Hrušica",
+  "procurement": "Vzdrževanje silosov – Obrtniška dela",
+  "kind": 2,
+  "value": 125754.55,
+  "signed": "2025-08-29",
+  "from": "2025-08-29",
+  "to": "2028-11-29",
+  "number": "001049/2025",
+  "contractors": [
+   "FISTIN, družba za opravljanje storitev, d.o.o."
+  ],
+  "contractor_ids": [
+   "1721887000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002771/2025-POG/03",
+  "published": "2025-09-03",
+  "files": [
+   {
+    "name": "Pogodba sklop 3 FISTIN 1049-2025 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk3MzE3O1BvZ29kYmEgc2tsb3AgMyBGSVNUSU4gMTA0OS0yMDI1IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

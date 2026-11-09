@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 313959,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 925698,
+  "idDosje": 520007,
+  "title": "P O G O D B A za Aplikativna podpora za vodenje in obravnavo zahtevkov po ZUP",
+  "procurement": "Aplikativna podpora za vodenje in obravnavo zahtevkov po ZUP",
+  "kind": 1,
+  "value": 360217.2,
+  "signed": "2025-07-01",
+  "from": "2025-07-01",
+  "to": "2031-08-01",
+  "number": "000884/2025",
+  "contractors": [
+   "AVTENTA, napredne poslovne rešitve, d.o.o.",
+   "MARGIS, inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5925975000",
+   "2010992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002275/2025-POG/01",
+  "published": "2025-07-08",
+  "files": [
+   {
+    "name": "Pogodba 49_2025_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg2MTMyO1BvZ29kYmEgNDlfMjAyNV9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

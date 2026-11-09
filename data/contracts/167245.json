@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167245,
+  "type": "DOD",
+  "prev": 120516,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 2024/2018: Rekonstrukcija ceste in objektov na odsekih na A1/0042 in 0642 Šentrupert – Vransko od km 1,470 do km 5,500 - dodatna dela, manj dela, sprememba pogodbenih rokov in vključitev naknadno nominiranih podizvajalcev",
+  "procurement": "REKONSTRUKCIJA CESTE IN OBJEKTOV NA ODSEKIH NA A1/0042 IN 0642 ŠENTRUPERT VRANSKO OD KM 1,470 DO KM 5,500",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-07-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-02",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.2024-18_1278-20-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI0NTtBbmVrcyDFoXQuMSBrIHBvZy4yMDI0LTE4XzEyNzgtMjAtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 267995,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 815749,
+  "idDosje": 506403,
+  "title": "Nabava električne energije za obdobje od 1. 6. 2024 – 31. 12. 2025",
+  "procurement": "Nabava električne energije za obdobje od 1. 6. 2024 – 31. 12. 2027",
+  "kind": 2,
+  "value": 4238588.66,
+  "signed": "2024-05-16",
+  "from": "2024-06-01",
+  "to": "2026-03-31",
+  "number": "000622/2024",
+  "contractors": [
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1587714000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000580/2024-POG/02",
+  "published": "2024-05-24",
+  "files": [
+   {
+    "name": "Pogodba 622-2024_GEN-I_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg1NjA1O1BvZ29kYmEgNjIyLTIwMjRfR0VOLUlfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

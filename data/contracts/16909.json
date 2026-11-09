@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16909,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636776,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB POSTOJNA",
+  "kind": 1,
+  "value": 48155.29,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Trgo ABC d.o.o."
+  ],
+  "contractor_ids": [
+   "5373077000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16909",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba Trgo ABC d.o.o. - 547-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTA5O1BvZ29kYmEgVHJnbyBBQkMgZC5vLm8uIC0gNTQ3LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

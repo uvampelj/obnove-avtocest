@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 249009,
+  "type": "DOD",
+  "prev": 201647,
+  "idObrazec": 778826,
+  "idDosje": 405363,
+  "title": "Aneks št. 1 k pogodbi DARS št. 21/2022za Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+  "procurement": "Obnova protihrupnih ograj na AC A1 0644 Blagovica-Krtina, HC H4 0776 Ajdovščina-Selo ter 0778 Selo-Vogrsko, HC H2 0032 Pesnica-Maribor in AC A2 0602 Hrušica-Lipce",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-09-08",
+  "from": "2023-09-08",
+  "to": "2024-07-05",
+  "number": "962/2023",
+  "contractors": [
+   "DELTABLOC, varnostne in protihrupne ograje d.o.o."
+  ],
+  "contractor_ids": [
+   "7184590000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004605/2021-C01/DOD-249009",
+  "published": "2023-10-06",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MjI0NztBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

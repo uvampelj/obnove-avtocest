@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 95825,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 106/07 za izvedbo izdelave PGD, PZI in PZR projektne dokumentacije za Navezavo Luke Koper na AC omrežje – Srminska vpadnica",
+  "procurement": "Aneks št. 1 k pogodbi DARS št. 106/07 za dodatna in več dela, dogovora plačila razlike v stopnji DDV,podaljšanja pogodbenega roka in spremembe zavarovanja za dobro izvedbo del pri izvedbi izdelave PGD, PZI in PZR projektne dokumentacije za Navezavo Luke Koper na AC omrežje – Srminska vpadnica",
+  "kind": 1,
+  "value": 25006.44,
+  "signed": "2018-04-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-09",
+  "files": [
+   {
+    "name": "106_07_A1_1310_2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1ODI1OzEwNl8wN19BMV8xMzEwXzIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

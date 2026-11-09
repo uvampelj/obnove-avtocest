@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 176065,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716818,
+  "idDosje": 380521,
+  "title": "Servisiranje visokotlačnih čistilcev",
+  "procurement": "Servisiranje visokotlačnih čistilcev",
+  "kind": 1,
+  "value": 237198.5,
+  "signed": "2021-02-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GITAS, proizvodno in trgovsko podjetje, Kranj, d.o.o."
+  ],
+  "contractor_ids": [
+   "5613442000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007927/2020-X01/POG-176065",
+  "published": "2021-03-11",
+  "files": [
+   {
+    "name": "Pogodba 260-2020 _UL_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjA2NTtQb2dvZGJhIDI2MC0yMDIwIF9VTF8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

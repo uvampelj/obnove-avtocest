@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 241145,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 755545,
+  "idDosje": 472281,
+  "title": "Sklop 2 - Servisiranje vozil MAN",
+  "procurement": "SERVISIRANJE TOVORNIH VOZIL",
+  "kind": 1,
+  "value": 158331.6,
+  "signed": "2023-06-12",
+  "from": "2023-06-12",
+  "to": "2025-06-12",
+  "number": "000765/2023",
+  "contractors": [
+   "PRIGO podjetje za transport, gradbeništvo in trgovino, d.o.o., Brezovica"
+  ],
+  "contractor_ids": [
+   "5460271000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001089/2023-C01/POG-241145",
+  "published": "2023-06-19",
+  "files": [
+   {
+    "name": "Pogodba PRIGO_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MzU5NDtQb2dvZGJhIFBSSUdPX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

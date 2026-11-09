@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 87553,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667223,
+  "idDosje": 225118,
+  "title": "NOVELACIJA PROJEKTNE DOKUMENTACIJE PZI ZA GC ŽELODNIK - MENGEŠ - VODICE, ODSEK OBVOZNICA MENGEŠ ( 1 . FAZA), PODODSEK KROŽIŠČE NA KAMNIŠKI CESTI (KM 6.680) - NAVEZAVA NA OBSTOJEČO GC ( KM 8.520)",
+  "procurement": "NOVELACIJA PROJEKTNE DOKUMENTACIJE PZI ZA GC ŽELODNIK - MENGEŠ - VODICE, ODSEK OBVOZNICA MENGEŠ ( 1 . FAZA), PODODSEK KROŽIŠČE NA KAMNIŠKI CESTI (KM 6.680) - NAVEZAVA NA OBSTOJEČO GC ( KM 8.520)",
+  "kind": 1,
+  "value": 37350.01,
+  "signed": "2017-11-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5077923000",
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008671/2017-C01/POG-87553",
+  "published": "2017-12-27",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg3NTUzO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

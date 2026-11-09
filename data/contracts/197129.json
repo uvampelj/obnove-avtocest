@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197129,
+  "type": "DOD",
+  "prev": 53128,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1506/2019 - Najem Microsoftovih licenc",
+  "procurement": "Najem Microsoftovih licenc",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-11-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Comtrade SI Sistemske Integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "8371741000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-11-05",
+  "files": [
+   {
+    "name": "aneks R 1245-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NzEyOTthbmVrcyBSIDEyNDUtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

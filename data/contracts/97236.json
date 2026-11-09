@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 97236,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 672593,
+  "idDosje": 239581,
+  "title": "Dobava prometne opreme",
+  "procurement": "Dobava prometne opreme",
+  "kind": 2,
+  "value": 896242.5,
+  "signed": "2018-04-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ULTIMA podjetje za proizvodnjo, trgovino in zastopanje, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5553482000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000410/2018-C01/POG-97236",
+  "published": "2018-04-25",
+  "files": [
+   {
+    "name": "Pogodba Ultima.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk3MjM2O1BvZ29kYmEgVWx0aW1hLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

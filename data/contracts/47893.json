@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 47893,
+  "type": "DOD",
+  "prev": 29366,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 14/2016",
+  "procurement": " Izdelava PGD in PZI projektne dokumentacije za izgradnjo vzhodne cevi in sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-09-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-09-15",
+  "files": [
+   {
+    "name": "Dodatek 749-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ3ODkzO0RvZGF0ZWsgNzQ5LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

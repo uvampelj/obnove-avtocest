@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120528,
+  "type": "DOD",
+  "prev": 100283,
+  "idObrazec": 770676,
+  "idDosje": 241529,
+  "title": "Izvedba predhodnih arheoloških raziskav za določitev vsebine in sestave najdišč na arheoloških območjih na 1. in 2. etapi nove prometne povezave med AC A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "procurement": "Izvedba predhodnih arheoloških raziskav za določitev vsebine in sestave najdišč na arheoloških območjih na 1. in 2. etapi nove prometne povezave med AC A2 Ljubljana-Obrežje pri Novem mestu do priključka Maline",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ARHOS, storitve na področju kulture, d.o.o."
+  ],
+  "contractor_ids": [
+   "3527816000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000590/2018-X01/DOD-120528",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "aneks-1-300-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUyODthbmVrcy0xLTMwMC0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 90526,
+  "type": "DOD",
+  "prev": 45683,
+  "idObrazec": 768269,
+  "idDosje": 46869,
+  "title": "Rekonstr. VK in objektov na A1/0041 Arja vas-Šentrupert (km 0,000-6,400) in A1/0641 Arja vas-Šentrupert (km 1,050-6,400) in izvedba ukrepov za izboljšanje prometne varnosti na A1/0641 (km 0,000-1,050)",
+  "procurement": "Rekonstr. VK in objektov na A1/0041 Arja vas-Šentrupert (km 0,000-6,400) in A1/0641 Arja vas-Šentrupert (km 1,050-6,400) in izvedba ukrepov za izboljšanje prometne varnosti na A1/0641 (km 0,000-1,050)",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-04-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SGP POMGRAD d.d.",
+   "VOC CELJE vzdrževanje in obnova cest, d.d."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN004481/2016-C01/DOD-90526",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTI2O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

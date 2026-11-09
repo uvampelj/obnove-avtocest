@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 311139,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 916861,
+  "idDosje": 517706,
+  "title": "Sklop 7 - Dvižni vozički",
+  "procurement": "DOBAVA MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 14616.19,
+  "signed": "2025-05-30",
+  "from": "2025-05-30",
+  "to": "2026-02-28",
+  "number": "000782/2025",
+  "contractors": [
+   "PROLITECH, proizvodnja, trgovina in storitve, d.o.o"
+  ],
+  "contractor_ids": [
+   "8230021000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000366/2025-POG/05",
+  "published": "2025-06-03",
+  "files": [
+   {
+    "name": "Pogodba - Prolitech 7_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc5MTA0O1BvZ29kYmEgLSBQcm9saXRlY2ggN19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

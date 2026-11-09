@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 71,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630256,
+  "idDosje": 8581,
+  "title": "Razvoj. vzdrževanje in podpora IS PIS",
+  "procurement": "Razvoj. vzdrževanje in podpora IS PIS",
+  "kind": 1,
+  "value": 150426.0,
+  "signed": "2015-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UL FGG"
+  ],
+  "contractor_ids": [
+   "1626981000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV943/2015/POG-71",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000131_150220_134054 - Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcxO0QxMzE1MDAwMDEzMV8xNTAyMjBfMTM0MDU0IC0gUG9nb2RiYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

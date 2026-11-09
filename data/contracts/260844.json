@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 260844,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 796150,
+  "idDosje": 502134,
+  "title": "»Vzdrževanje, podpora informacijskega sistema PIS«",
+  "procurement": "Vzdrževanje, podpora informacijskega sistema PIS",
+  "kind": 1,
+  "value": 902548.09,
+  "signed": "2024-03-04",
+  "from": "2024-03-06",
+  "to": "2027-03-06",
+  "number": "000377/2024",
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO"
+  ],
+  "contractor_ids": [
+   "1626981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "008293/2023-POG/01",
+  "published": "2024-03-06",
+  "files": [
+   {
+    "name": "Pgd 377_2024_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY5ODIwO1BnZCAzNzdfMjAyNF9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

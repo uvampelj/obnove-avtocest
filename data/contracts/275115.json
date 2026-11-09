@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 275115,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 837907,
+  "idDosje": 509470,
+  "title": "Izdelava izvedbenega načrta za obnovo vozne površine na delih odsekov na AC A5 0814/0914 Dolga vas—Lendava, 0816/0916 Lendava—Pince ter priključka 0185 Lendava in 0172 Pince",
+  "procurement": "Izdelava izvedbenega načrta za obnovo vozne površine na delih odsekov na AC A5 0814/0914 Dolga vas—Lendava, 0816/0916 Lendava—Pince ter priključka 0185 Lendava in 0172 Pince",
+  "kind": 1,
+  "value": 157910.46,
+  "signed": "2024-08-14",
+  "from": "2024-08-14",
+  "to": "2025-06-14",
+  "number": "000862/2024",
+  "contractors": [
+   "TNT Projektiranje in inženiring d.o.o.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "9047115000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002879/2024-POG/01",
+  "published": "2024-08-28",
+  "files": [
+   {
+    "name": "Pogodba-JV TNT+Strabag_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAzMjUwO1BvZ29kYmEtSlYgVE5UK1N0cmFiYWdfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

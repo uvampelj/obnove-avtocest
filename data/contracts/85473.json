@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85473,
+  "type": "DOD",
+  "prev": 39734,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 za spremembo zaradi dodatnih, več in manj del in spremembe višine del nominiranih podizvajalcev",
+  "procurement": "Aneks št. 3 za spremembo zaradi dodatnih, več in manj del in spremembe višine del nominiranih podizvajalcev",
+  "kind": 3,
+  "value": 303204.61,
+  "signed": "2017-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-11-21",
+  "files": [
+   {
+    "name": "aneks 3_920_17_k_496_2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1NDczO2FuZWtzIDNfOTIwXzE3X2tfNDk2XzIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

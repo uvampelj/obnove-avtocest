@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 230240,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 747225,
+  "idDosje": 456684,
+  "title": "Zamenjava UPS naprav",
+  "procurement": "Zamenjava UPS naprav",
+  "kind": 2,
+  "value": 371929.2,
+  "signed": "2022-12-23",
+  "from": "2022-12-23",
+  "to": "2023-06-23",
+  "number": "001666/2022",
+  "contractors": [
+   "MIDES INTERNATIONAL inženiring sistemov za neprekinjeno napajanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5594120000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006185/2022-C01/POG-230240",
+  "published": "2023-01-27",
+  "files": [
+   {
+    "name": "Pogodba podpisana _ULred_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTA0MTtQb2dvZGJhIHBvZHBpc2FuYSBfVUxyZWRfLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

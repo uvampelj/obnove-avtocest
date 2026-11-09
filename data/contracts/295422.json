@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295422,
+  "type": "DOD",
+  "prev": 83480,
+  "idObrazec": 876986,
+  "idDosje": 218870,
+  "title": "Aneks št. 2 k pogodbi DARS št.877/2022 za izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "procurement": "Izvajanje sistemske podpore na informacijski infrastrukturi DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-16",
+  "from": "2022-05-18",
+  "to": "2025-08-18",
+  "number": "000877/2022",
+  "contractors": [
+   "S&T SLOVENIJA, informacijske rešitve in storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007577/2017-X01/POG-83480-D01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Aneks-2-k-877-2022_242-2024_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NDU2O0FuZWtzLTItay04NzctMjAyMl8yNDItMjAyNF9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16920,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636781,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB MARIBOR",
+  "kind": 1,
+  "value": 30405.82,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO KOLETNIK d.o.o."
+  ],
+  "contractor_ids": [
+   "1391941000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16920",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba Avto Koletnik d.o.o. - 551-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTIwO1BvZ29kYmEgQXZ0byBLb2xldG5payBkLm8uby4gLSA1NTEtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

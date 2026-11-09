@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 446334,
+  "type": "DOD",
+  "prev": 292131,
+  "idObrazec": 1125219,
+  "idDosje": 513301,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1164/2024: »Ureditev odvodnjavanja na območju portala galerije Šentvid ",
+  "procurement": "Ureditev odvodnjavanja v območju portala galerije Šentvid",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-06-18",
+  "from": "2026-06-18",
+  "to": "2026-09-14",
+  "number": "001164/2024",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "Mačerol, gradbeništvo, inženiring in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "7403216000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005989/2024-POG/01-D01",
+  "published": "2026-06-23",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY3OTk2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

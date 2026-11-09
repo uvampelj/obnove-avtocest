@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 93524,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670399,
+  "idDosje": 234149,
+  "title": "Servisiranje in popravila tovornih vozil MAN",
+  "procurement": "Servisiranje in popravila tovornih vozil MAN",
+  "kind": 1,
+  "value": 235606.4,
+  "signed": "2018-03-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PRIGO podjetje za transport, gradbeništvo in trgovino, d.o.o., Brezovica"
+  ],
+  "contractor_ids": [
+   "5460271000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010119/2017-X01/POG-93524",
+  "published": "2018-03-02",
+  "files": [
+   {
+    "name": "Pogodba 222-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzNTI0O1BvZ29kYmEgMjIyLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

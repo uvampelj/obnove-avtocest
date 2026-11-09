@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16911,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636777,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB SLOVENSKE KONJICE",
+  "kind": 1,
+  "value": 38299.7,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FPL AVTOCENTER PUŠNIK d.o.o."
+  ],
+  "contractor_ids": [
+   "5868033000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16911",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba FPL Avtocenter Pušnik d.o.o.- 548-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTExO1BvZ29kYmEgRlBMIEF2dG9jZW50ZXIgUHXFoW5payBkLm8uby4tIDU0OC0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

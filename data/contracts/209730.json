@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 209730,
+  "type": "DOD",
+  "prev": 110747,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 220/2018: Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste ",
+  "procurement": "Izdelava projektne dokumentacije za rekonstrukcijo priključkov na ljubljansko obvoznico: Sklop 2: Rekonstrukcija priključka Letališke ceste",
+  "kind": 1,
+  "value": 19496.06,
+  "signed": "2022-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-04-29",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwOTczMDtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

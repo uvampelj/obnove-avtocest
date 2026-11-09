@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224913,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743608,
+  "idDosje": 454663,
+  "title": "Servisiranje merilcev slanosti RDA",
+  "procurement": "Servisiranje merilcev slanosti RDA",
+  "kind": 1,
+  "value": 92293.0,
+  "signed": "2022-11-02",
+  "from": "2022-11-02",
+  "to": "2024-11-02",
+  "number": null,
+  "contractors": [
+   "AVERA proizvodnja, trgovina, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2295784000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005661/2022-X01/POG-224913",
+  "published": "2022-11-04",
+  "files": [
+   {
+    "name": "R Pogodba 1353-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNTE5OTtSIFBvZ29kYmEgMTM1My0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 472570,
+  "type": "DOD",
+  "prev": 248095,
+  "idObrazec": 1173273,
+  "idDosje": 466767,
+  "title": "Aneks št. 3 k pogodbi DARS št. 979/2023 za zavarovanje avtocestne infrastrukture v upravljanju DARS (excess)",
+  "procurement": "Zavarovanje AC infrastrukture v upravljanju DARS",
+  "kind": 1,
+  "value": 2731804.9,
+  "signed": "2023-09-04",
+  "from": "2026-09-01",
+  "to": "2027-09-01",
+  "number": "000979/2023",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008561/2022-C01/POG-248095-D03",
+  "published": "2026-09-07",
+  "files": [
+   {
+    "name": "R_Aneks 3 DARS št. 931-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEyNDAzO1JfQW5la3MgMyBEQVJTIMWhdC4gOTMxLTIwMjYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

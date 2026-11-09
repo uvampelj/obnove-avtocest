@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167019,
+  "type": "DOD",
+  "prev": 94566,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS 163/2018: Izdelava individualnih sanacijskih načrtov posameznih kmetijskih gospodarstev za projekt državne ceste od priključka Šentrupert na AC A1 Šentilj-Koper do priključka Velenje jug - podaljšanje pogodbenega roka",
+  "procurement": "IZDELAVA INDIVIDUALNIH SANACIJSKIH NAČRTOV POSAMEZNIH KMETIJSKIH GOSPODARSTEV ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AVTOCESTI A1 ŠENTILJ - KOPER DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-28",
+  "files": [
+   {
+    "name": "aneks št. 4 k pog-402-203-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzAxOTthbmVrcyDFoXQuIDQgayBwb2ctNDAyLTIwMy1PSy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

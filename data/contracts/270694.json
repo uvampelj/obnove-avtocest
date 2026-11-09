@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 270694,
+  "type": "DOD",
+  "prev": 204695,
+  "idObrazec": 824842,
+  "idDosje": 424660,
+  "title": "Aneks 1, DARS št. 734/2024 k pog. DARS št. 96/2022",
+  "procurement": "Zakup para optičnih vlaken Ptujska Maribor-PKVMB",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-06-20",
+  "from": null,
+  "to": null,
+  "number": "734/2024",
+  "contractors": [
+   "SIMES Servis in montaža energetskih sistemov, d.o.o."
+  ],
+  "contractor_ids": [
+   "1552724000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007719/2021-X01/POG-204695-D01",
+  "published": "2024-07-03",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 734-2024 k pog. DARS 96-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjkyODA3O0FuZWtzIDEsIERBUlMgxaF0LiA3MzQtMjAyNCBrIHBvZy4gREFSUyA5Ni0yMDIyLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

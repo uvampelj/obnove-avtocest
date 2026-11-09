@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154259,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 703899,
+  "idDosje": 344804,
+  "title": "DOBAVA ABSORPCIJSKEGA SREDSTVA",
+  "procurement": "DOBAVA ABSORPCIJSKEGA SREDSTVA",
+  "kind": 2,
+  "value": 119560.0,
+  "signed": "2020-06-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001253/2020-X01/POG-154259",
+  "published": "2020-06-09",
+  "files": [
+   {
+    "name": "Pogodba 1110-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDI1OTtQb2dvZGJhIDExMTAtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

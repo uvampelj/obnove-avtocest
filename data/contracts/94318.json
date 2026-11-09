@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 94318,
+  "type": "DOD",
+  "prev": 18460,
+  "idObrazec": 767484,
+  "idDosje": 72166,
+  "title": "aneks št. 1 k pogodbi DARS št. 739/2016 za izvedbo zunanje kontrole kakovosti pri gradnji AC odseka Draženci - MMP Gruškovje - 2.a etapa od km 7,26 do km 13,03",
+  "procurement": "Izvedba zunanje kontrole kakovosti pri gradnji AC odseka Draženci – MMP Gruškovje – 1. Etapa in 2b etapa.",
+  "kind": 1,
+  "value": 38286.39,
+  "signed": "2018-02-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE",
+   "GRADBENI INŠTITUT ZRMK d.o.o."
+  ],
+  "contractor_ids": [
+   "5866324000",
+   "1795490000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5449/2015/DOD-94318",
+  "published": "2018-03-14",
+  "files": [
+   {
+    "name": "aneks št. 113-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0MzE4O2FuZWtzIMWhdC4gMTEzLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

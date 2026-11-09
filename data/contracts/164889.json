@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 164889,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 710395,
+  "idDosje": 352652,
+  "title": "Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na odsekih AC A1/0046 in 0646 Domžale-Šentjakob, A1/0047 in 0647 Šentjakob-LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje ",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na odsekih AC A1/0046 in 0646 Domžale-Šentjakob, A1/0047 in 0647 Šentjakob-LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje ",
+  "kind": 1,
+  "value": 1994640.1,
+  "signed": "2020-09-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002742/2020-C01/POG-164889",
+  "published": "2020-11-03",
+  "files": [
+   {
+    "name": "Pogodba-JV BPI+Lienal-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NDg4OTtQb2dvZGJhLUpWIEJQSStMaWVuYWwtb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

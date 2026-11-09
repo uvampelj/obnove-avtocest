@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 153915,
+  "type": "DOD",
+  "prev": 82073,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 746/2017 za revizorske storitve v obdobju petih let - revizija Letnega poročila za leta 2017 – 2021; pogodbeni roki, sprememba skrbnika",
+  "procurement": "Aneks št. 4 k pogodbi DARS št. 746/2017 za revizorske storitve v obdobju petih let - revizija Letnega poročila za leta 2017 – 2021; pogodbeni roki, sprememba skrbnika",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-05-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KPMG SLOVENIJA, podjetje za revidiranje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5648556000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-06-03",
+  "files": [
+   {
+    "name": "podpisan aneks 4 k pog 746-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MzkxNTtwb2RwaXNhbiBhbmVrcyA0IGsgcG9nIDc0Ni0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 313338,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 923850,
+  "idDosje": 519785,
+  "title": "Izdelava projektne dokumentacije PZI za stabilizacijo podpornega para P3 in vračanje prekladne konstrukcije v ravnovesno lego viadukta Boršt 1 na HC H4 Razdrto – Vipava; Rebernice",
+  "procurement": "Izdelava projektne dokumentacije PZI za stabilizacijo podpornega para P3 in vračanje prekladne konstrukcije v ravnovesno lego viadukta Boršt 1 na HC H4 Razdrto – Vipava; Rebernice; Sklop 1 Izdelava projektne dokumentacije PZI",
+  "kind": 1,
+  "value": 155335.28,
+  "signed": "2025-06-24",
+  "from": null,
+  "to": null,
+  "number": "000854/2025",
+  "contractors": [
+   "go-plan, projektivni biro d.o.o.",
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "9089969000",
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002030/2025-POG/01",
+  "published": "2025-07-01",
+  "files": [
+   {
+    "name": "Pogodba_st_000854_2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0NjQ4O1BvZ29kYmFfc3RfMDAwODU0XzIwMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

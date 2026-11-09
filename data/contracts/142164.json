@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142164,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695820,
+  "idDosje": 324641,
+  "title": "Vzdrževanje video nadzornega sistema",
+  "procurement": "Vzdrževanje video nadzornega sistema",
+  "kind": 1,
+  "value": 180907.7,
+  "signed": "2019-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "A KODA PLUS, tehnična oprema objektov d.o.o."
+  ],
+  "contractor_ids": [
+   "6377459000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006454/2019-X01/POG-142164",
+  "published": "2019-12-16",
+  "files": [
+   {
+    "name": "pogodba 1668-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjE2NDtwb2dvZGJhIDE2NjgtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

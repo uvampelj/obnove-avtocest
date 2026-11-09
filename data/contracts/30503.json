@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 30503,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 643054,
+  "idDosje": 71054,
+  "title": "Dobava in montaža split klimatskih naprav v razredu učinkovitosti A+ ali več",
+  "procurement": "Dobava in montaža split klimatskih naprav v razredu učinkovitosti A+ ali več.",
+  "kind": 2,
+  "value": 186660.0,
+  "signed": "2016-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o."
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN659/2016/POG-30503",
+  "published": "2016-01-29",
+  "files": [
+   {
+    "name": "pogodba 54-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMwNTAzO3BvZ29kYmEgNTQtMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

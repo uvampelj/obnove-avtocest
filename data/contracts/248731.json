@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248731,
+  "type": "DOD",
+  "prev": 163816,
+  "idObrazec": 774796,
+  "idDosje": 347384,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1061/2020 za Nadgradnjo in integracijo obstoječih sistemov NKS - NKS SCADA",
+  "procurement": "Nadgradnja in integracija obstoječih sistemov NKS - NKS SCADA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-09-01",
+  "from": "2023-09-01",
+  "to": "2024-07-15",
+  "number": "939/2023",
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001874/2020-C01/DOD-248731",
+  "published": "2023-10-03",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTk0MTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

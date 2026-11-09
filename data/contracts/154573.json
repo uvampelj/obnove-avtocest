@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154573,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704053,
+  "idDosje": 342426,
+  "title": "Nabava biro opreme, pohištvo in ostala oprema za PK, Sklop2 Aparati in naprave in sklop3 Pohištvo za PK",
+  "procurement": "Aparati in naprave,Pohištvo za PK",
+  "kind": 2,
+  "value": 60728.67,
+  "signed": "2020-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LESNINA MG OPREMA podjetje za inženiring, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5662257000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000652/2020-X01/POG-154573",
+  "published": "2020-06-12",
+  "files": [
+   {
+    "name": "2019-000302 pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDU3MzsyMDE5LTAwMDMwMiBwb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

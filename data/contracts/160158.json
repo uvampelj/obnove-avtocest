@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 160158,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 707581,
+  "idDosje": 352813,
+  "title": "DOBAVA OLJ, MAZIV IN TEKOČIN",
+  "procurement": "Olja, maziva in tekočine,Dodatek AdBlue®",
+  "kind": 2,
+  "value": 255820.58,
+  "signed": "2020-09-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002879/2020-C01/POG-160158",
+  "published": "2020-09-09",
+  "files": [
+   {
+    "name": "Pogodba 1353-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MDE1ODtQb2dvZGJhIDEzNTMtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

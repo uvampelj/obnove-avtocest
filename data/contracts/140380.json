@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 140380,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 870/2016",
+  "procurement": "Strokovno svetovalne storitve pri planiranju del rednega vzdrževanja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-11-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-12-02",
+  "files": [
+   {
+    "name": "pog870-2016_a1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MDM4MDtwb2c4NzAtMjAxNl9hMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

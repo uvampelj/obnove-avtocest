@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 11496,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634751,
+  "idDosje": 71376,
+  "title": "IZVEDBA SISTEMA ZA VARNOSTNI PREGLED TOVORNIH VOZIL.",
+  "procurement": "IZVEDBA SISTEMA ZA VARNOSTNI PREGLED TOVORNIH VOZIL.",
+  "kind": 2,
+  "value": 419317.73,
+  "signed": "2015-02-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN1487/2015/POG-11496",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "130-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNDk2OzEzMC0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

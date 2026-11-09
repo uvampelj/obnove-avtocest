@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 170304,
+  "type": "DOD",
+  "prev": 112327,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 988/2015 za strokovno svetovalne storitve za pridobitev strokovnih podlag za obstoječo (zahodno) cev predora Karavanke v okviru priprave državnega prostorskega načrta za dograditev predora Karavanke; podaljšanje pogodbenega roka",
+  "procurement": "Aneks št. 4 k pogodbi DARS št. 988/2015 za strokovno svetovalne storitve za pridobitev strokovnih podlag za obstoječo (zahodno) cev predora Karavanke v okviru priprave državnega prostorskega načrta za dograditev predora Karavanke; podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-12-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-11",
+  "files": [
+   {
+    "name": "podpisan aneks 4 k pog 988-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDMwNDtwb2RwaXNhbiBhbmVrcyA0IGsgcG9nIDk4OC0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

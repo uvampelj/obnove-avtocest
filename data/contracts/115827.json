@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 115827,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Vzdrževanje, podpora in razvoj IS PIS",
+  "procurement": "Vzdrževanje, podpora in razvoj IS PIS",
+  "kind": 1,
+  "value": 237550.0,
+  "signed": "2016-10-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "AXIS, Projektne IT rešitve in storitve, d.o.o.",
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1626981000",
+   "1782355000",
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-12-07",
+  "files": [
+   {
+    "name": "pogodba 851-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTgyNztwb2dvZGJhIDg1MS0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 133637,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691684,
+  "idDosje": 309618,
+  "title": "Dobava pomožnih materialov",
+  "procurement": "Dobava pomožnih materialov",
+  "kind": 2,
+  "value": 256963.23,
+  "signed": "2019-08-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003323/2019-C01/POG-133637",
+  "published": "2019-09-10",
+  "files": [
+   {
+    "name": "POGODBA Dobava pomožnih materialov.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzYzNztQT0dPREJBIERvYmF2YSBwb21vxb5uaWggbWF0ZXJpYWxvdi56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

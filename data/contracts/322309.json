@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 322309,
+  "type": "DOD",
+  "prev": 289616,
+  "idObrazec": 949808,
+  "idDosje": 508735,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1012/2024 za Vzpostavitev RNC  Maribor: SKLOP 1: vzpostavitev RNC Maribor ",
+  "procurement": "Vzpostavitev RNC Maribor Sklop 1: Vzpostavitev RNC Maribor; Sklop 2: IP KVM SISTEM",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-09-11",
+  "from": "2025-09-11",
+  "to": "2026-04-02",
+  "number": "001012/2024",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o.",
+   "NTR INŽENIRING, podjetje za projektiranje, gradbeništvo, proizvodnjo, inženiring in izvedbo tehnoloških projektov ter prodajo tehnološke opreme, d.o.o.",
+   "RAP - ING Računalniško-Audio video-Projektiranje-Inženiring- Trgovina-Storitve-Zastopstva-Avtomatizacija procesov, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "3302539000",
+   "5315867000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002395/2024-POG/01-D02",
+  "published": "2025-10-10",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA1NDAxO0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

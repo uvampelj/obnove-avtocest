@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222830,
+  "type": "DOD",
+  "prev": 137340,
+  "idObrazec": 772921,
+  "idDosje": 313308,
+  "title": "Aneks 1 k pogodbi DARS št. 1452/2019 za računovodsko in davčno svetovanje; podaljšanje pogodbenega roka",
+  "procurement": "Računovodsko in davčno svetovanje",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-09-28",
+  "from": "2022-09-26",
+  "to": "2023-03-26",
+  "number": null,
+  "contractors": [
+   "ERNST & YOUNG SVETOVANJE, davčno svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "1305557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004320/2019-X01/DOD-222830",
+  "published": "2022-10-03",
+  "files": [
+   {
+    "name": "podpisan aneks 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjkwNjtwb2RwaXNhbiBhbmVrcyAxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

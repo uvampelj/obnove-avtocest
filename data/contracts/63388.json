@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63388,
+  "type": "DOD",
+  "prev": 49048,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku",
+  "procurement": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku; sklop A",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-02-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE d.d."
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-02-27",
+  "files": [
+   {
+    "name": "aneks št 1 k pog 722-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMzg4O2FuZWtzIMWhdCAxIGsgcG9nIDcyMi0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

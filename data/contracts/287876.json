@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287876,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 855794,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov; Kategorija 2 - M-SD (NaCl) in Kategorija 4 - CaCl2 granulat",
+  "procurement": "Dobava posipnih materialov ",
+  "kind": 2,
+  "value": 560968.2,
+  "signed": "2024-09-25",
+  "from": "2024-10-15",
+  "to": "2025-08-15",
+  "number": "000991/2024",
+  "contractors": [
+   "MA.CO.T., Podjetje za predelavo in pakiranje soli, d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300401000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/03",
+  "published": "2024-09-30",
+  "files": [
+   {
+    "name": "pogodba 000991-2024 K2 in K4_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDkyO3BvZ29kYmEgMDAwOTkxLTIwMjQgSzIgaW4gSzRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 412495,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1083823,
+  "idDosje": 539749,
+  "title": "Dobava traktorjev in opreme, Sklop št. 1 - Traktor z dvema priključkoma mulčerjem 160 cm in mulčerjem na teleskopski roki",
+  "procurement": "Dobava traktorjev in opreme",
+  "kind": 2,
+  "value": 182390.0,
+  "signed": "2026-04-29",
+  "from": "2026-04-29",
+  "to": "2027-03-01",
+  "number": "000601/2026",
+  "contractors": [
+   "AGROMETAL kmetijska mehanizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5448271000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000591/2026-POG/01",
+  "published": "2026-05-14",
+  "files": [
+   {
+    "name": "sklop 1 pogodba AGROMETAL 002-2026 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI5MDEwO3NrbG9wIDEgcG9nb2RiYSBBR1JPTUVUQUwgMDAyLTIwMjYgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

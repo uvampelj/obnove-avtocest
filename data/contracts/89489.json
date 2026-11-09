@@ -1,0 +1,47 @@
+{
+ "meta": {
+  "id": 89489,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 667825,
+  "idDosje": 221374,
+  "title": "Dobava zemeljskega plina za obdobje 2018-2021",
+  "procurement": "Dobava zemeljskega plina za obdobje 2018-2021",
+  "kind": 2,
+  "value": 658800.0,
+  "signed": "2018-01-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PLINARNA MARIBOR družba za proizvodnjo, distribucijo energentov, trgovino in storitve d.o.o.",
+   "GEOPLIN d.o.o. Ljubljana, Družba za trgovanje in transport zemeljskega plina",
+   "ADRIAPLIN, Podjetje za distribucijo zemeljskega plina d.o.o. Ljubljana",
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o.",
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5034477000",
+   "5025869000",
+   "5865379000",
+   "1587714000",
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008155/2017-C01/POG-89489",
+  "published": "2018-01-16",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUMI.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg5NDg5O09LVklSTkkgU1BPUkFaVU1JLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

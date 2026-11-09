@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 98908,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 673065,
+  "idDosje": 239902,
+  "title": "Dobava peska in betona",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Ljubljana,ACB Maribor,ACB Kozina,ACB Novo mesto,ACB Murska Sobota",
+  "kind": 2,
+  "value": 153071.94,
+  "signed": "2018-05-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "GMI, inženiring in vzdrževanje, d.o.o.",
+   "KG-EKO, Proizvodnja in predelava agregatov, d.o.o.",
+   "POMGRAD - GRADBENI MATERIALI d.o.o.",
+   "GM KUSELJ, gradbena mehanizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "6200192000",
+   "1906895000",
+   "1563211000",
+   "6815618000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000416/2018-X01/POG-98908",
+  "published": "2018-05-11",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk4OTA4O1BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

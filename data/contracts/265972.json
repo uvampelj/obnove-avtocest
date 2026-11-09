@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 265972,
+  "type": "DOD",
+  "prev": 149525,
+  "idObrazec": 809760,
+  "idDosje": 331643,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1006/2020: Prenos lege gradbene parcele 3. in 4. etape nove prometne povezave med AC A2 Ljubljana-Obrežje do priključka Maline",
+  "procurement": "Prenos lege gradbene parcele 3. in 4. etape nove prometne povezave med AC A2 Ljubljana – Obrežje do priključka Maline",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-04-04",
+  "from": "2024-04-04",
+  "to": "2025-03-18",
+  "number": "501/2024",
+  "contractors": [
+   "LGB, geodetski inženiring in informacijske tehnologije, d.o.o.",
+   "GEODETSKA DRUŽBA, geodezija, informatika in storitve, d.o.o.",
+   "GEOTOČKA IN 2GR, geodetsko svetovanje in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5075947000",
+   "2351943000",
+   "3833399000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007739/2019-C01/POG-149525-D02",
+  "published": "2024-04-25",
+  "files": [
+   {
+    "name": "Aneks-2-portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgwNzkxO0FuZWtzLTItcG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

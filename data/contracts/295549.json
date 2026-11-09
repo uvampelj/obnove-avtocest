@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295549,
+  "type": "DOD",
+  "prev": 133952,
+  "idObrazec": 877328,
+  "idDosje": 312792,
+  "title": "Aneks št. 2 k pog. DARS št. 1341/2019 za Zagotavljanje storitev mobilne telefonije in mobilnega prenosa podatkov",
+  "procurement": "Zagotavljanje storitev mobilne telefonije in mobilnega prenosa podatkov ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-12-18",
+  "from": "2019-09-06",
+  "to": "2025-06-06",
+  "number": "001341/2019",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004266/2019-C01/POG-133952-D02",
+  "published": "2024-12-23",
+  "files": [
+   {
+    "name": "Aneks 2 k pog 1341-2019_281-2024_podpisan_za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NzMzO0FuZWtzIDIgayBwb2cgMTM0MS0yMDE5XzI4MS0yMDI0X3BvZHBpc2FuX3phIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

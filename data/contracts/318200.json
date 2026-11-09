@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 318200,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 938159,
+  "idDosje": 522443,
+  "title": "SERVISIRANJE VILIČARJEV",
+  "procurement": "SERVISIRANJE VILIČARJEV",
+  "kind": 1,
+  "value": 170800.0,
+  "signed": "2025-08-26",
+  "from": "2025-08-26",
+  "to": "2028-11-26",
+  "number": "001037/2025",
+  "contractors": [
+   "PAM VILIČAR d.o.o. servis, trgovina in storitve"
+  ],
+  "contractor_ids": [
+   "2213494000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004293/2025-POG/01",
+  "published": "2025-08-27",
+  "files": [
+   {
+    "name": "Pogodba PAM VILIČAR_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk2MTA2O1BvZ29kYmEgUEFNIFZJTEnEjEFSX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

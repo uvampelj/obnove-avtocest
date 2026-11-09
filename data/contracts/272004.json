@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 272004,
+  "type": "DOD",
+  "prev": 220090,
+  "idObrazec": 828908,
+  "idDosje": 437072,
+  "title": "Aneks št. 1 k pogodbi DARS 1057/2022: Izvedba dodatnih ukrepov 1. faze na oporni konstrukciji OZ-05 (VA6007) na AC A1/0065 Pesnica – Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova – Maribor (Ptujska) v km 0,000 do km 0,361; Sklop 1: Izvedba trajnih geotehničinih sider na »levem delu« zidu, od stebra 1s do vključno stebra 59s (od profila 580 v km 14+082,72 do profila 592 v km 14+260,00)",
+  "procurement": "Izvedba dodatnih ukrepov 1. faze na oporni konstrukciji OZ-05 (VA6007) na AC A1/0065 Pesnica – Dragučova v km 2,266 do km 2,569 in AC A1/0071 Dragučova – Maribor (Ptujska) v km 0,000 do km 0,361; Sklop 1: Izvedba trajnih geotehničinih sider na »levem delu« zidu, od stebra 1s do vključno stebra 59s ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-06-19",
+  "from": "2024-06-19",
+  "to": "2024-07-20",
+  "number": "731/2024",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d."
+  ],
+  "contractor_ids": [
+   "5459001000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001275/2022-C01/POG-220090-D01",
+  "published": "2024-07-18",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk2MDg2O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

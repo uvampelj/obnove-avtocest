@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 200706,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730027,
+  "idDosje": 416994,
+  "title": "Izdelava IzN za preplastitev voziščne konstrukcije na AC A2 0003/0603 Lipce – Lesce, 0004/0604 Lesce – Brezje, 0005/0605 Brezje - Podtabor ter priključkih 0103 Lesce, 0170 Radovljica, 0104 Brezje",
+  "procurement": "Izdelava IzN za preplastitev voziščne konstrukcije na AC A2 0003/0603 Lipce – Lesce, 0004/0604 Lesce – Brezje, 0005/0605 Brezje - Podtabor ter priključkih 0103 Lesce, 0170 Radovljica, 0104 Brezje",
+  "kind": 1,
+  "value": 96959.5,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006540/2021-X01/POG-200706",
+  "published": "2021-12-28",
+  "files": [
+   {
+    "name": "Pogodba-PNZ_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMDcwNjtQb2dvZGJhLVBOWl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

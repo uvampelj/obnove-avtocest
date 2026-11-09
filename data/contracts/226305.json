@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 226305,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 744502,
+  "idDosje": 455024,
+  "title": "Dobava pisarniškega materiala",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 114648.04,
+  "signed": "2022-11-23",
+  "from": "2022-11-23",
+  "to": "2024-11-23",
+  "number": null,
+  "contractors": [
+   "EXTRA LUX, proizvodno in trgovsko podjetje d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5426189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005739/2022-X01/POG-226305",
+  "published": "2022-11-28",
+  "files": [
+   {
+    "name": "pogodba 1447-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNjczMztwb2dvZGJhIDE0NDctMjAyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

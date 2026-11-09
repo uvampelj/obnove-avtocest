@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52908,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št.530/13:PRIDOBITEV PRESOJEVALCA VARNOSTI CEST V FAZI PREVERJANJA VARNOSTI V PROMETU PRI NAČRTOVANJU HC KOPER-DRAGONJA -podaljšanje roka ",
+  "procurement": "aneks št. 1 k pog. DARS št.530/13:PRIDOBITEV PRESOJEVALCA VARNOSTI CEST V FAZI PREVERJANJA VARNOSTI V PROMETU PRI NAČRTOVANJU HC KOPER-DRAGONJA -podaljšanje roka ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-11-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKTIVNI ATELJE - NG d.o.o."
+  ],
+  "contractor_ids": [
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "904-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyOTA4OzkwNC0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

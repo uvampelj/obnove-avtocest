@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 266836,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 812227,
+  "idDosje": 506403,
+  "title": "\nNabava električne energije za obdobje od 1. 6. 2024 – 31. 12. 2027",
+  "procurement": "Nabava električne energije za obdobje od 1. 6. 2024 – 31. 12. 2027",
+  "kind": 2,
+  "value": 11800000.0,
+  "signed": "2024-05-07",
+  "from": "2024-05-07",
+  "to": "2028-03-31",
+  "number": "000581/2024",
+  "contractors": [
+   "E 3, ENERGETIKA, EKOLOGIJA, EKONOMIJA, d.o.o.",
+   "GEN-I, trgovanje in prodaja električne energije, d.o.o.",
+   "ECE, energetska družba, d.o.o.",
+   "HEP Energija, trgovanje in prodaja električne energije, d.o.o."
+  ],
+  "contractor_ids": [
+   "2010593000",
+   "1587714000",
+   "6064892000",
+   "2348489000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000580/2024-POG/01",
+  "published": "2024-05-10",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUM_4 IZVAJALCI_581-2024_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgyODExO09LVklSTkkgU1BPUkFaVU1fNCBJWlZBSkFMQ0lfNTgxLTIwMjRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

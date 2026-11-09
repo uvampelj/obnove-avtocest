@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 342029,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 986201,
+  "idDosje": 529043,
+  "title": "Vzdrževanje sistema za spremljanje porabe goriva in prenosa v sistem Navision",
+  "procurement": "Vzdrževanje sistema za spremljanje porabe goriva in prenosa v sistem Navision",
+  "kind": 1,
+  "value": 108673.94,
+  "signed": "2026-01-27",
+  "from": "2026-01-27",
+  "to": "2031-01-27",
+  "number": "000101/2026",
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010037/2025-POG/01",
+  "published": "2026-01-29",
+  "files": [
+   {
+    "name": "Pogodba-Tenzor_287-2025_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NTAyO1BvZ29kYmEtVGVuem9yXzI4Ny0yMDI1X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

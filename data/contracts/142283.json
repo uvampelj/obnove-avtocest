@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142283,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695890,
+  "idDosje": 333171,
+  "title": "Izvajanje programa EuroRAP na AV in HC v RS v letih 2019 do leta 2023",
+  "procurement": "Izvajanje programa EuroRAP na AC in HC v RS v letih 2019 do leta 2023",
+  "kind": 1,
+  "value": 121512.0,
+  "signed": "2019-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO-MOTO ZVEZA SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5163196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008123/2019-C01/POG-142283",
+  "published": "2019-12-17",
+  "files": [
+   {
+    "name": "Pogodba-205-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjI4MztQb2dvZGJhLTIwNS0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

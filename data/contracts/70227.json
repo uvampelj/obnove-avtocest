@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70227,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658986,
+  "idDosje": 192317,
+  "title": "Nakup in vzdrževanje požarne pregrade",
+  "procurement": "Nakup in vzdrževanje požarne pregrade",
+  "kind": 1,
+  "value": 218367.43,
+  "signed": "2017-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "S&T Slovenija d.d."
+  ],
+  "contractor_ids": [
+   "5447640000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001919/2017-X01/POG-70227",
+  "published": "2017-05-09",
+  "files": [
+   {
+    "name": "Pogodba 386-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwMjI3O1BvZ29kYmEgMzg2LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

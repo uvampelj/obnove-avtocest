@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 435996,
+  "type": "DOD",
+  "prev": 269069,
+  "idObrazec": 1114254,
+  "idDosje": 506205,
+  "title": "Aneks št. 1 k pogodbi DARS št. 689/2024 za Izvajanje strokovno svetovalnih storitev v postopkih vzpostavitve in delovanja Cestninskega sistema DARS; sprememba podizvajalca",
+  "procurement": "Izvajanje strokovno svetovalnih storitev v postopkih vzpostavitve in delovanja Cestninskega sistema DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-05-25",
+  "from": "2024-06-06",
+  "to": "2031-09-06",
+  "number": "000689/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000457/2024-POG/01-D01",
+  "published": "2026-06-19",
+  "files": [
+   {
+    "name": "Aneks št. 662-2026_91-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3MjI1O0FuZWtzIMWhdC4gNjYyLTIwMjZfOTEtMjAyNl9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

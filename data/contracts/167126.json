@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167126,
+  "type": "DOD",
+  "prev": 144058,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 894/2019 - Izdelava zajema dodatnih podatkov in izdelavo dodatnih geodetskih podlag za pripravo DPN za državno cesto Slovenj Gradec-jug-Dravograd III. razvojna os \" - več dela in opuščena dela",
+  "procurement": "ZAJEM DODATNIH PODATKOV IN IZDELAVO DODATNIH GEODETSKIH PODLAG ZA PRIPRAVO DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO SLOVENJ GRADEC-JUG DRAVOGRAD III. RAZVOJNA OS",
+  "kind": 1,
+  "value": 6296.66,
+  "signed": "2020-05-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-30",
+  "files": [
+   {
+    "name": "Aneks št. 2 k pog-894-19-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzEyNjtBbmVrcyDFoXQuIDIgayBwb2ctODk0LTE5LU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 117601,
+  "type": "DOD",
+  "prev": 95072,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 904/2018 »Obratovalni monitoring hrupa za ceste v upravljanju DARS d.d.«",
+  "procurement": "Obratovalni monitoring hrupa za ceste v upravljanju DARS d.d.",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1300342000",
+   "3386597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-01-10",
+  "files": [
+   {
+    "name": "a1_pog904-2018_Obratovalni monitoring hrupa.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzYwMTthMV9wb2c5MDQtMjAxOF9PYnJhdG92YWxuaSBtb25pdG9yaW5nIGhydXBhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

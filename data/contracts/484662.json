@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 484662,
+  "type": "DOD",
+  "prev": 274724,
+  "idObrazec": 1198899,
+  "idDosje": 510992,
+  "title": "Aneks št. 1 k pogodbi DARS št. 867/2024 za Izvajanje nalog pooblaščene osebe za varstvo osebnih podatkov; podaljšanje roka",
+  "procurement": "Izvajanje nalog pooblaščene osebe za varstvo osebnih podatkov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-09-22",
+  "from": "2024-08-20",
+  "to": "2026-10-31",
+  "number": "000867/2024",
+  "contractors": [
+   "DATAINFO.SI, poslovno svetovanje, založništvo in druge storitve, d.o.o.",
+   "FLUMINA, pravno in poslovno svetovanje, Urška Stopar s.p."
+  ],
+  "contractor_ids": [
+   "8179638000",
+   "9304797000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004083/2024-POG/01-D01",
+  "published": "2026-09-29",
+  "files": [
+   {
+    "name": "aneks-st1-k-pogodbi-867-2024_193-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM3MDY0O2FuZWtzLXN0MS1rLXBvZ29kYmktODY3LTIwMjRfMTkzLTIwMjZfT0JKQVZBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

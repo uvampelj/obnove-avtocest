@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 318876,
+  "type": "DOD",
+  "prev": 166936,
+  "idObrazec": 940025,
+  "idDosje": 356242,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d. št. 1496/2020: Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0036 in 0636 Fram – Slovenska Bistrica od km 0+500 do km 9+500 in 0461 priključek Slovenska Bistrica – sever od km 0+000 do km 1+155 ",
+  "procurement": "Izdelava PZI za rekonstrukcijo ceste in objektov na AC A1/0036 in 0636 Fram – Slovenska Bistrica od km 0+500 do km 9+500 in 0461 priključek Slovenska Bistrica – sever od km 0+000 do km 1+155",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-08-18",
+  "from": "2020-11-05",
+  "to": "2025-11-05",
+  "number": "001496/2020",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003668/2020-C01/POG-166936-D01",
+  "published": "2025-09-03",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk3NTYxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459603,
+  "type": "DOD",
+  "prev": 224228,
+  "idObrazec": 1144779,
+  "idDosje": 450778,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 1295/2022: Zajem podatkov in izdelavo geodetskih podlag za izdelavo strokovnih podlag za študijo variant / predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj – Markovci ",
+  "procurement": "Zajem podatkov in izdelavo geodetskih podlag za izdelavo strokovnih podlag za študijo variant/predinvesticijsko zasnovo in državni prostorski načrt za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-07-29",
+  "from": "2026-02-20",
+  "to": "2028-12-12",
+  "number": "001295/2022",
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004714/2022-X01/POG-224228-D01",
+  "published": "2026-08-03",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg1NjQxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

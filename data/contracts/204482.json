@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 204482,
+  "type": "DOD",
+  "prev": 121920,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 131/2019: Integracija nove spremenljive prometno informativne signalizacije v nadzorne centre za vodenje prometa ",
+  "procurement": "INTEGRACIJA NOVE SPREMENLJIVE PROMETNO INFORMATIVNE SIGNALIZACIJE V NADZORNE CENTRE ZA VODENJE PROMETA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-11",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNDQ4MjtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

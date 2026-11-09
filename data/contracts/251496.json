@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 251496,
+  "type": "DOD",
+  "prev": 136628,
+  "idObrazec": 772883,
+  "idDosje": 320162,
+  "title": "Aneks 1 k pogodbi DARS št. 1475/2019 za izdelavo cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini in nadomestil za drugo škodo, ki je povezana s poslovanjem poslovnega subjekta na nepremičnini, v postopkih izvajanja odkupov nepremičnin",
+  "procurement": "Izdelava cenitev nadomestil za škodo zaradi zmanjšanja prihodkov iz naslova poslovanja poslovnega subjekta na nepremičnini in nadomestil za drugo škodo, ki je povezana s poslovanjem poslovnega subjekta na nepremičnini",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-11-06",
+  "from": "2023-11-06",
+  "to": "2024-12-30",
+  "number": "001118/2023",
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005535/2019-X01/DOD-251496",
+  "published": "2023-11-09",
+  "files": [
+   {
+    "name": "podpisan aneks - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NDkwNztwb2RwaXNhbiBhbmVrcyAtIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

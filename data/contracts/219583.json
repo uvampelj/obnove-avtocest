@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 219583,
+  "type": "DOD",
+  "prev": 167287,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1556/2020",
+  "procurement": "Prevzem različnih odpadnih materialov; sklop 2 - odpadek številka 03; več del",
+  "kind": 1,
+  "value": 6713.88,
+  "signed": "2022-08-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAUBERMACHER SLOVENIJA storitve pri varstvu okolja, trgovina in transport d.o.o."
+  ],
+  "contractor_ids": [
+   "5432391000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-08-18",
+  "files": [
+   {
+    "name": "Aneks 1097-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxOTU4MztBbmVrcyAxMDk3LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

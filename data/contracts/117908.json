@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 117908,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 682244,
+  "idDosje": 267285,
+  "title": "Izdelava PZI - Preureditev izvoznega kraka Priključka Ljubljana Zahod (krak A) s priključevanjem na Tržaško cesto ter preureditev uvoznega kraka Priključka Ljubljana Zahod (krak B) - priključek iz Tržaške ceste ",
+  "procurement": "Izdelava PZI - Preureditev izvoznega kraka Priključka Ljubljana Zahod (krak A) s priključevanjem na Tržaško cesto ter preureditev uvoznega kraka Priključka Ljubljana Zahod (krak B) - priključek iz Tržaške ceste ",
+  "kind": 1,
+  "value": 65315.14,
+  "signed": "2018-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005052/2018-X01/POG-117908",
+  "published": "2019-01-14",
+  "files": [
+   {
+    "name": "Pogodba-PNG.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzkwODtQb2dvZGJhLVBORy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

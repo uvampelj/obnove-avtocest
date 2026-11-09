@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 222395,
+  "type": "DOD",
+  "prev": 95866,
+  "idObrazec": 770497,
+  "idDosje": 223443,
+  "title": "Aneks št. 2 k pog. DARS št. 87/2018: Prenos lege gradbene parcele državne ceste - 3. razvojna os - sever: Sklop 1: Državna cesta od priključka Šentrupert do priključka Velenje jug",
+  "procurement": "PRENOS LEGE GRADBENE PARCELE DRŽAVNE CESTE - 3. RAZVOJNA OS - SEVER: SKLOP 1: DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 341414.56,
+  "signed": "2022-09-05",
+  "from": "2022-09-05",
+  "to": "2023-06-30",
+  "number": null,
+  "contractors": [
+   "LGB, geodetski inženiring in informacijske tehnologije, d.o.o.",
+   "GEOFOTO podjetje za geodetske in računalniške storitve d.o.o.",
+   "GEOGRAD podjetje za geodetske storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5075947000",
+   "5669472000",
+   "5476488000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008433/2017-C01/DOD-222395",
+  "published": "2022-09-23",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjQ1NDtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

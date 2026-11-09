@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 133137,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691391,
+  "idDosje": 292045,
+  "title": "Izdelava projektne dokumentacije IZP in PZI za rekonstrukcijo dela odseka na AC A1/0056 in 0656 Postojna – Razdrto od km 0,850 do km 1,300 vključno z zamenjavo mostu čez Pivko VA0187 in VA0188",
+  "procurement": "Izdelava projektne dokumentacije IZP in PZI za rekonstrukcijo dela odseka na AC A1/0056 in 0656 Postojna – Razdrto od km 0,850 do km 1,300 vključno z zamenjavo mostu čez Pivko VA0187 in VA0188",
+  "kind": 1,
+  "value": 216558.54,
+  "signed": "2019-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000267/2019-C01/POG-133137",
+  "published": "2019-09-03",
+  "files": [
+   {
+    "name": "Pogodba-Ginex International.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMzEzNztQb2dvZGJhLUdpbmV4IEludGVybmF0aW9uYWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

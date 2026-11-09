@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254813,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765524,
+  "idDosje": 492157,
+  "title": "Sklop 1, Sklop 6 in Sklop 7",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 355056.6,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2025-12-20",
+  "number": "001502/2023",
+  "contractors": [
+   "SVET STROJEV, zastopanje in prodaja, d.o.o."
+  ],
+  "contractor_ids": [
+   "6015174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005994/2023-C01/POG-254813",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Pogodba - SVET STROJEV_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQ4MjtQb2dvZGJhIC0gU1ZFVCBTVFJPSkVWX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 189867,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724540,
+  "idDosje": 399405,
+  "title": " Servisiranje tovornih in kombiniranih vozil",
+  "procurement": "Tovorna vozila Mercedes Benz,Delovna vozila Unimog,Kombinirana vozila Mercedes Benz,Gospodarska vozila Mercedes Benz",
+  "kind": 1,
+  "value": 1071170.0,
+  "signed": "2021-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003266/2021-C01/POG-189867",
+  "published": "2021-09-02",
+  "files": [
+   {
+    "name": "pogodba 1070 in 1071-2021.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4OTg2Nztwb2dvZGJhIDEwNzAgaW4gMTA3MS0yMDIxLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

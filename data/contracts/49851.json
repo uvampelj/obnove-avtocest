@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 49851,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 651446,
+  "idDosje": 17761,
+  "title": "Izvedba revizije po ZGO-1 za projektno dokumentacijo PGD za HC Jagodje - Lucija s priključno cesto za Piran",
+  "procurement": "Izvedba revizije po ZGO-1 za projektno dokumentacijo PGD za HC Jagodje - Lucija s priključno cesto za Piran",
+  "kind": 1,
+  "value": 48087.52,
+  "signed": "2016-09-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005828/2016-X01/POG-49851",
+  "published": "2016-10-10",
+  "files": [
+   {
+    "name": "pogodba736-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ5ODUxO3BvZ29kYmE3MzYtMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

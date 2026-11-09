@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 107740,
+  "type": "DOD",
+  "prev": 107637,
+  "idObrazec": 771055,
+  "idDosje": 217096,
+  "title": "aneks št. 1 k pog. DARS št. 747/17:IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA REKONSTRUKCIJO CESTE IN OBJEKTOV NA ODSEKIH NA A1/0042 IN 0642 ŠENTRUPERT – VRANSKO OD KM 1,470 DO KM 5,500 - zamenjava podizvajalca in strokovnega kadra",
+  "procurement": "IZDELAVA PZI ZA REKONSTRUKCIJO CESTE IN OBJEKTOV NA ODSEKIH NA A1/0042 IN 0642 ŠENTRUPERT – VRANSKO OD KM 1,470 DO KM 5,500",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007210/2017-X01/DOD-107740",
+  "published": "2018-09-07",
+  "files": [
+   {
+    "name": "aneks-250-17.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNzc0MDthbmVrcy0yNTAtMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

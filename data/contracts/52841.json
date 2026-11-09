@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52841,
+  "type": "DOD",
+  "prev": 27389,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 za uskladitev pogodbenega roka z dinamiko gradbenih del in spremembe vodje nadzora",
+  "procurement": "Izvedba prehodnih arheoloških raziskav (popolno arheološko izkopavanje, vzorčenje in arheološka raziskava ob gradnji) na lokaciji Podlehnik (EŠD 29703, EŠD 29704 in EŠD 29705) na AC Draženci - MMP Gruškovje",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-09-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UP ZRS"
+  ],
+  "contractor_ids": [
+   "1810014006"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "Aneks 1_arh_712_15_podoisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODQxO0FuZWtzIDFfYXJoXzcxMl8xNV9wb2RvaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

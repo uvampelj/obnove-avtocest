@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 241144,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 755544,
+  "idDosje": 472281,
+  "title": "Sklop 1 - Servisiranje vozil Renault",
+  "procurement": "SERVISIRANJE TOVORNIH VOZIL",
+  "kind": 1,
+  "value": 246964.6,
+  "signed": "2023-06-12",
+  "from": "2023-06-12",
+  "to": "2025-06-12",
+  "number": "000766/2023",
+  "contractors": [
+   "VOLVO, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "1532189000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001089/2023-C01/POG-241144",
+  "published": "2023-06-19",
+  "files": [
+   {
+    "name": "Pogodba VOLVO_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0MzU5MztQb2dvZGJhIFZPTFZPX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

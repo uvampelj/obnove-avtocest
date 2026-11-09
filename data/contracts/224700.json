@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224700,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743443,
+  "idDosje": 449384,
+  "title": "Izdelava državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "procurement": "Izdelava državnega prostorskega načrta za hitro cesto Koper-Dragonja",
+  "kind": 1,
+  "value": 156038.0,
+  "signed": "2022-10-12",
+  "from": "2022-10-25",
+  "to": "2025-10-25",
+  "number": null,
+  "contractors": [
+   "URBIS urbanizem, arhitektura, projektiranje in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5560799000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004446/2022-C01/POG-224700",
+  "published": "2022-10-28",
+  "files": [
+   {
+    "name": "Pogodba-URBIS_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDk2ODtQb2dvZGJhLVVSQklTX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

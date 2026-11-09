@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52891,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 4 k pog. DARS št. 1017/10:AC POSTOJNA/DIVAČA-JELŠANE: IZDELAVA OKOLJSKEGA POROČILA-nominacija podizvajalca, prerazporeditev deležev v ponudbi nominiranih podizvajalcev  ",
+  "procurement": "aneks št. 4 k pog. DARS št. 1017/10:AC POSTOJNA/DIVAČA-JELŠANE: IZDELAVA OKOLJSKEGA POROČILA-nominacija podizvajalca, prerazporeditev deležev v ponudbi nominiranih podizvajalcev  ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-05-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GEATEH, d.o.o."
+  ],
+  "contractor_ids": [
+   "1714961000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-25",
+  "files": [
+   {
+    "name": "340-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODkxOzM0MC0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

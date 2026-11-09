@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 266826,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 812177,
+  "idDosje": 507026,
+  "title": "Dobava aditiva za dizel gorivo in kurilno olje",
+  "procurement": "Dobava aditiva za dizel gorivo in kurilno olje",
+  "kind": 2,
+  "value": 164700.0,
+  "signed": "2024-05-09",
+  "from": "2024-05-09",
+  "to": "2027-08-09",
+  "number": "000600/2024",
+  "contractors": [
+   "MIRASOUL, storitve in trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "3755843000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001040/2024-POG/01",
+  "published": "2024-05-10",
+  "files": [
+   {
+    "name": "Pogodba 600-2024_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgyNzcxO1BvZ29kYmEgNjAwLTIwMjRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

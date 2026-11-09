@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287879,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 855797,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov; Kategorija 3 - EF-D evaporirana (NaCl)",
+  "procurement": "Dobava posipnih materialov ",
+  "kind": 2,
+  "value": 1376892.0,
+  "signed": "2024-09-25",
+  "from": "2024-10-15",
+  "to": "2025-08-15",
+  "number": "000992/2024",
+  "contractors": [
+   "SALINEN PROSOL proizvodnja, trgovina in zastopstva, d.o.o."
+  ],
+  "contractor_ids": [
+   "5687667000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/02",
+  "published": "2024-09-30",
+  "files": [
+   {
+    "name": "pogodba 000992-2024 K3_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDk0O3BvZ29kYmEgMDAwOTkyLTIwMjQgSzNfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

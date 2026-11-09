@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 367836,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1020196,
+  "idDosje": 550721,
+  "title": "Izdelava dela PZI projektne dokumentacije za sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo in spremembe PZI v času gradnje",
+  "procurement": "Izdelava dela PZI projektne dokumentacije za sanacijo zahodne cevi avtocestnega predora Karavanke vključno s pripadajočo infrastrukturo in spremembe PZI v času gradnje",
+  "kind": 1,
+  "value": 4330038.92,
+  "signed": "2026-03-16",
+  "from": "2026-03-16",
+  "to": "2030-08-16",
+  "number": "000414/2026",
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001419/2026-POG/01",
+  "published": "2026-03-20",
+  "files": [
+   {
+    "name": "pog 414-2026-redig za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDY4MjgwO3BvZyA0MTQtMjAyNi1yZWRpZyB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

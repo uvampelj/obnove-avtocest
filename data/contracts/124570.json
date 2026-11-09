@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124570,
+  "type": "DOD",
+  "prev": 45666,
+  "idObrazec": 768266,
+  "idDosje": 159760,
+  "title": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "procurement": "Poizkopavalna obdelava arhivov najdišč za izvedena zaščitna arheol. izkopavanja na AC ods. in lokacijah, kjer obdelava še ni bila izvedena ter obdelava lončenine pridobljene ob raziskavah ETP in ITP",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-03-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVOD ZA VARSTVO KULTURNE DEDIŠČINE SLOVENIJE - ZVKDS"
+  ],
+  "contractor_ids": [
+   "1423215000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003218/2016-C01/DOD-124570",
+  "published": "2019-04-12",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDU3MDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

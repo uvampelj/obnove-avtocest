@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205260,
+  "type": "DOD",
+  "prev": 132708,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k pogodbi DARS št. 809/2019: Rekonstrukcija ACB Ljubljana na Griču, DARS d.d. ",
+  "procurement": "Rekonstrukcija ACB Ljubljana na Griču, DARS d.d.",
+  "kind": 3,
+  "value": 817702.0,
+  "signed": "2021-06-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRGOGRAD trgovina in gradbeništvo, d.o.o., Litija"
+  ],
+  "contractor_ids": [
+   "5567548000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks št.3 k pog.809-19.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTI2MDtBbmVrcyDFoXQuMyBrIHBvZy44MDktMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

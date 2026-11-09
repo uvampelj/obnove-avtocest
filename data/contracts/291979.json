@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 291979,
+  "type": "DOD",
+  "prev": 238458,
+  "idObrazec": 867351,
+  "idDosje": 470926,
+  "title": "Aneks 1, DARS št. 1151/2024 ",
+  "procurement": "VZDRŽEVANJE VIDEO NADZORNEGA SISTEMA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-11-12",
+  "from": null,
+  "to": null,
+  "number": "000673/2023",
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000710/2023-X01/POG-238458-D01",
+  "published": "2024-11-15",
+  "files": [
+   {
+    "name": "Aneks 1, DARS st. 1151-2024,podp..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI4NzQ5O0FuZWtzIDEsIERBUlMgc3QuIDExNTEtMjAyNCxwb2RwLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

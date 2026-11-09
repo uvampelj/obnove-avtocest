@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67487,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657987,
+  "idDosje": 186347,
+  "title": "Izdelava in nadgradnja orodij za opravila v nadzornih centrih DARS",
+  "procurement": "Izdelava in nadgradnja orodij za opravila v nadzornih centrih DARS",
+  "kind": 1,
+  "value": 269071.0,
+  "signed": "2017-04-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000784/2017-C01/POG-67487",
+  "published": "2017-04-11",
+  "files": [
+   {
+    "name": "pogodba Realis.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3NDg3O3BvZ29kYmEgUmVhbGlzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

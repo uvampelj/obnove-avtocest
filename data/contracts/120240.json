@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120240,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683546,
+  "idDosje": 278703,
+  "title": "Izdelava strokovnih podlag za zagotovitev ustreznih migracijskih koridorjev velikih zveri in  drugih vrst velikih sesalcev na AC odseku Vrhnika-Postojna",
+  "procurement": "Izdelava strokovnih podlag za zagotovitev ustreznih migracijskih koridorjev velikih zveri in  drugih vrst velikih sesalcev na AC odseku Vrhnika-Postojna",
+  "kind": 1,
+  "value": 29800.0,
+  "signed": "2019-01-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VISOKA ŠOLA ZA VARSTVO OKOLJA, VELENJE"
+  ],
+  "contractor_ids": [
+   "2257092000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007211/2018-X01/POG-120240",
+  "published": "2019-02-12",
+  "files": [
+   {
+    "name": "Pogodba-VŠVO_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDI0MDtQb2dvZGJhLVbFoFZPX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

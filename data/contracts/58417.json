@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 58417,
+  "type": "DOD",
+  "prev": 44584,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 670/2016 Generalno popravilo vozil in opreme",
+  "procurement": "Generalno popravilo vozil in opreme",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-01-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ŽONTA, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924036000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-01-12",
+  "files": [
+   {
+    "name": "pog670_2016 a1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU4NDE3O3BvZzY3MF8yMDE2IGExLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

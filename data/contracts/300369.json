@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 300369,
+  "type": "DOD",
+  "prev": 261944,
+  "idObrazec": 888585,
+  "idDosje": 484108,
+  "title": "Aneks št. 1 k pogodbi Dars št. 398/2024 za Obnovo obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec – Ankaran ",
+  "procurement": "Obnova obstoječih portalov sistema za nadzor in vodenje prometa (SNVP) na AC A1 Klanec - Ankaran",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2024-02-05",
+  "from": "2025-02-05",
+  "to": "2026-09-07",
+  "number": "000398/2024",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "004127/2023-POG/01-D01",
+  "published": "2025-02-12",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ1NjE3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

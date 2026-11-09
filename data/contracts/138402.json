@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 138402,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 694366,
+  "idDosje": 320550,
+  "title": "Izvedba hidrogeološkega monitoringa za zavarovanje dokazov pri gradnji vzhodne cevi predora Karavanke",
+  "procurement": "Izvedba hidrogeološkega monitoringa za zavarovanje dokazov pri gradnji vzhodne cevi predora Karavanke",
+  "kind": 1,
+  "value": 27309.7,
+  "signed": "2019-10-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005624/2019-X01/POG-138402",
+  "published": "2019-11-08",
+  "files": [
+   {
+    "name": "pogodba 1534-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzODQwMjtwb2dvZGJhIDE1MzQtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

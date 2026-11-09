@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 23174,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639703,
+  "idDosje": 79817,
+  "title": "DOBAVA KOMBINIRANIH IN TOVORNIH VOZIL",
+  "procurement": "Sklop 3 - Tovorna vozila",
+  "kind": 2,
+  "value": 114985.0,
+  "signed": "2015-08-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7138/2015/POG-23174",
+  "published": "2015-10-13",
+  "files": [
+   {
+    "name": "D13150000652_150810_124624-pogodba 3.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTc0O0QxMzE1MDAwMDY1Ml8xNTA4MTBfMTI0NjI0LXBvZ29kYmEgMy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

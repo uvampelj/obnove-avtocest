@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 234331,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 750251,
+  "idDosje": 468505,
+  "title": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "procurement": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "kind": 1,
+  "value": 173227.8,
+  "signed": "2023-03-28",
+  "from": "2023-03-28",
+  "to": "2024-06-28",
+  "number": "000561/2023",
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA, trgovina in posredništvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3619524000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000114/2023-X01/POG-234331",
+  "published": "2023-03-31",
+  "files": [
+   {
+    "name": "Pogodba - Rasco_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTcwMztQb2dvZGJhIC0gUmFzY29fUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

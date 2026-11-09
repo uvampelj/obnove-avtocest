@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 40057,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647690,
+  "idDosje": 51863,
+  "title": "Vulkanizerske storitve",
+  "procurement": "AC baza Postojna,AC baza Slovenske Konjice,AC baza Ljubljana + splošna služba,AC baza Hrušica,AC baza Maribor,AC baza Kozina,AC baza Vransko,AC baza Novo mesto,AC baza Murska Sobota",
+  "kind": 1,
+  "value": 212205.89,
+  "signed": "2016-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DBF d.o.o.",
+   "ŽONTA, d.o.o.",
+   "PETROL d.d., Ljubljana",
+   "ASP d.o.o.",
+   "GORAN DRAČA S.P.",
+   "AVTOBUSNI PREVOZI RIŽANA d.o.o."
+  ],
+  "contractor_ids": [
+   "6220231000",
+   "1924036000",
+   "5025796000",
+   "5524466000",
+   "3311414000",
+   "1540564000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002947/2016-C01/POG-40057",
+  "published": "2016-06-22",
+  "files": [
+   {
+    "name": "Vulkanizerske storitve - pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQwMDU3O1Z1bGthbml6ZXJza2Ugc3Rvcml0dmUgLSBwb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

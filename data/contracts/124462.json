@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124462,
+  "type": "DOD",
+  "prev": 92946,
+  "idObrazec": 770322,
+  "idDosje": 222845,
+  "title": "GLAVNA CESTA HAJDINA – ORMOŽ, ODSEK GORIŠNICA – ORMOŽ, DOKONČANJE VSEH DEL NA PRESTAVITVI 110 kV DALJNOVODA",
+  "procurement": "GLAVNA CESTA HAJDINA – ORMOŽ, ODSEK GORIŠNICA – ORMOŽ, DOKONČANJE VSEH DEL NA PRESTAVITVI 110 kV DALJNOVODA",
+  "kind": 3,
+  "value": 72606.35,
+  "signed": "2019-03-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ENERGOINVEST Gornja Radgona, družba za izvedbo elektromontažnih in gradbenih del, projektiranje in nadzor d.o.o."
+  ],
+  "contractor_ids": [
+   "7195010000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008215/2017-X01/DOD-124462",
+  "published": "2019-04-11",
+  "files": [
+   {
+    "name": "Aneks št. 1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDQ2MjtBbmVrcyDFoXQuIDEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

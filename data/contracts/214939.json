@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 214939,
+  "type": "DOD",
+  "prev": 122228,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 674/2015 za izdelavo projektne dokumentacije PGD/PZI za izgradnjo priključka Dragomer; dodatna dela, manj dela ter podaljšanje pogodbenega roka",
+  "procurement": "Aneks št. 4 k pogodbi DARS št. 674/2015 za izdelavo projektne dokumentacije PGD/PZI za izgradnjo priključka Dragomer; dodatna dela, manj dela ter podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 9514.99,
+  "signed": "2022-06-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-06-24",
+  "files": [
+   {
+    "name": "podpisan aneks 4 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNDkzOTtwb2RwaXNhbiBhbmVrcyA0IC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

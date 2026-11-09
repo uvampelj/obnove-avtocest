@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167285,
+  "type": "DOD",
+  "prev": 127225,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog.DARS št. 569/2019: Sanacija dilatacijskih stikov in asfaltov na premostitvenih objektih: Sklop 2: VA0104, VA0105, VA0495 - dodatna in manj dela",
+  "procurement": "Sanacija dilatacijskih stikov in asfaltov na premostitvenih objektih: Sklop 2: VA0104, VA0105, VA0495",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FINAL PASARIČ proizvodnja in trgovina d.o.o.",
+   "SITOLOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5452341000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-06",
+  "files": [
+   {
+    "name": "Aneks-1-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI4NTtBbmVrcy0xLTEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 165717,
+  "type": "DOD",
+  "prev": 110866,
+  "idObrazec": 771225,
+  "idDosje": 257842,
+  "title": "aneks št. 3 k pog. DARS št. 1774/18: Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na delih odsekov HC H3/0086 in 0686 LJ (Šmartinska-Tomačevo), H3/0088 in 0688 LJ (Tomačevo-Dunajska) in 0186 priključku LJ Črnuče (rondo Tomačevo)- dodatna dela in vključitev novega podizvajalca",
+  "procurement": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na delih odsekov HC H3/0086 in 0686 LJ (Šmartinska-Tomačevo), H3/0088 in 0688 LJ (Tomačevo-Dunajska) in 0186 priključku LJ Črnuče (rondo Tomačevo) ",
+  "kind": 1,
+  "value": 3441.62,
+  "signed": "2019-09-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003382/2018-X01/DOD-165717",
+  "published": "2020-11-15",
+  "files": [
+   {
+    "name": "Aneks št.3 k pog.št. 1774-18-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTcxNztBbmVrcyDFoXQuMyBrIHBvZy7FoXQuIDE3NzQtMTgtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

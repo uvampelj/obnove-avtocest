@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 194292,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 726843,
+  "idDosje": 403378,
+  "title": "VZDRŽEVANJE USMERJEVALNIKOV IN MREŽNIH STIKAL",
+  "procurement": "VZDRŽEVANJE USMERJEVALNIKOV IN MREŽNIH STIKAL",
+  "kind": 1,
+  "value": 274076.62,
+  "signed": "2021-10-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SRC sistemske integracije d.o.o."
+  ],
+  "contractor_ids": [
+   "1447190000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004293/2021-C01/POG-194292",
+  "published": "2021-10-12",
+  "files": [
+   {
+    "name": "Pogodba 1182-2201_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NDI5MjtQb2dvZGJhIDExODItMjIwMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

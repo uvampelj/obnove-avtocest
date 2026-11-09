@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 135101,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 692643,
+  "idDosje": 316408,
+  "title": "Vzdrževanje stenskih prikazovalnikov BARCO",
+  "procurement": "Vzdrževanje stenskih prikazovalnikov BARCO",
+  "kind": 1,
+  "value": 136505.8,
+  "signed": "2019-09-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MICOS mikroračunalniški industrijski sistemi, sistemi vodenj in avtomatizacije, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5358345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004994/2019-X01/POG-135101",
+  "published": "2019-09-30",
+  "files": [
+   {
+    "name": "Pogodba 1456-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNTEwMTtQb2dvZGJhIDE0NTYtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

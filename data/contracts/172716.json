@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 172716,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 715272,
+  "idDosje": 368762,
+  "title": "\tIzdelava strokovnih podlag, študije variant / predinvesticijske zasnove in okoljskega poročila za avtocesto na odseku Postojna - Jelšane",
+  "procurement": "\tIzdelava strokovnih podlag, študije variant / predinvesticijske zasnove in okoljskega poročila za avtocesto na odseku Postojna - Jelšane",
+  "kind": 1,
+  "value": 888141.7,
+  "signed": "2021-01-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5077923000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005996/2020-C01/POG-172716",
+  "published": "2021-02-05",
+  "files": [
+   {
+    "name": "Pogodba-JV LUZ+PNZ-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MjcxNjtQb2dvZGJhLUpWIExVWitQTlotb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

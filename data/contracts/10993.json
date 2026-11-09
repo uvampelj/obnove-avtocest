@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 10993,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634562,
+  "idDosje": 9741,
+  "title": "PZI IN IZVLEČKA PZI (ZA POTREBE RAZPISA) ZA REHABILITACIJI VIADUKTA RAVBARKOMANDA VA0174 (DESNI) NA AC A1/0055 UNEC - POSTOJNA V KM 6,337 TER VIADUKTA RAVBARKOMANDA VA0175 (LEVI) NA AC A1/0655 UNEC –",
+  "procurement": "PZI IN IZVLEČKA PZI (ZA POTREBE RAZPISA) ZA REHABILITACIJI VIADUKTA RAVBARKOMANDA VA0174 (DESNI) NA AC A1/0055 UNEC - POSTOJNA V KM 6,337 TER VIADUKTA RAVBARKOMANDA VA0175 (LEVI) NA AC A1/0655 UNEC –",
+  "kind": 1,
+  "value": 53440.88,
+  "signed": "2015-02-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROMICO d.o.o.",
+   "PROJEKTIVNI ATELJE - NG d.o.o."
+  ],
+  "contractor_ids": [
+   "2170388000",
+   "5622646000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV11/2015/POG-10993",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "89-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTkzOzg5LTE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

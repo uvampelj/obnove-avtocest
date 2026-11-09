@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 306338,
+  "type": "DOD",
+  "prev": 273231,
+  "idObrazec": 903001,
+  "idDosje": 508341,
+  "title": "Aneks št. 1 k pogodbi DARS št. 829/2024 za nabavo okoljsko manj obremenjujočega pisarniškega pohištva in opreme; dodatne dobave, manj dela",
+  "procurement": "Nabava okoljsko manj obremenjujočega pisarniškega pohištva in ostale opreme",
+  "kind": 2,
+  "value": 55363.51,
+  "signed": "2025-03-27",
+  "from": "2024-07-29",
+  "to": "2025-10-29",
+  "number": "000829/2024",
+  "contractors": [
+   "GONZAGA-PRO proizvodnja, trgovina, inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "1525786000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002069/2024-POG/01-D01",
+  "published": "2025-04-08",
+  "files": [
+   {
+    "name": "sken podpisanega aneksa za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY3ODI2O3NrZW4gcG9kcGlzYW5lZ2EgYW5la3NhIHphIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

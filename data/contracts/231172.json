@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 231172,
+  "type": "DOD",
+  "prev": 161161,
+  "idObrazec": 774661,
+  "idDosje": 336394,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1287/2020: Izdelava dokumentacije za pridobitev mnenj in gradbenega dovoljenja (DGD) in projektne dokumentacije za izvedbo (PZI) za izgradnjo 3. in 4. etape nove prometne povezave med avtocesto A2 Ljubljana - Obrežje do priključka Maline",
+  "procurement": "IZDELAVA DOKUMENTACIJE ZA PRIDOBITEV MNENJ IN GRADBENEGA DOVOLJENJA (DGD) IN PROJEKTNE DOKUMENTACIJE ZA IZVEDBO (PZI) ZA IZGRADNJO 3. IN 4. ETAPE NOVE PROMETNE POVEZAVE MED AVTOCESTO A2 LJUBLJANA - OBREŽJE DO PRIKLJUČKA MALINE",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-01-13",
+  "from": "2023-01-13",
+  "to": "2023-11-23",
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5397014000",
+   "5522749000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008866/2019-C01/DOD-231172",
+  "published": "2023-02-10",
+  "files": [
+   {
+    "name": "Aneks-1-portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMjE1MztBbmVrcy0xLXBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

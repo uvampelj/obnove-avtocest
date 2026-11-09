@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 471767,
+  "type": "DOD",
+  "prev": 262283,
+  "idObrazec": 1170849,
+  "idDosje": 489919,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 422/2024 za Obnovo ceste in objektov na odsekih AC Al 0036 in 0636 Fram-Slovenska Bistrica od km 0,500 do km 4,200 ",
+  "procurement": "Obnova ceste in objektov na odsekih AC A1 0036 in 0636 Fram-Slovenska Bistrica od km 0,500 do km 4,200",
+  "kind": 3,
+  "value": 1198114.07,
+  "signed": "2026-08-14",
+  "from": "2026-03-14",
+  "to": "2026-12-14",
+  "number": "000422/2024",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d.",
+   "CESTNO PODJETJE PTUJ D.D."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5143284000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "005522/2023-POG/01-D01",
+  "published": "2026-08-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNDQzO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

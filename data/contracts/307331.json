@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 307331,
+  "type": "DOD",
+  "prev": 303622,
+  "idObrazec": 905541,
+  "idDosje": 517453,
+  "title": "Aneks 1, DARS št. 661/2025",
+  "procurement": "Izvedba letnih Presoj sistema vodenja po zahtevah standardov ISO 9001, ISO 14001, ISO 50001, ISO/IEC 27001 in ISO 22301",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-04-16",
+  "from": null,
+  "to": null,
+  "number": "000530/2025",
+  "contractors": [
+   "SLOVENSKI INSTITUT ZA KAKOVOST IN MEROSLOVJE, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5700108000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000104/2025-POG/01-D01",
+  "published": "2025-04-16",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 661-2025 k pog. DARS 530-2025,ridigirano_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY5OTQxO0FuZWtzIDEsIERBUlMgxaF0LiA2NjEtMjAyNSBrIHBvZy4gREFSUyA1MzAtMjAyNSxyaWRpZ2lyYW5vX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

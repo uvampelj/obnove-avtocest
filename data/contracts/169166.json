@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 169166,
+  "type": "DOD",
+  "prev": 124883,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.1 k pogodbi DARS št. 476/2019: Izdelava okoljskega poročila in dodatka za presojo sprejemljivosti vplivov izvedbe planov in posegov na varovana območja za glavno cesto Ptuj – Markovci, vključno z vsemi potrebnimi strokovnimi podlagami - dodatna in več dela",
+  "procurement": "Izdelava okoljskega poročila in dodatka za presojo sprejemljivosti vplivov izvedbe planov in posegov na varovana območja za glavno cesto Ptuj – Markovci, vključno z vsemi potrebnimi strokovnimi podlagami",
+  "kind": 1,
+  "value": 94788.92,
+  "signed": "2020-11-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AQUARIUS ekološki inženiring d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5424534000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-04",
+  "files": [
+   {
+    "name": "Aneks-1-objava-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTE2NjtBbmVrcy0xLW9iamF2YS0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 63308,
+  "type": "DOD",
+  "prev": 39734,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 za spremembo odgovornega vodje del za linijske objekte (cestni del) in premostitvene objekte ter nominacijo dodatnih podizvajalcev",
+  "procurement": "Aneks št. 1 za spremembo odgovornega vodje del za linijske objekte (cestni del) in premostitvene objekte ter nominacijo dodatnih podizvajalcev",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2017-02-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGP, d.d."
+  ],
+  "contractor_ids": [
+   "5069149000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-02-24",
+  "files": [
+   {
+    "name": "Aneks št. 1_DARS_167_2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzMzA4O0FuZWtzIMWhdC4gMV9EQVJTXzE2N18yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

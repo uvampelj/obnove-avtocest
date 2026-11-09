@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "id": 202629,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 731245,
+  "idDosje": 409910,
+  "title": "Dobava zemeljskega plina v obdobju 2022-2025",
+  "procurement": "Dobava zemeljskega plina v obdobju 2022-2025",
+  "kind": 2,
+  "value": 362000.0,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana",
+   "ENERGETIKA CELJE javno podjetje, d.o.o.",
+   "JAVNO PODJETJE ENERGETIKA LJUBLJANA d.o.o.",
+   "GEOPLIN d.o.o. Ljubljana, Družba za trgovanje z zemeljskim plinom"
+  ],
+  "contractor_ids": [
+   "5025796000",
+   "5914531000",
+   "5226406000",
+   "5025869000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005474/2021-C01/POG-202629",
+  "published": "2022-01-21",
+  "files": [
+   {
+    "name": "OKVIRNI SPORAZUMI za obd 2022-2025_UL.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMjYyOTtPS1ZJUk5JIFNQT1JBWlVNSSB6YSBvYmQgMjAyMi0yMDI1X1VMLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

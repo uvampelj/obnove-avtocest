@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 18154,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637317,
+  "idDosje": 80945,
+  "title": "Servisiranje vozil IVECO izven garancijske dobe.",
+  "procurement": "Servisiranje vozil IVECO izven garancijske dobe.",
+  "kind": 1,
+  "value": 528821.2,
+  "signed": "2015-08-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN5453/2015/POG-18154",
+  "published": "2015-08-11",
+  "files": [
+   {
+    "name": "D13150000650_150810_121119 - pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MTU0O0QxMzE1MDAwMDY1MF8xNTA4MTBfMTIxMTE5IC0gcG9nb2RiYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

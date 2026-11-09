@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 328720,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 968984,
+  "idDosje": 524491,
+  "title": "Izdelava izvedbenega načrta za preplastitev voziščne konstrukcije na odsekih AC A1 0071/0671 Dragučova—MB (Ptujska c.), 0066/0666 Mb (Ptujska c.)—Slivnica ter priključkih 0163 Zrkovci in 0162 MB (Ptujska c.)",
+  "procurement": "Izdelava izvedbenega načrta za preplastitev voziščne konstrukcije na odsekih AC A1 0071/0671 Dragučova—MB (Ptujska c.), 0066/0666 Mb (Ptujska c.)—Slivnica ter priključkih 0163 Zrkovci in 0162 MB (Ptujska c.)",
+  "kind": 1,
+  "value": 248439.09,
+  "signed": "2025-11-27",
+  "from": "2025-11-27",
+  "to": "2026-09-27",
+  "number": "001295/2025",
+  "contractors": [
+   "TNT Projektiranje in inženiring d.o.o.",
+   "STRABAG gradbene storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "9047115000",
+   "5879566000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006087/2025-POG/01",
+  "published": "2025-12-23",
+  "files": [
+   {
+    "name": "Pogodba JV TNT+Strabag_1295-25_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIwNzExO1BvZ29kYmEgSlYgVE5UK1N0cmFiYWdfMTI5NS0yNV9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

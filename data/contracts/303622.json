@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 303622,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 896471,
+  "idDosje": 517453,
+  "title": "Izvedba letnih Presoj sistema vodenja po zahtevah standardov ISO 9001, ISO 14001, ISO 50001, ISO/IEC 27001 in ISO 22301",
+  "procurement": "Izvedba letnih Presoj sistema vodenja po zahtevah standardov ISO 9001, ISO 14001, ISO 50001, ISO/IEC 27001 in ISO 22301",
+  "kind": 1,
+  "value": 106262.0,
+  "signed": "2025-03-12",
+  "from": "2025-03-12",
+  "to": "2028-03-12",
+  "number": "000530/2025",
+  "contractors": [
+   "SLOVENSKI INSTITUT ZA KAKOVOST IN MEROSLOVJE, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5700108000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000104/2025-POG/01",
+  "published": "2025-03-14",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 530-2025-SIQ Ljubljana_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUyMzE2O1BvZ29kYmEgREFSUyDFoXQuIDUzMC0yMDI1LVNJUSBManVibGphbmFfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

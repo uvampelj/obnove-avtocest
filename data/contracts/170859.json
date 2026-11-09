@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 170859,
+  "type": "DOD",
+  "prev": 78734,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 435/2017: Izdelava projektne dokumentacije PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana–Obrežje pri Novem mestu do priključka Maline ",
+  "procurement": "Izdelava PGD in PZI za izgradnjo 1. in 2. etape nove prometne povezave med avtocesto A2 Ljubljana–Obrežje pri Novem mestu do priključka Maline",
+  "kind": 1,
+  "value": 574184.74,
+  "signed": "2020-10-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-01-15",
+  "files": [
+   {
+    "name": "Aneks št.1 k pog.435-17-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MDg1OTtBbmVrcyDFoXQuMSBrIHBvZy40MzUtMTctb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

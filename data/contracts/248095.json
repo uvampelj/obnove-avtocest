@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248095,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 760752,
+  "idDosje": 466767,
+  "title": "POGODBA: Zavarovanje AC infrastrukture v upravljanju DARS; SKLOP 2 - Zavarovanje avtocestne infrastrukture v upravljanju DARS (excess)",
+  "procurement": "Zavarovanje AC infrastrukture v upravljanju DARS",
+  "kind": 1,
+  "value": 2592010.24,
+  "signed": "2023-09-18",
+  "from": "2023-09-01",
+  "to": "2024-12-01",
+  "number": "000979/2023",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008561/2022-C01/POG-248095",
+  "published": "2023-09-25",
+  "files": [
+   {
+    "name": "POGODBA 979-2023_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTI2NTtQT0dPREJBIDk3OS0yMDIzX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 230923,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 747700,
+  "idDosje": 460881,
+  "title": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "procurement": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "kind": 2,
+  "value": 59072.0,
+  "signed": "2023-01-31",
+  "from": "2023-01-31",
+  "to": "2026-01-31",
+  "number": "000122/2023",
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007078/2022-X01/POG-230923",
+  "published": "2023-02-07",
+  "files": [
+   {
+    "name": "R pogodba 122-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTgxMTtSIHBvZ29kYmEgMTIyLTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

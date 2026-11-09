@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 289870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 861721,
+  "idDosje": 511998,
+  "title": "Dobava pisarniškega materiala",
+  "procurement": "Dobava pisarniškega materiala",
+  "kind": 2,
+  "value": 158979.24,
+  "signed": "2024-10-21",
+  "from": "2024-10-21",
+  "to": "2028-01-21",
+  "number": "001057/2024",
+  "contractors": [
+   "BIROPRODAJA storitve in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "3991512000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004938/2024-POG/01",
+  "published": "2024-10-23",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1057-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI0MTg5O1BvZHBpc2FuYSBwb2dvZGJhIDEwNTctMjAyNF9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

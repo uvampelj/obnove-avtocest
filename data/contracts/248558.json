@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248558,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 761083,
+  "idDosje": 488535,
+  "title": "Pogodba Dobava in montaža silosa na izpostavi Dob",
+  "procurement": "Dobava in montaža silosa na izpostavi Dob",
+  "kind": 2,
+  "value": 816790.0,
+  "signed": "2023-09-29",
+  "from": "2023-09-29",
+  "to": "2024-07-02",
+  "number": "001016/2023",
+  "contractors": [
+   "TIMCO CONSULTING trgovina, inženiring, storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1277049000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005147/2023-X01/POG-248558",
+  "published": "2023-10-02",
+  "files": [
+   {
+    "name": "Pogodba 142_23_PJN_1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTc2MTtQb2dvZGJhIDE0Ml8yM19QSk5fMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

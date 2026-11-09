@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265876,
+  "type": "DOD",
+  "prev": 129264,
+  "idObrazec": 809493,
+  "idDosje": 310776,
+  "title": " Aneks št. 1 k pogodbi DARS št. 846/2019 za Zavarovanje premoženja, premoženjskih interesov in kolektivnega nezgodnega zavarovanja, Sklop 3 - Nezgodno zavarovanje; povečanje pogodbene vrednosti",
+  "procurement": "ZAVAROVANJE PREMOŽENJA, PREMOŽENJSKIH INTERESOV IN KOLEKTIVNEGA NEZGODNEGA ZAVAROVANJA",
+  "kind": 1,
+  "value": 11500.0,
+  "signed": "2024-04-19",
+  "from": "2024-04-19",
+  "to": "2024-09-30",
+  "number": "000552/2024",
+  "contractors": [
+   "ZAVAROVALNICA TRIGLAV, d.d."
+  ],
+  "contractor_ids": [
+   "5063345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003813/2019-C01/POG-129264-D01",
+  "published": "2024-04-25",
+  "files": [
+   {
+    "name": "Aneks-st1-k-pogodbi-846-2019_podpisano_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgwNTg1O0FuZWtzLXN0MS1rLXBvZ29kYmktODQ2LTIwMTlfcG9kcGlzYW5vX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

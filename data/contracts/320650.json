@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 320650,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 945057,
+  "idDosje": 522523,
+  "title": "Pogodba Čiščenje službenih oblek in osebne varovalne opreme",
+  "procurement": "Čiščenje službenih oblek in osebne varovalne opreme",
+  "kind": 1,
+  "value": 32382.46,
+  "signed": "2025-09-19",
+  "from": "2025-09-23",
+  "to": "2028-12-23",
+  "number": "001130/2025",
+  "contractors": [
+   "CWS WORKWEAR tekstilne storitve d.o.o.",
+   "CWS WORKWEAR tekstilne storitve d.o.o.",
+   "CWS WORKWEAR tekstilne storitve d.o.o.",
+   "CWS WORKWEAR tekstilne storitve d.o.o.",
+   "CWS WORKWEAR tekstilne storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5880742000",
+   "5880742000",
+   "5880742000",
+   "5880742000",
+   "5880742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004373/2025-POG/01",
+  "published": "2025-09-23",
+  "files": [
+   {
+    "name": "PJN 133-25 pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDAxNjE0O1BKTiAxMzMtMjUgcG9nb2RiYS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 303233,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 895453,
+  "idDosje": 516000,
+  "title": "Vzdrževanje sistema LED smernikov za vidno vodenje prometa v megli na lokacijah Goli vrh in Višnja Gora",
+  "procurement": "Vzdrževanje sistema LED smernikov za vidno vodenje prometa v megli na lokacijah Goli vrh in Višnja Gora",
+  "kind": 2,
+  "value": 145942.5,
+  "signed": "2025-03-10",
+  "from": "2025-03-10",
+  "to": "2028-06-10",
+  "number": "000384/2025",
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008184/2024-POG/01",
+  "published": "2025-03-12",
+  "files": [
+   {
+    "name": "Podpisana pogodba 384-2025_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzUxMzUxO1BvZHBpc2FuYSBwb2dvZGJhIDM4NC0yMDI1X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

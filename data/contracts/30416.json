@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 30416,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 643007,
+  "idDosje": 72389,
+  "title": "GEOLOŠKE, GEOTEHNIČNE IN HIDROGEOLOŠKE RAZISKAVE ZA IZDELAVO STROKOVNIH PODLAG PROJEKTNE DOKUMENTACIJE ZA DOGRADITEV VZHODNE CEVI PREDORA KARAVANKE (NIVO PGD, PZI)",
+  "procurement": "GEOLOŠKE, GEOTEHNIČNE IN HIDROGEOLOŠKE RAZISKAVE ZA IZDELAVO STROKOVNIH PODLAG PROJEKTNE DOKUMENTACIJE ZA DOGRADITEV VZHODNE CEVI PREDORA KARAVANKE (NIVO PGD, PZI)",
+  "kind": 1,
+  "value": 3029623.71,
+  "signed": "2016-01-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN125/2016/POG-30416",
+  "published": "2016-01-28",
+  "files": [
+   {
+    "name": "pogodba 15-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMwNDE2O3BvZ29kYmEgMTUtMjAxNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

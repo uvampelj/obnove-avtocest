@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70593,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659184,
+  "idDosje": 191244,
+  "title": "Izvajanje deratizacije",
+  "procurement": "Izvajanje deratizacije",
+  "kind": 1,
+  "value": 47304.0,
+  "signed": "2017-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SANITEH d.o.o."
+  ],
+  "contractor_ids": [
+   "2351978000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001666/2017-X01/POG-70593",
+  "published": "2017-05-12",
+  "files": [
+   {
+    "name": "pogodba 400-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwNTkzO3BvZ29kYmEgNDAwLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

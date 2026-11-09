@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 271870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 828436,
+  "idDosje": 509175,
+  "title": "Sklop 2 – Stenski prikazovalnik proizvajalca Mitsubishi v NC Kozina ",
+  "procurement": "VZDRŽEVANJE STENSKIH PRIKAZOVALNIKOV",
+  "kind": 1,
+  "value": 42435.26,
+  "signed": "2024-07-16",
+  "from": "2024-07-16",
+  "to": "2026-07-16",
+  "number": "000794/2024",
+  "contractors": [
+   "EXOR ETI rešitve za energetiko, transport in industrijo d.o.o."
+  ],
+  "contractor_ids": [
+   "1941224000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002666/2024-POG/02",
+  "published": "2024-07-17",
+  "files": [
+   {
+    "name": "Pogodba - EXOR ETI_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk1NzA4O1BvZ29kYmEgLSBFWE9SIEVUSV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

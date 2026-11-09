@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 142938,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 696292,
+  "idDosje": 324357,
+  "title": "Vzdrževanje klimatskih in prezračevalnih naprav",
+  "procurement": "Vzdrževanje klimatskih in prezračevalnih naprav",
+  "kind": 1,
+  "value": 553453.0,
+  "signed": "2019-12-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006474/2019-C01/POG-142938",
+  "published": "2020-01-06",
+  "files": [
+   {
+    "name": "pogodba 1757-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjkzODtwb2dvZGJhIDE3NTctMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

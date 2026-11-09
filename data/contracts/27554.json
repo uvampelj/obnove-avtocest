@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27554,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641548,
+  "idDosje": 9753,
+  "title": "Izbira revizorja družbe DARS d.d. za poslovno leto 2015",
+  "procurement": "Izbira revizorja družbe DARS d.d. za poslovno leto 2015",
+  "kind": 1,
+  "value": 26848.8,
+  "signed": "2015-10-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DELOITTE REVIZIJA d.o.o."
+  ],
+  "contractor_ids": [
+   "1647105000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV6391/2015/POG-27554",
+  "published": "2015-12-22",
+  "files": [
+   {
+    "name": "pogodba 804-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3NTU0O3BvZ29kYmEgODA0LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

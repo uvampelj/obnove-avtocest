@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 243509,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 757274,
+  "idDosje": 472793,
+  "title": "Opravljanje tehničnih pregledov ter pripadajočih storitev, sklop 6",
+  "procurement": "Opravljanje tehničnih pregledov ter pripadajočih storitev",
+  "kind": 1,
+  "value": 81217.49,
+  "signed": "2023-07-06",
+  "from": "2023-07-06",
+  "to": "2026-07-06",
+  "number": "000821/2023",
+  "contractors": [
+   "NM CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "8243204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001215/2023-C01/POG-243509",
+  "published": "2023-07-21",
+  "files": [
+   {
+    "name": "pogodba SKLOP 6_RedUL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjIwNztwb2dvZGJhIFNLTE9QIDZfUmVkVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

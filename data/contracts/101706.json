@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 101706,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 674673,
+  "idDosje": 251576,
+  "title": "Servisiranje kompresorskih postaj",
+  "procurement": "Servisiranje kompresorskih postaj",
+  "kind": 1,
+  "value": 173545.0,
+  "signed": "2018-06-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMEGA AIR Inženiring, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5503795000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002594/2018-X01/POG-101706",
+  "published": "2018-06-28",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1588-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMTcwNjtQb2dvZGJhIERBUlMgxaF0LiAxNTg4LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

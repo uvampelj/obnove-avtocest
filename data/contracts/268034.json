@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 268034,
+  "type": "DOD",
+  "prev": 243263,
+  "idObrazec": 816002,
+  "idDosje": 474655,
+  "title": "Aneks št. 1 k pogodbi DARS št. 837/2023 za Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "procurement": "Obratovalni monitoring hrupa in Strokovne podlage za operativni program varstva pred hrupom za ceste v upravljanju DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-05-21",
+  "from": "2023-07-12",
+  "to": "2025-01-12",
+  "number": "000637/2024",
+  "contractors": [
+   "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o.",
+   "EPI SPEKTRUM varstvo okolja, informacijski sistemi in storitve d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "3386597000",
+   "1300342000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001686/2023-C01/POG-243263-D01",
+  "published": "2024-05-24",
+  "files": [
+   {
+    "name": "aneks 1 k pog 837-2023_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg1ODAyO2FuZWtzIDEgayBwb2cgODM3LTIwMjNfcG9kcGlzYW5fUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27832,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641667,
+  "idDosje": 79694,
+  "title": "Dobava signalne prikolice",
+  "procurement": "Dobava signalne prikolice",
+  "kind": 2,
+  "value": 23060.93,
+  "signed": "2015-12-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SWARCO LEA d.o.o."
+  ],
+  "contractor_ids": [
+   "5444063000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN9057/2015/POG-27832",
+  "published": "2015-12-24",
+  "files": [
+   {
+    "name": "Pogodba 1089-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3ODMyO1BvZ29kYmEgMTA4OS0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 72144,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659945,
+  "idDosje": 199242,
+  "title": "Vzdrževanje, razvoj in podpora informacijskega sistema RAMPA",
+  "procurement": "Vzdrževanje, razvoj in podpora informacijskega sistema RAMPA",
+  "kind": 1,
+  "value": 41431.2,
+  "signed": "2017-06-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DFG CONSULTING, d.o.o."
+  ],
+  "contractor_ids": [
+   "5940826000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003327/2017-C01/POG-72144",
+  "published": "2017-06-05",
+  "files": [
+   {
+    "name": "pogodba 469-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcyMTQ0O3BvZ29kYmEgNDY5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

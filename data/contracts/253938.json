@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 253938,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 764947,
+  "idDosje": 491159,
+  "title": "DOBAVA PVC VREČ",
+  "procurement": "DOBAVA PVC VREČ",
+  "kind": 2,
+  "value": 67331.8,
+  "signed": "2023-12-12",
+  "from": "2023-12-12",
+  "to": "2025-12-12",
+  "number": "001466/2023",
+  "contractors": [
+   "PIRMIT predelava in reciklaža plastike d.o.o."
+  ],
+  "contractor_ids": [
+   "1701134000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005722/2023-X01/POG-253938",
+  "published": "2023-12-13",
+  "files": [
+   {
+    "name": "Pogodba PIRMIT_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NzUyNTtQb2dvZGJhIFBJUk1JVF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

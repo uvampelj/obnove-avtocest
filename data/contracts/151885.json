@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 151885,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 702232,
+  "idDosje": 342246,
+  "title": "Prevzem odpadnih tunelskih pralnih vod v ACB Vransko",
+  "procurement": "Prevzem odpadnih tunelskih pralnih vod v ACB Vransko",
+  "kind": 1,
+  "value": 81303.75,
+  "signed": "2020-05-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AGJ, arhitekturno projektiranje in ravnanje z odplakami, d.o.o."
+  ],
+  "contractor_ids": [
+   "3455980000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000618/2020-X02/POG-151885",
+  "published": "2020-05-14",
+  "files": [
+   {
+    "name": "pogodba 1063-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTg4NTtwb2dvZGJhIDEwNjMtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

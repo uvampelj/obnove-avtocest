@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 311673,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 918292,
+  "idDosje": 519642,
+  "title": "Pogodba za Čiščenje sanitarnega objekta na kontrolni točki Dolinsko sever",
+  "procurement": "Čiščenje sanitarnega objekta na kontrolni točki Dolinsko sever",
+  "kind": 1,
+  "value": 69100.8,
+  "signed": "2025-06-03",
+  "from": "2025-06-03",
+  "to": "2029-09-03",
+  "number": "000797/2025",
+  "contractors": [
+   "MIV SERVIS, storitve, trgovina in proizvodnja, d.o.o."
+  ],
+  "contractor_ids": [
+   "5491789000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001913/2025-POG/01",
+  "published": "2025-06-06",
+  "files": [
+   {
+    "name": "Pogodba MIV 52_2025 PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzgwMjQzO1BvZ29kYmEgTUlWIDUyXzIwMjUgUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

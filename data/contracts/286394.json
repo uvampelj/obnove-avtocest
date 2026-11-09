@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 286394,
+  "type": "DOD",
+  "prev": 122547,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 126/2019 za izdelavo projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič; dodatne storitve, podaljšanje pogodbenega roka",
+  "procurement": "Izdelava projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič",
+  "kind": 1,
+  "value": 52033.0,
+  "signed": "2024-09-06",
+  "from": "2019-02-13",
+  "to": "2025-05-13",
+  "number": "000126/2019",
+  "contractors": [
+   "studio abiro, arhitekturno načrtovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2136392000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2024-09-11",
+  "files": [
+   {
+    "name": "aneks 2 k pog 126-2019 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE2MDY0O2FuZWtzIDIgayBwb2cgMTI2LTIwMTkgLSB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

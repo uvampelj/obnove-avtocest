@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 123538,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 685646,
+  "idDosje": 296378,
+  "title": "HIDROLOŠKO HIDRAVLIČNA ŠTUDIJA ZA PRIPRAVO DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO SLOVENJ GRADEC-JUG – DRAVOGRAD, III. RAZVOJNA OS",
+  "procurement": "HIDROLOŠKO HIDRAVLIČNA ŠTUDIJA ZA PRIPRAVO DRŽAVNEGA PROSTORSKEGA NAČRTA ZA DRŽAVNO CESTO SLOVENJ GRADEC-JUG – DRAVOGRAD, III. RAZVOJNA OS",
+  "kind": 1,
+  "value": 192125.6,
+  "signed": "2019-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000623/2019-X01/POG-123538",
+  "published": "2019-04-01",
+  "files": [
+   {
+    "name": "Pogodba-IZVO-R..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMzUzODtQb2dvZGJhLUlaVk8tUi4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

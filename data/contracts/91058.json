@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91058,
+  "type": "DOD",
+  "prev": 72796,
+  "idObrazec": 769220,
+  "idDosje": 199007,
+  "title": "Aneks št. 1 k pogodbi DARS št. 480/2017",
+  "procurement": "Vzdrževanje in razvoj cestno-vremenskega informacijskega sistema (CVIS)",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-01-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS plus d.o.o."
+  ],
+  "contractor_ids": [
+   "1880128000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003297/2017-X01/DOD-91058",
+  "published": "2018-01-31",
+  "files": [
+   {
+    "name": "Sprememba 111-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxMDU4O1NwcmVtZW1iYSAxMTEtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

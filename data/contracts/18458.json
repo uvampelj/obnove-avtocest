@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 18458,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637475,
+  "idDosje": 72161,
+  "title": "Izvedba predhodnih arheoloških raziskav  na lokaciji Lancova vas (EŠD 27971 in EŠD 27972) na trasi AC Draženci – MMP Gruškovje.",
+  "procurement": "Izvedba predhodnih arheoloških raziskav  na lokaciji Lancova vas (EŠD 27971 in EŠD 27972) na trasi AC Draženci – MMP Gruškovje.",
+  "kind": 1,
+  "value": 2071334.3,
+  "signed": "2015-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PJP d.o.o."
+  ],
+  "contractor_ids": [
+   "5476089000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5448/2015/POG-18458",
+  "published": "2015-08-17",
+  "files": [
+   {
+    "name": "pogodba 526-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDU4O3BvZ29kYmEgNTI2LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

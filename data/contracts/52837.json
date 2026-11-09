@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 52837,
+  "type": "DOD",
+  "prev": 24092,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog.DARS št. 800/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKU AC A1/0066 IN 0666 MARIBOR (PTUJSKA) – SLIVNICA OD KM 0,810 DO KM 4,750 -nominacija podizvajalca,podaljšanje roka  ",
+  "procurement": "aneks št. 1 k pog.DARS št. 800/15:OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKU AC A1/0066 IN 0666 MARIBOR (PTUJSKA) – SLIVNICA OD KM 0,810 DO KM 4,750 -nominacija podizvajalca,podaljšanje roka  ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VOC Celje, d.d.",
+   "POMGRAD d.d."
+  ],
+  "contractor_ids": [
+   "5511941000",
+   "5459001000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "699-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODM3OzY5OS0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

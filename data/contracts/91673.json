@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 91673,
+  "type": "DOD",
+  "prev": 18210,
+  "idObrazec": 767461,
+  "idDosje": 26738,
+  "title": " Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0055 Unec – Postojna od km 4,850 do km 7,030 in na A1/0655 Unec – Postojna od km 0,720 do km 7,030 ",
+  "procurement": "Izdelava PZI projektne dokumentacije za obnovo voziščne konstrukcije na odsekih AC A1/0055 Unec – Postojna od km 4,850 do km 7,030 in na A1/0655 Unec – Postojna od km 0,720 do km 7,030",
+  "kind": 1,
+  "value": 11716.88,
+  "signed": "2017-03-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV4551/2015/DOD-91673",
+  "published": "2018-02-10",
+  "files": [
+   {
+    "name": "Aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkxNjczO0FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 82073,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 664281,
+  "idDosje": 212618,
+  "title": "Revizorske storitve v obdobju petih let",
+  "procurement": "Revizorske storitve v obdobju petih let",
+  "kind": 1,
+  "value": 243871.9,
+  "signed": "2017-09-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KPMG SLOVENIJA, podjetje za revidiranje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5648556000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006674/2017-X01/POG-82073",
+  "published": "2017-10-02",
+  "files": [
+   {
+    "name": "pogodbi KPMG 000113-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTgyMDczO3BvZ29kYmkgS1BNRyAwMDAxMTMtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

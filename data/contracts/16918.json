@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16918,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636780,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB HRUŠICA",
+  "kind": 1,
+  "value": 37815.85,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASP d.o.o."
+  ],
+  "contractor_ids": [
+   "5524466000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16918",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba ASP d.o.o. - 550-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTE4O1BvZ29kYmEgQVNQIGQuby5vLiAtIDU1MC0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

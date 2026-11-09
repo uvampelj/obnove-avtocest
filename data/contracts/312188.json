@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 312188,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 919799,
+  "idDosje": 520063,
+  "title": "SERVISIRANJE DVIŽNIH ZAPORNIC",
+  "procurement": "SERVISIRANJE DVIŽNIH ZAPORNIC",
+  "kind": 1,
+  "value": 87840.0,
+  "signed": "2025-06-11",
+  "from": "2025-06-11",
+  "to": "2028-09-12",
+  "number": "000826/2025",
+  "contractors": [
+   "Hörmann Slovenija, montaža, zastopanje in posredovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5332729000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002274/2025-POG/01",
+  "published": "2025-06-12",
+  "files": [
+   {
+    "name": "Pogodba Hormann_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzgxNDUzO1BvZ29kYmEgSG9ybWFubl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

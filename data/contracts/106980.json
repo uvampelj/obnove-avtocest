@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 106980,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 677203,
+  "idDosje": 257409,
+  "title": "Montaža, demontaža in prevoz miniguarda",
+  "procurement": "Montaža, demontaža in prevoz miniguarda",
+  "kind": 1,
+  "value": 244000.0,
+  "signed": "2018-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DELTABLOC, varnostne in protihrupne ograje d.o.o."
+  ],
+  "contractor_ids": [
+   "7184590000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003286/2018-C01/POG-106980",
+  "published": "2018-08-29",
+  "files": [
+   {
+    "name": "Pogodba 1780-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNjk4MDtQb2dvZGJhIDE3ODAtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

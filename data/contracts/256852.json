@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 256852,
+  "type": "DOD",
+  "prev": 142508,
+  "idObrazec": 785010,
+  "idDosje": 324328,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1667/2019 za Čiščenje sanitarnih objektov na počivališčih SKLOP 4 - Grabonoš - sever; podaljšanje roka izvajanja osnovne pogodbe, povečanje vrednosti osnovne pogodbe",
+  "procurement": "Lopata-jug,Povodje-vzhod, Povodje-zahod,Lipce-sever, Lipce-jug,Grabonoš-sever,Murska Sobota-sever,Studenec-sever, Studenec-jug",
+  "kind": 1,
+  "value": 3091.48,
+  "signed": "2024-01-08",
+  "from": "2023-12-01",
+  "to": "2024-01-12",
+  "number": null,
+  "contractors": [
+   "UREJANJE OKOLICE - ERIH GOLIHLEB S.P.",
+   "RINO, trgovina in ostale storitve, d.o.o.",
+   "MIV SERVIS, storitve, trgovina in proizvodnja, d.o.o."
+  ],
+  "contractor_ids": [
+   "3336085000",
+   "1510274000",
+   "5491789000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006476/2019-C01/POG-142508-D01",
+  "published": "2024-01-23",
+  "files": [
+   {
+    "name": "Aneks-st1-k-pogodbi-1667-2019_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjYxNzg5O0FuZWtzLXN0MS1rLXBvZ29kYmktMTY2Ny0yMDE5X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

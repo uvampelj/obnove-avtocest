@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52800,
+  "type": "DOD",
+  "prev": 11007,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 31/15:IZVEDBA PASIVNE PROTIHRUPNE ZAŠČITE ZA NOVO ZRKOVSKO CESTO",
+  "procurement": "aneks št. 1 k pog. DARS št. 31/15:IZVEDBA PASIVNE PROTIHRUPNE ZAŠČITE ZA NOVO ZRKOVSKO CESTO",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2015-10-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AJM OKNA-VRATA-SENČILA d.o.o. Pesnica, Kozjak nad Pesnico 2/a, PODRUŽNICA KRANJ"
+  ],
+  "contractor_ids": [
+   "5391610001"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "812-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODAwOzgxMi0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

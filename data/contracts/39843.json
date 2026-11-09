@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 39843,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647569,
+  "idDosje": 18695,
+  "title": "Prevzem odpadne tunelske pralne vode za ACB Murska Sobota in ACB Maribor",
+  "procurement": "Prevzem odpadne tunelske pralne vode za ACB Murska Sobota in ACB Maribor",
+  "kind": 1,
+  "value": 39283.12,
+  "signed": "2016-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AGJ REBERNIK GORAN S.P."
+  ],
+  "contractor_ids": [
+   "1921185000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002858/2016-X01/POG-39843",
+  "published": "2016-06-20",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5ODQzO1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

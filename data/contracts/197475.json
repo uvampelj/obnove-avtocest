@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 197475,
+  "type": "DOD",
+  "prev": 122228,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k pogodbi DARS št. 674/2015; izdelava projektne dokumentacije PGD/PZI za izgradnjo AC priključka Dragomer (Brezovica - zahod); dodatna dela, spremenjen obseg del, podaljšanje roka, imenovanje novih strokovnjakov",
+  "procurement": "Izdelava projektne dokumentacije PGD/PZI za izgradnjo AC priključka Dragomer (Brezovica - zahod)",
+  "kind": 1,
+  "value": 7701.56,
+  "signed": "2021-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-11-10",
+  "files": [
+   {
+    "name": "aneks3 k pog 674-2015-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NzQ3NTthbmVrczMgayBwb2cgNjc0LTIwMTUtemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

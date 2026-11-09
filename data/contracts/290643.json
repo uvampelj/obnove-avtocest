@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290643,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 863841,
+  "idDosje": 512752,
+  "title": "Sklop 1 - Blažilci trka VECO STOP",
+  "procurement": "SERVISIRANJE BLAŽILCEV TRKA",
+  "kind": 1,
+  "value": 1499039.01,
+  "signed": "2024-10-24",
+  "from": "2024-10-24",
+  "to": "2028-01-24",
+  "number": "001068/2024",
+  "contractors": [
+   "LIKO Industrija kovinske opreme, d.d. Liboje"
+  ],
+  "contractor_ids": [
+   "5206855000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005567/2024-POG/01",
+  "published": "2024-11-04",
+  "files": [
+   {
+    "name": "Pogodba - LIKO_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1OTI4O1BvZ29kYmEgLSBMSUtPX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

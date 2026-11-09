@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 25196,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640613,
+  "idDosje": 77434,
+  "title": "Dobava posipnih materialov NaCl, evaporirana sol.",
+  "procurement": "Dobava posipnih materialov NaCl, evaporirana sol.",
+  "kind": 2,
+  "value": 3220800.0,
+  "signed": "2015-11-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SALINEN PROSOL d.o.o."
+  ],
+  "contractor_ids": [
+   "5687667000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7791/2015/POG-25196",
+  "published": "2015-11-12",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTk2O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 216738,
+  "type": "DOD",
+  "prev": 157216,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 1273/2020",
+  "procurement": "Aneks št. 2 k pogodbi DARS št. 1273/2020",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-07-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASFINAG COMMERCIAL SERVICES GmbH"
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-07-21",
+  "files": [
+   {
+    "name": "R Aneks DARS št. 1048-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxNjczODtSIEFuZWtzIERBUlMgxaF0LiAxMDQ4LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

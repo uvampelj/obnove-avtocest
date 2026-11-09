@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 176361,
+  "type": "DOD",
+  "prev": 148729,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1635/19: Izdelava računalniškega simulatorja za usposabljanje nadzornikov prometa v regionalnih nadzornih centrih - podaljšanje pogodbenega roka",
+  "procurement": " IZDELAVA RAČUNALNIŠKEGA SIMULATORJA ZA USPOSABLJANJE NADZORNIKOV PROMETA V REGIONALNIH NADZORNIH CENTRIH",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-02-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o.",
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000",
+   "5459966000",
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-03-15",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjM2MTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

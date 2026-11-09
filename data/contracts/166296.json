@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166296,
+  "type": "DOD",
+  "prev": 120269,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 75/2019: Projektna dokumentacija PZI za zamenjavo kažipotne signalizacije na 16. priključkih AC A1 – dodatna dela in podaljšanje pogodbenega roka ",
+  "procurement": "PROJEKTNA DOKUMENTACIJA PZI ZA ZAMENJAVO KAŽIPOTNE SIGNALIZACIJE NA 16. PRIKLJUČKIH AC A1",
+  "kind": 1,
+  "value": 16378.5,
+  "signed": "2020-03-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "Aneks št.1k pog.75-19.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjI5NjtBbmVrcyDFoXQuMWsgcG9nLjc1LTE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 112324,
+  "type": "DOD",
+  "prev": 104364,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi 1677/2018 za Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku na tehnološkem delu projekta; več dela, podaljšanje roka",
+  "procurement": "Aneks št. 1 k pogodbi 1677/2018 za Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku na tehnološkem delu projekta; več dela, podaljšanje roka",
+  "kind": 1,
+  "value": 11995.65,
+  "signed": "2018-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-10-29",
+  "files": [
+   {
+    "name": "aneks 1 k pog 1677-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjMyNDthbmVrcyAxIGsgcG9nIDE2NzctMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

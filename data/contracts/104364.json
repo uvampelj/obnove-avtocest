@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104364,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 675636,
+  "idDosje": 262080,
+  "title": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku na tehnološkem delu projekta",
+  "procurement": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku na tehnološkem delu projekta",
+  "kind": 1,
+  "value": 44435.45,
+  "signed": "2018-07-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004320/2018-C01/POG-104364",
+  "published": "2018-07-24",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDM2NDtQb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

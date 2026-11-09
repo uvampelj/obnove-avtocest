@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 264964,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 806972,
+  "idDosje": 506334,
+  "title": "Servisiranje UPS naprav",
+  "procurement": "SERVISIRANJE UPS NAPRAV",
+  "kind": 1,
+  "value": 101096.52,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2027-04-16",
+  "number": "000524/2024",
+  "contractors": [
+   "FIBERNET storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5957699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000586/2024-POG/01",
+  "published": "2024-04-17",
+  "files": [
+   {
+    "name": "Pogodba FIBERNET_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc4NTYwO1BvZ29kYmEgRklCRVJORVRfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

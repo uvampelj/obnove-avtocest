@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120526,
+  "type": "DOD",
+  "prev": 94552,
+  "idObrazec": 770414,
+  "idDosje": 229933,
+  "title": "IZVEDBA PREDHODNIH ARHEOLOŠKIH RAZISKAV (EKSTENZIVNI IN INTENZIVNI ARHEOLOŠKI PREGLED) 3.RAZVOJNA OS-SEVER: SKLOP 2: DRŽAVNA CESTA OD PRIKLJUČKA VELENJE JUG PRIKLJUČKA SLOVENJ GRADEC JUG",
+  "procurement": "DRŽAVNA CESTA OD PRIKLJUČKA VELENJE JUG PRIKLJUČKA SLOVENJ GRADEC JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-01-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MAGELAN SKUPINA, raziskave, proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5970270000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009429/2017-X01/DOD-120526",
+  "published": "2019-02-16",
+  "files": [
+   {
+    "name": "aneks  1_301-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDUyNjthbmVrcyAgMV8zMDEtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

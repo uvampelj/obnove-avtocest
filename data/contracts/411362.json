@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 411362,
+  "type": "DOD",
+  "prev": 132243,
+  "idObrazec": 1080538,
+  "idDosje": 303248,
+  "title": "Aneks 1 k pogodbi DARS št. 941/2019; vključitev obveznih dodatnih sestavin v osnovno pogodbo, zaradi sofinanciranja iz EU sklada, nominacija podizvajalca, menjava skrbnika pogodbe",
+  "procurement": "Opravljanje strokovno svetovalnih in inženirskih storitev za državno cesto 3. razvojna os sever, od priključka Velenje jug do priključka Slovenj Gradec jug, za fazo priprave in izvedbo gradnje ter ostalih inženirskih storitev po gradnji",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-04-24",
+  "from": "2019-07-31",
+  "to": "2034-05-31",
+  "number": "000941/20219",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002165/2019-C01/POG-132243-D01",
+  "published": "2026-05-04",
+  "files": [
+   {
+    "name": "Aneks št 593-2026-redig za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI2NDMyO0FuZWtzIMWhdCA1OTMtMjAyNi1yZWRpZyB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

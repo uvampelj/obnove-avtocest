@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 110673,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678873,
+  "idDosje": 266770,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB  POSTOJNA,ACB  SLOVENSKE KONJICE,ACB  LJUBLJANA, UPRAVA (Dunajska 7, LJ),ACB  MARIBOR,ACB  KOZINA,ACB  NOVO MESTO",
+  "kind": 1,
+  "value": 171983.52,
+  "signed": "2018-10-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRGO ABC prodajno servisni center d.o.o.",
+   "FPL AVTOCENTER PUŠNIK podjetje za trgovino in storitve d.o.o.",
+   "AVTOHIŠA REAL, trgovina in servis, d.o.o.,",
+   "AVTO KOLETNIK prodaja in servis motornih vozil d.o.o.",
+   "POMURSKI AVTOCENTER podjetje za prodajo in servisiranje vozil d.o.o."
+  ],
+  "contractor_ids": [
+   "5373077000",
+   "5868033000",
+   "1663810000",
+   "1391941000",
+   "6392059000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005009/2018-X01/POG-110673",
+  "published": "2018-10-08",
+  "files": [
+   {
+    "name": "Pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMDY3MztQb2dvZGJlLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

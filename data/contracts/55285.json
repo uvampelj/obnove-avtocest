@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 55285,
+  "type": "DOD",
+  "prev": 26021,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 956/2015 Popravilo in vzdrževanje silosov za sol",
+  "procurement": "Popravilo in vzdrževanje silosov za sol",
+  "kind": 1,
+  "value": 40870.0,
+  "signed": "2016-11-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TIMCO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1277049000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-11-30",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pogodbi DARS 956_2015 Popravilo in vzdrževanje silosov za sol.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU1Mjg1O0FuZWtzIMWhdC4gMSBrIHBvZ29kYmkgREFSUyA5NTZfMjAxNSBQb3ByYXZpbG8gaW4gdnpkcsW-ZXZhbmplIHNpbG9zb3YgemEgc29sLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

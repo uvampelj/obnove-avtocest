@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 342687,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 987683,
+  "idDosje": 527323,
+  "title": "Vzpostavitev OT sistemske platforme (POT)",
+  "procurement": "Vzpostavitev OT sistemske platforme (POT)",
+  "kind": 2,
+  "value": 9999215.12,
+  "signed": "2026-02-02",
+  "from": "2026-02-02",
+  "to": "2033-08-02",
+  "number": "000129/2026",
+  "contractors": [
+   "NIL Podatkovne komunikacije, d.o.o.",
+   "SMARTIS, informacijski sistemi d.o.o."
+  ],
+  "contractor_ids": [
+   "5286174000",
+   "3637735000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008570/2025-POG/01",
+  "published": "2026-02-04",
+  "files": [
+   {
+    "name": "R_Pogodba 000129-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM3NzI1O1JfUG9nb2RiYSAwMDAxMjktMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

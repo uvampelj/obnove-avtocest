@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 139908,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695177,
+  "idDosje": 313751,
+  "title": "Letni pregledi ter vzdrževanje polnilnih postaj",
+  "procurement": "Letni pregledi ter vzdrževanje polnilnih postaj",
+  "kind": 1,
+  "value": 155441.3,
+  "signed": "2019-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VARIKON VARILNA TEHNIKA, SERVIS, PROIZVODNJA, TRGOVINA, družba za storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2170531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004385/2019-X01/POG-139908",
+  "published": "2019-11-26",
+  "files": [
+   {
+    "name": "Pogodba-144-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzOTkwODtQb2dvZGJhLTE0NC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

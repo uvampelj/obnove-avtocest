@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 314829,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 928272,
+  "idDosje": 517842,
+  "title": "Nadzor nad zasedenostjo parkirnih mest za TTV na AC počivališčih",
+  "procurement": "Nadzor nad zasedenostjo parkirnih mest za TTV na AC počivališčih",
+  "kind": 1,
+  "value": 3652002.9,
+  "signed": "2025-06-24",
+  "from": "2025-06-24",
+  "to": "2033-03-24",
+  "number": "000851/2025",
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000457/2025-POG/01",
+  "published": "2025-07-17",
+  "files": [
+   {
+    "name": "Pogodba-TELEKOM_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4MjE4O1BvZ29kYmEtVEVMRUtPTV9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

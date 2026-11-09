@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 109579,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678306,
+  "idDosje": 264317,
+  "title": "Izvedba dežurstva na lokaciji ",
+  "procurement": "Izvedba dežurstva na lokaciji 1. Štajerski krak AC na relaciji Blagovica - predor Podmilj,Izvedba dežurstva na lokaciji 2. Dolenjski krak AC na relaciji Grosuplje vzhod - Višnja Gora,Izvedba dežurstva na lokaciji 3. Primorski krak AC na relaciji Vrhnika  Logatec,Izvedba dežurstva na lokaciji 4. Primorski krak AC na relaciji Razdrto - Senožeče",
+  "kind": 1,
+  "value": 91622.0,
+  "signed": "2018-09-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EASYTRANS, prevozi in storitve, d.o.o.",
+   "AVTOVLEKA JERNEJA KOPITAR s.p."
+  ],
+  "contractor_ids": [
+   "7095724000",
+   "3842983000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004734/2018-X01/POG-109579",
+  "published": "2018-09-21",
+  "files": [
+   {
+    "name": "Pogodbi 1846 in 1847.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTU3OTtQb2dvZGJpIDE4NDYgaW4gMTg0Ny56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

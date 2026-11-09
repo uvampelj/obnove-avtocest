@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 436056,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1114489,
+  "idDosje": 560966,
+  "title": "Vzdrževanje sistema hlajenja stavbe",
+  "procurement": "Vzdrževanje sistemov prezračevanja in hlajenja v PS DARS",
+  "kind": 1,
+  "value": 42639.0,
+  "signed": "2026-06-02",
+  "from": "2026-06-02",
+  "to": "2029-09-02",
+  "number": "000685/2026",
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001633/2026-POG/01",
+  "published": "2026-06-22",
+  "files": [
+   {
+    "name": "Pogodba št 685-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTU3NDE5O1BvZ29kYmEgxaF0IDY4NS0yMDI2IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

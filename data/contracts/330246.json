@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 330246,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 972382,
+  "idDosje": 525233,
+  "title": "Okvirni sporazum za Nakup in najem licenčne programske opreme",
+  "procurement": "Nakup in najem licenčne programske opreme – okvirni sporazum",
+  "kind": 2,
+  "value": 1423579.66,
+  "signed": "2026-01-09",
+  "from": "2026-01-09",
+  "to": "2030-04-09",
+  "number": "000028/2026",
+  "contractors": [
+   "CRAYON, celovite IT rešitve, d.o.o.",
+   "INTEGRALIS, sistemske rešitve, d.o.o.",
+   "Kontron SI, sistemske integracije, d.o.o.",
+   "SRC sistemske integracije d.o.o.",
+   "UNISTAR LC, zastopstvo, izdelava in vzdrževanje računalniške opreme in računalniških aplikacij d.o.o. Ljubljana",
+   "ZELINKA & SINOVI Zastopanje in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "9170545000",
+   "8507295000",
+   "9750681000",
+   "1447190000",
+   "5302722000",
+   "5425557000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006742/2025-POG/01",
+  "published": "2026-01-14",
+  "files": [
+   {
+    "name": "PJN objava vseh OS 231-25.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIzMzU0O1BKTiBvYmphdmEgdnNlaCBPUyAyMzEtMjUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

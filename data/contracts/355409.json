@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 355409,
+  "type": "DOD",
+  "prev": 320210,
+  "idObrazec": 1004298,
+  "idDosje": 522176,
+  "title": "Aneks št. 1 po pogodbi DARS d. d., št. 1052/2025 za »Izdelavo elaborata preveritve možnosti vzpostavitve parkirišča za vozila pod premostitvenimi objekti, vključno z izdelavo načrta požarne varnosti« ",
+  "procurement": "Izdelava elaborata preveritve možnosti vzpostavitve parkirišča za vozila pod premostitvenimi objekti, vključno z izdelavo načrta požarne varnosti",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-02-20",
+  "from": "2026-02-20",
+  "to": "2026-03-01",
+  "number": "001052/2025",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004052/2025-POG/01-D01",
+  "published": "2026-03-02",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUzMjQ3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

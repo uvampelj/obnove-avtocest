@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 412831,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1084984,
+  "idDosje": 571571,
+  "title": "Vzdrževanje komunikacijskih sistemov Ericsson (Mitel)",
+  "procurement": "Vzdrževanje komunikacijskih sistemov Ericsson (Mitel)",
+  "kind": 1,
+  "value": 213123.02,
+  "signed": "2026-05-18",
+  "from": "2026-05-18",
+  "to": "2029-08-18",
+  "number": "000654/2026",
+  "contractors": [
+   "KRON TELEKOM, poslovne komunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5948649000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002178/2026-POG/01",
+  "published": "2026-05-19",
+  "files": [
+   {
+    "name": "Pogodba 654-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI5OTA0O1BvZ29kYmEgNjU0LTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

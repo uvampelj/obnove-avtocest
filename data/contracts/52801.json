@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52801,
+  "type": "DOD",
+  "prev": 17066,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 419/15:IZVEDBA PASOV ZA PREPLETANJE IN ODSTAVNIH NIŠ NA LJUBLJANSKEM AC OBROČU -nominacija podizvajalcev   ",
+  "procurement": "aneks št. 1 k pog. DARS št. 419/15:IZVEDBA PASOV ZA PREPLETANJE IN ODSTAVNIH NIŠ NA LJUBLJANSKEM AC OBROČU -nominacija podizvajalcev   ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-02-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CPK d.d."
+  ],
+  "contractor_ids": [
+   "5069041000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "122-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODAxOzEyMi0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

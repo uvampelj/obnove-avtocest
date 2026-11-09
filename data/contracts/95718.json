@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 95718,
+  "type": "DOD",
+  "prev": 78737,
+  "idObrazec": 769577,
+  "idDosje": 183410,
+  "title": "OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 5,095 DO KM 9,170 IN NA H4/0378 IN 0778 SELO – VOGRSKO OD KM 0,000 DO KM 0,650",
+  "procurement": "OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 5,095 DO KM 9,170 IN NA H4/0378 IN 0778 SELO – VOGRSKO OD KM 0,000 DO KM 0,650",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-02-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CPG d.d.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000326/2017-C01/DOD-95718",
+  "published": "2018-04-06",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk1NzE4O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

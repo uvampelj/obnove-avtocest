@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 411836,
+  "type": "DOD",
+  "prev": 261297,
+  "idObrazec": 1081808,
+  "idDosje": 496573,
+  "title": "Aneks št. 1 k pogodbi DARS št. 376/2024: Obnova voziščne konstrukcije na delih odsekov na AC A2 0013/0613 Šentvid - Koseze, 0464 Priključek Lj. Podutik, 0178 Priključek Podutik Koseze in 0113 Razcep Koseze",
+  "procurement": "Obnova voziščne konstrukcije na delih odsekov na AC A2 0013/0613 Šentvid - Koseze, 0464 Priključek Lj. Podutik, 0178 Priključek Podutik Koseze in 0113 Razcep Koseze",
+  "kind": 3,
+  "value": 1012466.93,
+  "signed": "2026-05-05",
+  "from": "2026-05-05",
+  "to": "2026-07-04",
+  "number": "000376/2024",
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o.",
+   "KPL, družba za gradnjo in vzdrževanje cest, zelenih površin ter inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000",
+   "5015405000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "007096/2023-POG/01-D01",
+  "published": "2026-05-07",
+  "files": [
+   {
+    "name": "Aneks-1-podpisan_Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTI3NDA0O0FuZWtzLTEtcG9kcGlzYW5fUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

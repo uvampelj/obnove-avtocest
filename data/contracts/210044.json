@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 210044,
+  "type": "DOD",
+  "prev": 192343,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1122/2021: Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja »Optimizacija požarnega algoritma delovanja mehanskega prezračevanja v predoru Šentvid«",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja »Optimizacija požarnega algoritma delovanja mehanskega prezračevanja v predoru Šentvid«",
+  "kind": 1,
+  "value": 23843.84,
+  "signed": "2022-04-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-05-05",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMDA0NDtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

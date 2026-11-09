@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 94135,
+  "type": "DOD",
+  "prev": 49048,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 4 k pogodbi DARS št. 722/2016 za \"Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku - sklop A: izvajanje inženirskih storitev na tehnološkem segmentu projekta\"; več dela in podaljšanje pogodbenega roka",
+  "procurement": "Aneks št. 4 k pogodbi DARS št. 722/2016 za \"Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku - sklop A: izvajanje inženirskih storitev na tehnološkem segmentu projekta\"; več dela in podaljšanje pogodbenega roka",
+  "kind": 1,
+  "value": 9596.52,
+  "signed": "2018-02-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-03-12",
+  "files": [
+   {
+    "name": "aneks 4 k pog 722-2016 - IBE.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk0MTM1O2FuZWtzIDQgayBwb2cgNzIyLTIwMTYgLSBJQkUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

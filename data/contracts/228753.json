@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228753,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 746114,
+  "idDosje": 451973,
+  "title": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za zamenjavo NN opreme, sistema NKS in sistema SCADA NKS predorov Cenkova in Vodole ter pokritih vkopov Močna in Malečnik",
+  "procurement": "Izdelava projektne dokumentacije PZI in Izvlečka iz PZI-ja za zamenjavo NN opreme, sistema NKS in sistema SCADA NKS predorov Cenkova in Vodole ter pokritih vkopov Močna in Malečnik",
+  "kind": 1,
+  "value": 426878.0,
+  "signed": "2022-12-07",
+  "from": "2022-12-07",
+  "to": "2024-06-07",
+  "number": "001510/2022",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005126/2022-C01/POG-228753",
+  "published": "2023-01-05",
+  "files": [
+   {
+    "name": "Pogodba-IBE_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyOTQwNTtQb2dvZGJhLUlCRV9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

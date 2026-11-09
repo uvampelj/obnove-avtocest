@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 39594,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 647413,
+  "idDosje": 20626,
+  "title": "Dobava nadomestnih delov in popravila SICK-MAIHAK tunelskih naprav",
+  "procurement": "Dobava nadomestnih delov in popravila SICK-MAIHAK tunelskih naprav",
+  "kind": 2,
+  "value": 128100.0,
+  "signed": "2016-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "C & G d.o.o. Ljubljana"
+  ],
+  "contractor_ids": [
+   "5297184000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001108/2016-X01/POG-39594",
+  "published": "2016-06-15",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM5NTk0O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 313208,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 923434,
+  "idDosje": 520102,
+  "title": "Sklop 2: Vrtni samohodni mulčer na hidro pogon",
+  "procurement": "DOBAVA DROBNE OPREME",
+  "kind": 2,
+  "value": 4135.8,
+  "signed": "2025-06-26",
+  "from": "2025-06-26",
+  "to": "2026-03-26",
+  "number": "000863/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002308/2025-POG/02",
+  "published": "2025-06-30",
+  "files": [
+   {
+    "name": "Pogodba Imexa 2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg0MzI1O1BvZ29kYmEgSW1leGEgMl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

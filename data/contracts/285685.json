@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 285685,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 849508,
+  "idDosje": 510439,
+  "title": "Vzpostavitev enotnega informacijskega sistema avtomatiziranega monitoringa v okviru spremljanja stanja cestne infrastrukture – GeoP DARS",
+  "procurement": "Vzpostavitev enotnega informacijskega sistema avtomatiziranega monitoringa v okviru spremljanja stanja cestne infrastrukture – GeoP DARS",
+  "kind": 1,
+  "value": 1073112.0,
+  "signed": "2024-09-02",
+  "from": "2024-09-02",
+  "to": "2029-11-02",
+  "number": "000908/2024",
+  "contractors": [
+   "ELproing, računalniško programiranje, d.o.o."
+  ],
+  "contractor_ids": [
+   "8317143000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003709/2024-POG/01",
+  "published": "2024-09-04",
+  "files": [
+   {
+    "name": "Podpisana pogodba 908-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE0NDc4O1BvZHBpc2FuYSBwb2dvZGJhIDkwOC0yMDI0X1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

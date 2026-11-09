@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 53128,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 652056,
+  "idDosje": 158523,
+  "title": "Najem licenčne programske opreme Microsoft",
+  "procurement": "Najem licenčne programske opreme Microsoft",
+  "kind": 1,
+  "value": 1203492.06,
+  "signed": "2016-10-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d."
+  ],
+  "contractor_ids": [
+   "5014018000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002747/2016-C01/POG-53128",
+  "published": "2016-10-27",
+  "files": [
+   {
+    "name": "pogodba 834-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUzMTI4O3BvZ29kYmEgODM0LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

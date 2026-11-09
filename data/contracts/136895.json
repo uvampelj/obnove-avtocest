@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 136895,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 693588,
+  "idDosje": 320800,
+  "title": "Nadgradnja, vzdrževanje in podpora informacijskega sistema KAŽIPOT",
+  "procurement": "Nadgradnja, vzdrževanje in podpora informacijskega sistema KAŽIPOT",
+  "kind": 1,
+  "value": 898865.5,
+  "signed": "2019-10-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005778/2019-C01/POG-136895",
+  "published": "2019-10-18",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1488_2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzNjg5NTtQb2dvZGJhIERBUlMgxaF0LiAxNDg4XzIwMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

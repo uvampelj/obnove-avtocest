@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 57917,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654360,
+  "idDosje": 170876,
+  "title": "Svetovanje pri sprejemanju ključnih odločitev v postopkih implementacije elektronskega cestninskega sistema v prostem prometnem toku (ECS-PPT)",
+  "procurement": "Svetovanje pri sprejemanju ključnih odločitev v postopkih implementacije elektronskega cestninskega sistema v prostem prometnem toku (ECS-PPT)",
+  "kind": 1,
+  "value": 201300.0,
+  "signed": "2016-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Prime Consulting Services"
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005890/2016-X01/POG-57917",
+  "published": "2017-01-06",
+  "files": [
+   {
+    "name": "pogodba_SS ECS.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3OTE3O3BvZ29kYmFfU1MgRUNTLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

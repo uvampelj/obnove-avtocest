@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 166390,
+  "type": "DOD",
+  "prev": 17068,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 3 k pog. DARS št. 450/15: SPREMLJANJE STANJA GEOTEHNIČNIH OBJEKTOV NA OBSTOJEČI AC MREŽI V REPUBLIKI SLOVENIJI ZA OBDOBJE OSEM (8) LET",
+  "procurement": "Spremljanje stanja geotehničnih objektov na obstoječi AC mreži v Republiki Sloveniji za obdobje osem (8) let",
+  "kind": 1,
+  "value": 54076.62,
+  "signed": "2020-02-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE",
+   "PREMOGOVNIK VELENJE, d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000",
+   "5866324000",
+   "5040361000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "aneks št. 3 k pog-450-2015-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjM5MDthbmVrcyDFoXQuIDMgayBwb2ctNDUwLTIwMTUtT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 208293,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 734878,
+  "idDosje": 429337,
+  "title": "Dobava sijalk in žarnic",
+  "procurement": "Dobava sijalk in žarnic",
+  "kind": 2,
+  "value": 213426.18,
+  "signed": "2022-03-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RONA TRGOVINA Proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1540378000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008572/2021-X01/POG-208293",
+  "published": "2022-04-06",
+  "files": [
+   {
+    "name": "POGODBA 467-2022 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwODI5MztQT0dPREJBIDQ2Ny0yMDIyIHJlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

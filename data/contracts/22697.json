@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 22697,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639492,
+  "idDosje": 13230,
+  "title": "Dobava pomožnih materialov - vrtnarstvo",
+  "procurement": "Dobava pomožnih materialov - vrtnarstvo",
+  "kind": 2,
+  "value": 102189.81,
+  "signed": "2015-10-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMEXA d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV6354/2015/POG-22697",
+  "published": "2015-10-08",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNjk3O3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

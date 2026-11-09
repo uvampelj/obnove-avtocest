@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 196312,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 727476,
+  "idDosje": 399880,
+  "title": "Projektiranje gradbeno instalacijskih del za izvedbo digitalnega video nadzora na AC v RS – »IPK4«",
+  "procurement": "Projektiranje gradbeno instalacijskih del za izvedbo digitalnega video nadzora na AC v RS – »IPK4«",
+  "kind": 1,
+  "value": 229755.91,
+  "signed": "2021-10-14",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o.",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+   "PIRING PROJEKTIRANJE, TEHNIČNO SVETOVANJE VOJKO PIRJEVEC S.P."
+  ],
+  "contractor_ids": [
+   "1507664000",
+   "5389984000",
+   "1478346000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003245/2021-X01/POG-196312",
+  "published": "2021-10-25",
+  "files": [
+   {
+    "name": "Pogodba-JV GVO+Tenzor+Piring-VojkoP._objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NjMxMjtQb2dvZGJhLUpWIEdWTytUZW56b3IrUGlyaW5nLVZvamtvUC5fb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

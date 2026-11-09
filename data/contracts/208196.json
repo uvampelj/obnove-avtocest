@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 208196,
+  "type": "DOD",
+  "prev": 144053,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1314/2019: Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše viadukte, predore in pokrite vkope na novi prometni povezavi med priključkom Velenje jug do priključka Slovenj Gradec jug",
+  "procurement": "Izvedba revizije gradbenih načrtov PZI dokumentacije za zahtevnejše viadukte, predore in pokrite vkope na novi prometni povezavi med priključkom Velenje jug do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-03-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "GEOPORTAL, podjetje za projektiranje, svetovanje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000",
+   "1626981000",
+   "1795490000",
+   "1708597000",
+   "2074699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-04-05",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwODE5NjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

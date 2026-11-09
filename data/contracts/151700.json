@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 151700,
+  "type": "DOD",
+  "prev": 103908,
+  "idObrazec": 770859,
+  "idDosje": 243183,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1610/2018 za dobavo dvigala za pregled premostitvenih objektov, št. aneksa 1000/2020",
+  "procurement": "Dobava dvigala za pregled premostitvenih objektov",
+  "kind": 2,
+  "value": 9150.0,
+  "signed": "2020-03-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SVET STROJEV, zastopanje in prodaja, d.o.o."
+  ],
+  "contractor_ids": [
+   "6015174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000965/2018-C01/DOD-151700",
+  "published": "2020-05-12",
+  "files": [
+   {
+    "name": "aneks podpisan.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1MTcwMDthbmVrcyBwb2RwaXNhbi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

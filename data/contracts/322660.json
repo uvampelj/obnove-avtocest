@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322660,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 950978,
+  "idDosje": 523326,
+  "title": "Izdelava geološko-geotehničnih raziskav, nadgradnja sistema za monitoring ter izdelava IDR za sanacijo območja pilotne stene VA6019 ter objektov VA6018 in VA6020, odsek 0642 v km 7,230 do km 7,416",
+  "procurement": "Izdelava geološko-geotehničnih raziskav, nadgradnja sistema za monitoring ter izdelava IDR za sanacijo območja pilotne stene VA6019 ter objektov VA6018 in VA6020, odsek 0642 v km 7,230 do km 7,416",
+  "kind": 1,
+  "value": 165778.2,
+  "signed": "2025-10-01",
+  "from": "2025-10-01",
+  "to": "2028-10-01",
+  "number": "001146/2025",
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005059/2025-POG/01",
+  "published": "2025-10-15",
+  "files": [
+   {
+    "name": "Pogodba IRGO Consulting_1146-25_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2MzU2O1BvZ29kYmEgSVJHTyBDb25zdWx0aW5nXzExNDYtMjVfcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205291,
+  "type": "DOD",
+  "prev": 133260,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 1326/2019: Izdelava hidravlične študije za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja ",
+  "procurement": "Hidrološko hidravlična študija za pripravo državnega prostorskega načrta za hitro cesto Koper - Dragonja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-09-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTI5MTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

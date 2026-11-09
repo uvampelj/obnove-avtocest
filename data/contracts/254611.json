@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254611,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765413,
+  "idDosje": 494682,
+  "title": "Tehnični skrbnik objektov Dragomelj 116 in NT Kompolje",
+  "procurement": "Tehnični skrbnik objektov Dragomelj 116 in NT Kompolje",
+  "kind": 1,
+  "value": 179340.0,
+  "signed": "2023-12-18",
+  "from": "2023-12-18",
+  "to": "2029-03-18",
+  "number": "001479/2023",
+  "contractors": [
+   "GARANTA INVEST podjetje za vzdrževanje stavb, nadzor sanacij in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "2213117000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006492/2023-X01/POG-254611",
+  "published": "2023-12-21",
+  "files": [
+   {
+    "name": "pogodba 1479-2023_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODI3MTtwb2dvZGJhIDE0NzktMjAyM19SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

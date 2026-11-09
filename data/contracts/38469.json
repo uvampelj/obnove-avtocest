@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 38469,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646863,
+  "idDosje": 52080,
+  "title": "Montaža, demontaža in prevoz miniguarda",
+  "procurement": "Montaža, demontaža in prevoz miniguarda",
+  "kind": 1,
+  "value": 147010.0,
+  "signed": "2016-05-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SBG HRAST d.o.o."
+  ],
+  "contractor_ids": [
+   "6043135000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001972/2016-C01/POG-38469",
+  "published": "2016-05-31",
+  "files": [
+   {
+    "name": "Pogodba DARS št 437-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM4NDY5O1BvZ29kYmEgREFSUyDFoXQgNDM3LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16778,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636722,
+  "idDosje": 18585,
+  "title": "Dobava in montaža naprave za merjenje nivoja goriva",
+  "procurement": "Dobava in montaža naprave za merjenje nivoja goriva",
+  "kind": 2,
+  "value": 32237.28,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKO-TEH, d.o.o., Polhov Gradec"
+  ],
+  "contractor_ids": [
+   "1864424000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV4477/2015/POG-16778",
+  "published": "2015-07-21",
+  "files": [
+   {
+    "name": "pogodba EKO-TEH.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2Nzc4O3BvZ29kYmEgRUtPLVRFSC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

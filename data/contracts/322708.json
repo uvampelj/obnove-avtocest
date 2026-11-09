@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 322708,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 951156,
+  "idDosje": 523847,
+  "title": "ACB Maribor",
+  "procurement": "VULKANIZERSKE STORITVE",
+  "kind": 1,
+  "value": 24034.0,
+  "signed": "2025-10-14",
+  "from": "2025-10-14",
+  "to": "2029-01-14",
+  "number": "001179/2025",
+  "contractors": [
+   "PRIGO podjetje za transport, gradbeništvo in trgovino, d.o.o., Brezovica"
+  ],
+  "contractor_ids": [
+   "5460271000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005531/2025-POG/02",
+  "published": "2025-10-16",
+  "files": [
+   {
+    "name": "Podpisana pogodba sklop 5 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA2NDg4O1BvZHBpc2FuYSBwb2dvZGJhIHNrbG9wIDUgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

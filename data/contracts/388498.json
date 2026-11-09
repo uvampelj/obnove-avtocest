@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 388498,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1041942,
+  "idDosje": 527686,
+  "title": "SKLOP 1: cenitev stavbnih zemljišč in objektov",
+  "procurement": "Izdelava cenitev za potrebe pridobivanja nepremičnin, na celotnem avtocestnem omrežju v Republiki Sloveniji",
+  "kind": 1,
+  "value": 180291.6,
+  "signed": "2026-03-26",
+  "from": "2026-03-26",
+  "to": "2030-06-26",
+  "number": "000468/2026",
+  "contractors": [
+   "CARIS, nepremičninske, informacijske, gradbene in druge storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "6005853000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008866/2025-POG/01",
+  "published": "2026-03-30",
+  "files": [
+   {
+    "name": "Pogodba CARIS 468-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDg5NzEyO1BvZ29kYmEgQ0FSSVMgNDY4LTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

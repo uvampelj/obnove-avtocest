@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 321792,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 948432,
+  "idDosje": 519785,
+  "title": "Izdelava projektne dokumentacije PZI za stabilizacijo podpornega para P3 in vračanje prekladne konstrukcije v ravnovesno lego viadukta Boršt 1 na HC H4 Razdrto – Vipava; Rebernice; Sklop 2: Revizija gradbenih načrtov PZI dokumentacije",
+  "procurement": "Izdelava projektne dokumentacije PZI za stabilizacijo podpornega para P3 in vračanje prekladne konstrukcije v ravnovesno lego viadukta Boršt 1 na HC H4 Razdrto – Vipava; Rebernice, Sklop 2: Revizija gradbenih načrtov PZI dokumentacije",
+  "kind": 1,
+  "value": 36000.0,
+  "signed": "2025-10-03",
+  "from": "2025-10-03",
+  "to": "2026-10-03",
+  "number": "001148/2025",
+  "contractors": [
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "2170388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002030/2025-POG/02",
+  "published": "2025-10-06",
+  "files": [
+   {
+    "name": "Pogodba_DARS_001148_2025.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA0MzA5O1BvZ29kYmFfREFSU18wMDExNDhfMjAyNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

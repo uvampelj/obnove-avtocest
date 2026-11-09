@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 202154,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730939,
+  "idDosje": 421833,
+  "title": "Nakup hitrih antigenskih testov za ugotavljanje okužbe s SARS Cov-2",
+  "procurement": "Nakup hitrih antigenskih testov za ugotavljanje okužbe s SARS Cov-2",
+  "kind": 2,
+  "value": 64450.0,
+  "signed": "2022-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SANOLABOR, podjetje za prodajo medicinskih, laboratorijskih in farmacevtskih proizvodov, d.d."
+  ],
+  "contractor_ids": [
+   "5000823000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007262/2021-X01/POG-202154",
+  "published": "2022-01-18",
+  "files": [
+   {
+    "name": "POGODBA st 22-2022_UL red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMjE1NDtQT0dPREJBIHN0IDIyLTIwMjJfVUwgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

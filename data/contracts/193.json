@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630351,
+  "idDosje": 71464,
+  "title": "Čiščenje lovilcev olj",
+  "procurement": "Čiščenje lovilcev olj.",
+  "kind": 1,
+  "value": 386808.75,
+  "signed": "2014-12-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREL d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN11461/2014/POG-193",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "pogodba 1615-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5Mztwb2dvZGJhIDE2MTUtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

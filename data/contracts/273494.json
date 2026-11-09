@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273494,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 833185,
+  "idDosje": 507567,
+  "title": "Izdelava idejnih rešitev, DPP in PZI za preureditev počivališč s povečanjem parkirnih površin za težka tovorna vozila na lokacijah Lukovica Sever, Lopata Sever in Fernetiči Sever ",
+  "procurement": "Izdelava idejnih rešitev, DPP in PZI za preureditev počivališč s povečanjem parkirnih površin za težka tovorna vozila na lokacijah Lukovica Sever, Lopata Sever in Fernetiči Sever ",
+  "kind": 1,
+  "value": 572772.31,
+  "signed": "2024-07-31",
+  "from": "2024-07-31",
+  "to": "2026-07-31",
+  "number": "000837/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001451/2024-POG/01",
+  "published": "2024-08-07",
+  "files": [
+   {
+    "name": "Pogodba-PNZ_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk5NDkzO1BvZ29kYmEtUE5aX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

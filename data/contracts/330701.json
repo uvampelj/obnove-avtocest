@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 330701,
+  "type": "DOD",
+  "prev": 230753,
+  "idObrazec": 973329,
+  "idDosje": 460163,
+  "title": "Aneks št. 4 k pogodbi DARS, d. d., št. 72/2023: Izdelava DGD in PZI projektne dokumentacije za izgradnjo pododseka B, od priključka Metlika sever do MMP Metlika, na 2. odseku 3. razvojne osi jug",
+  "procurement": "Izdelava DGD in PZI projektne dokumentacije za izgradnjo pododseka B, od priključka Metlika sever do MMP Metlika, na 2. odseku 3. razvojne osi jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-12-30",
+  "from": "2025-12-30",
+  "to": "2027-12-31",
+  "number": "000072/2023",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006994/2022-C01/POG-230753-D04",
+  "published": "2026-01-16",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI0MTIzO0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

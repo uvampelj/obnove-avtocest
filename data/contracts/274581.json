@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274581,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836377,
+  "idDosje": 507279,
+  "title": "Sklop 2 - LM 13 Krtača čelna rotacijska za pometanje",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 114192.0,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2025-06-20",
+  "number": "000880/2024",
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/02",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Pogodba - Riko Ribnica d.o.o.-2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDM5O1BvZ29kYmEgLSBSaWtvIFJpYm5pY2EgZC5vLm8uLTJfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

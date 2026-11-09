@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 243916,
+  "type": "DOD",
+  "prev": 196246,
+  "idObrazec": 778053,
+  "idDosje": 392297,
+  "title": "Aneks št. 2 k pog. DARS št. 1068/2021: Rekonstrukcija priključka Leskovškova ceste na hitro cesto H3",
+  "procurement": "Rekonstrukcija priključka Leskovškove ceste na hitro cesto H3",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2023-07-03",
+  "from": "2023-07-03",
+  "to": "2023-12-04",
+  "number": "808/2023",
+  "contractors": [
+   "MAPRI PROASFALT, gradbeništvo in vzdrževanje, d.o.o.",
+   "MARKOMARK NIVAL graditeljstvo d.o.o.",
+   "REMONT obrtno gradbeno podjetje, d.d."
+  ],
+  "contractor_ids": [
+   "3512592000",
+   "2210258000",
+   "5066816000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001918/2021-C01/DOD-243916",
+  "published": "2023-07-27",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NjYzNTtBbmVrcy0yLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

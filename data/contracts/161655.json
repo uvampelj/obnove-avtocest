@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 161655,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708613,
+  "idDosje": 356155,
+  "title": "Izdelava projektno tehnične dokumentacije IZP, DGD in PZI za dozidavo in novogradnje objektov ACB Maribor - izpostava Ptuj",
+  "procurement": "Izdelava projektno tehnične dokumentacije IZP, DGD in PZI za dozidavo in novogradnje objektov ACB Maribor - izpostava Ptuj",
+  "kind": 1,
+  "value": 35916.8,
+  "signed": "2020-09-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003488/2020-X01/POG-161655",
+  "published": "2020-09-28",
+  "files": [
+   {
+    "name": "Pogodba LUZ.-objava pdf.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTY1NTtQb2dvZGJhIExVWi4tb2JqYXZhIHBkZi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

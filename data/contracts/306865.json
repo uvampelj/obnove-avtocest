@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 306865,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 904231,
+  "idDosje": 517328,
+  "title": "Servisiranje in popravila vozil Iveco",
+  "procurement": "Servisiranje in popravila tovornih vozil Iveco",
+  "kind": 1,
+  "value": 2180750.0,
+  "signed": "2025-04-09",
+  "from": "2025-04-09",
+  "to": "2028-07-09",
+  "number": "000646/2025",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000033/2025-POG/01",
+  "published": "2025-04-11",
+  "files": [
+   {
+    "name": "pogodba 646-2025 BENUSSI_Red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY4ODU3O3BvZ29kYmEgNjQ2LTIwMjUgQkVOVVNTSV9SZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 93920,
+  "type": "DOD",
+  "prev": 26288,
+  "idObrazec": 767682,
+  "idDosje": 71963,
+  "title": "Aneks št. 1 k pogodbi DARS št. 989/2015",
+  "procurement": "Dobava kalcijevega klorida",
+  "kind": 2,
+  "value": 140971.0,
+  "signed": "2018-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MA-YDI d.o.o."
+  ],
+  "contractor_ids": [
+   "5609283000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN8460/2015/DOD-93920",
+  "published": "2018-03-08",
+  "files": [
+   {
+    "name": "Sprememba 240-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzOTIwO1NwcmVtZW1iYSAyNDAtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

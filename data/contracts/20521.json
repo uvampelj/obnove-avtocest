@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 20521,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 638504,
+  "idDosje": 80201,
+  "title": "Izvajanje programa EuroRAP v letih 2015 in 2016 na AC in HC v Republiki Sloveniji",
+  "procurement": "Izvajanje programa EuroRAP v letih 2015 in 2016 na AC in HC v Republiki Sloveniji",
+  "kind": 1,
+  "value": 44383.6,
+  "signed": "2015-09-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO-MOTO ZVEZA SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5163196000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6241/2015/POG-20521",
+  "published": "2015-09-10",
+  "files": [
+   {
+    "name": "745-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTIxOzc0NS0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

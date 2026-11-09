@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 310601,
+  "type": "DOD",
+  "prev": 261032,
+  "idObrazec": 915186,
+  "idDosje": 457499,
+  "title": "Aneks št. 1 k pogodbi DARS št. 325/2024: Sanacija sistema Klic v sili (KVS) na AC Vrba – Vodice ",
+  "procurement": "Sanacija sistema Klic v sili (KVS) na AC Vrba - Vodice",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2025-05-14",
+  "from": "2025-05-14",
+  "to": "2025-08-22",
+  "number": "000325/2024",
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006296/2022-POG/01-D01",
+  "published": "2025-05-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc3NzUxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

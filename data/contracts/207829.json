@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 207829,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 734602,
+  "idDosje": 418658,
+  "title": "Najem aplikacije za podporo priprave razporeda dela",
+  "procurement": "Najem aplikacije za podporo priprave razporeda dela",
+  "kind": 2,
+  "value": 293436.6,
+  "signed": "2022-03-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PLANDELA, rešitve za upravljanje z delovnim časom, d.o.o."
+  ],
+  "contractor_ids": [
+   "6216137000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007000/2021-C01/POG-207829",
+  "published": "2022-03-30",
+  "files": [
+   {
+    "name": "R Pogodba 637-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNzgyOTtSIFBvZ29kYmEgNjM3LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

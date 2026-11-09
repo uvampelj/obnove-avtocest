@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 181277,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 719564,
+  "idDosje": 389725,
+  "title": "Servisiranje UPS naprav",
+  "procurement": "Servisiranje UPS naprav",
+  "kind": 1,
+  "value": 112380.3,
+  "signed": "2021-05-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FIBERNET storitve, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5957699000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001187/2021-X01/POG-181277",
+  "published": "2021-05-13",
+  "files": [
+   {
+    "name": "Pogodba ST. 738-2021  UL  .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MTI3NztQb2dvZGJhIFNULiA3MzgtMjAyMSAgVUwgIC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

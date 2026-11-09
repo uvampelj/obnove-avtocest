@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287881,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 855799,
+  "idDosje": 508340,
+  "title": "Dobava posipnih materialov;  Kategorija 5 - CaCl2 raztopina",
+  "procurement": "Dobava posipnih materialov ",
+  "kind": 2,
+  "value": 202825.0,
+  "signed": "2024-09-25",
+  "from": "2024-10-15",
+  "to": "2025-08-15",
+  "number": "000993/2024",
+  "contractors": [
+   "TOVARNA KEMIČNIH IZDELKOV d.d."
+  ],
+  "contractor_ids": [
+   "5043093000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002068/2024-POG/01",
+  "published": "2024-09-30",
+  "files": [
+   {
+    "name": "pogodba 000993-2024 K5_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE5NDk3O3BvZ29kYmEgMDAwOTkzLTIwMjQgSzVfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

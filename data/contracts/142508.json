@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 142508,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 696028,
+  "idDosje": 324328,
+  "title": "Čiščenje sanitarnih objektov na počivališčih",
+  "procurement": "Lopata-jug,Povodje-vzhod, Povodje-zahod,Lipce-sever, Lipce-jug,Grabonoš-sever,Murska Sobota-sever,Studenec-sever, Studenec-jug",
+  "kind": 1,
+  "value": 700123.84,
+  "signed": "2019-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UREJANJE OKOLICE - ERIH GOLIHLEB S.P.",
+   "RINO, trgovina in ostale storitve, d.o.o.",
+   "MIV SERVIS, storitve, trgovina in proizvodnja, d.o.o."
+  ],
+  "contractor_ids": [
+   "3336085000",
+   "1510274000",
+   "5491789000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006476/2019-C01/POG-142508",
+  "published": "2019-12-20",
+  "files": [
+   {
+    "name": "POGODBE.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MjUwODtQT0dPREJFLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

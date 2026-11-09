@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 308537,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 909304,
+  "idDosje": 518022,
+  "title": "Dobava žarnic in sijalk",
+  "procurement": "Dobava žarnic in sijalk",
+  "kind": 2,
+  "value": 209877.15,
+  "signed": "2025-04-28",
+  "from": "2025-04-28",
+  "to": "2028-07-28",
+  "number": "000704/2025",
+  "contractors": [
+   "RONA TRGOVINA Proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1540378000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000627/2025-POG/01",
+  "published": "2025-05-06",
+  "files": [
+   {
+    "name": "Podpisana pogodba 704-2025 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzcyOTcxO1BvZHBpc2FuYSBwb2dvZGJhIDcwNC0yMDI1IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

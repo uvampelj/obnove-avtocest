@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 261913,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 798885,
+  "idDosje": 506499,
+  "title": "Pogodba za izvajanje inženirskih storitev v postopkih delovanja sistema e-vinjeta",
+  "procurement": "Izvajanje inženirskih storitev v postopkih delovanja sistema e-vinjeta",
+  "kind": 1,
+  "value": 1107291.52,
+  "signed": "2024-03-12",
+  "from": "2024-03-12",
+  "to": "2027-03-31",
+  "number": "000408/2024",
+  "contractors": [
+   "IGEA, Svetovanje in storitve s področja nepremičnin, infrastrukture in prostora, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001088/2024-POG/01",
+  "published": "2024-03-15",
+  "files": [
+   {
+    "name": "Pogodba_257_2023_podpisana_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcxOTkzO1BvZ29kYmFfMjU3XzIwMjNfcG9kcGlzYW5hX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

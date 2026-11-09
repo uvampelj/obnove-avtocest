@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 165692,
+  "type": "DOD",
+  "prev": 109612,
+  "idObrazec": 771138,
+  "idDosje": 246632,
+  "title": "Aneks št.1 k pog. DARS št. 1609/2018: NADGRADNJA HIDRANTNEGA OMREŽJA V PREDORIH TROJANE, JASOVNIK in PODMILJ - dodatna, več in manj dela ter nominacija novih podizvajalcev",
+  "procurement": "NADGRADNJA HIDRANTNEGA OMREŽJA V PREDORIH TROJANE, JASOVNIK in PODMILJ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-10-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IMP, d.d., družba za svetovanje, projektiranje, inženiring in gradnjo"
+  ],
+  "contractor_ids": [
+   "5077940000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001444/2018-C01/DOD-165692",
+  "published": "2020-11-15",
+  "files": [
+   {
+    "name": "aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTY5MjthbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

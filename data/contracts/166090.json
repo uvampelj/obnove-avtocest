@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166090,
+  "type": "DOD",
+  "prev": 126542,
+  "idObrazec": 772101,
+  "idDosje": 288599,
+  "title": "Aneks št. 1 k pogodbi DARS št. 672/2019: OBNOVA SISTEMA KLIC V SILI: AC GOLOVEC-DOMŽALE, HC VIPAVA-ŠEMPETER IN AC DIVAČA-KOZINA",
+  "procurement": "Obnova sistema Klic v sili (KVS): AC Golovec Domžale, HC Vipava Šempeter in AC Divača Kozina",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-11-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST avtomatizacija sistemov d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008783/2018-C01/DOD-166090",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št.1 k pog_ 672-19-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjA5MDthbmVrcyDFoXQuMSBrIHBvZ18gNjcyLTE5LU9LLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

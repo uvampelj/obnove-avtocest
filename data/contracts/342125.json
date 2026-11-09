@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 342125,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 986462,
+  "idDosje": 526240,
+  "title": "Vzpostavitev zunanjega klicnega centra in aplikacije za upravljanje storitev avtovleke",
+  "procurement": "Vzpostavitev zunanjega klicnega centra in aplikacije za upravljanje storitev avtovleke",
+  "kind": 1,
+  "value": 1072231.16,
+  "signed": "2026-01-27",
+  "from": "2026-01-27",
+  "to": "2031-08-27",
+  "number": "000104/2026",
+  "contractors": [
+   "TBS TEAM 24 podjetje za storitvene dejavnosti in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5946948000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007612/2025-POG/01",
+  "published": "2026-01-30",
+  "files": [
+   {
+    "name": "R_Pogodba 000104-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NzE0O1JfUG9nb2RiYSAwMDAxMDQtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

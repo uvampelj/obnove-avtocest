@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 131334,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 690293,
+  "idDosje": 300832,
+  "title": "Testiranje pojemkov osebnega vozila pri kontrolirani vožnji v območje izletne cone in izvedba računalniških simulacij",
+  "procurement": "Testiranje pojemkov osebnega vozila pri kontrolirani vožnji v območje izletne cone in izvedba računalniških simulacij  ",
+  "kind": 1,
+  "value": 122257.24,
+  "signed": "2019-07-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA STROJNIŠTVO"
+  ],
+  "contractor_ids": [
+   "1627031000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001540/2019-X01/POG-131334",
+  "published": "2019-08-02",
+  "files": [
+   {
+    "name": "Pogodba UNI-LJ-FS-304-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMTMzNDtQb2dvZGJhIFVOSS1MSi1GUy0zMDQtMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

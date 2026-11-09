@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 154544,
+  "type": "DOD",
+  "prev": 106980,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. št. 1780/2018",
+  "procurement": "Aneks št. 1 k pog. št. 1780/2018",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DELTABLOC, varnostne in protihrupne ograje d.o.o."
+  ],
+  "contractor_ids": [
+   "7184590000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-06-12",
+  "files": [
+   {
+    "name": "Aneks Deltabloc.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NDU0NDtBbmVrcyBEZWx0YWJsb2MucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 33349,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 644398,
+  "idDosje": 72556,
+  "title": "aneks št. 1 k pog. DARS št. 566/09:ZAJEM PODATKOV Z LIDAR TEHNOLOGIJO IN IZDELAVA GEODETSKIH PODLAG ZA PRIPRAVO DRŽAVNIH PROSTORSKIH NAČRTOV ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA-dodatn",
+  "procurement": "aneks št. 1 k pog. DARS št. 566/09:ZAJEM PODATKOV Z LIDAR TEHNOLOGIJO IN IZDELAVA GEODETSKIH PODLAG ZA PRIPRAVO DRŽAVNIH PROSTORSKIH NAČRTOV ZA DRŽAVNO CESTO OD RAZCEPA ŠENTRUPERT DO DRAVOGRADA-dodatn",
+  "kind": 1,
+  "value": 27260.05,
+  "signed": "2016-02-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FLYCOM d.o.o.",
+   "GEODETSKI ZAVOD CELJE, d.o.o."
+  ],
+  "contractor_ids": [
+   "5710081000",
+   "5066352000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN1288/2016/POG-33349",
+  "published": "2016-02-25",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMzMzQ5O2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

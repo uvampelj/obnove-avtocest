@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 63639,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 656620,
+  "idDosje": 170241,
+  "title": "Dobava tovornih vozil in opreme",
+  "procurement": "Nakup kombiniranih tovornih vozil z nizkimi emisijami,Nakup lahkih tovornih vozil z nizkimi emisijami,Nakup lahkih tovornih vozil z nizkimi emisijami,Nakup lahkih tovornih vozil z nizkimi emisijami,Nakup lahkih tovornih vozil z nizkimi emisijami,Nakup težkih tovornih vozil z nizkimi emisijami,Nakup težkih tovornih vozil z nizkimi emisijami,Nakup univerzalnega delovnega vozila z nizkimi emisijami,Zimski priključki,Zimski priključki,Letni priključki",
+  "kind": 2,
+  "value": 2850216.52,
+  "signed": "2017-02-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE SLOVENIJA, d.o.o.",
+   "BENUSSI d.o.o.",
+   "Autocommerce, d.o.o.",
+   "SVET STROJEV d.o.o.",
+   "RASCO KOMUNALNA OPREMA d.o.o."
+  ],
+  "contractor_ids": [
+   "5758980000",
+   "6272070000",
+   "5670209000",
+   "6015174000",
+   "3619524000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005798/2016-C01/POG-63639",
+  "published": "2017-03-01",
+  "files": [
+   {
+    "name": "pogodbe.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTYzNjM5O3BvZ29kYmUuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

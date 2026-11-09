@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 233306,
+  "type": "DOD",
+  "prev": 161522,
+  "idObrazec": 774690,
+  "idDosje": 348836,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1391/2020 za DOBAVA VAROVALNIH OGRAJ: Sklop 1 - Aluminijasta varovalna ograja; Sklop 2 - Jeklena pocinkana in plastificirana varovalna ograja",
+  "procurement": "Aluminijasta varovalna ograja,Jeklena pocinkana in plastificirana varovalna ograja",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2023-03-14",
+  "from": "2023-03-14",
+  "to": "2023-09-09",
+  "number": "511/2023",
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002308/2020-C01/DOD-233306",
+  "published": "2023-03-16",
+  "files": [
+   {
+    "name": "Podpisan aneks 1 z dne 14032023R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNDQ3MTtQb2RwaXNhbiBhbmVrcyAxIHogZG5lIDE0MDMyMDIzUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

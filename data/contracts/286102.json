@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 286102,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 850608,
+  "idDosje": 509559,
+  "title": "Vzdrževanje podatkov GJI za potrebe DARS",
+  "procurement": "Vzdrževanje podatkov GJI za potrebe DARS",
+  "kind": 1,
+  "value": 93696.0,
+  "signed": "2024-09-06",
+  "from": "2024-09-06",
+  "to": "2027-11-09",
+  "number": "000932/2024",
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002979/2024-POG/01",
+  "published": "2024-09-09",
+  "files": [
+   {
+    "name": "pogodba st. 932-2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE1MzczO3BvZ29kYmEgc3QuIDkzMi0yMDI0LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 125087,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686638,
+  "idDosje": 287926,
+  "title": "Pogodba DARS št 632/2019 Izdelava projektne dokumentacije PZI za razbremenitev ležišč v območju krajnih podpor viadukta Rebernice na HC Razdrto – Vipava; Rebernice",
+  "procurement": "Izdelava projektne dokumentacije PZI za razbremenitev ležišč v območju krajnih podpor viadukta Rebernice na HC Razdrto – Vipava; Rebernice",
+  "kind": 1,
+  "value": 95587.0,
+  "signed": "2019-04-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008631/2018-X01/POG-125087",
+  "published": "2019-04-19",
+  "files": [
+   {
+    "name": "Pogodba DARS_632_2019_vReb.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTA4NztQb2dvZGJhIERBUlNfNjMyXzIwMTlfdlJlYi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

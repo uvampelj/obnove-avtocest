@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166293,
+  "type": "DOD",
+  "prev": 117898,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 2120/2018: Izdelava projektne dokumentacije PZI in projektne dokumentacije za razpis za zamenjavo sidrnih vijakov obstoječih ventilatorjev v predorih Jasovnik, Trojane, Kastelec in Dekani – podaljšanje pogodbenega roka ",
+  "procurement": "IZDELAVA PROJEKTNE DOKUMENTACIJE PZI IN PROJEKTNE DOKUMENTACIJE ZA RAZPIS ZA ZAMENJAVO SIDRNIH VIJAKOV OBSTOJEČIH VENTILATORJEV V PREDORIH JASOVNIK, TROJANE, KASTELEC IN DEKANI ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-01-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-19",
+  "files": [
+   {
+    "name": "aneks št. 1 k pog-2120-2018-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjI5MzthbmVrcyDFoXQuIDEgayBwb2ctMjEyMC0yMDE4LW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

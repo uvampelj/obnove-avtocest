@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222272,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 741874,
+  "idDosje": 454658,
+  "title": "VZDRŽEVANJE STENSKIH PRIKAZOVALNIKOV BARCO",
+  "procurement": "VZDRŽEVANJE STENSKIH PRIKAZOVALNIKOV BARCO",
+  "kind": 1,
+  "value": 140408.58,
+  "signed": "2022-09-20",
+  "from": "2022-09-20",
+  "to": "2024-09-20",
+  "number": null,
+  "contractors": [
+   "MICOS mikroračunalniški industrijski sistemi, sistemi vodenj in avtomatizacije, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5358345000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006020/2022-C01/POG-222272",
+  "published": "2022-09-22",
+  "files": [
+   {
+    "name": "Pogodba Micos_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjMyOTtQb2dvZGJhIE1pY29zX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

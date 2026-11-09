@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 96534,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 672187,
+  "idDosje": 237417,
+  "title": "IZDELAVA PREDINVESTICIJSKE ZASNOVE IN ŠTUDIJE ŠIRŠIH EKONOMSKIH UČINKOV ZA 3.RAZVOJNO OS JUG OD AC A2 LJUBLJANA-OBREŽJE PRI NOVEM MESTU DO PRIKLJUČKA MALINE ",
+  "procurement": "IZDELAVA PREDINVESTICIJSKE ZASNOVE IN ŠTUDIJE ŠIRŠIH EKONOMSKIH UČINKOV ZA 3.RAZVOJNO OS JUG OD AC A2 LJUBLJANA-OBREŽJE PRI NOVEM MESTU DO PRIKLJUČKA MALINE ",
+  "kind": 1,
+  "value": 69540.0,
+  "signed": "2018-03-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EPLAN podjetniško in poslovno svetovanje d.o.o.",
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "2155346000",
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000086/2018-X01/POG-96534",
+  "published": "2018-04-17",
+  "files": [
+   {
+    "name": "Pogodba-JV Eplan+PNZ.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk2NTM0O1BvZ29kYmEtSlYgRXBsYW4rUE5aLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

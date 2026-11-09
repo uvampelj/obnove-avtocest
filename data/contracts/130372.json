@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 130372,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 689692,
+  "idDosje": 311003,
+  "title": "Zakup para optičnih vlaken ACB Maribor-PKVMB",
+  "procurement": "Zakup para optičnih vlaken ACB Maribor-PKVMB",
+  "kind": 1,
+  "value": 17568.0,
+  "signed": "2019-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Telemach, širokopasovne komunikacije, d.o.o."
+  ],
+  "contractor_ids": [
+   "5692229000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003596/2019-X01/POG-130372",
+  "published": "2019-07-19",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMDM3Mjtwb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

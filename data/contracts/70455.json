@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 70455,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 659097,
+  "idDosje": 186681,
+  "title": "Servisiranje tovornih vozil IVECO",
+  "procurement": "Servisiranje tovornih vozil IVECO",
+  "kind": 1,
+  "value": 980032.1,
+  "signed": "2017-05-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000875/2017-C01/POG-70455",
+  "published": "2017-05-11",
+  "files": [
+   {
+    "name": "Pogodba 376-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTcwNDU1O1BvZ29kYmEgMzc2LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

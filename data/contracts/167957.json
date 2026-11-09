@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 167957,
+  "type": "DOD",
+  "prev": 109613,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1642/2018: Izdelava projektne dokumentacije IDP, PGD in PZI za most na novi štiripasovni cesti in vzporedni most za pešce in kolesarje čez reko Krko, na 1. in 2. etapi nove prometne povezave med avtocesto A2 Ljubljana-Obrežje pri Novem mestu in priključkom Maline ",
+  "procurement": "Izdelava natečajne rešitve in proj. dok. IDP, PGD in PZI za most na novi štiripasovni cesti in vzporedni most za pešce in kolesarje čez reko Krko, na 3. razvojni osi jug",
+  "kind": 1,
+  "value": 82613.52,
+  "signed": "2020-08-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5303516000",
+   "1708597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-09",
+  "files": [
+   {
+    "name": "Aneks-1-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2Nzk1NztBbmVrcy0xLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

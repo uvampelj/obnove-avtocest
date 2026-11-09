@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 309380,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 911546,
+  "idDosje": 519306,
+  "title": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent, Sklop 2 – AC baza Novo mesto\n",
+  "procurement": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent",
+  "kind": 1,
+  "value": 40992.0,
+  "signed": "2025-05-09",
+  "from": "2025-05-09",
+  "to": "2028-05-09",
+  "number": "000721/2025",
+  "contractors": [
+   "HIDEX hidravlika, pnevmatika, avtomatizacija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5336414000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001620/2025-POG/01",
+  "published": "2025-05-14",
+  "files": [
+   {
+    "name": "pogodba DARS st. 721-2025,hidex_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzc0Nzc4O3BvZ29kYmEgREFSUyBzdC4gNzIxLTIwMjUsaGlkZXhfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 132715,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691138,
+  "idDosje": 312082,
+  "title": "Vzdrževanje cestno-vremenskega informacijskega sistema (CVIS)",
+  "procurement": "Vzdrževanje cestno-vremenskega informacijskega sistema (CVIS)",
+  "kind": 1,
+  "value": 63928.0,
+  "signed": "2019-08-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CGS Labs, informacijske in okoljske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "8034150000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003915/2019-X01/POG-132715",
+  "published": "2019-08-28",
+  "files": [
+   {
+    "name": "pogodba cgs labs.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMjcxNTtwb2dvZGJhIGNncyBsYWJzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 109672,
+  "type": "DOD",
+  "prev": 78782,
+  "idObrazec": 769584,
+  "idDosje": 205766,
+  "title": "POSTAVITEV IN ZAMENJAVA JEKLENIH VARNOSTNIH OGRAJ OB ODSTAVNEM PASU AVTOCESTE A2, OBMOČJE AC BAZE NOVO MESTO",
+  "procurement": "POSTAVITEV IN ZAMENJAVA JEKLENIH VARNOSTNIH OGRAJ OB ODSTAVNEM PASU AVTOCESTE A2, OBMOČJE AC BAZE NOVO MESTO",
+  "kind": 3,
+  "value": 28418.5,
+  "signed": "2018-09-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ Proizvodnja in trgovina d.o.o.",
+   "KVEDER, trgovina, proizvodnja in predelava lesenih in kovinskih izdelkov, d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000",
+   "2033984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004781/2017-C01/DOD-109672",
+  "published": "2018-09-24",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTY3MjtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

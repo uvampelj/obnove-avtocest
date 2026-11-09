@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 144941,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 5 k pogodbi DARS št. 645/2005",
+  "procurement": "Vodenje projektov za pridobitev prostorske dokumentacije za odseke AC, HC in državnih cest, katerih naročnik je DARS d.d. za Sklop II: Primorski krak AC omrežja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-01-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-01-29",
+  "files": [
+   {
+    "name": "Aneks št. 5 k pogodbi DARS št. 645-2005, 000031-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NDk0MTtBbmVrcyDFoXQuIDUgayBwb2dvZGJpIERBUlMgxaF0LiA2NDUtMjAwNSwgMDAwMDMxLTIwMjAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

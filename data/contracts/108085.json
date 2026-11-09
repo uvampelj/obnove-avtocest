@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 108085,
+  "type": "DOD",
+  "prev": 54260,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 7 za \"Izdelavo projektne dokumentacije PGD, PZI HC Jagodje - Lucija in priključne ceste za Piran; SKLOP 1 - trasa s spremljajočimi objekti",
+  "procurement": "Aneks št. 7 za \"Izdelavo projektne dokumentacije PGD, PZI HC Jagodje - Lucija in priključne ceste za Piran; SKLOP 1 - trasa s spremljajočimi objekti",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-09-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKTIVNI ATELJE - NIZKE GRADNJE d.o.o., projektiranje, inženiring in storitve"
+  ],
+  "contractor_ids": [
+   "5622646000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-09-13",
+  "files": [
+   {
+    "name": "Aneks 7.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwODA4NTtBbmVrcyA3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

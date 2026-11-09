@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 250007,
+  "type": "DOD",
+  "prev": 131620,
+  "idObrazec": 772459,
+  "idDosje": 303537,
+  "title": "Aneks št. 4 k pogodbi DARS št. 907/2019: IZDELAVA POROČILA O VPLIVIH NA OKOLJE ZA GLAVNO CESTO MARKOVCI-GORIŠNICA",
+  "procurement": "Izdelava Poročila o vplivih na okolje za glavno cesto Markovci - Gorišnica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-09-22",
+  "from": "2023-09-22",
+  "to": "2023-12-31",
+  "number": "1006/2023",
+  "contractors": [
+   "IPSUM, okoljske investicije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924982000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002155/2019-X01/DOD-250007",
+  "published": "2023-10-18",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MzI4OTtBbmVrcy00LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

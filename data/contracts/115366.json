@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 115366,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681027,
+  "idDosje": 263649,
+  "title": "Svetovalne storitve pri pripravi tehničnih zahtev integracije in centralizacije ITS sistemov v NC",
+  "procurement": "Svetovalne storitve pri pripravi tehničnih zahtev integracije in centralizacije ITS sistemov v NC",
+  "kind": 1,
+  "value": 301950.0,
+  "signed": "2018-11-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA ELEKTROTEHNIKO",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA RAČUNALNIŠTVO IN INFORMATIKO"
+  ],
+  "contractor_ids": [
+   "1626965000",
+   "1627023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004718/2018-C01/POG-115366",
+  "published": "2018-12-03",
+  "files": [
+   {
+    "name": "002019-2018 Pogodba Svetovalne storitve pri pripravi tehničnih zahtev integracije in cestralizacije ITS sistemov v NC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTM2NjswMDIwMTktMjAxOCBQb2dvZGJhIFN2ZXRvdmFsbmUgc3Rvcml0dmUgcHJpIHByaXByYXZpIHRlaG5pxI1uaWggemFodGV2IGludGVncmFjaWplIGluIGNlc3RyYWxpemFjaWplIElUUyBzaXN0ZW1vdiB2IE5DLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

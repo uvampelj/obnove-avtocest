@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 184526,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 721738,
+  "idDosje": 389439,
+  "title": "Opravljanje tehničnih pregledov za ACB Ljubljana",
+  "procurement": "Opravljanje tehničnih pregledov za ACB Ljubljana",
+  "kind": 1,
+  "value": 153323.04,
+  "signed": "2021-06-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LJ CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "8243182000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001138/2021-C01/POG-184526",
+  "published": "2021-06-30",
+  "files": [
+   {
+    "name": "Pogodba ST. 893-2021__Red..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4NDUyNjtQb2dvZGJhIFNULiA4OTMtMjAyMV9fUmVkLi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

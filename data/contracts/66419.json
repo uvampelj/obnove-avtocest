@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 66419,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657500,
+  "idDosje": 180446,
+  "title": "Vzdrževanje UPS naprav; sklop 1: naprave proizvajalca SOCOMEC",
+  "procurement": "Vzdrževanje UPS naprav; sklop 1: naprave proizvajalca SOCOMEC",
+  "kind": 1,
+  "value": 344277.9,
+  "signed": "2017-03-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SOCOMEC SICON d.o.o."
+  ],
+  "contractor_ids": [
+   "5315158000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007706/2016-C01/POG-66419",
+  "published": "2017-03-24",
+  "files": [
+   {
+    "name": "pogodba Socomec.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY2NDE5O3BvZ29kYmEgU29jb21lYy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 90523,
+  "type": "DOD",
+  "prev": 26062,
+  "idObrazec": 767675,
+  "idDosje": 71771,
+  "title": "aneks št. 1 k pog. DARS št.899/15:POSTAVITEV JVO V LOČILNEM PASU NA ODSEKIH AC A1 – PRIMORSKA TER A2 GORENJSKA",
+  "procurement": "POSTAVITEV JVO V LOČILNEM PASU NA ODSEKIH AC A1-PRIMORSKA IN A2-GORENJSKA",
+  "kind": 3,
+  "value": 36613.95,
+  "signed": "2016-12-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO, d.d. Liboje",
+   "PETRIČ Proizvodnja in trgovina d.o.o."
+  ],
+  "contractor_ids": [
+   "5206855000",
+   "5565316000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN8323/2015/DOD-90523",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTIzO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

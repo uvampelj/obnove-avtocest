@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 400782,
+  "type": "DOD",
+  "prev": 204453,
+  "idObrazec": 1068580,
+  "idDosje": 423961,
+  "title": "Aneks 2, DARS št. 568/2026",
+  "procurement": " Najem prekrškovne aplikacije kot podpore nadzoru pri sistemu elektronske vinjete in prekrškovnih postopkov cestninskega nadzora",
+  "kind": 1,
+  "value": 28060.0,
+  "signed": "2026-04-16",
+  "from": null,
+  "to": null,
+  "number": "000051/2022",
+  "contractors": [
+   "INPORES, razvojne in informacijske rešitve za javno upravo d.o.o."
+  ],
+  "contractor_ids": [
+   "2153203000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007628/2021-C01/POG-204453-D01",
+  "published": "2026-04-22",
+  "files": [
+   {
+    "name": "Aneks 2, DARS št. 568-2026_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTE0ODM2O0FuZWtzIDIsIERBUlMgxaF0LiA1NjgtMjAyNl9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

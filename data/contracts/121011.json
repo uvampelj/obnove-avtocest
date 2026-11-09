@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 121011,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 684010,
+  "idDosje": 280242,
+  "title": "IZDELAVA PROJEKTNO TEHNIČNE DOKUMENTACIJE IZP IN PZI ZA REKONSTRUKCIJO MALIH POČIVALIŠČ NA OMREŽJU AVTOCEST V UPRAVLJANJU DARS ",
+  "procurement": "IZDELAVA PROJEKTNO TEHNIČNE DOKUMENTACIJE IZP IN PZI ZA REKONSTRUKCIJO MALIH POČIVALIŠČ NA OMREŽJU AVTOCEST V UPRAVLJANJU DARS ",
+  "kind": 1,
+  "value": 146375.6,
+  "signed": "2019-02-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ARPING inženiring, projektiranje in nadzor v gradbeništvu d.o.o."
+  ],
+  "contractor_ids": [
+   "6711243000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007445/2018-X01/POG-121011",
+  "published": "2019-02-21",
+  "files": [
+   {
+    "name": "Pogodba-Arping.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTAxMTtQb2dvZGJhLUFycGluZy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

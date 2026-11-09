@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 128,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630297,
+  "idDosje": 14697,
+  "title": "SKLOP 2- Merilec slanosti",
+  "procurement": "Merilec slanosti",
+  "kind": 2,
+  "value": 33367.0,
+  "signed": "2015-03-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JUTI, d.o.o."
+  ],
+  "contractor_ids": [
+   "2098156000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1408/2015/POG-128",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "POGODBA 187-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODtQT0dPREJBIDE4Ny0yMDE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

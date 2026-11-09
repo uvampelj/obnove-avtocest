@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85546,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666182,
+  "idDosje": 221678,
+  "title": "»Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo« pri pogodbenemu partnerju OMV",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – sistem DarsGo« pri pogodbenemu partnerju OMV",
+  "kind": 1,
+  "value": 2683476.86,
+  "signed": "2017-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o."
+  ],
+  "contractor_ids": [
+   "5540739000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008214/2017-C01/POG-85546",
+  "published": "2017-11-21",
+  "files": [
+   {
+    "name": "pogodba_CUT OMV_123-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1NTQ2O3BvZ29kYmFfQ1VUIE9NVl8xMjMtMjAxNy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

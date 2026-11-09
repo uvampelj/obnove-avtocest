@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 161818,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708728,
+  "idDosje": 346841,
+  "title": "Izdelava projektne dokumentacije IZP za rekonstrukcijo odseka na AC A2/0022 Grosuplje -Ivančna Gorica od km 4,134 do 4,1385 z zamenjavo nadvoza VA0266 Peč  ",
+  "procurement": "Izdelava projektne dokumentacije IZP za rekonstrukcijo odseka na AC A2/0022 Grosuplje -Ivančna Gorica od km 4,134 do 4,1385 z zamenjavo nadvoza VA0266 Peč  ",
+  "kind": 1,
+  "value": 26303.2,
+  "signed": "2020-09-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TNT Projektiranje in inženiring Tibor Krašovec s.p.",
+   "KO-BIRO podjetje za projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6747833000",
+   "1189620000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001738/2020-X01/POG-161818",
+  "published": "2020-09-29",
+  "files": [
+   {
+    "name": "Pogodba J.V. TNT Tibor Krašovec s.p.+KO-BIRO-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTgxODtQb2dvZGJhIEouVi4gVE5UIFRpYm9yIEtyYcWhb3ZlYyBzLnAuK0tPLUJJUk8tb2JqYXZhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

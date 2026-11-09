@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 155500,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704585,
+  "idDosje": 345029,
+  "title": "Svetovalne in inženirske storitve na področju investicij na obstoječih AC in HC, s katerimi upravlja DARS d.d.",
+  "procurement": "Svetovalne in inženirske storitve na področju investicij na obstoječih AC in HC, s katerimi upravlja DARS d.d.",
+  "kind": 1,
+  "value": 11463120.0,
+  "signed": "2020-06-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001267/2020-C01/POG-155500",
+  "published": "2020-06-29",
+  "files": [
+   {
+    "name": "podpisana pogodba 1203-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NTUwMDtwb2RwaXNhbmEgcG9nb2RiYSAxMjAzLTIwMjAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

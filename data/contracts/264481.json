@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 264481,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 805209,
+  "idDosje": 494397,
+  "title": "Drobni material",
+  "procurement": "Drobni material",
+  "kind": 2,
+  "value": 256200.0,
+  "signed": "2024-03-27",
+  "from": "2024-03-27",
+  "to": "2026-06-27",
+  "number": "000483/2024",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006447/2023-POG/01",
+  "published": "2024-04-09",
+  "files": [
+   {
+    "name": "pogodba_podpisana st 483-2024_ULred.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc3MTE3O3BvZ29kYmFfcG9kcGlzYW5hIHN0IDQ4My0yMDI0X1VMcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

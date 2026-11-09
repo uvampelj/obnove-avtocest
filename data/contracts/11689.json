@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 11689,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634815,
+  "idDosje": 72489,
+  "title": "Aneks št. 2 k pog. DARS št. 562/11: IZDELAVA PZI PROJEKTA IN IZVLEČKA IZ PZI PROJEKTA ZA POTREBE RAZPISA ZA IZVEDBO ELEKTROSTROJNIH VARNOSTNIH NAPRAV V PREDORU MARKOVEC NA ODSEKU HITRE CESTE KOPER...",
+  "procurement": "Aneks št. 2 k pog. DARS št. 562/11: IZDELAVA PZI PROJEKTA IN IZVLEČKA IZ PZI PROJEKTA ZA POTREBE RAZPISA ZA IZVEDBO ELEKTROSTROJNIH VARNOSTNIH NAPRAV V PREDORU MARKOVEC NA ODSEKU HITRE CESTE KOPER...",
+  "kind": 1,
+  "value": 30365.8,
+  "signed": "2015-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE d.d.",
+   "JRS d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5075696000",
+   "1216112000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN728/2015/POG-11689",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "77-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjg5Ozc3LTE1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

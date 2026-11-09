@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 250422,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 762507,
+  "idDosje": 482810,
+  "title": "Izdelava projektne dokumentacije za novogradnjo in izvedbo vzdrževalnih del v javno korist na odseku glavne ceste Mengeš-Žeje-Vodice",
+  "procurement": "Izdelava projektne dokumentacije za novogradnjo in izvedbo vzdrževalnih del v javno korist na odseku glavne ceste Mengeš-Žeje-Vodice",
+  "kind": 1,
+  "value": 921062.18,
+  "signed": "2023-10-05",
+  "from": "2023-10-27",
+  "to": "2026-04-27",
+  "number": "001029/2023",
+  "contractors": [
+   "PNG projekt nizke gradnje Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003847/2023-C01/POG-250422",
+  "published": "2023-10-23",
+  "files": [
+   {
+    "name": "Pogodba-PNG_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MzcxNTtQb2dvZGJhLVBOR19vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

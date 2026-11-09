@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 132483,
+  "type": "DOD",
+  "prev": 49052,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 6 k pogodbi DARS št. 381/2000",
+  "procurement": "Aneks št. 6 k pogodbi DARS št. 381/2000 za Opravljanje strokovno svetovalnih storitev za potrebe nacionalnega programa izgradnje avtocest v RS za odsek AC Pesnica-Slivnica; AC priključek Zrkovska cesta-priključek Pesnica",
+  "kind": 1,
+  "value": 194812.1,
+  "signed": "2019-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-08-23",
+  "files": [
+   {
+    "name": "Aneks št.6 k osnovni pogodbi št. 381-2000.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMjQ4MztBbmVrcyDFoXQuNiBrIG9zbm92bmkgcG9nb2RiaSDFoXQuIDM4MS0yMDAwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

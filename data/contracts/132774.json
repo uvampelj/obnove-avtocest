@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 132774,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 691168,
+  "idDosje": 304625,
+  "title": "Servisiranje dvižnih garažnih vrat",
+  "procurement": "Servisiranje dvižnih garažnih vrat",
+  "kind": 1,
+  "value": 413238.4,
+  "signed": "2019-08-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MATJAŽ, montaža, zastopanje in posredovanje d.o.o., Petrovče 115 B, Petrovče"
+  ],
+  "contractor_ids": [
+   "5332729000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002477/2019-C01/POG-132774",
+  "published": "2019-08-29",
+  "files": [
+   {
+    "name": "pogodba,matjaz d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMjc3NDtwb2dvZGJhLG1hdGpheiBkLm8uby4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

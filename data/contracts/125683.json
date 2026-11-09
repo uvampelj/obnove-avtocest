@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 125683,
+  "type": "DOD",
+  "prev": 108371,
+  "idObrazec": 771097,
+  "idDosje": 258325,
+  "title": "IZDELAVA PROMETNE ŠTUDIJE IN PROMETNO-EKONOMSKEGA VREDNOTENJA ZA IZGRADNJO HITRE CESTE KOPER–DRAGONJA ",
+  "procurement": "IZDELAVA PROMETNE ŠTUDIJE IN PROMETNO-EKONOMSKEGA VREDNOTENJA ZA IZGRADNJO HITRE CESTE KOPER–DRAGONJA ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "APPIA družba za projektiranje, raziskave in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "1829157000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003411/2018-X01/DOD-125683",
+  "published": "2019-04-30",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTY4MztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

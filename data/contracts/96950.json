@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 96950,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 672422,
+  "idDosje": 246224,
+  "title": "Dobava merilne opreme",
+  "procurement": "Dobava merilne opreme",
+  "kind": 2,
+  "value": 34587.0,
+  "signed": "2018-04-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JUTI Zastopstva, svetovanje, trgovina in nepremičnine d.o.o."
+  ],
+  "contractor_ids": [
+   "2098156000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001312/2018-X01/POG-96950",
+  "published": "2018-04-23",
+  "files": [
+   {
+    "name": "pogodba 1382-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk2OTUwO3BvZ29kYmEgMTM4Mi0yMDE4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

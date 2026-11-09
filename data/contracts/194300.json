@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 194300,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 726850,
+  "idDosje": 400193,
+  "title": "LETNI PREGLED IN SERVISIRANJE PLINSKIH IN OLJNIH GRELNIH NAPRAV TER SERVISIRANJE TOPLOTNIH ČRPALK",
+  "procurement": "Servisiranje plinskih kurilnih naprav,Servisiranje kurilnih naprav na kurilno olje in servisiranje toplotnih črpalk",
+  "kind": 1,
+  "value": 332864.8,
+  "signed": "2021-10-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISTRABENZ PLINI, plini in plinske tehnologije, d.o.o.",
+   "KOVINTRADE Mednarodna trgovina d.d. Celje"
+  ],
+  "contractor_ids": [
+   "5419263000",
+   "5025524000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003471/2021-C01/POG-194300",
+  "published": "2021-10-12",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NDMwMDtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

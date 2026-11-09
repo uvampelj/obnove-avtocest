@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 132465,
+  "type": "DOD",
+  "prev": 121618,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 163/2019 za Vzpostavitev, vzdrževanje in nadgradnjo informacijskega sistema za podporo javnemu naročanju",
+  "procurement": "Vzpostavitev, vzdrževanje in nadgradnjo informacijskega sistema za podporo javnemu naročanju",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-07-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-08-22",
+  "files": [
+   {
+    "name": "a1_pog163-2019_inf sist JN_190-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMjQ2NTthMV9wb2cxNjMtMjAxOV9pbmYgc2lzdCBKTl8xOTAtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

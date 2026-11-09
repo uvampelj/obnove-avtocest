@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193668,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 726391,
+  "idDosje": 400413,
+  "title": "Projektiranje digitalnega video nadzora na DARS objektih ",
+  "procurement": "Projektiranje digitalnega video nadzora na DARS objektih ",
+  "kind": 1,
+  "value": 75076.36,
+  "signed": "2021-09-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003396/2021-X01/POG-193668",
+  "published": "2021-10-06",
+  "files": [
+   {
+    "name": "Pogodba-Tenzor_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MzY2ODtQb2dvZGJhLVRlbnpvcl9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

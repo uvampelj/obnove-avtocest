@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 182444,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 720422,
+  "idDosje": 385014,
+  "title": "VZDRŽEVANJE SILOSOV IN MEŠALNIH NAPRAV",
+  "procurement": "Sklop 1: Silosi in mešalne naprave proizvajalca Holten,Sklop 2: Silosi in mešalne naprave proizvajalcev Blumer in Riko",
+  "kind": 1,
+  "value": 1588659.6,
+  "signed": "2021-05-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TIMCO CONSULTING trgovina, inženiring, storitve d.o.o.",
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "1277049000",
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000700/2021-C01/POG-182444",
+  "published": "2021-05-27",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MjQ0NDtQb2dvZGJpLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

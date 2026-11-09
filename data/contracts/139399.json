@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 139399,
+  "type": "DOD",
+  "prev": 120583,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k osnovni pogodbi DARS št. 30/2019 Sanacija hidravličnih požarnih vrat v predorih Kastelec, Dekani, Markovec, Šentvid, Trojane, Podmilj",
+  "procurement": "Sanacija hidravličnih požarnih vrat v predorih Kastelec, Dekani, Markovec, Šentvid, Trojane, Podmilj",
+  "kind": 1,
+  "value": 56744.52,
+  "signed": "2019-10-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO, industrijski, gradbeni inženiring in leasing d.o.o."
+  ],
+  "contractor_ids": [
+   "5909368000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-11-22",
+  "files": [
+   {
+    "name": "a1_pog30-2019_270-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzOTM5OTthMV9wb2czMC0yMDE5XzI3MC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

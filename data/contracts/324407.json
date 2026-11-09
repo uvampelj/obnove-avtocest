@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324407,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956275,
+  "idDosje": 524396,
+  "title": "Prevzem različnih odpadnih materialov\nSKLOP 2 - Odpadne barve, embalaža, absorbenti, filtrna sredstva",
+  "procurement": "Prevzem različnih odpadnih materialov",
+  "kind": 1,
+  "value": 43449.6,
+  "signed": "2025-11-04",
+  "from": "2025-12-01",
+  "to": "2029-12-01",
+  "number": "001223/2025",
+  "contractors": [
+   "EKOREL, ekološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006001/2025-POG/01",
+  "published": "2025-11-06",
+  "files": [
+   {
+    "name": "R_Pogodba 001223-2025 S2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwNTUyO1JfUG9nb2RiYSAwMDEyMjMtMjAyNSBTMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

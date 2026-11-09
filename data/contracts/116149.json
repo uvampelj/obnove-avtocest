@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 116149,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št.3 k osnovni pogodbi DARS št. 568/2013 za izvajanje strokovno svetovalnih storitve pri izvedbi rušenja cestninskih postaj in ukrepov na avtocesti v območju platojev za fazo projektiranja vključno s pridobitvijo dovoljenj za rušenje cestninskih postaj in ostale ukrepe",
+  "procurement": "Aneks št.3 k osnovni pogodbi DARS št.568/2013",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-12-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-12-12",
+  "files": [
+   {
+    "name": "Aneks št.3 k pogodbi 568-2013.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjE0OTtBbmVrcyDFoXQuMyBrIHBvZ29kYmkgNTY4LTIwMTMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

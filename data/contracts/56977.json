@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 56977,
+  "type": "DOD",
+  "prev": 49049,
+  "idObrazec": 768389,
+  "idDosje": 45154,
+  "title": "Aneks 1 k pogodbi 734/2016; Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v prostem prometnem toku; sklop B: izvajanje inženirskih storitev na informacijskem delu projekta; vključitev dodatnih podizvajalcev, vključitev dodatnih kadrov  ",
+  "procurement": "Sklop B: izvajanje inženirskih storitev na informacijskem delu projekta",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IGEA, D.O.O."
+  ],
+  "contractor_ids": [
+   "5336236000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005498/2016-C01/DOD-56977",
+  "published": "2016-12-22",
+  "files": [
+   {
+    "name": "aneks 1 - 1011-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU2OTc3O2FuZWtzIDEgLSAxMDExLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

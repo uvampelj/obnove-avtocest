@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 106068,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 676676,
+  "idDosje": 260594,
+  "title": "Dobava in renoviranje ščetk za pometalne stroje",
+  "procurement": "Dobava in renoviranje ščetk za pometalne stroje",
+  "kind": 2,
+  "value": 175778.82,
+  "signed": "2018-08-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SOHA podjetje za proizvodnjo, trgovino in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5465621000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003935/2018-X01/POG-106068",
+  "published": "2018-08-16",
+  "files": [
+   {
+    "name": "Pogodba 1722-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNjA2ODtQb2dvZGJhIDE3MjItMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

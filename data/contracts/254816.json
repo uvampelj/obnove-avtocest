@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 254816,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 765527,
+  "idDosje": 492157,
+  "title": "Sklop 11 - Gorski traktor Sauerburger in samohodnih mulčarjev MDB",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 92720.0,
+  "signed": "2023-12-20",
+  "from": "2023-12-20",
+  "to": "2025-12-20",
+  "number": "001503/2023",
+  "contractors": [
+   "GRADBENA MEHANIZACIJA, PREVOZI JOŽE JANČAR S.P."
+  ],
+  "contractor_ids": [
+   "5749848000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005994/2023-C01/POG-254816",
+  "published": "2023-12-22",
+  "files": [
+   {
+    "name": "Pogodba - Jože Jančar_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1ODQ4NTtQb2dvZGJhIC0gSm_FvmUgSmFuxI1hcl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

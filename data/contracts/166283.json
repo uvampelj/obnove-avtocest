@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 166283,
+  "type": "DOD",
+  "prev": 123847,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 422/2019: Sanacija sedmih portalov spremenljive prometne-informativne signalizacije – dodatna in manj dela, podaljšanje roka",
+  "procurement": "SANACIJA SEDMIH PORTALOV SPREMENLJIVE PROMETNE-INFORMATIVNE SIGNALIZACIJE",
+  "kind": 3,
+  "value": 73568.2,
+  "signed": "2020-03-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, elektro in sistemske rešitve, d.o.o.",
+   "JAVNA RAZSVETLJAVA d.d."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-19",
+  "files": [
+   {
+    "name": "aneks št. 1 k pog.-422-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjI4MzthbmVrcyDFoXQuIDEgayBwb2cuLTQyMi0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

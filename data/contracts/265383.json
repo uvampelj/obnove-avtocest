@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265383,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 808141,
+  "idDosje": 507306,
+  "title": "Upravljanje s prometom na vpadnicah Ljubljane - integracija nove periferne opreme v centralni del SNVP",
+  "procurement": "Upravljanje s prometom na vpadnicah Ljubljane- integracija nove periferne opreme v centralni del SNVP",
+  "kind": 1,
+  "value": 1408485.85,
+  "signed": "2024-03-20",
+  "from": "2024-03-20",
+  "to": "2025-12-20",
+  "number": "000433/2024",
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001261/2024-POG/01",
+  "published": "2024-04-22",
+  "files": [
+   {
+    "name": "pogodba za objavo_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5NDk2O3BvZ29kYmEgemEgb2JqYXZvX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

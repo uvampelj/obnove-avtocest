@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 331640,
+  "type": "DOD",
+  "prev": 261835,
+  "idObrazec": 975250,
+  "idDosje": 498604,
+  "title": "Aneks št. 1 k pogodbi DARS št. 387/2024 za \"AC baza Hrušica - Podaljšanje podporne konstrukcije PK 1\"",
+  "procurement": "AC baza Hrušica - Podaljšanje podporne konstrukcije PK 1",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-01-20",
+  "from": "2024-03-06",
+  "to": "2026-03-06",
+  "number": "000387/2024",
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "007450/2023-POG/01-D01",
+  "published": "2026-01-26",
+  "files": [
+   {
+    "name": "Aneks-1-k-387-2024_371-2025-OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDI1NzAzO0FuZWtzLTEtay0zODctMjAyNF8zNzEtMjAyNS1PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

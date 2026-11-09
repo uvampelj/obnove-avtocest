@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 18382,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637433,
+  "idDosje": 11309,
+  "title": "Popravilo nadgradenj Cappellotto",
+  "procurement": "Popravilo nadgradenj Cappellotto.",
+  "kind": 1,
+  "value": 146400.0,
+  "signed": "2015-08-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV5075/2015/POG-18382",
+  "published": "2015-08-14",
+  "files": [
+   {
+    "name": "pogodba 677-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MzgyO3BvZ29kYmEgNjc3LTIwMTUucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

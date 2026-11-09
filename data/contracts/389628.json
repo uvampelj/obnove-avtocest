@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 389628,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1045073,
+  "idDosje": 528667,
+  "title": "Izdelava strokovnih podlag in pobude/DIIP za državno prostorsko načrtovanje za ureditev dolenjskega kraka AC od razcepa Malence do priključka Grosuplje vzhod",
+  "procurement": "Izdelava strokovnih podlag in pobude/DIIP za državno prostorsko načrtovanje za ureditev dolenjskega kraka AC od razcepa Malence do priključka Grosuplje vzhod",
+  "kind": 1,
+  "value": 514230.0,
+  "signed": "2026-03-31",
+  "from": "2026-03-31",
+  "to": "2028-03-31",
+  "number": "000477/2026",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "Prostorsko načrtovanje Aleš Mlakar s.p."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "3159230000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009734/2025-POG/01",
+  "published": "2026-04-09",
+  "files": [
+   {
+    "name": "JV PNZ+AlešMlakar_pogodba_477-26_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkyMTExO0pWIFBOWitBbGXFoU1sYWthcl9wb2dvZGJhXzQ3Ny0yNl9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

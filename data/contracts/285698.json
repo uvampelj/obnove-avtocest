@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 285698,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 849537,
+  "idDosje": 510581,
+  "title": "Sklop 2 - Varilni aparati",
+  "procurement": "SERVISIRANJE MEHANIZACIJE IN OPREME",
+  "kind": 1,
+  "value": 57291.2,
+  "signed": "2024-09-02",
+  "from": "2024-09-02",
+  "to": "2027-09-02",
+  "number": "000914/2024",
+  "contractors": [
+   "VARIKON VARILNA TEHNIKA, SERVIS, PROIZVODNJA, TRGOVINA, družba za storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "2170531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003826/2024-POG/02",
+  "published": "2024-09-04",
+  "files": [
+   {
+    "name": "Pogodba - Varikon 2_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE0NDk2O1BvZ29kYmEgLSBWYXJpa29uIDJfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

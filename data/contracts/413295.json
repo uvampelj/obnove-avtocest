@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 413295,
+  "type": "DOD",
+  "prev": 224596,
+  "idObrazec": 1086106,
+  "idDosje": 447967,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1314/2022: Izdelava IzN za preplastitev voziščne konstrukcije priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica–Lipce ",
+  "procurement": "Izdelava izvedbenega načrta za preplastitev voz. konst. priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica-Lipce",
+  "kind": 1,
+  "value": 5735.95,
+  "signed": "2026-05-19",
+  "from": "2026-05-19",
+  "to": "2026-08-31",
+  "number": "001314/2022",
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003957/2022-X01/POG-224596-D01",
+  "published": "2026-05-21",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTMwODU3O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

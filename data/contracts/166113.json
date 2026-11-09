@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 166113,
+  "type": "DOD",
+  "prev": 78978,
+  "idObrazec": 769602,
+  "idDosje": 210583,
+  "title": "Aneks št. 2 k pog. DARS ŠT. 679/2017: \"Izdelava strokovnih podlag, pobude za državni prostorski načrt in analize smernic za povezovalno cesto Podgora-Letuš (do sprejema sklepa o pripravi načrta)\" – podaljšanje pogodbenega roka",
+  "procurement": "IZDELAVA STROKOVNIH PODLAG, POBUDE ZA DRŽAVNI PROSTORSKI NAČRT IN ANALIZE SMERNIC ZA POVEZOVALNO CESTO PODGORA-LETUŠ (do sprejema sklepa o pripravi načrta) ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-10-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Razvojni center PLANIRANJE d.o.o. Celje"
+  ],
+  "contractor_ids": [
+   "5076196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006004/2017-X01/DOD-166113",
+  "published": "2020-11-17",
+  "files": [
+   {
+    "name": "aneks št2-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjExMzthbmVrcyDFoXQyLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

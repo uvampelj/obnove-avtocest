@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 105219,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 676104,
+  "idDosje": 248808,
+  "title": "izdelava in dobava individualnih čepov za zaščito sluha",
+  "procurement": "izdelava in dobava individualnih čepov za zaščito sluha",
+  "kind": 2,
+  "value": 75823.0,
+  "signed": "2018-08-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "NEUROTH slušni aparati d.o.o."
+  ],
+  "contractor_ids": [
+   "5555213000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002084/2018-X01/POG-105219",
+  "published": "2018-08-06",
+  "files": [
+   {
+    "name": "pogodba 1724-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNTIxOTtwb2dvZGJhIDE3MjQtMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

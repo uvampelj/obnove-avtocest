@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295344,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 876796,
+  "idDosje": 516221,
+  "title": "P O G O D B A za Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – DarsGo sistem pri pogodbenemu partnerju MOL\n",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – DarsGo sistem pri pogodbenemu partnerju MOL",
+  "kind": 1,
+  "value": 2700000.0,
+  "signed": "2024-12-18",
+  "from": "2024-12-16",
+  "to": "2028-06-30",
+  "number": "001255/2024",
+  "contractors": [
+   "MOL SLOVENIJA, trgovsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5952441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008680/2024-POG/01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Pogodba podpisana 159_24_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2MzAyO1BvZ29kYmEgcG9kcGlzYW5hIDE1OV8yNF9QSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

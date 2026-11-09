@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 120544,
+  "type": "DOD",
+  "prev": 78740,
+  "idObrazec": 769579,
+  "idDosje": 190957,
+  "title": "aneks št. 2 k pog. DARS št. 422/17: REKONSTRUKCIJA CESTE IN OBJEKTOV NA AC A1/0055 IN 0655 UNEC – POSTOJNA OD KM 0,720 DO KM 7,030 IN REHABILITACIJA VIADUKTA RAVBARKOMANDA VA0174-D IN VA0175-L - dodatna dela, več dela, manj dela, podaljšanje roka in vključitev novih podizvajalcev  ",
+  "procurement": "Rekonstrukcija ceste in objektov na AC A1/0055 in 0655 Unec – Postojna od km 0,720 do km 7,030 in rehabilitacija viadukta Ravbarkomanda VA0174-D in VA0175-L",
+  "kind": 3,
+  "value": 3964690.9,
+  "signed": "2019-01-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CPG d.d.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001653/2017-C01/DOD-120544",
+  "published": "2019-02-22",
+  "files": [
+   {
+    "name": "Aneks-2-208-18.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDU0NDtBbmVrcy0yLTIwOC0xOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

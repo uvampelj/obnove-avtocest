@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 148060,
+  "type": "DOD",
+  "prev": 145081,
+  "idObrazec": 773291,
+  "idDosje": 327291,
+  "title": "Aneks št.1 k pogodbi DARS št. 238/2020 za Izdelava PZI dokumentacije za celovito obnovo objektov CP Hrušica",
+  "procurement": "Aneks št.1 k pogodbi DARS št. 238/2020 za Izdelava PZI dokumentacije za celovito obnovo objektov CP Hrušica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-02-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007110/2019-X01/DOD-148060",
+  "published": "2020-03-06",
+  "files": [
+   {
+    "name": "aneks 1, PZI, Projekt.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0ODA2MDthbmVrcyAxLCBQWkksIFByb2pla3QucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

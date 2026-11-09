@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 56429,
+  "type": "DOD",
+  "prev": 30416,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi DARS št. 15/2016 Aneks 1 k pogodbi 15/2016 za GEOLOŠKE, GEOTEHNIČNE IN HIDROGEOLOŠKE RAZISKAVE ZA IZDELAVO STROKOVNIH PODLAG PROJEKTNE DOKUMENTACIJE ZA DOGRADITEV VZHODNE CEVI PREDORA KARAVANKE (NIVO PGD, PZI); zamenjava kadra in podizvajalca",
+  "procurement": "Aneks 1 k pogodbi DARS št. 15/2016 Aneks 1 k pogodbi 15/2016 za GEOLOŠKE, GEOTEHNIČNE IN HIDROGEOLOŠKE RAZISKAVE ZA IZDELAVO STROKOVNIH PODLAG PROJEKTNE DOKUMENTACIJE ZA DOGRADITEV VZHODNE CEVI PREDORA KARAVANKE (NIVO PGD, PZI); zamenjava kadra in podizvajalca",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-12-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-12-15",
+  "files": [
+   {
+    "name": "aneks 964-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU2NDI5O2FuZWtzIDk2NC0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

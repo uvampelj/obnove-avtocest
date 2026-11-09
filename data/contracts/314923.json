@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 314923,
+  "type": "DOD",
+  "prev": 221893,
+  "idObrazec": 928513,
+  "idDosje": 451732,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1109/2022: Nadgradnja programske opreme SNVP ",
+  "procurement": "Nadgradnja programske opreme SNVP",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-06-18",
+  "from": "2025-06-18",
+  "to": "2026-09-17",
+  "number": "001109/2022",
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005023/2022-C01/POG-221893-D01",
+  "published": "2025-07-17",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg4NDA5O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

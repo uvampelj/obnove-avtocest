@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "id": 147278,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699234,
+  "idDosje": 339067,
+  "title": "Vzdrževanje cestno-vremenskih postaj (CVP), Sklop 1: VAISALA in Sklop 2: LUFFT",
+  "procurement": "Sklop 1: VAISALA,Sklop 2: LUFFT",
+  "kind": 1,
+  "value": 346602.0,
+  "signed": "2020-02-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VNET, komunikacijski sistemi d.o.o."
+  ],
+  "contractor_ids": [
+   "3714268000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000294/2020-C01/POG-147278",
+  "published": "2020-02-26",
+  "files": [
+   {
+    "name": "pogodbi, VAISALA in LUFFT.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NzI3ODtwb2dvZGJpLCBWQUlTQUxBIGluIExVRkZULnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

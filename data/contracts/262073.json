@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 262073,
+  "type": "DOD",
+  "prev": 209006,
+  "idObrazec": 799370,
+  "idDosje": 414312,
+  "title": "Aneks št. 3 k pog. DARS št. 463/2022: Rekonstrukcija malih počivališč na omrežju avtocest v upravljanju DARS; Sklop 3: primorski krak ",
+  "procurement": "Rekonstrukcija malih počivališč na omrežju avtocest v upravljanju DARS: Sklop 3: PRIMORSKI KRAK, Mala počivališča: Studenec – sever, Studenec – jug in malo počivališče Risnik",
+  "kind": 3,
+  "value": 193275.96,
+  "signed": "2024-02-14",
+  "from": "2022-04-04",
+  "to": "2024-04-04",
+  "number": "297/2024",
+  "contractors": [
+   "HIDROTEHNIK Vodnogospodarsko podjetje d.o.o.",
+   "KPL, družba za gradnjo in vzdrževanje cest, zelenih površin ter inženiring d.o.o.",
+   "PRENOVA - GRADBENIK d.o.o., splošno gradbeništvo in trgovina"
+  ],
+  "contractor_ids": [
+   "5142342000",
+   "5015405000",
+   "5554691000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006262/2021-C01/POG-209006-D03",
+  "published": "2024-03-18",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjcyMzYwO0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

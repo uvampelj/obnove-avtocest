@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 116870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681696,
+  "idDosje": 279120,
+  "title": "Vzdrževanje komunikacijskih sistemov NEC (Philips)",
+  "procurement": "Vzdrževanje komunikacijskih sistemov NEC (Philips)",
+  "kind": 1,
+  "value": 130191.08,
+  "signed": "2018-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STELKOM - telekomunikacije in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1807099000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007328/2018-X01/POG-116870",
+  "published": "2018-12-27",
+  "files": [
+   {
+    "name": "Pogodba 2159-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjg3MDtQb2dvZGJhIDIxNTktMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 294284,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 874019,
+  "idDosje": 515044,
+  "title": "Pogodba DARS št. 1221/2024 za Redno vzdrževanje in servisiranje požarnih central proizvajalca Esser",
+  "procurement": "Redno vzdrževanje in servisiranje požarnih central proizvajalca Esser",
+  "kind": 1,
+  "value": 48800.0,
+  "signed": "2024-12-10",
+  "from": "2024-12-10",
+  "to": "2029-12-10",
+  "number": "001221/2024",
+  "contractors": [
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5389984000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007389/2024-POG/01",
+  "published": "2024-12-11",
+  "files": [
+   {
+    "name": "Pogodba DARS, št. 1221-2024, TENZOR d.o.o..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM0MDM2O1BvZ29kYmEgREFSUywgxaF0LiAxMjIxLTIwMjQsIFRFTlpPUiBkLm8uby4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

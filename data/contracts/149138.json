@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 149138,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 700579,
+  "idDosje": 324240,
+  "title": "Izdelava Izvedbenega načrta za obnovo protihrupnih ograj na odsekih A1/0644, A1/0636, A1/0048-0648, A1/0049-0649, A1/0050-0650, H4/0776, H4/0778, H2/0032 in A2/0602  ",
+  "procurement": "Izdelava Izvedbenega načrta za obnovo protihrupnih ograj na odsekih A1/0644, A1/0636, A1/0048-0648, A1/0049-0649, A1/0050-0650, H4/0776, H4/0778, H2/0032 in A2/0602  ",
+  "kind": 1,
+  "value": 158294.27,
+  "signed": "2020-03-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROVIA d.o.o., projektiranje, svetovanje, ekologija"
+  ],
+  "contractor_ids": [
+   "1997297000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006359/2019-X01/POG-149138",
+  "published": "2020-03-23",
+  "files": [
+   {
+    "name": "Pogodba Provia d.o.o. 81-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0OTEzODtQb2dvZGJhIFByb3ZpYSBkLm8uby4gODEtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

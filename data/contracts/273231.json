@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273231,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 832328,
+  "idDosje": 508341,
+  "title": "Nabava okoljsko manj obremenjujočega pisarniškega pohištva in ostale opreme",
+  "procurement": "Nabava okoljsko manj obremenjujočega pisarniškega pohištva in ostale opreme",
+  "kind": 2,
+  "value": 1340623.84,
+  "signed": "2024-07-29",
+  "from": "2024-07-29",
+  "to": "2025-10-29",
+  "number": "000829/2024",
+  "contractors": [
+   "GONZAGA-PRO proizvodnja, trgovina, inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "1525786000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002069/2024-POG/01",
+  "published": "2024-08-02",
+  "files": [
+   {
+    "name": "pogodba 829-2024_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk4Nzc4O3BvZ29kYmEgODI5LTIwMjRfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

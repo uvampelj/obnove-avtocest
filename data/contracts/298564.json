@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 298564,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 884166,
+  "idDosje": 514751,
+  "title": "Sklop 5: Maribor",
+  "procurement": "Izvajanje nalog medicine dela",
+  "kind": 1,
+  "value": 35941.5,
+  "signed": "2025-01-09",
+  "from": "2025-01-09",
+  "to": "2030-04-09",
+  "number": "000061/2025",
+  "contractors": [
+   "MEDICINA DELA KRUMPAK d.o.o."
+  ],
+  "contractor_ids": [
+   "6721559000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007182/2024-POG/05",
+  "published": "2025-01-27",
+  "files": [
+   {
+    "name": "Podpisana pogodba MD Krumpak-sklop 5_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQyMTAxO1BvZHBpc2FuYSBwb2dvZGJhIE1EIEtydW1wYWstc2tsb3AgNV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

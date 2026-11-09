@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 287230,
+  "type": "DOD",
+  "prev": 147205,
+  "idObrazec": 853989,
+  "idDosje": 336027,
+  "title": "Aneks št. 1 k pogodbi DARS št. 482/2020 za Izbira specialistov medicine dela, SKLOP 1 - ACB Novo mesto, SKLOP 2 - ACB hrušica",
+  "procurement": "ACB Novo mesto,ACB Hrušica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-09-12",
+  "from": "2020-02-19",
+  "to": "2025-05-19",
+  "number": "000482/2020",
+  "contractors": [
+   "ZDRAVSTVENI DOM LJUBLJANA"
+  ],
+  "contractor_ids": [
+   "5056063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008732/2019-X01/POG-147205-D01",
+  "published": "2024-09-23",
+  "files": [
+   {
+    "name": "Aneks št. 1_482-2020_medicina-dela_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE4MDg4O0FuZWtzIMWhdC4gMV80ODItMjAyMF9tZWRpY2luYS1kZWxhX09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

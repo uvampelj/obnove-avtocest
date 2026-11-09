@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 78525,
+  "type": "DOD",
+  "prev": 36463,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1k pogodbi DARS št. 988/2015 Strokovno svetovalne storitve za pridobitev strokovnih podlag za obstoječo (zahodno) cev predora Karavanke v okviru priprave državnega prostorskega načrta za dograditev predora Karavanke",
+  "procurement": "Strokovno svetovalne storitve za pridobitev strokovnih podlag za obstoječo (zahodno) cev predora Karavanke v okviru priprave državnega prostorskega načrta za dograditev predora Karavanke",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-08-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-08-29",
+  "files": [
+   {
+    "name": "aneks623_2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc4NTI1O2FuZWtzNjIzXzIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

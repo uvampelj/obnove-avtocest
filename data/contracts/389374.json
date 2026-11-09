@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389374,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1044285,
+  "idDosje": 539697,
+  "title": "Vzdrževanje in razvoj informacijskega sistema za planiranje s podporo drsečega napovedovanja - Kepion",
+  "procurement": "Vzdrževanje in razvoj informacijskega sistema za planiranje s podporo drsečega napovedovanja - Kepion",
+  "kind": 2,
+  "value": 184561.6,
+  "signed": "2026-04-03",
+  "from": "2026-04-03",
+  "to": "2028-04-03",
+  "number": "000507/2026",
+  "contractors": [
+   "ADD trgovina, inženiring, vzdrževanje d.o.o., Tbilisijska 85, Ljubljana"
+  ],
+  "contractor_ids": [
+   "5673500000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000521/2026-POG/01",
+  "published": "2026-04-07",
+  "files": [
+   {
+    "name": "Red_Pogodba 507-2026 ADD.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkxNTEzO1JlZF9Qb2dvZGJhIDUwNy0yMDI2IEFERC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

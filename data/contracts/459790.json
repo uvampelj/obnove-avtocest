@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 459790,
+  "type": "DOD",
+  "prev": 265229,
+  "idObrazec": 1145349,
+  "idDosje": 504953,
+  "title": "Aneks št. 1 k pogodbi DARS št. 538/2024 za Okolju prijazno čiščenje poslovnih prostorov, Sklop 3 - Hrušica Sklop 5 - Štajerska in Prekmurje; sprememba pogodbenih cen",
+  "procurement": "Okolju prijazno čiščenje poslovnih prostorov DARS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-07-06",
+  "from": "2024-04-16",
+  "to": "2027-07-16",
+  "number": "000538/2024",
+  "contractors": [
+   "VALINA d.o.o., podružnica Ljubljana"
+  ],
+  "contractor_ids": [
+   "5340411002"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000224/2024-POG/03-D01",
+  "published": "2026-08-05",
+  "files": [
+   {
+    "name": "aneks-1-k-538-2024_65-2026_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg2MDY4O2FuZWtzLTEtay01MzgtMjAyNF82NS0yMDI2X09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

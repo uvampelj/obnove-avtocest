@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 318767,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 939732,
+  "idDosje": 520625,
+  "title": "Vzdrževanje silosov – Obrtniška dela, sklop 4: Maribor, Murska Sobota",
+  "procurement": "Vzdrževanje silosov – Obrtniška dela",
+  "kind": 2,
+  "value": 109613.95,
+  "signed": "2025-08-29",
+  "from": "2025-08-29",
+  "to": "2028-11-29",
+  "number": "001048/2025",
+  "contractors": [
+   "FISTIN, družba za opravljanje storitev, d.o.o."
+  ],
+  "contractor_ids": [
+   "1721887000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002771/2025-POG/04",
+  "published": "2025-09-03",
+  "files": [
+   {
+    "name": "Pogodba sklop 4 FISTIN 1048-2025 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk3MzE4O1BvZ29kYmEgc2tsb3AgNCBGSVNUSU4gMTA0OC0yMDI1IFIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

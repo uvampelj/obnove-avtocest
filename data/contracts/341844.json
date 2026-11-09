@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 341844,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 985717,
+  "idDosje": 526486,
+  "title": "Servisiranje oljnih peči, toplotnih črpalk ter ogrevalnih naprav na lesno biomaso, sklop 2 - Servisiranje in pregledi toplotnih črpalk",
+  "procurement": "Servisiranje oljnih peči, toplotnih črpalk ter ogrevalnih naprav na lesno biomaso",
+  "kind": 1,
+  "value": 63460.0,
+  "signed": "2026-01-20",
+  "from": "2026-01-20",
+  "to": "2029-04-20",
+  "number": "000066/2026",
+  "contractors": [
+   "ASTECH d.o.o., servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007825/2025-POG/01",
+  "published": "2026-01-27",
+  "files": [
+   {
+    "name": "Pogodba sklop 2 Dars st. 000066-2026 red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2MTA4O1BvZ29kYmEgc2tsb3AgMiBEYXJzIHN0LiAwMDAwNjYtMjAyNiByZWQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

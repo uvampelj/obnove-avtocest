@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 222564,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 742088,
+  "idDosje": 441037,
+  "title": "Izdelava strokovnih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "procurement": "Izdelava strokovnih podlag za izdelavo državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "kind": 1,
+  "value": 2945757.34,
+  "signed": "2022-08-31",
+  "from": "2022-09-14",
+  "to": "2025-03-14",
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002277/2022-C01/POG-222564",
+  "published": "2022-09-27",
+  "files": [
+   {
+    "name": "Pogodba-LINEAL_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMjYzMztQb2dvZGJhLUxJTkVBTF9vYmphdmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

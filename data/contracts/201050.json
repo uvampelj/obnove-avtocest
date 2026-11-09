@@ -1,0 +1,46 @@
+{
+ "meta": {
+  "id": 201050,
+  "type": "DOD",
+  "prev": 124485,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 567/2019 za spremljanje stanja predorov na avtocestah in hitrih cestah, ki so v upravljanju DARS d.d. – dodatna dela",
+  "procurement": "Aneks št. 2 k pogodbi DARS št. 567/2019 za spremljanje stanja predorov na avtocestah in hitrih cestah, ki so v upravljanju DARS d.d. – dodatna dela",
+  "kind": 1,
+  "value": 304083.16,
+  "signed": "2021-12-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o.",
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE",
+   "INŠTITUT ZA RUDARSTVO, GEOTEHNOLOGIJO IN OKOLJE",
+   "GRADBENI INŠTITUT ZRMK d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "UNIVERZA V LJUBLJANI, FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO"
+  ],
+  "contractor_ids": [
+   "1305212000",
+   "5866324000",
+   "5051576000",
+   "1795490000",
+   "5522749000",
+   "1626981000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-01-03",
+  "files": [
+   {
+    "name": "podpisan aneks 2 k pog 567-2019 - za objavo na portalu JN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMTA1MDtwb2RwaXNhbiBhbmVrcyAyIGsgcG9nIDU2Ny0yMDE5IC0gemEgb2JqYXZvIG5hIHBvcnRhbHUgSk4ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52829,
+  "type": "DOD",
+  "prev": 17071,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št. 467/15:IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA OBNOVO VOZIŠČNE KONSTRUKCIJE NA ODSEKIH HC H4/0375 IN 0775 VIPAVA - AJDOVŠČINA OD KM 4,150 DO KM 6,763, H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 0,000 DO KM 9,170 IN H4/0378 IN 0778 SELO - VOGRSKO OD KM 0,000 DO KM 0,650 IN PZ",
+  "procurement": "aneks št. 1 k pog. DARS št. 467/15:IZDELAVA PZI PROJEKTNE DOKUMENTACIJE ZA OBNOVO VOZIŠČNE KONSTRUKCIJE NA ODSEKIH HC H4/0375 IN 0775 VIPAVA - AJDOVŠČINA OD KM 4,150 DO KM 6,763, H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 0,000 DO KM 9,170 IN H4/0378 IN 0778 SELO - VOGRSKO OD KM 0,000 DO KM 0,650 IN PZ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-01-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "43-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODI5OzQzLTE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

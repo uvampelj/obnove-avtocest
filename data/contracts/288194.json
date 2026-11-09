@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 288194,
+  "type": "DOD",
+  "prev": 144681,
+  "idObrazec": 856827,
+  "idDosje": 328123,
+  "title": "Aneks št. 1 k pogodbi DARS št. 138/2020 za Izbira specialistov medicine dela, SKLOP 1 - Ljubljana, Dunajska 7, SKLOP 2 - ACB Ljubljana, SKLOP 7 - ACB Vransko",
+  "procurement": "Ljubljana, Dunajska 7,ACB Ljubljana,ACB Postojna,ACB Kozina,ACB Vransko,ACB Slovenske Konjice,ACB Maribor,ACB Murska Sobota",
+  "kind": 1,
+  "value": 6000.0,
+  "signed": "2024-09-23",
+  "from": "2020-01-23",
+  "to": "2025-04-23",
+  "number": "000138/2020",
+  "contractors": [
+   "ZDRAVSTVENI DOM LJUBLJANA",
+   "MEDICINA DELA, PROMETA IN ŠPORTA, ZASEBNA SPECIALISTIČNA ORDINACIJA, STARC PRELC DARJA, DR.MED.",
+   "ZDRAVSTVENI DOM CELJE",
+   "ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR",
+   "ZDRAVSTVENI DOM GORNJA RADGONA"
+  ],
+  "contractor_ids": [
+   "5056063000",
+   "1735764000",
+   "5619017000",
+   "5054095000",
+   "5858267000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007223/2019-C01/POG-144681-D01",
+  "published": "2024-10-03",
+  "files": [
+   {
+    "name": "Aneks št. 1_138-2020_medicina-dela_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIwMzAwO0FuZWtzIMWhdC4gMV8xMzgtMjAyMF9tZWRpY2luYS1kZWxhX09CSkFWQS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 96398,
+  "type": "DOD",
+  "prev": 82073,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k Pogodbi 746/2017 Revizorske storitve v obdobju petih let – revizija Letnega poročila za leta 2017 – 2021; zamenjava kadrov, sprememba rokov",
+  "procurement": "Aneks št. 1 k Pogodbi 746/2017 Revizorske storitve v obdobju petih let – revizija Letnega poročila za leta 2017 – 2021; zamenjava kadrov, sprememba rokov",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-04-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KPMG SLOVENIJA, podjetje za revidiranje, d.o.o."
+  ],
+  "contractor_ids": [
+   "5648556000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-04-16",
+  "files": [
+   {
+    "name": "podpisan aneks 1 - pog 746-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTk2Mzk4O3BvZHBpc2FuIGFuZWtzIDEgLSBwb2cgNzQ2LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

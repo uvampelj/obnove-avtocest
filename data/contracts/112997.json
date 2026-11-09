@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 112997,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680240,
+  "idDosje": 262707,
+  "title": "Dobava posipnih materialov NaCl, 04mm, 4% vlaga",
+  "procurement": "Dobava posipnih materialov NaCl, 04mm, 4% vlaga",
+  "kind": 2,
+  "value": 2793312.0,
+  "signed": "2018-11-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORTVAL d.o.o., storitvene dejavnosti v vodnem prometu"
+  ],
+  "contractor_ids": [
+   "6462090000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004670/2018-C01/POG-112997",
+  "published": "2018-11-13",
+  "files": [
+   {
+    "name": "Pogodba 1992-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjk5NztQb2dvZGJhIDE5OTItMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 149097,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 700559,
+  "idDosje": 336628,
+  "title": "Izdelava IZN za preplastitev voziščne konstrukcije na delih odsekov na AC A1 0061 in 0661 Kozina - Črni Kal ter 0062 in 0662 Črni Kal - Srmin in priključku 0159 Kastelec in 0161 Črni kal  ",
+  "procurement": "Izdelava IZN za preplastitev voziščne konstrukcije na delih odsekov na AC A1 0061 in 0661 Kozina - Črni Kal ter 0062 in 0662 Črni Kal - Srmin in priključku 0159 Kastelec in 0161 Črni kal  ",
+  "kind": 1,
+  "value": 69276.05,
+  "signed": "2020-03-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje",
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5075742000",
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008901/2019-X01/POG-149097",
+  "published": "2020-03-23",
+  "files": [
+   {
+    "name": "Pogodba 258-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0OTA5NztQb2dvZGJhIDI1OC0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

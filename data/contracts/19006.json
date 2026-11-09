@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 19006,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 637737,
+  "idDosje": 70146,
+  "title": "AC A4 Slivnica – MMP Gruškovje, pododsek AC Draženci - MMP Gruškovje; I. etapa od km 0+000 do km 7+260 dolžine 7+260 km (SKLOP 1)",
+  "procurement": "AC A4 Slivnica – MMP Gruškovje, pododsek AC Draženci - MMP Gruškovje; I. etapa od km 0+000 do km 7+260 dolžine 7+260 km (SKLOP 1),AC A4 Slivnica – MMP Gruškovje, pododsek AC Draženci - MMP Gruškovje;  II. b etapa – začetna gradbena dela (SKLOP 2)",
+  "kind": 3,
+  "value": 68580424.61,
+  "signed": "2015-07-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SGP POMGRAD d.d.",
+   "Euro-Asfalt d.o.o. Sarajevo"
+  ],
+  "contractor_ids": [
+   "5459001000",
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN5629/2015/POG-19006",
+  "published": "2015-08-25",
+  "files": [
+   {
+    "name": "2014-000169 - pogodbi sklop 1 in 2.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MDA2OzIwMTQtMDAwMTY5IC0gcG9nb2RiaSBza2xvcCAxIGluIDIuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

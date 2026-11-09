@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 342028,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 986199,
+  "idDosje": 527700,
+  "title": "Pogodbo Dobava akumulatorskega in električnega ročnega orodja",
+  "procurement": "Dobava akumulatorskega in električnega ročnega orodja",
+  "kind": 2,
+  "value": 86055.81,
+  "signed": "2026-01-27",
+  "from": "2026-01-27",
+  "to": "2029-04-27",
+  "number": "000103/2026",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008876/2025-POG/01",
+  "published": "2026-01-29",
+  "files": [
+   {
+    "name": "Za objavo_pogodba št 000103-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM2NTAxO1phIG9iamF2b19wb2dvZGJhIMWhdCAwMDAxMDMtMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265403,
+  "type": "DOD",
+  "prev": 148461,
+  "idObrazec": 808183,
+  "idDosje": 325298,
+  "title": "Aneks 1 k pogodbi DARS št. 528/2020 za izvedbo geološko geotehnične spremljave v času gradnje vzhodne cevi predora Karavanke s pripadajočimi objekti in priključno AC; sprememba obsega del podizvajalcev, sprememba skrbnika pogodbe",
+  "procurement": "Geološko geotehnično spremljavo v času gradnje vzhodne cevi predora Karavanke s pripadajočimi objekti in priključno AC",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-04-08",
+  "from": "2020-02-26",
+  "to": "2024-10-26",
+  "number": "000507/2024",
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006732/2019-C01/POG-148461-D01",
+  "published": "2024-04-22",
+  "files": [
+   {
+    "name": "podpisan aneks 1 k pog 528-20202_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc5NTM3O3BvZHBpc2FuIGFuZWtzIDEgayBwb2cgNTI4LTIwMjAyX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

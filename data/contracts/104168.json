@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 104168,
+  "type": "DOD",
+  "prev": 73024,
+  "idObrazec": 769235,
+  "idDosje": 177285,
+  "title": "aneks št. 1 k pog. DARS št. 367/17: SISTEM ZA NADZOR IN VODENJE PROMETA NA OBALNI HITRI CESTI KOPER – IZOLA - dodatna dela ",
+  "procurement": "Sistem za nadzor in vodenje prometa na obalni hitri cesti Koper – Izola",
+  "kind": 3,
+  "value": -101547.96,
+  "signed": "2018-04-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ISKRA, d.d.",
+   "JAVNA RAZSVETLJAVA d.d.",
+   "Q-FREE TRAFFIC DESIGN, podjetje za gradbeni in računalniški inženiring, razvoj informacijskih sistemov, zastopanje tujih partnerjev in trgovino d.o.o."
+  ],
+  "contractor_ids": [
+   "5185726000",
+   "3341836000",
+   "5406382000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007183/2016-C01/DOD-104168",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2ODtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

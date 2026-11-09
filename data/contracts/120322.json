@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120322,
+  "type": "DOD",
+  "prev": 104364,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k osnovni pogodbi Dars 1677/2018 Izvajanje inženirskih storitev v postopkih vzpostavitve ECS v PPT; podaljšanje roka",
+  "procurement": "Izvajanje inženirskih storitev v postopkih vzpostavitve elektronskega cestninskega sistema v PPT na tehnološkem delu projekta",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-02-13",
+  "files": [
+   {
+    "name": "Aneks št.2 k pogodbi 1677-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDMyMjtBbmVrcyDFoXQuMiBrIHBvZ29kYmkgMTY3Ny0yMDE4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

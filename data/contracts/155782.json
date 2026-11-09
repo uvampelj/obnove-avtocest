@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 155782,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 704762,
+  "idDosje": 347242,
+  "title": "Dobava osvežilnih, varstvenih napitkov in izvirske vode",
+  "procurement": "Izvirska voda in osvežilni, varstveni napitki v embalaži",
+  "kind": 2,
+  "value": 175528.5,
+  "signed": "2020-06-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BROLINE, trgovina, zastopstva, proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "1459007000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001809/2020-X01/POG-155782",
+  "published": "2020-07-02",
+  "files": [
+   {
+    "name": "pogodba 1241-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NTc4Mjtwb2dvZGJhIDEyNDEtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

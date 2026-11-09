@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 212294,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 736992,
+  "idDosje": 431341,
+  "title": "\tSpecialno vozilo za potrebe telekomunikacij",
+  "procurement": "\tSpecialno vozilo za potrebe telekomunikacij",
+  "kind": 2,
+  "value": 67491.85,
+  "signed": "2022-05-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000119/2022-X01/POG-212294",
+  "published": "2022-06-03",
+  "files": [
+   {
+    "name": "POGODBA 876-2022 UL red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMjI5NDtQT0dPREJBIDg3Ni0yMDIyIFVMIHJlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

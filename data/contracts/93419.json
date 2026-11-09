@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 93419,
+  "type": "DOD",
+  "prev": 37775,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 za dodatna in manj dela, podaljšanje pogodbenega roka in spremembe višine del nominiranega podizvajalca pri gradnji priključne brežine pri viaduktu Boršt 1 od P75 do P79 na odseku HC Razdrto Vipava; Rebernice",
+  "procurement": "Aneks št. 3 za dodatna in manj dela, podaljšanje pogodbenega roka in spremembe višine del nominiranega podizvajalca pri gradnji priključne brežine pri viaduktu Boršt 1 od P75 do P79 na odseku HC Razdrto Vipava; Rebernice",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-02-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RAFAEL gradbena dejavnost d.o.o. Sevnica"
+  ],
+  "contractor_ids": [
+   "5617316000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2018-02-28",
+  "files": [
+   {
+    "name": "A3_127_2018_k_266_2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzNDE5O0EzXzEyN18yMDE4X2tfMjY2XzIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

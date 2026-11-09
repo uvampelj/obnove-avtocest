@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 193081,
+  "type": "DOD",
+  "prev": 131643,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1, DARS št. 1136/2021",
+  "procurement": "vulkanizerske storitve",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-09-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTOSERVIS MAKOTER ROBERT MAKOTER S.P."
+  ],
+  "contractor_ids": [
+   "3392953000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-09-29",
+  "files": [
+   {
+    "name": "Aneks št. 1 DARS št. 1136-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MzA4MTtBbmVrcyDFoXQuIDEgREFSUyDFoXQuIDExMzYtMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

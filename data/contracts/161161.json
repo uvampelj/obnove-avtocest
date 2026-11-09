@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 161161,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 708272,
+  "idDosje": 336394,
+  "title": "IZDELAVA DOKUMENTACIJE ZA PRIDOBITEV MNENJ IN GRADBENEGA DOVOLJENJA (DGD) IN PROJEKTNE DOKUMENTACIJE ZA IZVEDBO (PZI) ZA IZGRADNJO 3. IN 4. ETAPE NOVE PROMETNE POVEZAVE MED AVTOCESTO A2 LJUBLJANA – OBREŽJE DO PRIKLJUČKA MALINE",
+  "procurement": "IZDELAVA DOKUMENTACIJE ZA PRIDOBITEV MNENJ IN GRADBENEGA DOVOLJENJA (DGD) IN PROJEKTNE DOKUMENTACIJE ZA IZVEDBO (PZI) ZA IZGRADNJO 3. IN 4. ETAPE NOVE PROMETNE POVEZAVE MED AVTOCESTO A2 LJUBLJANA – OBREŽJE DO PRIKLJUČKA MALINE",
+  "kind": 1,
+  "value": 10986058.89,
+  "signed": "2020-07-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o.",
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "ELEA IC projektiranje in svetovanje d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000",
+   "5397014000",
+   "5522749000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008866/2019-C01/POG-161161",
+  "published": "2020-09-21",
+  "files": [
+   {
+    "name": "Pogodba JV PNZ+BPI+Elea iC+Irgo Cons.-objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTE2MTtQb2dvZGJhIEpWIFBOWitCUEkrRWxlYSBpQytJcmdvIENvbnMuLW9iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

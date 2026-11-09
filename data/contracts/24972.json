@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 24972,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640558,
+  "idDosje": 80785,
+  "title": "Servisiranje blažilcev trka TAU in QUAD GUARD",
+  "procurement": "Blažilci trka TAU 80 in TAU 100.,Blažilci trka QUAD GUARD.",
+  "kind": 1,
+  "value": 234229.15,
+  "signed": "2015-11-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PETRIČ d.o.o."
+  ],
+  "contractor_ids": [
+   "5565316000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7945/2015/POG-24972",
+  "published": "2015-11-11",
+  "files": [
+   {
+    "name": "D13150000914_151110_125116.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0OTcyO0QxMzE1MDAwMDkxNF8xNTExMTBfMTI1MTE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

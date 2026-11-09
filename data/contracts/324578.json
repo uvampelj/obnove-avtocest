@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324578,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956771,
+  "idDosje": 524838,
+  "title": "Stroji in oprema; sklop 1: Oprema za delavnico",
+  "procurement": "Stroji in oprema; sklop 1: Oprema za delavnico, sklop 2: Viličar paletni manjši električni",
+  "kind": 2,
+  "value": 56442.08,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2026-07-04",
+  "number": "001226/2025",
+  "contractors": [
+   "CETIX podjetje za trgovino in storitve d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5605164000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006413/2025-POG/01",
+  "published": "2025-11-07",
+  "files": [
+   {
+    "name": "Podpisana pogodba Cetix red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwOTcxO1BvZHBpc2FuYSBwb2dvZGJhIENldGl4IHJlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 224596,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 743372,
+  "idDosje": 447967,
+  "title": "Izdelava izvedbenega načrta za preplastitev voz. konst. priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica-Lipce",
+  "procurement": "Izdelava izvedbenega načrta za preplastitev voz. konst. priključka A2/0101 Hrušica vključno z obnovo mostu čez Savo VA0287 in obnovo nadvoza VA0286 Hrušica na AC A2 0002/0602 Hrušica-Lipce",
+  "kind": 1,
+  "value": 134195.97,
+  "signed": "2022-10-19",
+  "from": "2022-10-19",
+  "to": "2024-04-19",
+  "number": null,
+  "contractors": [
+   "ELEA IC projektiranje in svetovanje d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003957/2022-X01/POG-224596",
+  "published": "2022-10-27",
+  "files": [
+   {
+    "name": "Pogodba-Elea iC-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyNDg1MjtQb2dvZGJhLUVsZWEgaUMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

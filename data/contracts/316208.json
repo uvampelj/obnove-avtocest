@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 316208,
+  "type": "DOD",
+  "prev": 164889,
+  "idObrazec": 932315,
+  "idDosje": 352652,
+  "title": "Aneks št. 4 k pogodbi DARS št. 1381/2020: Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na odsekih AC A1/0046 in 0646 Domžale-Šentjakob, A1/0047 in 0647 Šentjakob-LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje ",
+  "procurement": "Izdelava PZI za rekonstrukcijo cestnega telesa in objektov na odsekih AC A1/0046 in 0646 Domžale-Šentjakob, A1/0047 in 0647 Šentjakob-LJ (Zadobrova), 0145 priključek LJ Šentjakob in 0189 priključek LJ Sneberje ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-07-22",
+  "from": "2025-07-22",
+  "to": "2025-12-18",
+  "number": "001381/2020",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002742/2020-C01/POG-164889-D03",
+  "published": "2025-08-01",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxNDg4O0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

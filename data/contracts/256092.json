@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 256092,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 766439,
+  "idDosje": 496236,
+  "title": "Sklop 3 - Servisiranje mehanizacije Trillety in Rasco",
+  "procurement": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "kind": 1,
+  "value": 414507.2,
+  "signed": "2024-01-10",
+  "from": "2024-01-10",
+  "to": "2027-01-10",
+  "number": "000031/2024",
+  "contractors": [
+   "RASCO KOMUNALNA OPREMA, trgovina in posredništvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3619524000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007004/2023-C01/POG-256092",
+  "published": "2024-01-15",
+  "files": [
+   {
+    "name": "Pogodba - RASCO_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTg3MTtQb2dvZGJhIC0gUkFTQ09fUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

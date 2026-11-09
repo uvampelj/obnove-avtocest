@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 128870,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 688754,
+  "idDosje": 304400,
+  "title": "Servisiranje signalne opreme",
+  "procurement": "Servisiranje signalne opreme",
+  "kind": 1,
+  "value": 245605.52,
+  "signed": "2019-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IVL inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5737931000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002358/2019-X01/POG-128870",
+  "published": "2019-06-26",
+  "files": [
+   {
+    "name": "Pogodba IVL inženiring d.o.o.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyODg3MDtQb2dvZGJhIElWTCBpbsW-ZW5pcmluZyBkLm8uby56aXA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

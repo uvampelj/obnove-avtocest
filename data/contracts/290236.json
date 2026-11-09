@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 290236,
+  "type": "DOD",
+  "prev": 209030,
+  "idObrazec": 862791,
+  "idDosje": 429819,
+  "title": "Aneks št. 1 k pogodbi DARS št. 737/2022: Izdelava državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje ",
+  "procurement": "Izdelava državnega prostorskega načrta za državno cesto od Otiškega Vrha do priključka Prevalje",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-10-16",
+  "from": "2024-10-16",
+  "to": "2026-05-31",
+  "number": "000737/2022",
+  "contractors": [
+   "LJUBLJANSKI URBANISTIČNI ZAVOD d.d."
+  ],
+  "contractor_ids": [
+   "5077923000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008654/2021-X01/POG-209030-D01",
+  "published": "2024-10-28",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI1MDc4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

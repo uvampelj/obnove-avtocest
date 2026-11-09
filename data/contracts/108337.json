@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 108337,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 678063,
+  "idDosje": 263658,
+  "title": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "procurement": "Vzdrževanje in razvoj spletnega portala www.dars.si",
+  "kind": 1,
+  "value": 99064.0,
+  "signed": "2018-09-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOJDENAR IT, informacijske tehnologije d.o.o."
+  ],
+  "contractor_ids": [
+   "1555642000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004638/2018-X01/POG-108337",
+  "published": "2018-09-17",
+  "files": [
+   {
+    "name": "pogodba MOJDENAR IT.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwODMzNztwb2dvZGJhIE1PSkRFTkFSIElULnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 306352,
+  "type": "DOD",
+  "prev": 171581,
+  "idObrazec": 903024,
+  "idDosje": 369348,
+  "title": "Aneks 1 k pogodbi DARS št. 47/2021 za izdelavo cenitev stavbnih zemljišč in objektov; podaljšanje pogodbenega roka",
+  "procurement": "Izdelava cenitev stavbnih zemljišč in objektov ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-04-02",
+  "from": "2021-01-14",
+  "to": "2026-03-31",
+  "number": "000047/2021",
+  "contractors": [
+   "CONSTRUCTA, gradbeni inženiring, vrednotenje nepremičnin, d.o.o. Idrija"
+  ],
+  "contractor_ids": [
+   "5535000000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006040/2020-X01/POG-171581-D01",
+  "published": "2025-04-08",
+  "files": [
+   {
+    "name": "podpisan aneks 1 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY3ODQ2O3BvZHBpc2FuIGFuZWtzIDEgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

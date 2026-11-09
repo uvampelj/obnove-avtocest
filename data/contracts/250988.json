@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 250988,
+  "type": "DOD",
+  "prev": 183783,
+  "idObrazec": 776400,
+  "idDosje": 366646,
+  "title": "Aneks št. 3 k pogodbi DARS št. 813/2021 za Vzpostavitev in delovanje sistema elektronske vinjete",
+  "procurement": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "kind": 1,
+  "value": 1783899.59,
+  "signed": "2023-10-11",
+  "from": "2023-10-11",
+  "to": "2027-02-27",
+  "number": null,
+  "contractors": [
+   "SkyToll, a.s."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005518/2020-C01/DOD-250988",
+  "published": "2023-10-30",
+  "files": [
+   {
+    "name": "Aneks št 3 k pog 813-2021_podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NDM0NDtBbmVrcyDFoXQgMyBrIHBvZyA4MTMtMjAyMV9wb2RwaXNhbl9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

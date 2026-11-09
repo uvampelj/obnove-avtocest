@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295413,
+  "type": "DOD",
+  "prev": 247939,
+  "idObrazec": 876976,
+  "idDosje": 485968,
+  "title": "Aneks št. 1 k pogodbi DARS št. 998/2023 za Nakup programske opreme Veeam in VMware",
+  "procurement": "Nakup programske opreme Veeam in VMware",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2024-12-02",
+  "from": "2023-09-21",
+  "to": "2025-12-21",
+  "number": "000998/2023",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004499/2023-X01/POG-247939-D01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Aneks-1-k-998-2023_240-2024_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NDQ2O0FuZWtzLTEtay05OTgtMjAyM18yNDAtMjAyNF9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

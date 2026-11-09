@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52828,
+  "type": "DOD",
+  "prev": 20821,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št. 1 k pog. DARS št.676/15:IZVEDBA KABELSKE KANALIZACIJE IN VGRADNJA OPTIČNEGA KABLA NA AC ODSEKU AC BAZA POSTOJNA-CP NANOS-nominacija podizvajalcev, podaljšanje roka   ",
+  "procurement": "aneks št. 1 k pog. DARS št.676/15:IZVEDBA KABELSKE KANALIZACIJE IN VGRADNJA OPTIČNEGA KABLA NA AC ODSEKU AC BAZA POSTOJNA-CP NANOS-nominacija podizvajalcev, podaljšanje roka   ",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2016-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TERRA IN d.o.o."
+  ],
+  "contractor_ids": [
+   "1871102000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "Scan-2016-01-27-14-00-59-630.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODI4O1NjYW4tMjAxNi0wMS0yNy0xNC0wMC01OS02MzAucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

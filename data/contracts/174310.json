@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 174310,
+  "type": "DOD",
+  "prev": 46637,
+  "idObrazec": 768324,
+  "idDosje": 51769,
+  "title": "Aneks št. 13",
+  "procurement": "Vzpostavitev in delovanje večsteznega elektronskega cestninskega sistema v prostem prometnem toku na avtocestah in hitrih cestah",
+  "kind": 1,
+  "value": 1861612.9,
+  "signed": "2021-01-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TELEKOM SLOVENIJE, d.d.",
+   "Q-FREE NORGE AS"
+  ],
+  "contractor_ids": [
+   "5014018000",
+   null
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN005358/2016-C01/DOD-174310",
+  "published": "2021-02-15",
+  "files": [
+   {
+    "name": "Aneks številka 13.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDMxMDtBbmVrcyDFoXRldmlsa2EgMTMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

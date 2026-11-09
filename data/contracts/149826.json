@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 149826,
+  "type": "DOD",
+  "prev": 84309,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 1 k pogodbi 726/2017 za Izvedbo geodetskih storitev na območju celotnega avtocestnega omrežja v Republiki Sloveniji",
+  "procurement": "Aneks 1 k pogodbi 726/2017 za Izvedbo geodetskih storitev na območju celotnega avtocestnega omrežja v Republiki Sloveniji",
+  "kind": 1,
+  "value": 7088.2,
+  "signed": "2020-04-01",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIMITA-MUGERLI Geodetske storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "1898094000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-04-07",
+  "files": [
+   {
+    "name": "podpisan aneks 1 k pog 726-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0OTgyNjtwb2RwaXNhbiBhbmVrcyAxIGsgcG9nIDcyNi0yMDE3LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

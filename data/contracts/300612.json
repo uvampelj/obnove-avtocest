@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 300612,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 889149,
+  "idDosje": 514247,
+  "title": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent, sklop 4, sklop 5 in sklop 9",
+  "procurement": "Dobava, popravilo in izdelava hidravličnih in pnevmatskih komponent",
+  "kind": 1,
+  "value": 89060.0,
+  "signed": "2025-01-31",
+  "from": "2025-01-31",
+  "to": "2028-04-30",
+  "number": "000250/2025",
+  "contractors": [
+   "HABERKORN, trgovina in storitve d. o.o."
+  ],
+  "contractor_ids": [
+   "5795613000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006781/2024-POG/04",
+  "published": "2025-02-14",
+  "files": [
+   {
+    "name": "Pogodba_S4_S5_S9_podpisana pog ST 250-2025 RedUL Haberkorn 194-2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzQ2MDYwO1BvZ29kYmFfUzRfUzVfUzlfcG9kcGlzYW5hIHBvZyBTVCAyNTAtMjAyNSBSZWRVTCBIYWJlcmtvcm4gMTk0LTIwMjQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

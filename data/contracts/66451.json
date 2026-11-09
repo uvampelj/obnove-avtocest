@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 66451,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657523,
+  "idDosje": 181409,
+  "title": "Čiščenje sanitarnih objektov na malih počivališčih, sklop 1,3,4,5",
+  "procurement": "Zima-jug, Polskava-vzhod, Polskava-zahod,Lipce-sever, Lipce-jug,Povodje-vzhod, Povodje-zahod,Risnik",
+  "kind": 1,
+  "value": 239266.55,
+  "signed": "2017-03-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VUR d.o.o."
+  ],
+  "contractor_ids": [
+   "6233643000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007886/2016-C01/POG-66451",
+  "published": "2017-03-24",
+  "files": [
+   {
+    "name": "Pogodba 251-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY2NDUxO1BvZ29kYmEgMjUxLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

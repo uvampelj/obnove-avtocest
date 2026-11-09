@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 189123,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 724127,
+  "idDosje": 396323,
+  "title": "Vzdrževanje naprav za nadzor prometa",
+  "procurement": "Vzdrževanje naprav za nadzor prometa",
+  "kind": 1,
+  "value": 122549.0,
+  "signed": "2021-08-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Intermatic inženiring & consulting d.o.o."
+  ],
+  "contractor_ids": [
+   "5301823000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002625/2021-X01/POG-189123",
+  "published": "2021-08-20",
+  "files": [
+   {
+    "name": "pogodba 1069-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4OTEyMztwb2dvZGJhIDEwNjktMjAyMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

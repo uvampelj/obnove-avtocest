@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 172111,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 714890,
+  "idDosje": 230491,
+  "title": "Aneks številka 1",
+  "procurement": "Kalcijev klorid - CaCl2 - raztopina, granulat",
+  "kind": 2,
+  "value": 131760.0,
+  "signed": "2021-01-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MA-YDI trgovina in distribucija, d.o.o."
+  ],
+  "contractor_ids": [
+   "5609283000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009737/2017-Q01/POG-172111",
+  "published": "2021-01-29",
+  "files": [
+   {
+    "name": "Aneks 1 - 9-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MjExMTtBbmVrcyAxIC0gOS0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

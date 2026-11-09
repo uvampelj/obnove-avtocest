@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 138751,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 694585,
+  "idDosje": 315839,
+  "title": "Izdelava IZP za rekonstrukcijo nadvoza VA 0180 Stara vas, Postojna  ",
+  "procurement": "Izdelava IZP za rekonstrukcijo nadvoza VA 0180 Stara vas, Postojna  ",
+  "kind": 1,
+  "value": 26230.0,
+  "signed": "2019-11-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004849/2019-X01/POG-138751",
+  "published": "2019-11-13",
+  "files": [
+   {
+    "name": "Pogodba Projekt.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzODc1MTtQb2dvZGJhIFByb2pla3QucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

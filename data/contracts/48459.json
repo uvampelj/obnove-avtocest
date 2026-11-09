@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 48459,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 650763,
+  "idDosje": 159280,
+  "title": "Vzdrževanje avtomatskih števcev prometa",
+  "procurement": "Vzdrževanje avtomatskih števcev prometa",
+  "kind": 2,
+  "value": 164670.72,
+  "signed": "2016-09-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MIKROBIT SENZORIKA d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN002928/2016-X01/POG-48459",
+  "published": "2016-09-20",
+  "files": [
+   {
+    "name": "pogodba 753-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTQ4NDU5O3BvZ29kYmEgNzUzLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

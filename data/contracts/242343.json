@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 242343,
+  "type": "DOD",
+  "prev": 94566,
+  "idObrazec": 770418,
+  "idDosje": 232258,
+  "title": "Aneks št. 3 k pogodbi DARS 163/2018: Izdelava individualnih sanacijskih načrtov posameznih kmetijskih gospodarstev za projekt državne ceste od priključka Šentrupert na AC A1 Šentilj-Koper do priključka Velenje jug",
+  "procurement": "IZDELAVA INDIVIDUALNIH SANACIJSKIH NAČRTOV POSAMEZNIH KMETIJSKIH GOSPODARSTEV ZA PROJEKT IZGRADNJE DRŽAVNE CESTE OD PRIKLJUČKA ŠENTRUPERT NA AVTOCESTI A1 ŠENTILJ - KOPER DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 29700.0,
+  "signed": "2023-06-07",
+  "from": "2018-02-15",
+  "to": "2024-02-15",
+  "number": "751/2023",
+  "contractors": [
+   "Poslovno svetovanje Drago Cerovšek s.p."
+  ],
+  "contractor_ids": [
+   "6570666000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009716/2017-X01/DOD-242343",
+  "published": "2023-07-05",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI0NDkxNjtBbmVrcy0zLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

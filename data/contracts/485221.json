@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 485221,
+  "type": "DOD",
+  "prev": 100101,
+  "idObrazec": 1200388,
+  "idDosje": 242841,
+  "title": "Aneks 2 k pog. 1504/2028 za opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke; podaljšanje pog. roka, več dela, valorizacija",
+  "procurement": "Opravljanje del in nalog koordinatorja za varnost in zdravje pri delu za dograditev avtocestnega predora Karavanke in sanacijo obstoječe cevi predora Karavanke",
+  "kind": 1,
+  "value": 63522.86,
+  "signed": "2026-10-02",
+  "from": "2026-10-02",
+  "to": "2027-07-24",
+  "number": "001504/20218",
+  "contractors": [
+   "INŠTITUT ZA VARNOST LOZEJ d.o.o. Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5703425000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000889/2018-C01/POG-100101-D02",
+  "published": "2026-10-06",
+  "files": [
+   {
+    "name": "aneks 2 k pog 1504-2018 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM4MjY1O2FuZWtzIDIgayBwb2cgMTUwNC0yMDE4IC0gemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

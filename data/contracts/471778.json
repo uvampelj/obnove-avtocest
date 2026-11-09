@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 471778,
+  "type": "DOD",
+  "prev": 246630,
+  "idObrazec": 1170899,
+  "idDosje": 483496,
+  "title": "Aneks št. 1 k pogodbi DARS št. 934/2023 za Obnovo vozne površine na AC A5 0813/0913 Turnišče – Razcep Dolga vas, 0814/0914 Dolga vas – Lendava, 0183 Razcep Dolga vas in na HC H7 0815/0915 A5 – Dolga vas, 0817 Dolga vas – Rondo Dolga vas ",
+  "procurement": "Obnova vozne površine na AC A5 0813/0913 Turnišče-Razcep Dolga vas, 0814/0914 Dolga vas-Lendava, 0183 Razcep Dolga vas in na HC H7 0815/0915 A5-Dolga vas, 0817 Dolga vas-Rondo Dolga vas",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-08-14",
+  "from": "2025-11-30",
+  "to": "2026-10-31",
+  "number": "000934/2023",
+  "contractors": [
+   "POMGRAD, gradbeno podjetje d.d.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5459001000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004013/2023-C01/POG-246630-D01",
+  "published": "2026-08-27",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjEwNDgxO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

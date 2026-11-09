@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 252697,
+  "type": "DOD",
+  "prev": 221247,
+  "idObrazec": 781294,
+  "idDosje": 452477,
+  "title": "ANEKS št. 1 k pogodbi DARS d.d., št. 001157/2022 za Novelacija projektne dokumentacije PGD in PZI, Polni priključek na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid - obvoznica)",
+  "procurement": "Novelacija projektne dokumentacije PGD in PZI, Polni priključek na Celovški cesti, 3a faza G1-8/0213, Ljubljana (Šentvid - obvoznica)",
+  "kind": 1,
+  "value": 26284.96,
+  "signed": "2023-11-23",
+  "from": "2023-03-16",
+  "to": "2023-11-24",
+  "number": "001376/2023",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005103/2022-L01/DOD-252697",
+  "published": "2023-11-27",
+  "files": [
+   {
+    "name": "Aneks 001376_23_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NjIwMztBbmVrcyAwMDEzNzZfMjNfUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

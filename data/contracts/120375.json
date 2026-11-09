@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 120375,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 683595,
+  "idDosje": 285148,
+  "title": "Letalsko snemanje AC in HC za D0F0.5 in LIDAR 2019",
+  "procurement": "Letalsko snemanje AC in HC za D0F0.5 in LIDAR 2019",
+  "kind": 1,
+  "value": 121219.2,
+  "signed": "2019-02-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FLYCOM, družba za letalske in komunikacijske storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5710081000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008059/2018-X01/POG-120375",
+  "published": "2019-02-14",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 125-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMDM3NTtQb2dvZGJhIERBUlMgxaF0LiAxMjUtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 274591,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 836391,
+  "idDosje": 507279,
+  "title": "Sklop 7 - LM 30 Traktor s priključki",
+  "procurement": "DOBAVA MEHANIZACIJE ZA VZDRŽEVANJE",
+  "kind": 2,
+  "value": 3984839.64,
+  "signed": "2024-08-20",
+  "from": "2024-08-20",
+  "to": "2025-06-20",
+  "number": "000875/2024",
+  "contractors": [
+   "INTEREXPORT mednarodna trgovina, d.o.o."
+  ],
+  "contractor_ids": [
+   "5101956000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001254/2024-POG/07",
+  "published": "2024-08-22",
+  "files": [
+   {
+    "name": "Pogodba - INTEREXPORT d.o.o.-7_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzAyMDU1O1BvZ29kYmEgLSBJTlRFUkVYUE9SVCBkLm8uby4tN19SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

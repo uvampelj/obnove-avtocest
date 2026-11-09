@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 122228,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS 674/2015; podaljšanje pog. roka, dodatna, več in manj dela",
+  "procurement": "Izdelava projektne dokumentacije PGD/PZI za izgradnjo avtocestnega priključka Brezovica-zahod",
+  "kind": 1,
+  "value": 59278.46,
+  "signed": "2019-03-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-13",
+  "files": [
+   {
+    "name": "aneks št 2 k pog 674-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMjIyODthbmVrcyDFoXQgMiBrIHBvZyA2NzQtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

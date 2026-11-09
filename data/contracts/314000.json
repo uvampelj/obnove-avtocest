@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 314000,
+  "type": "DOD",
+  "prev": 229727,
+  "idObrazec": 925848,
+  "idDosje": 452273,
+  "title": "Aneks 1 k pog. DARS d. d. št. 1669/2022 - Obnova vozne površine na HC H5 0388/0788 Škofije-Srmin, priključkih 0190 Srmin, 0457 Škofije, 0456 Plavje in razcepu 0160 Srmin ter zamenjava kažipotne signalizacije na priključkih HC H5 in H6",
+  "procurement": "Obnova vozne površine na HC H5 0388/0788 Škofije-Srmin, priključkih 0190 Srmin, 0457 Škofije, 0456 Plavje in razcepu 0160 Srmin ter zamenjava kažipotne signalizacije na priključkih HC H5 in H6",
+  "kind": 3,
+  "value": 771303.01,
+  "signed": "2025-06-09",
+  "from": "2025-06-09",
+  "to": "2025-11-28",
+  "number": "001669/2022",
+  "contractors": [
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve",
+   "CVP, gradbeništvo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5069041000",
+   "3987388000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005141/2022-C01/POG-229727-D01",
+  "published": "2025-07-08",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzg2MjU4O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 447234,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1127936,
+  "idDosje": 582264,
+  "title": "Pogodba za OPREMA DELAVNIC: SKLOP 2: Material za popravilo, premontažo in centriranje pnevmatik",
+  "procurement": "Oprema delavnic",
+  "kind": 2,
+  "value": 37828.92,
+  "signed": "2026-07-03",
+  "from": "2026-07-03",
+  "to": "2029-07-03",
+  "number": "000772/2026",
+  "contractors": [
+   "CETIX podjetje za trgovino in storitve d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5605164000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002833/2026-POG/02",
+  "published": "2026-07-07",
+  "files": [
+   {
+    "name": "Pogodba za objavo SKLOP 2 69-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTcwMTYwO1BvZ29kYmEgemEgb2JqYXZvIFNLTE9QIDIgNjktMjAyNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

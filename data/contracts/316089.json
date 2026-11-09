@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316089,
+  "type": "DOD",
+  "prev": 234559,
+  "idObrazec": 931903,
+  "idDosje": 467161,
+  "title": "Aneks št. 1 po pogodbi DARS d. d., št. 565/2023 za Izdelavpo hidrološko hidravlične študije za študijo variant oz. utemeljitev rešitve / predinvesticijsko zasnovo za glavno cesto Ptuj – Markovci ",
+  "procurement": "Izdelava hidrološko hidravlične študije za študijo variant oz. utemeljitev rešitve / predinvesticijsko zasnovo za glavno cesto Ptuj - Markovci",
+  "kind": 1,
+  "value": 16030.8,
+  "signed": "2025-07-08",
+  "from": "2025-07-08",
+  "to": "2026-08-31",
+  "number": "000565/2023",
+  "contractors": [
+   "VODNOGOSPODARSKI BIRO MARIBOR d.o.o."
+  ],
+  "contractor_ids": [
+   "5150531000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008549/2022-X01/POG-234559-D01",
+  "published": "2025-07-31",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkxMTM5O0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

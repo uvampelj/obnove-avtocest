@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 106600,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 676974,
+  "idDosje": 261918,
+  "title": "Kalibracija in srevisiranje tehtnic",
+  "procurement": "Kalibracija in srevisiranje tehtnic",
+  "kind": 1,
+  "value": 120502.45,
+  "signed": "2018-08-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TRIM SERVIS, podjetje za storitve in proizvodnjo d.o.o. Šepulje"
+  ],
+  "contractor_ids": [
+   "5515777000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004291/2018-X01/POG-106600",
+  "published": "2018-08-24",
+  "files": [
+   {
+    "name": "pogodba 1782-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNjYwMDtwb2dvZGJhIDE3ODItMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

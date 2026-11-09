@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": 73444,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660583,
+  "idDosje": 191941,
+  "title": "Dobava varovalnih ograj",
+  "procurement": "Aluminijasta varovalna ograja,Jeklena pocinkana in plastificirana varovalna ograja",
+  "kind": 2,
+  "value": 433480.89,
+  "signed": "2017-06-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ALUMERO, d.o.o.",
+   "LOS CO d.o.o."
+  ],
+  "contractor_ids": [
+   "6096883000",
+   "3771105000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN001897/2017-C01/POG-73444",
+  "published": "2017-06-28",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczNDQ0O1BvZ29kYmkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2,
+ "source": "none",
+ "pages": 0,
+ "text": ""
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 116815,
+  "type": "DOD",
+  "prev": 78732,
+  "idObrazec": 769576,
+  "idDosje": 179978,
+  "title": "POSTAVITEV BLAŽILNIKOV TRKOV NA POSAMEZNIH PRIKLJUČKIH NA AC A1 ŠENTILJ – SRMIN, A2 KARAVANKE OBREŽJE IN HC H3 LJ (ZADOBROVA – KOSEZE) – OBMOČJE AVTOCESTNIH BAZ LJ IN NM",
+  "procurement": "POSTAVITEV BLAŽILNIKOV TRKOV NA POSAMEZNIH PRIKLJUČKIH NA AC A1 ŠENTILJ – SRMIN, A2 KARAVANKE OBREŽJE IN HC H3 LJ (ZADOBROVA – KOSEZE) – OBMOČJE AVTOCESTNIH BAZ LJ IN NM",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2018-11-15",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO, d.d. Liboje",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5206855000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007595/2016-C01/DOD-116815",
+  "published": "2018-12-24",
+  "files": [
+   {
+    "name": "Aneks št.1-JV Liko+VOC.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNjgxNTtBbmVrcyDFoXQuMS1KViBMaWtvK1ZPQy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

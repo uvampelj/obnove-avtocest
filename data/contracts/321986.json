@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 321986,
+  "type": "DOD",
+  "prev": 168660,
+  "idObrazec": 948864,
+  "idDosje": 366970,
+  "title": "Aneks 1 k pogodbi DARS št. 1509/2020 za strokovno tehnične storitve  pri gradnji in obnovah AC in HC v RS; podaljšanje pogodbenega roka",
+  "procurement": "Strokovno tehnične storitve pri gradnji in obnovah AC in HC v RS",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2025-09-24",
+  "from": "2020-12-09",
+  "to": "2024-12-09",
+  "number": "001131/2025",
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE",
+   "IGMAT, Inštitut za gradbene materiale, d.d.",
+   "ZAS, ZDRUŽENJE ASFALTERJEV SLOVENIJE"
+  ],
+  "contractor_ids": [
+   "5866324000",
+   "5498503000",
+   "5961840000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005607/2020-C01/POG-168660-D01",
+  "published": "2025-10-07",
+  "files": [
+   {
+    "name": "a1 k pog 1590-2020 podpisan za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA0NjY1O2ExIGsgcG9nIDE1OTAtMjAyMCBwb2RwaXNhbiB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

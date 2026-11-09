@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 127244,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 687805,
+  "idDosje": 297135,
+  "title": "Izdelava PZI dokumentacije sanacije objektov na ACB Hrušica - 2. faza",
+  "procurement": "Izdelava PZI dokumentacije sanacije objektov na ACB Hrušica - 2. faza",
+  "kind": 1,
+  "value": 27541.5,
+  "signed": "2019-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000796/2019-X01/POG-127244",
+  "published": "2019-05-24",
+  "files": [
+   {
+    "name": "pogodba_21-2019_PZI ACB Hrušica-2.faza.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzI0NDtwb2dvZGJhXzIxLTIwMTlfUFpJIEFDQiBIcnXFoWljYS0yLmZhemEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

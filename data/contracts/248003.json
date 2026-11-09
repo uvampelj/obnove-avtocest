@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 248003,
+  "type": "DOD",
+  "prev": 207678,
+  "idObrazec": 779574,
+  "idDosje": 417000,
+  "title": "Aneks št. 1 k pogodbi DARS št. 449/2022: Izdelava projektne dokumentacije IZP, DGD in PZI za razširitev avtocestne baze Novo mesto",
+  "procurement": "Izdelava projektne dokumentacije IZP, DGD in PZI za razširitev avtocestne baze Novo mesto",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-08-23",
+  "from": "2023-08-23",
+  "to": "2023-11-09",
+  "number": "914/2023",
+  "contractors": [
+   "SAVAPROJEKT družba za razvoj, projektiranje, konzalting, inženiring d.d. Krško"
+  ],
+  "contractor_ids": [
+   "5249686000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006541/2021-X01/DOD-248003",
+  "published": "2023-09-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MTE3MjtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

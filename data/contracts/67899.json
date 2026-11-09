@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67899,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658222,
+  "idDosje": 181085,
+  "title": "Izdelava cenitev kmetijskih zemljišč",
+  "procurement": "Izdelava cenitev kmetijskih zemljišč",
+  "kind": 1,
+  "value": 86100.0,
+  "signed": "2017-03-30",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ALEŠ EBER - SAMOZAPOSLENI V KULTURI, KRAJINSKI ARHITEKT"
+  ],
+  "contractor_ids": [
+   "1362712000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007845/2016-C01/POG-67899",
+  "published": "2017-04-14",
+  "files": [
+   {
+    "name": "pogodba JV Eber.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3ODk5O3BvZ29kYmEgSlYgRWJlci5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

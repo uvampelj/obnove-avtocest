@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 289312,
+  "type": "DOD",
+  "prev": 238257,
+  "idObrazec": 860136,
+  "idDosje": 453511,
+  "title": "Aneks št. 1 k pogodbi DARS št.629/2023: Preureditev izvoznega kraka Priključka 0116 Zahod (krak A) s priključevanjem na Tržaško cesto ter preureditev uvoznega kraka Priključka Ljubljana Zahod (krak B) - priključek s Tržaške ceste ",
+  "procurement": "Preureditev krakov Priključka 0116 Ljubljana Zahod z ureditvijo priključevanja na Tržaško cesto",
+  "kind": 3,
+  "value": 254844.19,
+  "signed": "2024-10-01",
+  "from": "2024-10-01",
+  "to": "2024-12-25",
+  "number": "000629/2023",
+  "contractors": [
+   "PZG, podjetje za gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "3323463000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005371/2022-X01/POG-238257-D01",
+  "published": "2024-10-16",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIyOTQzO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

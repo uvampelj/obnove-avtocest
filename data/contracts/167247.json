@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167247,
+  "type": "DOD",
+  "prev": 78961,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pog. DARS št. 657/2017: Izdelava prometne študije in podlag za projektno in investicijsko dokumentacijo nove cestne povezave Ptuj–Markovci–Gorišnica–Ormož - manj dela",
+  "procurement": "IZDELAVA PROMETNE ŠTUDIJE IN PODLAG ZA PROJEKTNO IN IVESTICIJSKO DOKUMENTACIJO NOVE CESTNE POVEZAVE PTUJ-MARKOVCI-GORIŠNICA-ORMOŽ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2020-06-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-12-02",
+  "files": [
+   {
+    "name": "Aneks št. 2 k pog-657-2017-OK.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI0NztBbmVrcyDFoXQuIDIgayBwb2ctNjU3LTIwMTctT0sucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

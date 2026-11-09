@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 32140,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 643784,
+  "idDosje": 72175,
+  "title": "Projektna dokumentacija PZI za vzpostavitev cestninskih uporabniških točk (CUT) na mejnih prehodih, AC počivališčih in AC bazah z namenom vzpostavitve prodajne mreže DARS.",
+  "procurement": "Projektna dokumentacija PZI za vzpostavitev cestninskih uporabniških točk (CUT) na mejnih prehodih, AC počivališčih in AC bazah z namenom vzpostavitve prodajne mreže DARS.",
+  "kind": 1,
+  "value": 70711.2,
+  "signed": "2016-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CESTNI INŽENIRING d.o.o."
+  ],
+  "contractor_ids": [
+   "2323478000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN806/2016/POG-32140",
+  "published": "2016-02-12",
+  "files": [
+   {
+    "name": "pogodba Cestni inženiring 52-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTMyMTQwO3BvZ29kYmEgQ2VzdG5pIGluxb5lbmlyaW5nIDUyLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

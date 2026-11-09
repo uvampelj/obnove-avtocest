@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 177767,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 717864,
+  "idDosje": 380393,
+  "title": "Prevzem odpadnih tunelskih pralnih voda",
+  "procurement": "ACB Postojna,ACB Ljubljana,ACB Kozina,ACB Novo mesto",
+  "kind": 1,
+  "value": 133869.23,
+  "signed": "2021-04-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AGJ, arhitekturno projektiranje in ravnanje z odplakami, d.o.o."
+  ],
+  "contractor_ids": [
+   "3455980000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007921/2020-X01/POG-177767",
+  "published": "2021-04-08",
+  "files": [
+   {
+    "name": "pogodba 582-2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3Nzc2Nztwb2dvZGJhIDU4Mi0yMDIxLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

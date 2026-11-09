@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 183040,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 720824,
+  "idDosje": 394915,
+  "title": "Razvoj, vzdrževanje in podpora IS GIS DARS",
+  "procurement": "Razvoj, vzdrževanje in podpora IS GIS DARS",
+  "kind": 1,
+  "value": 653127.0,
+  "signed": "2021-05-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002498/2021-C01/POG-183040",
+  "published": "2021-06-04",
+  "files": [
+   {
+    "name": "pogodba 817-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE4MzA0MDtwb2dvZGJhIDgxNy0yMDIxX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

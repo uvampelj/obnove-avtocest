@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27394,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641485,
+  "idDosje": 72162,
+  "title": "Izdelava PGD in PZI projektne dokumentacije »Rušitev in preureditev cestninskih postaj vključno s platojem«",
+  "procurement": "Izdelava PGD in PZI projektne dokumentacije »Rušitev in preureditev cestninskih postaj vključno s platojem«",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2015-09-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6312/2015/POG-27394",
+  "published": "2015-12-17",
+  "files": [
+   {
+    "name": "pog 744-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3Mzk0O3BvZyA3NDQtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

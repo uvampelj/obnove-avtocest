@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 77896,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662553,
+  "idDosje": 204275,
+  "title": "Vzdrževanje klimatskih in prezračevalnih naprav",
+  "procurement": "Vzdrževanje klimatskih in prezračevalnih naprav",
+  "kind": 1,
+  "value": 470493.0,
+  "signed": "2017-08-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASTECH d.o.o., Inženiring in servisiranje strojnih instalacij"
+  ],
+  "contractor_ids": [
+   "1661078000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004882/2017-C01/POG-77896",
+  "published": "2017-08-21",
+  "files": [
+   {
+    "name": "pogodba 614-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc3ODk2O3BvZ29kYmEgNjE0LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

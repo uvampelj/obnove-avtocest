@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 211482,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 736586,
+  "idDosje": 435831,
+  "title": "Nabava električne energije od 1. 6. 2022 od 00:00 ure do 31. 12. 2022 do 24:00 ure",
+  "procurement": "Nabava električne energije od 1. 6. 2022 do 31. 12. 2022 ",
+  "kind": 2,
+  "value": 4587723.69,
+  "signed": "2022-05-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ECE, energetska družba, d.o.o."
+  ],
+  "contractor_ids": [
+   "6064892000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000967/2022-C01/POG-211482",
+  "published": "2022-05-24",
+  "files": [
+   {
+    "name": "R Pogodba 894-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIxMTQ4MjtSIFBvZ29kYmEgODk0LTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

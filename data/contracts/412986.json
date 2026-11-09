@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 412986,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1085278,
+  "idDosje": 540149,
+  "title": "Dobava kombiniranih vozil za nadzor del KV 4 (4X4)",
+  "procurement": "Dobava kombiniranih vozil za nadzor del KV 4 (4X4)",
+  "kind": 2,
+  "value": 537310.36,
+  "signed": "2026-05-18",
+  "from": "2026-05-18",
+  "to": "2029-08-18",
+  "number": "000650/2026",
+  "contractors": [
+   "AVTOTEHNA VIS IN SEVER, trgovska družba za prodajo in servisiranje vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "1545744000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000943/2026-POG/01",
+  "published": "2026-05-20",
+  "files": [
+   {
+    "name": "Pogodba 650-2026 R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTMwMTc0O1BvZ29kYmEgNjUwLTIwMjYgUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

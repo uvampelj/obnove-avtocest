@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324577,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956764,
+  "idDosje": 524647,
+  "title": "Dvigala v mehaničnih delavnicah",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 150060.0,
+  "signed": "2025-10-27",
+  "from": "2025-10-27",
+  "to": "2029-01-27",
+  "number": "001207/2025",
+  "contractors": [
+   "PRODUKT oprema za avtoservisno dejavnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5350131000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006232/2025-POG/03",
+  "published": "2025-11-07",
+  "files": [
+   {
+    "name": "Podpisana pogodba sklop 8 Produkt red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwOTY2O1BvZHBpc2FuYSBwb2dvZGJhIHNrbG9wIDggUHJvZHVrdCByZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

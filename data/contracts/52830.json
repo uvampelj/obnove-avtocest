@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 52830,
+  "type": "DOD",
+  "prev": 34620,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "aneks št.1 k pog. DARS št. 89/16:IZDELAVA PZI ZA IZVEDBO AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OPERATIVNIM PROGRAMOM HRUP – SKLOP A-podaljšanje roka I. faze, nominacija podizvajalcev,nominacija odgovornih projektantov in odgovornega vodje geotehničnih del,sprememba deleža že nominiranega podizvajal",
+  "procurement": "aneks št.1 k pog. DARS št. 89/16:IZDELAVA PZI ZA IZVEDBO AKTIVNE PROTIHRUPNE ZAŠČITE V SKLADU Z OPERATIVNIM PROGRAMOM HRUP – SKLOP A-podaljšanje roka I. faze, nominacija podizvajalcev,nominacija odgovornih projektantov in odgovornega vodje geotehničnih del,sprememba deleža že nominiranega podizvajal",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-06-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2016-10-24",
+  "files": [
+   {
+    "name": "465-16.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTUyODMwOzQ2NS0xNi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 90522,
+  "type": "DOD",
+  "prev": 36467,
+  "idObrazec": 767902,
+  "idDosje": 19298,
+  "title": "aneks št. 1 k pog. DARS št. 264/16:Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokumentacije v predorih Pletovarje in Golo rebro",
+  "procurement": "Izdelava projektov za izvedbo vzdrževalnih del na vozišču predora Pletovarje, vzpostavitev prisilnega prezračevanja, vzpostavitev ubežnih poti skozi obstoječa prečnika in posodobitev varnostne dokum..",
+  "kind": 1,
+  "value": 16909.2,
+  "signed": "2016-12-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ELEA iC d.o.o."
+  ],
+  "contractor_ids": [
+   "5522749000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV1739/2016/DOD-90522",
+  "published": "2018-01-27",
+  "files": [
+   {
+    "name": "aneks.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkwNTIyO2FuZWtzLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 77199,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 662135,
+  "idDosje": 80580,
+  "title": "Aneks št. 1",
+  "procurement": "Nadgradnja, razvoj, vzdrževanje in podpora IS Kažipot II",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-04-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN7979/2015/POG-77199",
+  "published": "2017-08-08",
+  "files": [
+   {
+    "name": "Aneks št. 1 -269-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTc3MTk5O0FuZWtzIMWhdC4gMSAtMjY5LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

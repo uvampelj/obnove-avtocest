@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 126143,
+  "type": "DOD",
+  "prev": 96702,
+  "idObrazec": 770548,
+  "idDosje": 212472,
+  "title": "OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH H4/0375 IN 0775 VIPAVA - AJDOVŠČINA OD KM 4,139 DO KM 6,763 IN NA H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 0,000 DO KM 5,096",
+  "procurement": "OBNOVA VOZIŠČNE KONSTRUKCIJE NA ODSEKIH H4/0375 IN 0775 VIPAVA - AJDOVŠČINA OD KM 4,139 DO KM 6,763 IN NA H4/0376 IN 0776 AJDOVŠČINA – SELO OD KM 0,000 DO KM 5,096",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-04-25",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CPK, d.d., družba za vzdrževanje cest, gradbeništvo in druge poslovne storitve"
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069041000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006545/2017-C01/DOD-126143",
+  "published": "2019-05-10",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNjE0MztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

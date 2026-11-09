@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 223049,
+  "type": "DOD",
+  "prev": 198554,
+  "idObrazec": 778422,
+  "idDosje": 407145,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1272/2021 za Študije obremenitve s hrupom s predlogom protihrupne zaščite Sklop 2: AC A1 za odseka 0034 Slivnica in 0037 Sl. Bistrica-Sl. Konjice",
+  "procurement": "AC A1 za odseka 0034 Slivnica in 0037 Sl. Bistrica-Sl. Konjice",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2022-09-07",
+  "from": "2022-09-07",
+  "to": "2022-11-17",
+  "number": null,
+  "contractors": [
+   "A - PROJEKT, ekologija, projektiranje in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "3386597000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004951/2021-X01/DOD-223049",
+  "published": "2022-10-05",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMzE1NTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 121223,
+  "type": "DOD",
+  "prev": 87549,
+  "idObrazec": 770157,
+  "idDosje": 215049,
+  "title": "PROMETNA UREDITEV ZA VZPOSTAVITEV ELEKTRONSKEGA SISTEMA CESTNINJENJA V PROSTEM PROMETNEM TOKU",
+  "procurement": "PROMETNA UREDITEV ZA VZPOSTAVITEV ELEKTRONSKEGA SISTEMA CESTNINJENJA V PROSTEM PROMETNEM TOKU",
+  "kind": 3,
+  "value": 11524.57,
+  "signed": "2019-02-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CVP, gradbeništvo in storitve d.o.o.",
+   "GVO, gradnja in vzdrževanje telekomunikacijskih omrežij, d.o.o."
+  ],
+  "contractor_ids": [
+   "3987388000",
+   "1507664000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006958/2017-C01/DOD-121223",
+  "published": "2019-02-25",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMTIyMztBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205519,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 733134,
+  "idDosje": 421223,
+  "title": "Dobava elektro materiala",
+  "procurement": "Dobava elektro materiala",
+  "kind": 2,
+  "value": 366000.0,
+  "signed": "2022-02-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EVENTUS podjetje za trgovino, gostinstvo, storitve, uvoz in izvoz Novo mesto, d.o.o."
+  ],
+  "contractor_ids": [
+   "5430038000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007271/2021-C01/POG-205519",
+  "published": "2022-02-25",
+  "files": [
+   {
+    "name": "R POGODBA 102-2022.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTUxOTtSIFBPR09EQkEgMTAyLTIwMjIucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

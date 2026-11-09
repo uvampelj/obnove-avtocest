@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 317724,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 936866,
+  "idDosje": 521434,
+  "title": "Dobava okolju prijaznih čistil in papirne galanterije",
+  "procurement": "Dobava okolju prijaznih čistil in papirne galanterije",
+  "kind": 2,
+  "value": 80500.6,
+  "signed": "2025-08-01",
+  "from": "2025-08-01",
+  "to": "2028-11-01",
+  "number": "000988/2025",
+  "contractors": [
+   "INPOS, Tehnična trgovina na debelo in drobno, d.o.o., Celje"
+  ],
+  "contractor_ids": [
+   "5305306000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003411/2025-POG/01",
+  "published": "2025-08-22",
+  "files": [
+   {
+    "name": "R_Pogodba 988-2025 INPOS.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mzk1MDYyO1JfUG9nb2RiYSA5ODgtMjAyNSBJTlBPUy5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

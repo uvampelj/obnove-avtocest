@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 323708,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 954207,
+  "idDosje": 523741,
+  "title": "Vzdrževanje polnografičnih signalnih tabel",
+  "procurement": "Vzdrževanje signalizacije in opreme",
+  "kind": 1,
+  "value": 116571.0,
+  "signed": "2025-10-22",
+  "from": "2025-10-22",
+  "to": "2029-01-22",
+  "number": "001192/2025",
+  "contractors": [
+   "SWARCO LEA, oblikovanje, razvoj, proizvodnja in prodaja prikazovalnikov za prometne sisteme, d.o.o."
+  ],
+  "contractor_ids": [
+   "5444063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005402/2025-POG/01",
+  "published": "2025-10-28",
+  "files": [
+   {
+    "name": "Podpisana pogodba sklop 1 red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDA4OTQ1O1BvZHBpc2FuYSBwb2dvZGJhIHNrbG9wIDEgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

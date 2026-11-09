@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 200702,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 730025,
+  "idDosje": 418500,
+  "title": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA VILIČARJE  PROIZVAJALCEV MAST EXPLORER IN OM",
+  "procurement": "SERVISIRANJE IN DOBAVA REZERVNIH DELOV ZA VILIČARJE  PROIZVAJALCEV MAST EXPLORER IN OM",
+  "kind": 1,
+  "value": 85229.2,
+  "signed": "2021-12-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "TEHSTAR, prodaja, servis in najem viličarjev, d.o.o."
+  ],
+  "contractor_ids": [
+   "2336162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006895/2021-X01/POG-200702",
+  "published": "2021-12-28",
+  "files": [
+   {
+    "name": "Pogodba 1463-2021_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwMDcwMjtQb2dvZGJhIDE0NjMtMjAyMV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

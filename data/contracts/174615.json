@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 174615,
+  "type": "DOD",
+  "prev": 100155,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks 2 k pogodbi DARS št. 1502/2018 za izdelavo cenitev stavbnih zemljišč in objektov; dodatna dela",
+  "procurement": "Aneks 2 k pogodbi DARS št. 1502/2018 za izdelavo cenitev stavbnih zemljišč in objektov; dodatna dela",
+  "kind": 1,
+  "value": 24050.0,
+  "signed": "2021-02-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EVROVODA, cenitve, nadzori in svetovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "3412075000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-02-18",
+  "files": [
+   {
+    "name": "a2 k pog 1502-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDYxNTthMiBrIHBvZyAxNTAyLTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

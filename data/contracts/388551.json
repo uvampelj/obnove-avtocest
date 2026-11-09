@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 388551,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1042028,
+  "idDosje": 528827,
+  "title": "Paletni viličar",
+  "procurement": "Paletni viličar",
+  "kind": 2,
+  "value": 25144.2,
+  "signed": "2026-03-25",
+  "from": null,
+  "to": null,
+  "number": "000461/2026",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009853/2025-POG/01",
+  "published": "2026-03-30",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 461-2026_IMEXA_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDg5Nzc2O1BvZ29kYmEgREFSUyDFoXQuIDQ2MS0yMDI2X0lNRVhBX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

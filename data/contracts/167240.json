@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 167240,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 711730,
+  "idDosje": 368168,
+  "title": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju MOL",
+  "procurement": "\"Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku - sistem DarsGo\" pri pogodbenem partnerju MOL",
+  "kind": 1,
+  "value": 2049600.0,
+  "signed": "2020-11-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MOL SLOVENIJA, trgovsko podjetje d.o.o."
+  ],
+  "contractor_ids": [
+   "5952441000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005846/2020-C01/POG-167240",
+  "published": "2020-12-02",
+  "files": [
+   {
+    "name": "POGODBA MOL objava UL.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NzI0MDtQT0dPREJBIE1PTCBvYmphdmEgVUwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205320,
+  "type": "DOD",
+  "prev": 11755,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 6 k pog. DARS št. 1606/2014 : Izdelava idejnega projekta odlagališč zemeljskega izkopa, ki bo nastal ob gradnji hitre ceste Koper - Dragonja",
+  "procurement": "IZDELAVA IDEJNEGA PROJEKTA ODLAGALIŠČ ZEMELJSKEGA IZKOPA, KI BO NASTAL OB GRADNJI HITRE CESTE KOPER - DRAGONJA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-12-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks-6-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTMyMDtBbmVrcy02LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

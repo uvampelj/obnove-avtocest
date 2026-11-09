@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 58167,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654518,
+  "idDosje": 176786,
+  "title": "Dobava nadomestnih delov in popravilo klica v sili sistema Itaia in Iskra Sistemi",
+  "procurement": "Dobava nadomestnih delov in popravilo klica v sili sistema Iskra Sistemi",
+  "kind": 1,
+  "value": 110328.87,
+  "signed": "2017-01-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ASIST, d.o.o."
+  ],
+  "contractor_ids": [
+   "1194682000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007063/2016-X01/POG-58167",
+  "published": "2017-01-09",
+  "files": [
+   {
+    "name": "pogodba Asist d.o.o.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU4MTY3O3BvZ29kYmEgQXNpc3QgZC5vLm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

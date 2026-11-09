@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 176872,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 717337,
+  "idDosje": 372805,
+  "title": "Dimnikarske storitve v poslovnem sistemu DARS d.d.",
+  "procurement": "Sklop 1 - Pomursko štajerski avtocesti krak,Sklop 2 - Gorenjski in Dolenjski avtocestni krak,Sklop 3 - Primorski avtocestni krak",
+  "kind": 1,
+  "value": 40715.3,
+  "signed": "2021-03-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DIMNIKARSTVO SAVINJA, dimnikarske in čistilne storitve, d.o.o.",
+   "SNEDIM, družba za storitve, trgovino in proizvodnjo, d.o.o.",
+   "ENERDIM, VZDRŽEVANJE KURILNO DIMOVODNIH NAPRAV IN SERVIS GORILCEV, JURE PIPAN S.P."
+  ],
+  "contractor_ids": [
+   "7114559000",
+   "1875523000",
+   "6685358000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006692/2020-X01/POG-176872",
+  "published": "2021-03-23",
+  "files": [
+   {
+    "name": "POGODBE vsi sklopi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3Njg3MjtQT0dPREJFIHZzaSBza2xvcGkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

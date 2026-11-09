@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16926,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636784,
+  "idDosje": 80943,
+  "title": "Vzdrževanje in popravila osebnih, kombiniranih in specialnih vozil Renault",
+  "procurement": "ACB MURSKA SOBOTA",
+  "kind": 1,
+  "value": 9157.32,
+  "signed": "2015-07-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "POMURSKI AVTOCENTER d.o.o."
+  ],
+  "contractor_ids": [
+   "6392059000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4971/2015/POG-16926",
+  "published": "2015-07-23",
+  "files": [
+   {
+    "name": "Pogodba Pomurski avtocenter d.o.o. - 554-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2OTI2O1BvZ29kYmEgUG9tdXJza2kgYXZ0b2NlbnRlciBkLm8uby4gLSA1NTQtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

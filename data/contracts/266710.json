@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 266710,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 811839,
+  "idDosje": 503370,
+  "title": "Izdelava idejne zasnova ureditve in dopolnitve kontroliranega odvodnjavanja na odsekih AC in HC, ki potekajo preko vodovarstvenih območij na občinskem in državnem nivoju",
+  "procurement": "Izdelava idejne zasnova ureditve in dopolnitve kontroliranega odvodnjavanja na odsekih AC in HC, ki potekajo preko vodovarstvenih območij na občinskem in državnem nivoju",
+  "kind": 1,
+  "value": 70052.4,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2026-04-16",
+  "number": "000534/2024",
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o.",
+   "INŠTITUT ZA RUDARSTVO, GEOTEHNOLOGIJO IN OKOLJE"
+  ],
+  "contractor_ids": [
+   "5444098000",
+   "5051576000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "008426/2023-POG/01",
+  "published": "2024-05-13",
+  "files": [
+   {
+    "name": "Pogodba JV Lineal+IRGO_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjgzMDYxO1BvZ29kYmEgSlYgTGluZWFsK0lSR09fcmVkYWN0ZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

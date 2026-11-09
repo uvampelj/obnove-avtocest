@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354473,
+  "type": "DOD",
+  "prev": 192574,
+  "idObrazec": 1002011,
+  "idDosje": 395511,
+  "title": "Aneks št. 4 k pogodbi DARS št. 1121/2021 za Izdelavo okoljskega poročila in študije variant / predinvesticijske zasnove za državno cesto Podgora-Letuš / povezava na severni del tretje razvojne osi",
+  "procurement": "Izdelava okoljskega poročila in študije variant / predinvesticijske zasnove za državno cesto Podgora-Letuš/povezava na severni del tretje razvojne osi ",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-01-30",
+  "from": "2026-01-30",
+  "to": "2026-10-31",
+  "number": "001121/2021",
+  "contractors": [
+   "Razvojni center PLANIRANJE d.o.o. Celje"
+  ],
+  "contractor_ids": [
+   "5076196000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002636/2021-C01/POG-192574-D03",
+  "published": "2026-02-19",
+  "files": [
+   {
+    "name": "Aneks-4-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUxMzUyO0FuZWtzLTQtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

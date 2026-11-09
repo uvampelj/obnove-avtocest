@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 165346,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 710627,
+  "idDosje": 361395,
+  "title": " Čiščenje sanitarnega objekta na malem počivališču Zima - sever",
+  "procurement": " Čiščenje sanitarnega objekta na malem počivališču Zima - sever",
+  "kind": 1,
+  "value": 42456.0,
+  "signed": "2020-11-05",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RINO, trgovina in ostale storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1510274000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004584/2020-C01/POG-165346",
+  "published": "2020-11-09",
+  "files": [
+   {
+    "name": "pogodba 1488-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTM0Njtwb2dvZGJhIDE0ODgtMjAyMC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

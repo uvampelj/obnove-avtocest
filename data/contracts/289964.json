@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 289964,
+  "type": "DOD",
+  "prev": 201479,
+  "idObrazec": 861978,
+  "idDosje": 412772,
+  "title": "Aneks 1, DARS št. 1065/2024 k pogodbi DARS št. 1454/2021",
+  "procurement": "ADP in VNZ v predorih in pokritih vkopih",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-10-23",
+  "from": null,
+  "to": null,
+  "number": "1454/2021",
+  "contractors": [
+   "TECHNIX d.o.o., projektiranje in proizvodnja, Kamnik",
+   "TENZOR podjetje za varovanje premoženja, storitve in trgovino d.o.o.",
+   "SMART COM d.o.o. informacijski in komunikacijski sistemi"
+  ],
+  "contractor_ids": [
+   "5753155000",
+   "5389984000",
+   "5315727000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005877/2021-C01/POG-201479-D01",
+  "published": "2024-10-23",
+  "files": [
+   {
+    "name": "Aneks 1, DARS št. 1065-2024.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI0Mzk1O0FuZWtzIDEsIERBUlMgxaF0LiAxMDY1LTIwMjQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 190437,
+  "type": "DOD",
+  "prev": 148894,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 543/2020: Izvedba pilotne stene na AC A1/0638 Slovenske Konjice – Dramlje od km 2,445 do km 2,721 ",
+  "procurement": "IZVEDBA PILOTNE STENE NA AC A1/0638 SLOVENSKE KONJICE DRAMLJE OD KM 2,445 DO KM 2,721",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2021-03-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RAFAEL gradbena dejavnost d.o.o. Sevnica",
+   "SŽ - ŽELEZNIŠKO GRADBENO PODJETJE LJUBLJANA d.d.",
+   "IPI, izvajalski in projektantski inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5617316000",
+   "5143004000",
+   "5111498000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2021-09-09",
+  "files": [
+   {
+    "name": "Aneks-1-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5MDQzNztBbmVrcy0xLXphLW9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

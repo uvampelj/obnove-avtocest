@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 342784,
+  "type": "DOD",
+  "prev": 226544,
+  "idObrazec": 987929,
+  "idDosje": 450776,
+  "title": "Aneks št. 3 k pogodbi DARS št. 1403/2022 za izdelavo študije variant / predinvesticijske zasnove in državnega prostorskega načrta za ekodukt na AC odseku Unec-Postojna",
+  "procurement": "Izdelava študije variant/predinvesticijske zasnove in državnega prostorskega načrta za ekodukt na AC odseku Unec-Postojna",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-01-06",
+  "from": "2026-01-06",
+  "to": "2026-03-31",
+  "number": "1403/2022",
+  "contractors": [
+   "BPI biro za projektiranje in inženiring d.o.o.",
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o.",
+   "ZUM urbanizem, planiranje, projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5397014000",
+   "2170388000",
+   "5066204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004800/2022-C01/POG-226544-D03",
+  "published": "2026-02-04",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDM3OTMzO0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

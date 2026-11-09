@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 140630,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 695554,
+  "idDosje": 324250,
+  "title": "Pregledi gasilnikov ter pregledi in preizkusi hidrantnega omrežja",
+  "procurement": "Pregledi gasilnikov ter pregledi in preizkusi hidrantnega omrežja",
+  "kind": 1,
+  "value": 95408.15,
+  "signed": "2019-12-04",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SINT- podjetje za trgovino, servis in inženiring za varstvo pri delu in požarno varnost d.o.o."
+  ],
+  "contractor_ids": [
+   "5370434000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006447/2019-X01/POG-140630",
+  "published": "2019-12-05",
+  "files": [
+   {
+    "name": "Pogodba 1638-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0MDYzMDtQb2dvZGJhIDE2MzgtMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

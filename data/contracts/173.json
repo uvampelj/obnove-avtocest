@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 173,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630333,
+  "idDosje": 11751,
+  "title": "Prevzem odpadnih materialov po nezgodah",
+  "procurement": "Odpadki iz kmetijstva, vrtnarstva, ribogojstva, gozdarstva, lova in ribištva, iz priprave in predelave hrane,Odpadki iz obdelave in predelave lesa ter proizvodnje ivernih plošč in pohištva, vlaknin, papirja in kartona,Odpadki iz industrije usnja, krzna in tekstilij,Odpadki iz organskih kemijskih procesov,Odpadki, ki niso navedeni drugje na seznamu,Gradbeni odpadki in odpadki iz rušenja objektov",
+  "kind": 1,
+  "value": 95265.0,
+  "signed": "2015-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SAUBERMACHER SLOVENIJA d.o.o."
+  ],
+  "contractor_ids": [
+   "5432391000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1424/2015/POG-173",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000189_150316_134501.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3MztEMTMxNTAwMDAxODlfMTUwMzE2XzEzNDUwMS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

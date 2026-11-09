@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 305381,
+  "type": "DOD",
+  "prev": 292937,
+  "idObrazec": 900534,
+  "idDosje": 512974,
+  "title": "Aneks št. 1 k pogodbi   VZDRŽEVANJE SREDNJENAPETOSTNIH NAPRAV IN NIZKONAPETOSTNIH PRIKLJUČKOV (Dars št.: 1181/2024)",
+  "procurement": "VZDRŽEVANJE SREDNJENAPETOSTNIH NAPRAV IN NIZKONAPETOSTNIH PRIKLJUČKOV",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2024-11-25",
+  "from": "2024-11-25",
+  "to": "2027-11-25",
+  "number": "001181/2024",
+  "contractors": [
+   "ELEKTRO LJUBLJANA, podjetje za distribucijo električne energije, d.d."
+  ],
+  "contractor_ids": [
+   "5227992000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005828/2024-POG/01-D01",
+  "published": "2025-04-01",
+  "files": [
+   {
+    "name": "Aneks 33_2025_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzY1NzU1O0FuZWtzIDMzXzIwMjVfUEpOLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 285921,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 850164,
+  "idDosje": 509406,
+  "title": "Izdelava PZI projektne dokumentacije za izvedbo vzdrževalnih del v javno korist na odseku lokalne ceste »Klasirnica-Jezero« LC 450191 in LC 450192 ter križišča na regionalni cesti R2-425/1419 »Pesje-Velenje«",
+  "procurement": "Izdelava PZI projektne dokument. za izvedbo vzdrževalnih del v javno korist na odseku lokalne ceste Klasirnica-Jezero LC 450191 in LC 450192 ter križišča na regionalni cesti R2-425/1419 Pesje-Velenje",
+  "kind": 1,
+  "value": 268393.9,
+  "signed": "2024-08-28",
+  "from": "2024-08-28",
+  "to": "2025-06-28",
+  "number": "000900/2024",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002895/2024-POG/01",
+  "published": "2024-09-06",
+  "files": [
+   {
+    "name": "Pogodba-PNZ_900-24_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzE1MDE1O1BvZ29kYmEtUE5aXzkwMC0yNF9yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

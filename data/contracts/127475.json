@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 127475,
+  "type": "DOD",
+  "prev": 124485,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 567/2019 za spremljanje stanja predorov na AC in HC, ki so v upravljanju DARS d.d. za obdobje 8 let; sprememba načina predložitve garancije za dobro izvedbo del",
+  "procurement": "Spremljanje stanja predorov na AC in HC, ki so v upravljanju DARS d.d. za obdobje 8 let",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-05-24",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVOD ZA GRADBENIŠTVO SLOVENIJE firma v angleškem jeziku: SLOVENIAN NATIONAL BUILDING AND CIVIL ENGINEERING INSTITUTE"
+  ],
+  "contractor_ids": [
+   "5866324000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-05-30",
+  "files": [
+   {
+    "name": "a1 k pog 567-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNzQ3NTthMSBrIHBvZyA1NjctMjAxOS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

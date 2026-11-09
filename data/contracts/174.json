@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 174,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630334,
+  "idDosje": 11751,
+  "title": "Prevzem odpadnih materialov po nezgodah",
+  "procurement": "Odpadki iz proizvodnje, priprave, dobave in uporabe sredstev za površinsko zaščito (barve, laki in emajli), lepil, tesnilnih mas in tiskarskih barv,Odpadna embalaža: absorbenti, čistilne krpe, filtrna sredstva in zaščitna oblačila, ki niso navedeni drugje",
+  "kind": 1,
+  "value": 31755.0,
+  "signed": "2015-03-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "EKOREL d.o.o."
+  ],
+  "contractor_ids": [
+   "2229447000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV1424/2015/POG-174",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000190_150316_134322.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NDtEMTMxNTAwMDAxOTBfMTUwMzE2XzEzNDMyMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

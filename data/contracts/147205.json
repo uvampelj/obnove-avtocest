@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 147205,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 699178,
+  "idDosje": 336027,
+  "title": "Izbira specialistov medicine dela",
+  "procurement": "ACB Novo mesto,ACB Hrušica",
+  "kind": 1,
+  "value": 52715.2,
+  "signed": "2020-02-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZDRAVSTVENI DOM LJUBLJANA"
+  ],
+  "contractor_ids": [
+   "5056063000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008732/2019-X01/POG-147205",
+  "published": "2020-02-25",
+  "files": [
+   {
+    "name": "pogodba 482-2020.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE0NzIwNTtwb2dvZGJhIDQ4Mi0yMDIwLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

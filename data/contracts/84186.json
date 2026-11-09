@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 84186,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 665384,
+  "idDosje": 207419,
+  "title": "Nabava pisarniškega pohištva in naprav",
+  "procurement": "Pisarniško in ostalo pohištvo,Naprave,Pisarniški stol",
+  "kind": 2,
+  "value": 96721.6,
+  "signed": "2017-10-26",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ATLAS OPREMA, podjetje za proizvodnjo in trgovino z notranjo opremo, d.o.o.",
+   "IMEXA trgovina in storitve, d.o.o.",
+   "GONZAGA-PRO proizvodnja, trgovina, inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5730716000",
+   "5898617000",
+   "1525786000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005146/2017-X01/POG-84186",
+  "published": "2017-11-02",
+  "files": [
+   {
+    "name": "Nabava pisarniškega pohištva in naprav 3 sklopi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg0MTg2O05hYmF2YSBwaXNhcm5pxaFrZWdhIHBvaGnFoXR2YSBpbiBuYXByYXYgMyBza2xvcGkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

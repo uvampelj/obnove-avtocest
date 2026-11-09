@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 324567,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 956732,
+  "idDosje": 524647,
+  "title": "Servisiranje strojev in opreme: sklop 1,6,7",
+  "procurement": "Servisiranje strojev in opreme",
+  "kind": 1,
+  "value": 391315.0,
+  "signed": "2025-11-04",
+  "from": "2025-11-04",
+  "to": "2029-02-04",
+  "number": "001228/2025",
+  "contractors": [
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o.",
+   "SVET STROJEV, zastopanje in prodaja, d.o.o."
+  ],
+  "contractor_ids": [
+   "6015174000",
+   "6015174000",
+   "6015174000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006232/2025-POG/01",
+  "published": "2025-11-07",
+  "files": [
+   {
+    "name": "Podpisana pogodba sklopi 1,6,7 Svet strojev red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDEwOTQ2O1BvZHBpc2FuYSBwb2dvZGJhIHNrbG9waSAxLDYsNyBTdmV0IHN0cm9qZXYgcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

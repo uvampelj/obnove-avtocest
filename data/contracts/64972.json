@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 64972,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 657282,
+  "idDosje": 179964,
+  "title": "Servisiranje blažilcev trka",
+  "procurement": "Servis blažilcev VECO STOP,Servis blažilcev VERDEGRO",
+  "kind": 1,
+  "value": 494716.71,
+  "signed": "2017-03-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LIKO, d.d. Liboje",
+   "DP sistemi d.o.o."
+  ],
+  "contractor_ids": [
+   "5206855000",
+   "6381324000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN007639/2016-C01/POG-64972",
+  "published": "2017-03-15",
+  "files": [
+   {
+    "name": "Pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY0OTcyO1BvZ29kYmkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

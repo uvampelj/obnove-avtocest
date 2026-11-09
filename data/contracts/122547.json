@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 122547,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Izdelava projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič",
+  "procurement": "Izdelava projektne dokumentacije za izgradnjo poslovne stavbe DARS na lokaciji Grič",
+  "kind": 1,
+  "value": 595360.0,
+  "signed": "2019-02-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "studio abiro, arhitekturno načrtovanje, d.o.o."
+  ],
+  "contractor_ids": [
+   "2136392000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2019-03-15",
+  "files": [
+   {
+    "name": "pogodba_Abiro_269-2017_Projektiranje Grič.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyMjU0Nztwb2dvZGJhX0FiaXJvXzI2OS0yMDE3X1Byb2pla3RpcmFuamUgR3JpxI0ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

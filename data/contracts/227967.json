@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 227967,
+  "type": "DOD",
+  "prev": 184599,
+  "idObrazec": 776510,
+  "idDosje": 380253,
+  "title": "Aneks št. 1, DARS št. 1555/2022 k osnovni pogodbi DARS št. 938/2021 za izvedbo spremenjenega obsega del pri izdelavi Izdelava projektne dokumentacije PZI za pilotno steno Rebernice na HC H4 Razdrto - Vipava; Rebernice",
+  "procurement": "Izdelava projektne dokumentacije PZI za pilotno steno Rebernice na HC H4 Razdrto - Vipava; Rebernice",
+  "kind": 1,
+  "value": 13908.0,
+  "signed": "2022-12-19",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GINEX INTERNATIONAL Gradbeni inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "5616026000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007920/2020-X01/DOD-227967",
+  "published": "2022-12-22",
+  "files": [
+   {
+    "name": "Aneks_1_DARS_st_1555_2022_k_938_2021.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODU0NDtBbmVrc18xX0RBUlNfc3RfMTU1NV8yMDIyX2tfOTM4XzIwMjEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

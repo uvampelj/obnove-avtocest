@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 312430,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 920655,
+  "idDosje": 518900,
+  "title": "Vzdrževanje stabilnih gasilnih sistemov: SKLOP 2 – Vzdrževanje stabilnih gasilnih sistemov BONPET – strojni del",
+  "procurement": "Vzdrževanje stabilnih gasilnih sistemov",
+  "kind": 1,
+  "value": 227261.6,
+  "signed": "2025-06-12",
+  "from": "2025-07-09",
+  "to": "2030-10-09",
+  "number": "000825/2025",
+  "contractors": [
+   "BONPET SYSTEMS, proizvodnja, trgovina, požarni inženiring, d.o.o. Trbovlje"
+  ],
+  "contractor_ids": [
+   "1695444000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001341/2025-POG/02",
+  "published": "2025-06-17",
+  "files": [
+   {
+    "name": "Pogodba Bonpet 23_25_PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzgyMTU0O1BvZ29kYmEgQm9ucGV0IDIzXzI1X1BKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

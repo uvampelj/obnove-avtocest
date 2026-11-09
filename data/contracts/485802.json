@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 485802,
+  "type": "DOD",
+  "prev": 330524,
+  "idObrazec": 1201940,
+  "idDosje": 523483,
+  "title": "Aneks št. 1 k pogodbi DARS št. 001504/2025 za Dobavo in vzdrževanje gradbene mehanizacije in opreme, Sklop 6 Dvižna ploščad škarjasta – demontažna na tovornem vozilu",
+  "procurement": "DOBAVA IN VZDRŽEVANJE GRADBENE MEHANIZACIJE IN OPREME",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-10-07",
+  "from": "2026-08-18",
+  "to": "2026-09-25",
+  "number": "001504/2025",
+  "contractors": [
+   "IMEXA trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5898617000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005243/2025-POG/04-D01",
+  "published": "2026-10-09",
+  "files": [
+   {
+    "name": "Podpisan aneks 1 za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM5NTI5O1BvZHBpc2FuIGFuZWtzIDEgemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

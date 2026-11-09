@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 265074,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 807366,
+  "idDosje": 506481,
+  "title": "\nLetalski zajem in vzdrževanje DOF in ALS LIDAR",
+  "procurement": "\nLetalski zajem in vzdrževanje DOF in ALS LIDAR",
+  "kind": 1,
+  "value": 234240.0,
+  "signed": "2024-04-16",
+  "from": "2024-04-16",
+  "to": "2028-07-16",
+  "number": "000535/2024",
+  "contractors": [
+   "Flycom Technologies, družba za tehnološke storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "8392579000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000619/2024-POG/01",
+  "published": "2024-04-18",
+  "files": [
+   {
+    "name": "pogodba 535-2024 FLYCOM_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjc4ODY2O3BvZ29kYmEgNTM1LTIwMjQgRkxZQ09NX1JlZGlnaXJhbm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

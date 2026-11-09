@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 220452,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 740644,
+  "idDosje": 442510,
+  "title": "Izvajanje pregledov delovne opreme",
+  "procurement": "Izvajanje pregledov delovne opreme",
+  "kind": 1,
+  "value": 57645.0,
+  "signed": "2022-08-02",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "MATRIKA ZVO, zdravje, varstvo, okolje, d.o.o."
+  ],
+  "contractor_ids": [
+   "3507033000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002588/2022-X01/POG-220452",
+  "published": "2022-08-31",
+  "files": [
+   {
+    "name": "Pogodba st 1076-2022 redUL_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyMDQ1MjtQb2dvZGJhIHN0IDEwNzYtMjAyMiByZWRVTF8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

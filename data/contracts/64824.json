@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 64824,
+  "type": "DOD",
+  "prev": 30416,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 3 k pogodbi DARS št. 15/2016 z dne 7.1.2016 za geološke, geotehnične in hidrogeološke raziskave za izdelavo strokovnih podlag projektne dokumentacije za dograditev vzhodne cevi predora Karavanke (nivo PGD, PZI); potrditev vrednosti nepredvidenih storitev",
+  "procurement": "Aneks št. 3 k pogodbi DARS št. 15/2016 z dne 7.1.2016 za geološke, geotehnične in hidrogeološke raziskave za izdelavo strokovnih podlag projektne dokumentacije za dograditev vzhodne cevi predora Karavanke (nivo PGD, PZI); potrditev vrednosti nepredvidenih storitev",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2017-03-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": null,
+  "published": "2017-03-13",
+  "files": [
+   {
+    "name": "ANEKS 3 K POGODBI 15-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY0ODI0O0FORUtTIDMgSyBQT0dPREJJIDE1LTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 125224,
+  "type": "DOD",
+  "prev": 94520,
+  "idObrazec": 770404,
+  "idDosje": 229933,
+  "title": "IZVEDBA PREDHODNIH ARHEOLOŠKIH RAZISKAV (EKSTENZIVNI IN INTENZIVNI ARHEOLOŠKI PREGLED) 3.RAZVOJNA OS-SEVER: SKLOP 1: DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG",
+  "procurement": "DRŽAVNA CESTA OD PRIKLJUČKA ŠENTRUPERT DO PRIKLJUČKA VELENJE JUG",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2019-04-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "JAVNI ZAVOD REPUBLIKE SLOVENIJE ZA VARSTVO KULTURNE DEDIŠČINE"
+  ],
+  "contractor_ids": [
+   "1423215000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009429/2017-X01/DOD-125224",
+  "published": "2019-04-23",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNTIyNDtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

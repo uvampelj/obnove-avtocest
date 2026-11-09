@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 354142,
+  "type": "DOD",
+  "prev": 95863,
+  "idObrazec": 1001063,
+  "idDosje": 222770,
+  "title": "Aneks št. 3 k pog. DARS št. 70/2018: Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 3: državna cesta od priključka Velenje jug do priključka Slovenj Gradec jug",
+  "procurement": "Izvedba odkupov in premoženjskopravnih ureditev nepremičnin za gradnjo odsekov državnih cest: SKLOP 3: državna cesta od priključka Velenje jug do priključka Slovenj Gradec jug",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-01-20",
+  "from": "2026-01-20",
+  "to": "2026-12-31",
+  "number": "000070/2018",
+  "contractors": [
+   "Odvetniška pisarna LMR, Leben, Miklič in ostali d.o.o."
+  ],
+  "contractor_ids": [
+   "2267292000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008246/2017-C01/POG-95863-D03",
+  "published": "2026-02-17",
+  "files": [
+   {
+    "name": "Aneks-3-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDUwNTU5O0FuZWtzLTMtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

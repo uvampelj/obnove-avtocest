@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 459635,
+  "type": "DOD",
+  "prev": 314821,
+  "idObrazec": 1144896,
+  "idDosje": 518991,
+  "title": "Aneks št. 1 k pogodbi DARS, d. d., št. 878/2025: Preplastitev priključka A1/146 Lj. Zadobrova - krak A od km 0,000 do km 0,749 in krak C od km 1,383 do km 2,361 in krak D od km 2,450 do km 3,161 ter obnova AC A1 0462 Priključek Lj. Industrijska cona Moste (BTC) - krak C od km 0,256 do km 0,357 ",
+  "procurement": "Obnova vozne površine razcepa Ljubljana (Zadobrova)",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2026-07-14",
+  "from": "2026-07-01",
+  "to": "2026-09-01",
+  "number": "000878/2025",
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o.",
+   "STRABAG za građevinske poslove, d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000",
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001362/2025-POG/01-D01",
+  "published": "2026-08-03",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTg1NzEyO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

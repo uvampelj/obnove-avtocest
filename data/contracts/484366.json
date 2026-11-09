@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 484366,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1197998,
+  "idDosje": 603244,
+  "title": "Servisiranje strojev, Sklop 1 - Hymach",
+  "procurement": "Servisiranje strojev",
+  "kind": 1,
+  "value": 108519.0,
+  "signed": "2026-09-04",
+  "from": "2026-09-04",
+  "to": "2029-09-04",
+  "number": "000933/2026",
+  "contractors": [
+   "AGROREMONT, podjetje za trgovino, proizvodnjo in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "2322234000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003783/2026-POG/01",
+  "published": "2026-09-29",
+  "files": [
+   {
+    "name": "Pogodba sklop 1 st. 000933-2026_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM2MzI4O1BvZ29kYmEgc2tsb3AgMSBzdC4gMDAwOTMzLTIwMjZfcmVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

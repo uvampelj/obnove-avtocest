@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 390041,
+  "type": "DOD",
+  "prev": 330515,
+  "idObrazec": 1046119,
+  "idDosje": 526695,
+  "title": "Aneks št. 1, DARS št. 545/2026 k pogodbi DARS št. 34/2026",
+  "procurement": "Dobava in montaža avtomatskih števcev prometa s klasifikacijo vozil na AC in HC v Republiki Sloveniji",
+  "kind": 2,
+  "value": 157770.4,
+  "signed": "2026-04-09",
+  "from": null,
+  "to": null,
+  "number": "000034/2026",
+  "contractors": [
+   "MIKROBIT SENZORIKA, inženiring prometne senzorike, d.o.o."
+  ],
+  "contractor_ids": [
+   "6227716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008035/2025-POG/01-D01",
+  "published": "2026-04-13",
+  "files": [
+   {
+    "name": "Aneks št. 000545-2026_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkyOTcyO0FuZWtzIMWhdC4gMDAwNTQ1LTIwMjZfUmVkaWdpcmFuby5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

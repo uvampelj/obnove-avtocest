@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 67976,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 658255,
+  "idDosje": 185868,
+  "title": "Letni pregled dvižnih naprav",
+  "procurement": "Dvižne naprave proizvajalcev Fassi, Ram, Moog, Liv, Hidravlik servis",
+  "kind": 1,
+  "value": 142685.1,
+  "signed": "2017-04-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "HIDRAVLIK SERVIS, d.o.o., Postojna"
+  ],
+  "contractor_ids": [
+   "1570307000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000620/2017-X01/POG-67976",
+  "published": "2017-04-18",
+  "files": [
+   {
+    "name": "Pogodba 330-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTY3OTc2O1BvZ29kYmEgMzMwLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

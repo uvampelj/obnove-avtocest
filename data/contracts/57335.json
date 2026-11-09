@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 57335,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 654099,
+  "idDosje": 80016,
+  "title": "Aneks k pogodbi za Zavarovanje premoženja, premoženskih interesov in kolektivnega nezgodnega zavarovanja, sklop 2 - Zavarovanje vozil - preoblikovanje zavarovalniške družbe",
+  "procurement": "Zavarovanje vozil",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2016-12-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZAVAROVALNICA SAVA d.d."
+  ],
+  "contractor_ids": [
+   "5063400000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "JN7299/2014/POG-57335",
+  "published": "2016-12-28",
+  "files": [
+   {
+    "name": "Pogodba - Aneks št. 2 - 1032-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTU3MzM1O1BvZ29kYmEgLSBBbmVrcyDFoXQuIDIgLSAxMDMyLTIwMTYucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

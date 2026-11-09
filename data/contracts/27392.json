@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 27392,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 641484,
+  "idDosje": 72170,
+  "title": "Izdelava projektne dokumentacije PGD/PZI za izgradnjo avtocestnega priključka Brezovica - zahod",
+  "procurement": "Izdelava projektne dokumentacije PGD/PZI za izgradnjo avtocestnega priključka Brezovica - zahod",
+  "kind": 1,
+  "value": 267758.16,
+  "signed": "2015-08-27",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN6144/2015/POG-27392",
+  "published": "2015-12-17",
+  "files": [
+   {
+    "name": "pog 674-2015.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI3MzkyO3BvZyA2NzQtMjAxNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

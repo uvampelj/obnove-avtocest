@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 256093,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 766440,
+  "idDosje": 496236,
+  "title": "Sklop 5 - Servisiranje mehanizacije  Autobren",
+  "procurement": "SERVISIRANJE ZIMSKE IN LETNE MEHANIZACIJE",
+  "kind": 1,
+  "value": 56811.74,
+  "signed": "2024-01-10",
+  "from": "2024-01-10",
+  "to": "2027-01-10",
+  "number": "000032/2024",
+  "contractors": [
+   "PRIT podjetje za proizvodnjo, trgovino in inženiring, d.o.o."
+  ],
+  "contractor_ids": [
+   "5717914000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007004/2023-C01/POG-256093",
+  "published": "2024-01-15",
+  "files": [
+   {
+    "name": "Pogodba - PRIT_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTg3MjtQb2dvZGJhIC0gUFJJVF9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

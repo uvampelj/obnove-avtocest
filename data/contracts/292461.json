@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 292461,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 868724,
+  "idDosje": 515466,
+  "title": "Pogodba za vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – DarsGo sistem pri pogodbenemu partnerju Petrol",
+  "procurement": "Vzpostavitev cestninskih uporabniških točk in izvajanje storitev v elektronskem cestninskem sistemu v prostem prometnem toku – DarsGo sistem pri pogodbenemu partnerju Petrol",
+  "kind": 1,
+  "value": 9028000000.0,
+  "signed": "2024-11-18",
+  "from": "2024-11-17",
+  "to": "2028-06-30",
+  "number": "001174/2024",
+  "contractors": [
+   "PETROL, Slovenska energetska družba, d.d., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5025796000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007801/2024-POG/01",
+  "published": "2024-11-22",
+  "files": [
+   {
+    "name": "Pogodba _160_24PJN.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzI5ODQxO1BvZ29kYmEgXzE2MF8yNFBKTi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

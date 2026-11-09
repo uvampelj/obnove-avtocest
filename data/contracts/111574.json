@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 111574,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 679413,
+  "idDosje": 271889,
+  "title": "Odvračanje divjadi z AC in HC",
+  "procurement": "Odvračanje divjadi z AC in HC",
+  "kind": 1,
+  "value": 236769.0,
+  "signed": "2018-10-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "VISOKA ŠOLA ZA VARSTVO OKOLJA, VELENJE"
+  ],
+  "contractor_ids": [
+   "2257092000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005774/2018-X01/POG-111574",
+  "published": "2018-10-18",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 1937-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMTU3NDtQb2dvZGJhIERBUlMgxaF0LiAxOTM3LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

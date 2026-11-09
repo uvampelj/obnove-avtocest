@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "id": 93282,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 670278,
+  "idDosje": 231737,
+  "title": "Dobava osvežilnih, varstvenih napitkov in izvirske vode",
+  "procurement": "Izvirska voda in osvežilni napitki v plastenki 0,5 litra,Izvirska voda v balonih (18-20 litrov) z uporabo aparatov za točenje vode",
+  "kind": 2,
+  "value": 224678.11,
+  "signed": "2018-02-22",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "NEKTAR NATURA, proizvodnja pijač, d.o.o.",
+   "BROLINE, trgovina, zastopstva, proizvodnja in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5902932000",
+   "1459007000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009693/2017-C01/POG-93282",
+  "published": "2018-02-28",
+  "files": [
+   {
+    "name": "pogodbi.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkzMjgyO3BvZ29kYmkuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

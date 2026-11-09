@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 73948,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 660829,
+  "idDosje": 195757,
+  "title": "Poslovni najem vozil z nizkimi emisijami",
+  "procurement": "Sklop 1: (kombinirano vozilo, vsaj 55 kW),Sklop 2: (karavan, vsaj 80 kW),Sklop 3: (karavan, vsaj 110 kW)",
+  "kind": 1,
+  "value": 1078857.6,
+  "signed": "2017-06-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PORSCHE LEASING SLO d.o.o."
+  ],
+  "contractor_ids": [
+   "5790760000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003011/2017-C01/POG-73948",
+  "published": "2017-07-05",
+  "files": [
+   {
+    "name": "Pogodba 529-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTczOTQ4O1BvZ29kYmEgNTI5LTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

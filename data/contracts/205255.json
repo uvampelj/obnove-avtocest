@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 205255,
+  "type": "DOD",
+  "prev": 147581,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pogodbi DARS št. 428/2020: Izdelavo predinvesticijske in investicijske zasnove za hitro cesto Koper – Dragonja ",
+  "procurement": "Izdelava predinvesticijske zasnove in investicijske zasnove za hitro cesto Koper - Dragonja",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2021-06-18",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMEGA CONSULT projektni management, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5300568000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2022-02-22",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIwNTI1NTtBbmVrcy0xLVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

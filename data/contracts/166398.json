@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 166398,
+  "type": "DOD",
+  "prev": 114363,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 1 k pog. DARS št. 1784/2018: Investicijska vzdrževalna dela na voziščih AC in HC v letih 2018 in 2019; SKLOP 2: Območje AC baz: Maribor, Slovenske Konjice, Murska Sobota in Vransko - dodatna dela ",
+  "procurement": "INVESTICIJSKA VZDRŽEVALNA DELA NA VOZIŠČIH AC in HC V LETIH 2018 in 2019: SKLOP 2: Območje AC baz: Maribor, Slovenske Konjice, Murska Sobota in Vransko",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2020-05-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "STRABAG gradbene storitve d.o.o.",
+   "POMGRAD, gradbeno podjetje d.d.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5879566000",
+   "5459001000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2020-11-20",
+  "files": [
+   {
+    "name": "Aneks št. 1 k pog-1784-18_342-19.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NjM5ODtBbmVrcyDFoXQuIDEgayBwb2ctMTc4NC0xOF8zNDItMTkucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

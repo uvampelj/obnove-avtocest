@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 195640,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 727065,
+  "idDosje": 367767,
+  "title": "Izdelava projektne dokumentacije PZI za rekonstrukcijo dela odseka na AC A1 vključno z zamenjavo viadukta Dolgi most VA0045 v km 0+295 in VA0046 v km 0+280",
+  "procurement": "Izdelava projektne dokumentacije PZI za rekonstrukcijo dela odseka na AC A1 vključno z zamenjavo viadukta Dolgi most VA0045 v km 0+295 in VA0046 v km 0+280",
+  "kind": 1,
+  "value": 1777629.3,
+  "signed": "2021-04-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GRADIS biro za projektiranje Maribor d.o.o.",
+   "PONTING, inženirski biro d.o.o.",
+   "PIPENBAHER INŽENIRJI - inženirsko konzultantsko podjetje d.o.o.",
+   "PROMICO družba za projektiranje, inženiring in svetovanje d.o.o.",
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5075084000",
+   "5303516000",
+   "1708597000",
+   "2170388000",
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005744/2020-C01/POG-195640",
+  "published": "2021-10-15",
+  "files": [
+   {
+    "name": "Pogodba_objava.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE5NTY0MDtQb2dvZGJhX29iamF2YS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

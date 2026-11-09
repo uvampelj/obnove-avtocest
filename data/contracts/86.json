@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 86,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 630268,
+  "idDosje": 11750,
+  "title": "Zamenjava zunanje razsvetljave po AC bazah z energetsko varčnimi svetili (LED)",
+  "procurement": "Zamenjava zunanje razsvetljave po AC bazah z energetsko varčnimi svetili (LED)",
+  "kind": 2,
+  "value": 128426.9,
+  "signed": "2015-05-11",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "INTERLUX TRADE, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5486424000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV2585/2015/POG-86",
+  "published": "2015-05-22",
+  "files": [
+   {
+    "name": "D13150000355_150511_144656.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg2O0QxMzE1MDAwMDM1NV8xNTA1MTFfMTQ0NjU2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

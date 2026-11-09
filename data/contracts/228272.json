@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 228272,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 745770,
+  "idDosje": 457091,
+  "title": "LETNI PREGLED IN DOBAVA BREMENSKE TER DVIŽNE TEHNIKE",
+  "procurement": "LETNI PREGLED IN DOBAVA BREMENSKE TER DVIŽNE TEHNIKE",
+  "kind": 1,
+  "value": 129100.4,
+  "signed": "2022-12-28",
+  "from": "2022-12-28",
+  "to": "2024-12-28",
+  "number": "001673/2022",
+  "contractors": [
+   "VODUŠEK, proizvodnja, trgovina in storitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "1722697000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006208/2022-X01/POG-228272",
+  "published": "2022-12-29",
+  "files": [
+   {
+    "name": "Pogodba - Vodušek_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIyODkwMTtQb2dvZGJhIC0gVm9kdcWhZWtfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

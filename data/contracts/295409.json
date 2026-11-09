@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 295409,
+  "type": "DOD",
+  "prev": 247045,
+  "idObrazec": 876971,
+  "idDosje": 479018,
+  "title": "Aneks št. 1 k pogodbi DARS št. 947/2023 za Shranjevalni sistem",
+  "procurement": "SHRANJEVALNI SISTEM",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2024-12-02",
+  "from": "2023-09-06",
+  "to": "2029-07-06",
+  "number": "000947/2023",
+  "contractors": [
+   "Kontron, informacijske in komunikacijske rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5293162000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002826/2023-C01/POG-247045-D01",
+  "published": "2024-12-20",
+  "files": [
+   {
+    "name": "Aneks-1-k-947-2023_239-2024_OBJAVA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM2NDQzO0FuZWtzLTEtay05NDctMjAyM18yMzktMjAyNF9PQkpBVkEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

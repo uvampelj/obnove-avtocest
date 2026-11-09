@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 324927,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 957959,
+  "idDosje": 525502,
+  "title": "Dobava in renoviranje ščetk za pometalne stroje",
+  "procurement": "DOBAVA IN RENOVIRANJE ŠČETK ZA POMETALNE STROJE",
+  "kind": 2,
+  "value": 74498.45,
+  "signed": "2025-11-10",
+  "from": "2025-11-10",
+  "to": "2028-11-10",
+  "number": "001246/2025",
+  "contractors": [
+   "SOHA podjetje za proizvodnjo, trgovino in storitve d.o.o."
+  ],
+  "contractor_ids": [
+   "5465621000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006947/2025-POG/01",
+  "published": "2025-11-12",
+  "files": [
+   {
+    "name": "R_Pogodba 001246-2025 SOHA.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDExOTEwO1JfUG9nb2RiYSAwMDEyNDYtMjAyNSBTT0hBLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

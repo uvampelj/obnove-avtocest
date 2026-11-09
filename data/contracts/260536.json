@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 260536,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 795425,
+  "idDosje": 492435,
+  "title": "Izdelava idejne zasnove za pridobitev projektnih pogojev (IZP) delovanja sistema kontrolirane odvodnje odpadnih tekočin z vozišč predorov v upravljanju DARS",
+  "procurement": "Izdelava idejne zasnove za pridobitev projektnih pogojev (IZP) delovanja sistema kontrolirane odvodnje odpadnih tekočin z vozišč predorov v upravljanju DARS",
+  "kind": 1,
+  "value": 167065.58,
+  "signed": "2024-02-02",
+  "from": "2024-02-02",
+  "to": "2025-08-02",
+  "number": "000249/2024",
+  "contractors": [
+   "IRGO CONSULTING d.o.o."
+  ],
+  "contractor_ids": [
+   "1305212000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "006002/2023-POG/01",
+  "published": "2024-03-04",
+  "files": [
+   {
+    "name": "Pogodba-IRGO consulting_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY5MjY1O1BvZ29kYmEtSVJHTyBjb25zdWx0aW5nX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

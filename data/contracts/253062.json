@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 253062,
+  "type": "DOD",
+  "prev": 144058,
+  "idObrazec": 773248,
+  "idDosje": 288496,
+  "title": "Aneks št. 7 k pogodbi DARS št. 894/2019: Zajem dodatnih podatkov in izdelavo dodatnih geodetskih podlag za pripravo DPN za državno cesto Slovenj Gradec-jug-Dravograd III. razvojna os",
+  "procurement": "Zajem dodatnih podatkov in izdelavo dodatnih geodetskih podlag za pripravo državnega prostorskega načrta za državno cestno Slovenj Gradec-jug - Dravograd, III. razvojna os",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2023-11-13",
+  "from": "2023-11-13",
+  "to": "2024-06-30",
+  "number": "1134/2023",
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008786/2018-C01/DOD-253062",
+  "published": "2023-11-30",
+  "files": [
+   {
+    "name": "Aneks-7-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1NjU5MjtBbmVrcy03LVBvcnRhbC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

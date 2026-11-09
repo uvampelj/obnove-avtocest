@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 115700,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681175,
+  "idDosje": 275976,
+  "title": "Servisiranje instalacij",
+  "procurement": "Servisiranje instalacij",
+  "kind": 1,
+  "value": 260811.6,
+  "signed": "2018-11-29",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "SIM trgovsko in turistično podjetje Radenci d.o.o."
+  ],
+  "contractor_ids": [
+   "5378214000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006733/2018-X01/POG-115700",
+  "published": "2018-12-05",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNTcwMDtQb2dvZGJhLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

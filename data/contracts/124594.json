@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 124594,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 686349,
+  "idDosje": 297340,
+  "title": "Vzdrževanje in nadgradnja informacijskega sistema za podporo elektronski komunikaciji v klicnem centru",
+  "procurement": "Vzdrževanje in nadgradnja informacijskega sistema za podporo elektronski komunikaciji v klicnem centru",
+  "kind": 1,
+  "value": 48141.2,
+  "signed": "2019-04-10",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FrodX next, podjetje za preobrazbo poslovanja, d.o.o."
+  ],
+  "contractor_ids": [
+   "8070156000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000851/2019-X01/POG-124594",
+  "published": "2019-04-15",
+  "files": [
+   {
+    "name": "pogodba 603-2019.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEyNDU5NDtwb2dvZGJhIDYwMy0yMDE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

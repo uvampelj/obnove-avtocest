@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 104161,
+  "type": "DOD",
+  "prev": 78724,
+  "idObrazec": 769574,
+  "idDosje": 197528,
+  "title": "aneks št. 1 k pog. DARS ŠT. 438/17 ZA NADGRADNJO IN INTEGRACIJO OBSTOJEČIH SISTEMOV SNVP IN VIDEO SISTEMOV NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI CENTER KOZINA - podaljšanje pogodbenega roka",
+  "procurement": "NADGRADNJA IN INTEGRACIJA OBSTOJEČIH SISTEMOV SNVP IN VIDEO SISTEMOV NA PRIMORSKEM AVTOCESTNEM KRAKU V NOVI REGIONALNI NADZORNI CENTER KOZINA",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2018-07-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "Q-FREE TRAFFIC DESIGN, d.o.o."
+  ],
+  "contractor_ids": [
+   "5406382000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN003014/2017-C01/DOD-104161",
+  "published": "2018-09-06",
+  "files": [
+   {
+    "name": "Aneks-1.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwNDE2MTtBbmVrcy0xLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

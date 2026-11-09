@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316601,
+  "type": "DOD",
+  "prev": 225534,
+  "idObrazec": 933478,
+  "idDosje": 445574,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1351/2022: Izdelava PZI projektne dokumentacije za rekonstrukcijo odseka z zamenjavo nadvoza Va0180 Stara vas na AC A1 0055/0655 (Unec-Postojna) ",
+  "procurement": "Izdelava PZI projektne dokumentacije za rekonstrukcijo odseka z zamenjavo nadvoza VA0180 Stara vas na AC A1 0055/0655 (Unec-Postojna)",
+  "kind": 1,
+  "value": 1525.0,
+  "signed": "2025-08-05",
+  "from": "2025-08-05",
+  "to": "2026-11-02",
+  "number": "001351/2022",
+  "contractors": [
+   "PROJEKT D.D. NOVA GORICA Podjetje za inženiring, geodezijo, urbanizem in projektiranje"
+  ],
+  "contractor_ids": [
+   "5075742000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003326/2022-X01/POG-225534-D01",
+  "published": "2025-08-07",
+  "files": [
+   {
+    "name": "Aneks-1-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyMzkzO0FuZWtzLTEtUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

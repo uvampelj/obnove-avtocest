@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 165842,
+  "type": "DOD",
+  "prev": 100582,
+  "idObrazec": 770687,
+  "idDosje": 231944,
+  "title": "aneks št. 2 k pog. DARS št. 1292/18: REKONSTRUKCIJA IN NOVOGRADNJA POSAMEZNIH OBJEKTOV V ACB HRUŠICA IN NADSTREŠNICE V IZPOSTAVI PODTABOR – podaljšanje pogodbenega roka, več in manj dela, ter dodatna dela ",
+  "procurement": "REKONSTRUKCIJA IN NOVOGRADNJA POSAMEZNIH OBJEKTOV V ACB HRUŠICA IN NADSTREŠNICE V IZPOSTAVI PODTABOR",
+  "kind": 3,
+  "value": 0.0,
+  "signed": "2019-08-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "GORENJSKA GRADBENA DRUŽBA, projektiranje, inženiring, gradnja in vzdrževanje objektov visoke in nizke gradnje d.d."
+  ],
+  "contractor_ids": [
+   "5143802000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009659/2017-C01/DOD-165842",
+  "published": "2020-11-14",
+  "files": [
+   {
+    "name": "Aneks št-2-za-objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2NTg0MjtBbmVrcyDFoXQtMi16YS1vYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

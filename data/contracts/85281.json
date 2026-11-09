@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85281,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 666043,
+  "idDosje": 218786,
+  "title": "Servisiranje mulčerjev Rapid",
+  "procurement": "SERVISIRANJE MULČERJEV RAPID",
+  "kind": 1,
+  "value": 231877.59,
+  "signed": "2017-11-16",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "FUŽINAR d.o.o. Trgovina, storitve, inženiring Ajdovščina"
+  ],
+  "contractor_ids": [
+   "5490600000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007573/2017-X01/POG-85281",
+  "published": "2017-11-17",
+  "files": [
+   {
+    "name": "Pogodba 903-2017.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1MjgxO1BvZ29kYmEgOTAzLTIwMTcucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 255921,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 766329,
+  "idDosje": 493605,
+  "title": "Sklop 1, Sklop 2 in Sklop 3",
+  "procurement": "DOBAVA LAHKIH TOVORNIH VOZIL Z NIZKIMI EMISIJAMI",
+  "kind": 2,
+  "value": 3092578.0,
+  "signed": "2024-01-08",
+  "from": "2024-01-08",
+  "to": "2026-01-08",
+  "number": "000010/2024",
+  "contractors": [
+   "BENUSSI, podjetje za trgovino, d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006352/2023-C01/POG-255921",
+  "published": "2024-01-11",
+  "files": [
+   {
+    "name": "Pogodba - BENUSSI_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1OTY4NDtQb2dvZGJhIC0gQkVOVVNTSV9SLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

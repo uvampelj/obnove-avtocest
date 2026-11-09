@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 389437,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1044540,
+  "idDosje": 528061,
+  "title": "Servisiranje strojev, Sklop 3 - Gorski traktorji Saugerburger in samohodni mulčarji MDB",
+  "procurement": "Servisiranje strojev",
+  "kind": 1,
+  "value": 121451.0,
+  "signed": "2026-03-24",
+  "from": "2026-03-24",
+  "to": "2029-06-24",
+  "number": "000453/2026",
+  "contractors": [
+   "GRADBENA MEHANIZACIJA, PREVOZI JOŽE JANČAR S.P."
+  ],
+  "contractor_ids": [
+   "5749848000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN009226/2025-POG/01",
+  "published": "2026-04-08",
+  "files": [
+   {
+    "name": "Pogodba sklop 3 st 453-2026 red .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDkxNzMwO1BvZ29kYmEgc2tsb3AgMyBzdCA0NTMtMjAyNiByZWQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

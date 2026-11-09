@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 10977,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 634561,
+  "idDosje": 22975,
+  "title": "IZDELAVA IZVEDBENEGA NAČRTA »UREDITEV DVEH KRIŽIŠČ NA IZVOZNIH KRAKIH A IN C IZ AVTOCESTE A1/0139 PRIKLJUČEK ŽALEC (ARJA VAS) NA GLAVNO CESTO G1-4/1262 ČRNOVA-ARJA VAS IN REGIONALNO CESTO R2-451/1448",
+  "procurement": "IZDELAVA IZVEDBENEGA NAČRTA »UREDITEV DVEH KRIŽIŠČ NA IZVOZNIH KRAKIH A IN C IZ AVTOCESTE A1/0139 PRIKLJUČEK ŽALEC (ARJA VAS) NA GLAVNO CESTO G1-4/1262 ČRNOVA-ARJA VAS IN REGIONALNO CESTO R2-451/1448",
+  "kind": 1,
+  "value": 27651.3,
+  "signed": "2015-03-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNG Ljubljana, d.o.o."
+  ],
+  "contractor_ids": [
+   "5346908000"
+  ],
+  "buyers": [
+   "DARS D.D."
+  ],
+  "ident": "NMV1516/2015/POG-10977",
+  "published": "2015-06-02",
+  "files": [
+   {
+    "name": "220-15.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwOTc3OzIyMC0xNS5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

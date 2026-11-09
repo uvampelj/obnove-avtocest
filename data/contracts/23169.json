@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 23169,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 639701,
+  "idDosje": 79817,
+  "title": "DOBAVA KOMBINIRANIH IN TOVORNIH VOZIL",
+  "procurement": "Sklop 2 - Lahka tovorna vozila",
+  "kind": 2,
+  "value": 207888.0,
+  "signed": "2015-10-12",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "BENUSSI d.o.o."
+  ],
+  "contractor_ids": [
+   "6272070000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7138/2015/POG-23169",
+  "published": "2015-10-13",
+  "files": [
+   {
+    "name": "D13150000819_151012_134108-pogodba 2.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzMTY5O0QxMzE1MDAwMDgxOV8xNTEwMTJfMTM0MTA4LXBvZ29kYmEgMi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

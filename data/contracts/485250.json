@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 485250,
+  "type": "DOD",
+  "prev": 248153,
+  "idObrazec": 1200466,
+  "idDosje": 471775,
+  "title": "Aneks št. 2 k pogodbi DARS, d. d., št. 932/2023 za Izvedbo sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "procurement": "Izvedba sončnih elektrarn na objektih DARS d. d.: CP Dob, CP Log, ACB Ptuj, ACB Kozina in pokriti vkop Vipavski Križ",
+  "kind": 2,
+  "value": 0.0,
+  "signed": "2026-10-02",
+  "from": "2026-10-02",
+  "to": "2027-06-30",
+  "number": "000932/2023",
+  "contractors": [
+   "ESOTECH, družba za razvoj in izvajanje ekoloških in energetskih projektov, d.d."
+  ],
+  "contractor_ids": [
+   "5693799000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN000986/2023-C01/POG-248153-D02",
+  "published": "2026-10-06",
+  "files": [
+   {
+    "name": "Aneks-2-Portal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjM4MzI5O0FuZWtzLTItUG9ydGFsLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

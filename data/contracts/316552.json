@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 316552,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 933361,
+  "idDosje": 518826,
+  "title": "Sklop 1 - Zimska in dežna delovna oblačila",
+  "procurement": "Dobava osebne varovalne opreme",
+  "kind": 2,
+  "value": 351892.16,
+  "signed": "2025-06-30",
+  "from": "2025-06-30",
+  "to": "2028-09-30",
+  "number": "100038/2025",
+  "contractors": [
+   "ZAVAS, poslovne rešitve, d.o.o."
+  ],
+  "contractor_ids": [
+   "5799791000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001276/2025-POG/01",
+  "published": "2025-08-06",
+  "files": [
+   {
+    "name": "Pogodba sklop 1_ZAVAS st 100038-2025 RED .pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzkyMzA4O1BvZ29kYmEgc2tsb3AgMV9aQVZBUyBzdCAxMDAwMzgtMjAyNSBSRUQgLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 92336,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 669696,
+  "idDosje": 235419,
+  "title": "Razvoj, vzdrževanje in podpora IS GIS DARS",
+  "procurement": "Razvoj, vzdrževanje in podpora IS GIS DARS",
+  "kind": 1,
+  "value": 739106.5,
+  "signed": "2018-02-07",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "REALIS informacijske tehnologije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1304020000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN010431/2017-C01/POG-92336",
+  "published": "2018-02-15",
+  "files": [
+   {
+    "name": "pogodba 136-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTkyMzM2O3BvZ29kYmEgMTM2LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

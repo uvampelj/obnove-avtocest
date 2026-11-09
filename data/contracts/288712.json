@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 288712,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 858271,
+  "idDosje": 511951,
+  "title": "Sklop 1 - Servisiranje opreme  Mulag ",
+  "procurement": "SERVISIRANJE STROJEV IN OPREME",
+  "kind": 1,
+  "value": 133590.0,
+  "signed": "2024-10-07",
+  "from": "2024-10-07",
+  "to": "2027-10-07",
+  "number": "001026/2024",
+  "contractors": [
+   "AUTOCOMMERCE trgovina z vozili in deli, vzdrževanje motornih vozil, d.o.o."
+  ],
+  "contractor_ids": [
+   "5670209000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN004930/2024-POG/01",
+  "published": "2024-10-09",
+  "files": [
+   {
+    "name": "Pogodba - Autocommerce d.o.o.-1_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzIxNDQyO1BvZ29kYmEgLSBBdXRvY29tbWVyY2UgZC5vLm8uLTFfUi5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

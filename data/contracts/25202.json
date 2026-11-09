@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 25202,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 640616,
+  "idDosje": 77773,
+  "title": "Vzdrževanje opreme za sprejemanje DARS kartic.",
+  "procurement": "Vzdrževanje opreme za sprejemanje DARS kartic.",
+  "kind": 1,
+  "value": 52338.0,
+  "signed": "2015-11-03",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ČETRTA POT, d.o.o., Kranj"
+  ],
+  "contractor_ids": [
+   "5337976000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN7783/2015/POG-25202",
+  "published": "2015-11-12",
+  "files": [
+   {
+    "name": "pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTI1MjAyO3BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

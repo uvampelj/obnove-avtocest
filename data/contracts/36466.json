@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 36466,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 645896,
+  "idDosje": 11725,
+  "title": "Pregled varnosti obstoječe AC",
+  "procurement": "Presoja A1 Maribor Ptujska – Dramlje,Presoja A1 Šentrupert – Domžale",
+  "kind": 1,
+  "value": 28401.6,
+  "signed": "2016-01-28",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PNZ d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "NMV759/2016/POG-36466",
+  "published": "2016-05-12",
+  "files": [
+   {
+    "name": "Pogodba.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM2NDY2O1BvZ29kYmEucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

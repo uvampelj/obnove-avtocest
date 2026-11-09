@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 156504,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 705203,
+  "idDosje": 348661,
+  "title": "\"Izdelava novelacije projektne dokumentacije za zamenjavo ESO opreme, NKS sistema in NKS SCADA sistema v predorih Pletovarje in Golo Rebro \"",
+  "procurement": "\"Izdelava novelacije projektne dokumentacije za zamenjavo ESO opreme, NKS sistema in NKS SCADA sistema v predorih Pletovarje in Golo Rebro \"",
+  "kind": 1,
+  "value": 101260.0,
+  "signed": "2020-07-08",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IBE, d.d., svetovanje, projektiranje in inženiring"
+  ],
+  "contractor_ids": [
+   "5075696000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002138/2020-X01/POG-156504",
+  "published": "2020-07-14",
+  "files": [
+   {
+    "name": "Pogodba IBE d.d..pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1NjUwNDtQb2dvZGJhIElCRSBkLmQuLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

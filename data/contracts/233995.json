@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 233995,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 749991,
+  "idDosje": 465015,
+  "title": "Dobava zabojnikov za odpadke in traktorskega platoja; SKLOP 1 - Dobava zabojnikov",
+  "procurement": "Dobava zabojnikov za odpadke in traktorskega platoja",
+  "kind": 2,
+  "value": 38527.6,
+  "signed": "2023-03-23",
+  "from": "2023-03-23",
+  "to": "2023-12-23",
+  "number": "000543/2023",
+  "contractors": [
+   "EKO PLUS podjetje za izvajanje nalog na področju ekologije, organizacije, trgovine in poslovnih storitev d.o.o"
+  ],
+  "contractor_ids": [
+   "5559863000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008035/2022-X01/POG-233995",
+  "published": "2023-03-27",
+  "files": [
+   {
+    "name": "R pogodba S1 543-2023.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTIzNTMwMTtSIHBvZ29kYmEgUzEgNTQzLTIwMjMucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

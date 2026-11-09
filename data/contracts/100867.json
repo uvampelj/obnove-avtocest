@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 100867,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 674221,
+  "idDosje": 246237,
+  "title": "Izdelava, priprava na tisk in tiskanje, skladiščenje, pakiranje in dobava vinjet 2019-2021",
+  "procurement": "Izdelava, priprava na tisk in tiskanje, skladiščenje, pakiranje in dobava vinjet 2019-2021",
+  "kind": 1,
+  "value": 2715654.12,
+  "signed": "2018-06-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "CETIS, grafične in dokumentacijske storitve, d.d."
+  ],
+  "contractor_ids": [
+   "5042208000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001373/2018-C01/POG-100867",
+  "published": "2018-06-12",
+  "files": [
+   {
+    "name": "pogodba 1537-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEwMDg2Nztwb2dvZGJhIDE1MzctMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

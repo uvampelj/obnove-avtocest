@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 16194,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 636513,
+  "idDosje": 80184,
+  "title": "Dobava mobilnega svetlobnega portala",
+  "procurement": "Dobava mobilnega svetlobnega portala",
+  "kind": 2,
+  "value": 82160.59,
+  "signed": "2015-07-13",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ULTIMA, d.o.o., Ljubljana"
+  ],
+  "contractor_ids": [
+   "5553482000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN4715/2015/POG-16194",
+  "published": "2015-07-15",
+  "files": [
+   {
+    "name": "D13150000525_150713_122718.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE2MTk0O0QxMzE1MDAwMDUyNV8xNTA3MTNfMTIyNzE4LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

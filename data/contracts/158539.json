@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "id": 158539,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 706638,
+  "idDosje": 347320,
+  "title": "Opravljanje tehničnih pregledov",
+  "procurement": "ACB Postojna,ACB Slovenske Konjice,ACB Kozina,ACB Vransko,ACB Novo mesto",
+  "kind": 1,
+  "value": 498137.05,
+  "signed": "2020-08-06",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "AVTO KRKA PO, trgovina, servis, zastopstvo, d.o.o.",
+   "N CENTER, trgovina, servis, zastopstvo, d.o.o.",
+   "SE CENTER, trgovina, servis, zastopstvo, d.o.o.",
+   "ŽONTA, transport, tehnični pregledi in servisne storitve, d.o.o.",
+   "NM CENTER, trgovina, servis, zastopstvo, d.o.o."
+  ],
+  "contractor_ids": [
+   "3530728000",
+   "8434441000",
+   "8240493000",
+   "1924036000",
+   "8243204000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001908/2020-C01/POG-158539",
+  "published": "2020-08-14",
+  "files": [
+   {
+    "name": "POGODBE.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE1ODUzOTtQT0dPREJFLnppcA"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

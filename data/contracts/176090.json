@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 176090,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 716828,
+  "idDosje": 371963,
+  "title": "Izvajanje zimske službe",
+  "procurement": "Sklop 9: ACB Murska Sobota,Sklop 10: ACB Maribor in izpostava Ptuj,Sklop 11: ACB Vransko,Sklop 12: ACB Vransko  NT Kompolje,Sklop 13: ACB Vransko A,Sklop 14: ACB Vransko B,Sklop 15: ACB SLO",
+  "kind": 1,
+  "value": 92472.5,
+  "signed": "2021-02-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "PGM MOČNIK prevozništvo in strojna zemeljska dela D.O.O.",
+   "TRIS prevozne storitve in trgovina, d.o.o.",
+   "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+   "GTL gradnje, transport in logistika d.o.o."
+  ],
+  "contractor_ids": [
+   "3725375000",
+   "5813468000",
+   "1482696000",
+   "6657281000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006654/2020-C01/POG-176090",
+  "published": "2021-03-11",
+  "files": [
+   {
+    "name": "POGODBE za sklop 9 10 11 12 13 14 15 UL.zip",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTE3NjA5MDtQT0dPREJFIHphIHNrbG9wIDkgMTAgMTEgMTIgMTMgMTQgMTUgVUwuemlw"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 85551,
+  "type": "DOD",
+  "prev": 78586,
+  "idObrazec": null,
+  "idDosje": null,
+  "title": "Aneks št. 2 k pogodbi DARS št. 458/2012 za Strokovno svetovalne storitve za potrebe pridobitve prostorske dokumentacije za gradnjo državne ceste med avtocesto A1 Šentilj - Koper in mejo z Republiko Avstrijo (severni del tretje razvojne osi)",
+  "procurement": "Strokovno svetovalne storitve za potrebe pridobitve prostorske dokumentacije za gradnjo državne ceste med avtocesto A1 Šentilj - Koper in mejo z Republiko Avstrijo (severni del tretje razvojne osi)",
+  "kind": 1,
+  "value": 61009.76,
+  "signed": "2017-11-20",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": null,
+  "published": "2017-11-21",
+  "files": [
+   {
+    "name": "a2_pog458-2012_svet3RO.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTg1NTUxO2EyX3BvZzQ1OC0yMDEyX3N2ZXQzUk8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

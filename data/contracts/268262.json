@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 268262,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 816765,
+  "idDosje": 504111,
+  "title": "Servisiranje vozil Citroen, Peugeot, Škoda\nSklop 2 - Servisiranje vozil Peugeot",
+  "procurement": "Servisiranje vozil Citroen, Peugeot, Škoda",
+  "kind": 1,
+  "value": 51776.8,
+  "signed": "2024-05-17",
+  "from": "2024-05-17",
+  "to": "2027-08-17",
+  "number": "000632/2024",
+  "contractors": [
+   "AVTOTEHNA VIS, zastopanje, trgovina in servis, d.o.o."
+  ],
+  "contractor_ids": [
+   "5504023000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "000085/2024-POG/02",
+  "published": "2024-05-29",
+  "files": [
+   {
+    "name": "Pogodba-sklop2_229-2023_OBJAVA_Redigirano.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjg2NDMzO1BvZ29kYmEtc2tsb3AyXzIyOS0yMDIzX09CSkFWQV9SZWRpZ2lyYW5vLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

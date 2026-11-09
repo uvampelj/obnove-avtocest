@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 37889,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 646579,
+  "idDosje": 152284,
+  "title": "Aneks št. 1 k pogodbi DARS št. 310/14",
+  "procurement": "Servisiranje vgrajenih sistemov APZ-Sistem Zarja",
+  "kind": 1,
+  "value": 29000.0,
+  "signed": "2016-05-23",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "ZARJA ELEKTRONIKA, d.o.o., Kamnik"
+  ],
+  "contractor_ids": [
+   "5521475000"
+  ],
+  "buyers": [
+   "DARS d.d."
+  ],
+  "ident": "JN000325/2016-C01/POG-37889",
+  "published": "2016-05-25",
+  "files": [
+   {
+    "name": "407-2016.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTM3ODg5OzQwNy0yMDE2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

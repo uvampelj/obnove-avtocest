@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 117063,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 681786,
+  "idDosje": 281850,
+  "title": "Dobava posipalnikov za tekoče sredstvo za tekoče posipanje",
+  "procurement": "Dobava posipalnikov za tekoče sredstvo za tekoče posipanje",
+  "kind": 2,
+  "value": 72834.0,
+  "signed": "2018-12-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "RIKO RIBNICA d.o.o. Ribniška industrija kovinske opreme"
+  ],
+  "contractor_ids": [
+   "5742960000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007643/2018-X01/POG-117063",
+  "published": "2019-01-03",
+  "files": [
+   {
+    "name": "Pogodba DARS št. 2157-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNzA2MztQb2dvZGJhIERBUlMgxaF0LiAyMTU3LTIwMTgucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

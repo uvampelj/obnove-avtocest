@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "id": 259849,
+  "type": "DOD",
+  "prev": 162269,
+  "idObrazec": 793544,
+  "idDosje": 318676,
+  "title": "Aneks 1 k pogodbi DARS št. 1399/2020 za izgradnjo hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug za 3. razvojni osi sever, sklop D Gaberke;  dodatna in več dela, podaljšanje pogodbenega roka, nominacija podizvajalcev, razlike v ceni",
+  "procurement": "Izgradnja hitre ceste od priključka Velenje jug do priključka Slovenj Gradec jug na 3 razvojni osi sever - sklop D Gaberke",
+  "kind": 3,
+  "value": 800256.31,
+  "signed": "2024-02-22",
+  "from": "2020-09-24",
+  "to": "2024-07-15",
+  "number": "000326/2024",
+  "contractors": [
+   "KOLEKTOR CESTNO PODJETJE NOVA GORICA, Družba za vzdrževanje in gradnjo cest, d.o.o.",
+   "CGP, družba za gradbeništvo, inženiring, proizvodnjo in vzdrževanje cest, d.d.",
+   "VOC CELJE, vzdrževanje in obnova cest d.o.o."
+  ],
+  "contractor_ids": [
+   "5143497000",
+   "5069149000",
+   "5511941000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005393/2019-C01/POG-162269-D01",
+  "published": "2024-02-26",
+  "files": [
+   {
+    "name": "aneks 1 pog 1399-20 - za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MjY3ODE2O2FuZWtzIDEgcG9nIDEzOTktMjAgLSB6YSBvYmphdm8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

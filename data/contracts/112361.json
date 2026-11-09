@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 112361,
+  "type": "DOD",
+  "prev": 99671,
+  "idObrazec": 770647,
+  "idDosje": 220828,
+  "title": "izdelava PZI za nadvoza Formin in Gorišnica ter izdelava izvlečka iz PZI za potrebe razpisa (PZR) za dokončanje glavne ceste Hajdina – Ormož, odsek Gorišnica – Ormož od km 0,000 do km 10,360",
+  "procurement": "izdelava PZI za nadvoza Formin in Gorišnica ter izdelava izvlečka iz PZI za potrebe razpisa (PZR) za dokončanje glavne ceste Hajdina – Ormož, odsek Gorišnica – Ormož od km 0,000 do km 10,360",
+  "kind": 1,
+  "value": 22706.64,
+  "signed": "2018-10-09",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "LINEAL biro za projektiranje, inženiring, storitve in gradbeništvo d.o.o."
+  ],
+  "contractor_ids": [
+   "5444098000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008054/2017-C01/DOD-112361",
+  "published": "2018-10-29",
+  "files": [
+   {
+    "name": "Aneks št.1_Lineal.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExMjM2MTtBbmVrcyDFoXQuMV9MaW5lYWwucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

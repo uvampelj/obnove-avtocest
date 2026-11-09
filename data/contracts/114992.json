@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 114992,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 680825,
+  "idDosje": 271278,
+  "title": "Dobava goriva",
+  "procurement": "Dobava goriva",
+  "kind": 2,
+  "value": 3770275.8,
+  "signed": "2018-11-21",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o."
+  ],
+  "contractor_ids": [
+   "5540739000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005704/2018-C01/POG-114992",
+  "published": "2018-11-27",
+  "files": [
+   {
+    "name": "pogodba 2042-2018.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTExNDk5Mjtwb2dvZGJhIDIwNDItMjAxOC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

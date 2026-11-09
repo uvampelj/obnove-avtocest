@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 296676,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 879746,
+  "idDosje": 516517,
+  "title": "Izdelava analize odpornosti projekta na poplavni dogodek avgusta 2023 na porečju Meže in Mislinje, v sklopu priprave državnega prostorskega načrta za državno cesto Slovenj Gradec-jug – Dravograd, III. razvojna os",
+  "procurement": "Izdelava analize odpornosti projekta na poplavni dogodek avgusta 2023 na porečju Meže in Mislinje, v sklopu priprave državnega prostorskega načrta za državno cesto Slovenj Gradec-jug – Dravograd, III. razvojna os",
+  "kind": 1,
+  "value": 50771.52,
+  "signed": "2024-12-23",
+  "from": "2024-12-23",
+  "to": "2025-06-23",
+  "number": "001262/2024",
+  "contractors": [
+   "IZVO-R, projektiranje in inženiring d.o.o."
+  ],
+  "contractor_ids": [
+   "6052002000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008667/2024-POG/01",
+  "published": "2025-01-09",
+  "files": [
+   {
+    "name": "Pogodba IZVO-R_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=MzM4NjA0O1BvZ29kYmEgSVpWTy1SX3JlZGFjdGVkLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 329335,
+  "type": "DOD",
+  "prev": 183783,
+  "idObrazec": 970440,
+  "idDosje": 366646,
+  "title": "ANEKS št. 5 k osnovni pogodbi DARS št. 813/2021",
+  "procurement": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "kind": 1,
+  "value": 348874.45,
+  "signed": "2025-12-22",
+  "from": "2025-12-22",
+  "to": "2027-02-27",
+  "number": "001531/2025",
+  "contractors": [
+   "SkyToll, a.s."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005518/2020-C01/POG-183783-D03",
+  "published": "2026-01-07",
+  "files": [
+   {
+    "name": "PJN Aneks št. 5 344-25.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NDIxODM0O1BKTiBBbmVrcyDFoXQuIDUgMzQ0LTI1LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

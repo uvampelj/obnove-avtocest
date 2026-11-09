@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 273313,
+  "type": "DOD",
+  "prev": 183783,
+  "idObrazec": 832673,
+  "idDosje": 366646,
+  "title": "Aneks št. 4 k pogodbi DARS št. 813/2021 za Vzpostavitev in delovanje sistema elektronske vinjete",
+  "procurement": "Vzpostavitev in delovanje sistema elektronske vinjete",
+  "kind": 1,
+  "value": 90478.05,
+  "signed": "2024-08-02",
+  "from": "2024-08-02",
+  "to": "2027-02-27",
+  "number": "000842/2024",
+  "contractors": [
+   "SkyToll, a.s."
+  ],
+  "contractor_ids": [
+   null
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN005518/2020-C01/POG-183783-D02",
+  "published": "2024-08-05",
+  "files": [
+   {
+    "name": "Aneks 4 k pog. 813-2021 podpisan_R.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Mjk5MDgwO0FuZWtzIDQgayBwb2cuIDgxMy0yMDIxIHBvZHBpc2FuX1IucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

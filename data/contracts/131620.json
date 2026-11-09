@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 131620,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 690468,
+  "idDosje": 303537,
+  "title": "Izdelava Poročila o vplivih na okolje za glavno cesto Markovci - Gorišnica  ",
+  "procurement": "Izdelava Poročila o vplivih na okolje za glavno cesto Markovci - Gorišnica  ",
+  "kind": 1,
+  "value": 18056.0,
+  "signed": "2019-07-17",
+  "from": null,
+  "to": null,
+  "number": null,
+  "contractors": [
+   "IPSUM, okoljske investicije, d.o.o."
+  ],
+  "contractor_ids": [
+   "1924982000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN002155/2019-X01/POG-131620",
+  "published": "2019-08-07",
+  "files": [
+   {
+    "name": "Pogodba Ipsum-73-19.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=LTEzMTYyMDtQb2dvZGJhIElwc3VtLTczLTE5LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}

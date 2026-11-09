@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 446879,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1126841,
+  "idDosje": 602627,
+  "title": "Izvajanje varovanja ljudi in premoženja\nSKLOP 1 - Štajerska - Prekmurje",
+  "procurement": "Izvajanje varovanja ljudi in premoženja",
+  "kind": 1,
+  "value": 104999.18,
+  "signed": "2026-06-24",
+  "from": "2026-06-24",
+  "to": "2028-06-24",
+  "number": "000750/2026",
+  "contractors": [
+   "AKTIVA VAROVANJE, varovanje premoženja, trgovina, storitve in proizvodnja d.d."
+  ],
+  "contractor_ids": [
+   "5263565000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN003188/2026-POG/01",
+  "published": "2026-07-02",
+  "files": [
+   {
+    "name": "RED_Pogodba 750-2026.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NTY5MjcwO1JFRF9Qb2dvZGJhIDc1MC0yMDI2LnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}
