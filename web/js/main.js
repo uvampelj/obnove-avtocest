@@ -23,10 +23,12 @@ const SLOVENIA = [[13.37, 45.42], [16.61, 46.88]];
 // lo (pregled): koši po 1 km, obe smeri skupaj; mid: po 200 m; hi: po 200 m, vsaka smer na svoji strani osi.
 const LODS = ['lo', 'mid', 'hi'];
 const LOD = {
-  lo: { min: 0, max: 10, half: 520, units: [5, 1500, 7, 650, 8.5, 260, 10, 110] },
-  mid: { min: 10, max: 13, half: 120, units: [10, 110, 11.5, 45, 13, 18] },
-  hi: { min: 13, max: 24, side: [6, 44], units: [13, 18, 15, 6.5, 17, 2.4] },
+  lo: { min: 0, max: 10, half: 520, units: [5, 1700, 7, 760, 8.5, 310, 10, 140] },
+  mid: { min: 10, max: 13, half: 120, units: [10, 150, 11.5, 64, 13, 27] },
+  hi: { min: 13, max: 24, side: [6, 44], units: [13, 27, 15, 10, 17, 3.6] },
 };
+const SLAB = 0.55;          // debelina plasti v enotah; ostalo je razmik do naslednje
+const HOVER = { light: '#ffc21a', dark: '#ffd84d' };
 const LON_M = 111320 * Math.cos((46.1 * Math.PI) / 180);
 const LAT_M = 110540;
 const SKY = {
@@ -40,7 +42,7 @@ const PRECISION = {
   kraj: 'okolica priključka, objekta ali naselja (približno)',
 };
 const PHASE = {
-  oddaja: 'oddaja', neposredna: 'neposredna oddaja', sprememba: 'le objava spremembe',
+  oddaja: 'oddaja', neposredna: 'brez objave razpisa', sprememba: 'le objava spremembe',
   aneksi: 'aneksi brez povezane prvotne oddaje',
 };
 // Oznake nekonsistentnosti pri paru del na istem mestu (pipeline/forensics.py).
@@ -438,6 +440,7 @@ function syncControls() {
   $('#f-heat').checked = state.heat;
   document.querySelectorAll('#f-flags input').forEach((i) => { i.checked = state.flags.has(i.value); });
   document.querySelectorAll('#views [data-view]').forEach((b) => b.classList.toggle('is-on', b.dataset.view === state.view));
+  document.body.dataset.three = state.three ? '1' : '';
   document.querySelectorAll('#mode [data-mode]').forEach((b) => {
     const on = (b.dataset.mode === '3d') === state.three;
     b.classList.toggle('is-on', on);
@@ -552,7 +555,7 @@ function addLayers() {
       layout: { visibility: 'none' },
       paint: {
         'fill-extrusion-color': stackColor(),
-        'fill-extrusion-height': stackHeight(LOD[lod].units, 0.8),
+        'fill-extrusion-height': stackHeight(LOD[lod].units, SLAB),
         'fill-extrusion-base': stackHeight(LOD[lod].units, 0),
         'fill-extrusion-opacity': 0.93,
       },
@@ -562,19 +565,60 @@ function addLayers() {
   threeOn = false;
 }
 
-// Višina plasti k: od k do k + 0,8 enote, enota se z bližanjem manjša (zoom je lahko le na vrhu izraza).
+// Višina plasti k: od k do k + SLAB enote, enota se z bližanjem manjša (zoom je lahko le na vrhu izraza).
 function stackHeight(units, top) {
   const out = ['interpolate', ['exponential', 1.6], ['zoom']];
   for (let i = 0; i < units.length; i += 2) out.push(units[i], ['*', ['+', ['get', 'k'], top], units[i + 1]]);
   return out;
 }
 
-// V 3D je temno le izbrana pogodba; pri seznamu (klik na kup, izbor iz forenzike) so druge plasti sive.
+// V 3D je izbrana pogodba temna, pogodba pod miško (na zemljevidu ali v seznamu plasti) rumena,
+// pri izbranem kupu ali seznamu iz forenzike so vse druge plasti sive.
+let hoverId = null;
 function stackColor() {
   const t = theme();
-  if (state.sel) return ['case', ['==', ['get', 'i'], state.sel], PAINT[t].ink, colorExpr()];
-  if (state.at?.length) return ['case', ['in', ['get', 'i'], ['literal', state.at]], colorExpr(), t === 'dark' ? '#2a3038' : '#d8d3c6'];
-  return colorExpr();
+  const out = ['case'];
+  if (state.sel) out.push(['==', ['get', 'i'], state.sel], PAINT[t].ink);
+  if (hoverId && hoverId !== state.sel) out.push(['==', ['get', 'i'], hoverId], HOVER[t]);
+  if (state.at?.length) out.push(['!', ['in', ['get', 'i'], ['literal', state.at]]], t === 'dark' ? '#2a3038' : '#d8d3c6');
+  if (out.length === 1) return colorExpr();
+  out.push(colorExpr());
+  return out;
+}
+
+function setHover(id) {
+  if (id === hoverId || !map?.getLayer('stack-lo')) return;
+  hoverId = id;
+  const color = stackColor();
+  for (const lod of LODS) map.setPaintProperty(`stack-${lod}`, 'fill-extrusion-color', color);
+  document.querySelectorAll('#rail [data-layer]').forEach((b) => b.classList.toggle('is-hover', Number(b.dataset.layer) === id));
+}
+
+// Vrtenje 3D pogleda: gumbi za 45°, nagib in samodejno kroženje (ustavi ga vsak poseg uporabnika).
+let spinning = false;
+let spinFrame = 0;
+let spinLast = 0;
+function spin(t) {
+  if (!spinning) return;
+  if (spinLast) map.setBearing(map.getBearing() + (t - spinLast) * 0.012);
+  spinLast = t;
+  spinFrame = requestAnimationFrame(spin);
+}
+function setSpin(on) {
+  spinning = on;
+  spinLast = 0;
+  cancelAnimationFrame(spinFrame);
+  if (on) spinFrame = requestAnimationFrame(spin);
+  document.querySelector('#orbit [data-orbit="spin"]')?.classList.toggle('is-on', on);
+}
+function orbit(action) {
+  if (!map) return;
+  if (action === 'spin') { setSpin(!spinning); return; }
+  setSpin(false);
+  if (action === 'left') map.easeTo({ bearing: map.getBearing() - 45, duration: 650 });
+  else if (action === 'right') map.easeTo({ bearing: map.getBearing() + 45, duration: 650 });
+  else if (action === 'tilt') map.easeTo({ pitch: map.getPitch() > 50 ? 30 : 66, duration: 650 });
+  else if (action === 'north') map.easeTo({ bearing: 0, duration: 650 });
 }
 
 function setSky() {
@@ -710,6 +754,7 @@ function applyThree() {
   for (const lod of LODS) vis(`stack-${lod}`, state.three);
   if (state.three === threeOn) return;
   threeOn = state.three;
+  if (!state.three) setSpin(false);
   if (state.three) {
     setSky();
     // Ob odprtju strani z #3d=1 brez animacije (v skritem zavihku animacija ne teče).
@@ -746,6 +791,7 @@ function initMap() {
   new ResizeObserver(() => map.resize()).observe($('#map'));
   popup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 8 });
   map.on('style.load', () => { addLayers(); updateMap(); });
+  for (const ev of ['mousedown', 'touchstart', 'wheel']) map.on(ev, () => { if (spinning) setSpin(false); });
 
   map.on('mousemove', 'works', (e) => {
     map.getCanvas().style.cursor = 'pointer';
@@ -766,13 +812,14 @@ function initMap() {
       const p = byId.get(f?.properties.i);
       if (!p) return;
       const { k, n, sk } = f.properties;
+      setHover(p.i);
       popup.setLngLat(e.lngLat).setHTML(
         `<div class="tip-title">${esc(p.t)}</div><div class="tip-meta">${p.y ?? ''} · ${money(p.vf ?? p.v)} · ${esc(catLabel[p.cat])}</div>`
         + `<div class="tip-meta"><b>plast ${k + 1} od ${n}</b> · ${esc(stackTitle(sk))}${PRECISE.has(p.p) ? '' : ' · približno umeščena'}</div>`
         + '<div class="tip-meta">kliknite za vse pogodbe na tem mestu</div>',
       ).addTo(map);
     });
-    map.on('mouseleave', `stack-${lod}`, () => { map.getCanvas().style.cursor = ''; popup.remove(); });
+    map.on('mouseleave', `stack-${lod}`, () => { map.getCanvas().style.cursor = ''; popup.remove(); setHover(null); });
   }
   map.on('click', (e) => {
     const box = [[e.point.x - 6, e.point.y - 6], [e.point.x + 6, e.point.y + 6]];
@@ -813,7 +860,7 @@ function focus(p) {
   });
 }
 
-const THREE_NOTE = '<span class="legend-3d"><svg viewBox="0 0 14 16" width="12" height="14" aria-hidden="true"><rect x="2" y="10" width="10" height="4" rx="1"/><rect x="2" y="5.5" width="10" height="3.5" rx="1" opacity=".7"/><rect x="2" y="1" width="10" height="3.5" rx="1" opacity=".45"/></svg>višina: pogodbe na istem mestu, najstarejša spodaj · desni gumb ali Ctrl + vleka: vrtenje in nagib</span>';
+const THREE_NOTE = '<span class="legend-3d"><svg viewBox="0 0 14 16" width="12" height="14" aria-hidden="true"><rect x="2" y="10" width="10" height="4" rx="1"/><rect x="2" y="5.5" width="10" height="3.5" rx="1" opacity=".7"/><rect x="2" y="1" width="10" height="3.5" rx="1" opacity=".45"/></svg>višina: pogodbe na istem mestu, vsaka plast ena pogodba, najstarejša spodaj · vrtenje: gumbi levo zgoraj, desni gumb miške, Ctrl + vleka ali dva prsta</span>';
 
 function renderLegend() {
   const t = theme();
@@ -993,12 +1040,13 @@ function detail(p) {
     .filter((x) => x.p).sort((a, b) => (a.p.d || '').localeCompare(b.p.d || ''));
   const bidTag = p.b === 1 ? ' <span class="tag warn">ena ponudba</span>' : '';
   return `
-    <button class="link back" type="button" data-back>← Nazaj na pregled</button>
+    <button class="link back" type="button" data-back>← ${state.at?.length ? 'Nazaj na seznam' : 'Nazaj na pregled'}</button>
+    ${layerNav(p)}
     <div class="detail">
       <p class="sub"><i class="dot" style="background:${colorOf(p.cat)}"></i> ${esc((p.c || []).map((c) => catLabel[c]).join(', '))}</p>
       <h2>${esc(p.t)}</h2>
       <dl class="facts">
-        <dt>${p.k === 'aneksi' ? 'Prvi aneks' : 'Datum pogodbe'}</dt><dd>${dateSl(p.d)}${p.k !== 'oddaja' ? ` <span class="tag">${PHASE[p.k] || p.k}</span>` : ''}</dd>
+        <dt>${p.k === 'aneksi' ? 'Prvi aneks' : 'Datum pogodbe'}</dt><dd>${dateSl(p.d)}${p.k !== 'oddaja' ? ` <span class="tag">${PHASE[p.k] || p.k}</span>` : ''}${p.rs ? `<br><span class="hint">razlog: ${esc(p.rs)}</span>` : ''}</dd>
         ${p.n ? `<dt>Pogodba DARS</dt><dd class="num">št. ${esc(p.n)}</dd>` : ''}
         ${p.k === 'aneksi' ? `<dt>Skupaj aneksi</dt><dd class="num">${moneyFull(p.vf)}</dd>` : `<dt>Vrednost ob oddaji</dt><dd class="num">${moneyFull(p.v)}</dd>`}
         ${p.e ? `<dt>Ocenjena vrednost</dt><dd class="num">${moneyFull(p.e)}</dd>` : ''}
@@ -1026,8 +1074,38 @@ function detail(p) {
   `;
 }
 
+function layerList(list) {
+  const n = list.length;
+  return `<ol class="layers" aria-label="Plasti od najnovejše do najstarejše">${list.map((p, k) => ({ p, k })).reverse().map(({ p, k }) => `
+    <li><button type="button" class="layer${p.i === state.sel ? ' is-sel' : ''}" data-id="${p.i}" data-layer="${p.i}">
+      <i class="slab" style="background:${colorOf(p.cat)}"></i>
+      <span class="k">${k + 1}<small>/${n}</small></span>
+      <span class="t">${esc(p.t)}</span>
+      <span class="m">${p.d ? dateSl(p.d) : '–'}${p.ws?.length ? ` · ${esc(p.ws[0])}` : ''} · ${money(p.vf ?? p.v)}${PRECISE.has(p.p) ? '' : ' · približno'}</span>
+    </button></li>`).join('')}</ol>`;
+}
+
+function layerNav(p) {
+  if (!state.three || !state.at?.includes(p.i)) return '';
+  const k = state.at.indexOf(p.i);
+  const n = state.at.length;
+  return `<div class="layer-nav">
+    <button class="ghost" type="button" data-step="-1" ${k === 0 ? 'disabled' : ''}>↓ plast nižje</button>
+    <span><b>plast ${k + 1} od ${n}</b>${state.atTitle ? `<br>${esc(state.atTitle)}` : ''}</span>
+    <button class="ghost" type="button" data-step="1" ${k === n - 1 ? 'disabled' : ''}>plast višje ↑</button>
+  </div>`;
+}
+
 function atList() {
   const list = state.at.map((id) => byId.get(id)).filter(Boolean);
+  if (state.three) {
+    return `
+    <button class="link back" type="button" data-back>← Nazaj na pregled</button>
+    <h2>${esc(state.atTitle || 'Na tem mestu')} · ${list.length} ${list.length === 1 ? 'plast' : 'plasti'}</h2>
+    <p class="sub">Plasti od najnovejše (zgoraj) do najstarejše (spodaj), kot so zložene na zemljevidu. Premaknite miško čez plast, da jo označite na zemljevidu, kliknite za podrobnosti.</p>
+    ${layerList(list)}
+  `;
+  }
   return `
     <button class="link back" type="button" data-back>← Nazaj na pregled</button>
     <h2>${esc(state.atTitle || 'Na tem mestu')} · ${list.length} ${list.length === 1 ? 'pogodba' : list.length === 2 ? 'pogodbi' : list.length < 5 ? 'pogodbe' : 'pogodb'}</h2>
@@ -1043,9 +1121,27 @@ function renderRail() {
 }
 
 function bindRail() {
+  $('#rail').addEventListener('mouseover', (e) => {
+    if (!state.three) return;
+    const b = e.target.closest('[data-layer]');
+    setHover(b ? Number(b.dataset.layer) : null);
+  });
+  $('#rail').addEventListener('mouseleave', () => { if (state.three) setHover(null); });
   $('#rail').addEventListener('click', (e) => {
-    const target = e.target.closest('[data-id],[data-back],[data-firm],[data-unlocated],[data-rep-only],[data-flag-only],[data-timeline],[data-stack]');
+    const target = e.target.closest('[data-id],[data-back],[data-firm],[data-unlocated],[data-rep-only],[data-flag-only],[data-timeline],[data-stack],[data-step]');
     if (!target) return;
+    if (target.dataset.step && state.at?.length) {
+      const k = state.at.indexOf(state.sel) + Number(target.dataset.step);
+      if (k >= 0 && k < state.at.length) { state.sel = state.at[k]; update(); }
+      return;
+    }
+    if (target.dataset.layer) {
+      state.sel = Number(target.dataset.layer);
+      setHover(null);
+      update();
+      $('#rail').scrollTop = 0;
+      return;
+    }
     if (target.dataset.stack) {
       const t = topStacks.find((x) => x.key === target.dataset.stack);
       state.at = stackIndex.get(target.dataset.stack) || [];
@@ -1159,6 +1255,10 @@ async function main() {
     if (!b) return;
     state.three = b.dataset.mode === '3d';
     update();
+  };
+  $('#orbit').onclick = (e) => {
+    const b = e.target.closest('[data-orbit]');
+    if (b) orbit(b.dataset.orbit);
   };
   $('#views').onclick = (e) => {
     const b = e.target.closest('[data-view]');

@@ -16,7 +16,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from .firms import BUYER, firm_key, norm_title, short_firm, subcontractors
-from .warranty import parse_warranty, term_for
+from .warranty import covers, parse_warranty, term_for
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTRACTS = ROOT / "data" / "contracts"
@@ -142,17 +142,30 @@ def flag_pairs(pairs: list[list], by_id: dict) -> None:
         # umestitvi na cel odsek se sosednje faze navidezno prekrivajo, zato tam zahtevamo vsaj 3 leta.
         approx = {first.get("precision"), second.get("precision")} & {"odsek", "kraj"}
         phased = gap < 3 and (ratio > 0.8 or bool(approx))
-        wy = term_for(first.get("warranty") or [], second["cats"][0])
-        if wy and gap < wy and not phased:
+        c2 = second["cats"][0]
+        terms = first.get("warranty") or []
+        # Kaj je prejšnja pogodba dejansko obsegala: vrste dela iz naslova (opis objave omenja
+        # marsikaj, npr. prometno ureditev med deli) ali vrsta dela s posebnim garancijskim rokom.
+        scope = set(first.get("tcats") or ())   # brez vrste v naslovu (»Gradbena dela na avtocestah«) obsega ne poznamo
+        in_scope = c2 in scope or covers(terms, c2)
+        wy = term_for(terms, c2) if in_scope else None
+        # Oznako dobi le par, ki je zares na istem mestu: skupna je vsaj polovica krajšega dela (ali
+        # 2 km) ali ista šifra odseka; pogodbe za cela območja (nad 40 km osi) so preveč razpršene.
+        shorter = min(_km(first), _km(second)) * 1000
+        shared_code = bool((first.get("seccodes") or set()) & (second.get("seccodes") or set()))
+        # Prejšnja pogodba mora v naslovu imeti vrsto dela, sicer ne vemo, kaj je obsegala.
+        solid = ((row[3] >= 0.5 * shorter or row[3] >= 2000 or shared_code) and max(_km(first), _km(second)) <= 40
+                 and bool(scope))
+        if solid and wy and gap < wy and not phased and c2 not in ("gradnja", "drugo"):
             flags += "g"
             if firm_set(first) & firm_set(second):
                 flags += "i"
-        c2 = second["cats"][0]
-        if (RECONSTRUCTION.search(first["title"]) and c2 in SUBSTANCE and c2 in first["cats"]
+        if (solid and RECONSTRUCTION.search(first["title"]) and c2 in SUBSTANCE and c2 in scope
                 and gap < RECON_YEARS and not phased):
             flags += "r"
-        if (not same and first["cats"][0] not in ("gradnja", "drugo") and c2 not in ("gradnja", "drugo")
-                and (c2 in first["cats"] or first["cats"][0] in second["cats"]) and ratio < 0.5):
+        # Široki vrsti (oprema, stavbe) združujeta zelo različna dela, zato ju pri »drugem imenu« ne štejemo.
+        broad = ("gradnja", "drugo", "oprema", "stavbe")
+        if solid and not same and first["cats"][0] not in broad and c2 not in broad and c2 in scope and ratio < 0.5:
             flags += "p"
         row.extend([wy, flags])
 
@@ -256,24 +269,37 @@ def serial_awards(works: list[dict], label) -> list[dict]:
         if p["value"] and p["date"] and p["phase"] in ("oddaja", "neposredna"):
             for k in firm_set(p):
                 by_firm[k].append(p)
-    found: dict[frozenset, dict] = {}
+    def related(p: dict, q: dict) -> bool:
+        """Isti kos ceste (do 10 km narazen) ali skoraj enako delo (»Izvedba odcejalnika Koseze / Hrušica«);
+        dela v različnih regijah so naravno ločena naročila, ne drobljenje."""
+        for ra, a0, a1 in p.get("lr") or []:
+            for rb, b0, b1 in q.get("lr") or []:
+                if ra == rb and a0 - 10 <= b1 and b0 - 10 <= a1:
+                    return True
+        return SequenceMatcher(None, norm_title(p["title"]), norm_title(q["title"])).ratio() >= 0.6
+
+    groups: list[dict] = []
     for k, ps in by_firm.items():
         ps.sort(key=lambda p: p["date"])
         for t, name in THRESHOLDS:
+            clusters: list[set] = []
             for i, p in enumerate(ps):
-                if p["value"] >= t:
+                if not 0.1 * t <= p["value"] < t:
                     continue
-                group = [q for q in ps[i:] if q["value"] < t and q["cats"][0] == p["cats"][0]
-                         and (_days(p["date"], q["date"]) or 0) <= SERIAL_DAYS and q["value"] >= 0.1 * t]
-                total = sum(q["value"] for q in group)
+                group = [q for q in ps[i:] if 0.1 * t <= q["value"] < t and q["cats"][0] == p["cats"][0]
+                         and (_days(p["date"], q["date"]) or 0) <= SERIAL_DAYS and (q is p or related(p, q))]
                 # Sklopi istega postopka niso drobljenje (en razpis, več pogodb).
-                if len(group) >= 2 and total >= t and len({q["dosje"] for q in group}) > 1:
-                    key = frozenset(q["id"] for q in group)
-                    if any(key <= other for other in found):
-                        continue
-                    found[key] = {"firm": label(k), "t": t, "name": name, "ids": [q["id"] for q in group],
-                                  "sum": round(total), "days": int(_days(group[0]["date"], group[-1]["date"]) or 0)}
-    groups = [g for key, g in found.items() if not any(key < other for other in found)]
+                if len(group) >= 2 and sum(q["value"] for q in group) >= t and len({q["dosje"] for q in group}) > 1:
+                    ids = {q["id"] for q in group}
+                    for c in [c for c in clusters if c & ids]:   # prekrivajoče se skupine združimo
+                        ids |= c
+                        clusters.remove(c)
+                    clusters.append(ids)
+            for ids in clusters:
+                members = sorted((p for p in ps if p["id"] in ids), key=lambda p: p["date"])
+                groups.append({"firm": label(k), "t": t, "name": name, "ids": [p["id"] for p in members],
+                               "sum": round(sum(p["value"] for p in members)),
+                               "days": int(_days(members[0]["date"], members[-1]["date"]) or 0)})
     return sorted(groups, key=lambda g: (-g["t"], -g["sum"]))[:40]
 
 
@@ -357,6 +383,7 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
     direct = {y: [sum(1 for p in ps if p["phase"] == "neposredna"), len(ps),
                   round(sum(p["value"] or 0 for p in ps if p["phase"] == "neposredna")),
                   [p["id"] for p in ps if p["phase"] == "neposredna"]] for y, ps in by_year.items()}
+    direct_reason = {p["id"]: p.get("reason") or "razlog ni razviden" for p in works if p["phase"] == "neposredna"}
     months = {m: [0, 0, []] for m in range(1, 13)}
     for p in works:
         if p["date"]:
@@ -496,6 +523,7 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
         "flags": {"count": dict(flag_counts), "value": flag_value, "splits": len(splits)},
         "hotspots": hotspots(projects, roads or {}, axes or {}, step),
         "direct": direct,
+        "direct_reason": direct_reason,
         "months": months,
         "annex_speed": annex_speed,
         "unit_cost": unit_cost,

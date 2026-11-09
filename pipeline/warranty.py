@@ -182,18 +182,32 @@ SUBJECT_CATS = [   # predmet roka dobi prvo ujemajočo se vrsto
 GENERAL = re.compile(r"ostal|\bvs[ae]\b|celotn|drug|dela\b", re.I)
 
 
+# »vsa dela v predoru, z izjemo prometne signalizacije«: izjema ne določa vrste dela.
+EXCEPT = re.compile(r",?\s*(?:z\s+izjemo|razen|brez)\b.*$", re.I)
+
+
 def subject_category(subject: str) -> str | None:
+    subject = EXCEPT.sub("", subject)
     return next((key for key, rx in SUBJECT_CATS if rx.search(subject)), None)
 
 
 def term_for(terms: list[list], category: str) -> float | None:
-    """Rok, ki velja za dano vrsto dela: ujemanje po predmetu, sicer splošni rok, sicer najkrajši rok."""
+    """Rok, ki velja za dano vrsto dela: ujemanje po predmetu, sicer splošni rok (»vsa dela«).
+
+    Če pogodba navaja le roke za druge predmete (npr. samo za označbe), roka za to vrsto dela ne
+    poznamo in vrnemo None: najkrajši rok bi bil zavajajoč (1 leto za talne označbe ni rok predora).
+    """
     if not terms:
         return None
     matched = [y for s, y in terms if subject_category(s) == category]
     if matched:
         return max(matched)
-    general = [y for s, y in terms if GENERAL.search(s) and subject_category(s) is None]
+    general = [y for s, y in terms if GENERAL.search(EXCEPT.sub("", s)) and subject_category(s) in (None, category)]
     if general:
         return max(general)
-    return min(y for _, y in terms)
+    return None
+
+
+def covers(terms: list[list], category: str) -> bool:
+    """Pogodba ima garancijski rok posebej za to vrsto dela."""
+    return any(subject_category(s) == category for s, _ in terms or [])

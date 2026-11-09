@@ -377,9 +377,9 @@ function layout(F) {
     ]],
     ['fx-s-proc', 'Postopki, aneksi in čas', [
       card({
-        id: 'direct', n: num2('direct', 'Neposredne oddaje'), title: 'Neposredne oddaje', lead: 'Pogodbe, oddane brez predhodne objave razpisa, po letih',
+        id: 'direct', n: num2('direct', 'Oddaje brez objave razpisa'), title: 'Oddaje brez objave razpisa', lead: 'Pogodbe, oddane s pogajanji brez predhodne objave razpisa, po letih in po razlogu iz objave',
         body: directBody(F.direct),
-        cap: 'Postopek s pogajanji brez predhodne objave je dovoljen le izjemoma: nujnost zaradi nepredvidljivih dogodkov, dodatna dela istega izvajalca, en sam možen izvajalec. Ker konkurence ni, je vsak tak postopek vreden pogleda v utemeljitev v objavi.',
+        cap: 'Postopek s pogajanji brez predhodne objave je dovoljen le izjemoma. Razlog je povzet iz utemeljitve v objavi: <b>po neuspešnem razpisu</b> naročnik povabi ponudnike iz predhodnega odprtega postopka (npr. vzhodna cev predora Karavanke), zato je bila konkurenca; <b>dodatna dela</b> in <b>nujnost</b> (požar, plaz) pa pomenita oddajo brez konkurence in sta vredna pogleda v utemeljitev.',
       }),
       card({
         id: 'annex', n: num2('annex', 'Aneksi'), title: 'Aneksi', lead: 'Sprememba vrednosti pogodbe po aneksih glede na vrednost ob oddaji',
@@ -452,10 +452,11 @@ function layout(F) {
 
 // --- 1. ponovitve: KPI trak ----------------------------------------------------------------------
 
+const approx = (id) => !['km', 'objekt'].includes(P(id)?.p);
 function pairsFor(flag) {
   return (S.api?.pairs?.() || []).filter((r) => (r[6] || '').includes(flag)).map(([a, b, gap, overlap, , wy, flags]) => ({
     a, b, flags,
-    note: `${yearsTxt(gap)} narazen · ${num1.format(overlap / 1000)} km skupaj${wy ? ` · garancija prejšnjega ${yearsTxt(wy)}` : ''}`,
+    note: `${yearsTxt(gap)} narazen · ${num1.format(overlap / 1000)} km skupaj${wy ? ` · garancija prejšnjega ${yearsTxt(wy)}` : ''}${approx(a) || approx(b) ? ' · približna lega' : ''}`,
   }));
 }
 function splitPairs() {
@@ -823,32 +824,37 @@ function directRows(D) {
   return Object.entries(D || {}).map(([y, r]) => ({ y: Number(y), n: r[0], all: r[1], v: r[2], ids: r[3] || [] }))
     .filter((d) => Number.isFinite(d.y)).sort((a, b) => a.y - b.y);
 }
-const directNote = (id) => ({ id, note: 'neposredna oddaja brez objave razpisa' });
+const directReason = (id) => S.F.direct_reason?.[id] || 'razlog ni razviden';
+const directNote = (id) => ({ id, note: `brez objave razpisa: ${directReason(id)}` });
 
 function directBody(D) {
   const rows = directRows(D);
   const n = rows.reduce((s, d) => s + d.n, 0);
   const all = rows.reduce((s, d) => s + d.all, 0);
   if (!all) return empty('Ni podatkov o vrsti postopka.');
-  if (!n) return `<div class="fx-stats"><span>Med ${pogodb(all)} ni neposrednih oddaj.</span></div>`;
+  if (!n) return `<div class="fx-stats"><span>Med ${pogodb(all)} ni oddaj brez objave razpisa.</span></div>`;
   const v = rows.reduce((s, d) => s + d.v, 0);
+  const ids = rows.flatMap((d) => d.ids);
+  const reasons = {};
+  for (const id of ids) (reasons[directReason(id)] ||= []).push(id);
   return `${chart('direct')}
     <div class="fx-stats">
-      <span>${drillBtn({ kicker: K.direct, title: 'Vse neposredne oddaje', items: () => rows.flatMap((d) => d.ids.map(directNote)) }, `<b>${num.format(n)}</b>`)} od ${pogodb(all)} (${pct(n / all, 1)})</span>
+      <span>${drillBtn({ kicker: K.direct, title: 'Vse oddaje brez objave razpisa', items: () => ids.map(directNote) }, `<b>${num.format(n)}</b>`)} od ${pogodb(all)} (${pct(n / all, 1)})</span>
       <span>vrednost <b>${money(v)}</b></span>
-    </div>`;
+    </div>
+    <div class="fx-stats">${Object.entries(reasons).sort((a, b) => b[1].length - a[1].length).map(([r, list]) => `<span>${esc(r)}: ${drillBtn({ kicker: K.direct, title: `Brez objave razpisa: ${r}`, items: () => list.map(directNote) }, `<b>${num.format(list.length)}</b>`)}</span>`).join('')}</div>`;
 }
 
 function drawDirect(node, w, d3, D) {
   const rows = directRows(D);
-  const { g, iw, ih } = frame(d3, node, w, 170, { t: 12, r: 8, b: 22, l: 28 }, 'Število neposrednih oddaj po letih');
+  const { g, iw, ih } = frame(d3, node, w, 170, { t: 12, r: 8, b: 22, l: 28 }, 'Število oddaj brez objave razpisa po letih');
   const x = d3.scaleBand().domain(rows.map((d) => d.y)).range([0, iw]).paddingInner(0.22).paddingOuter(0.05);
   const y = d3.scaleLinear().domain([0, Math.max(3, ...rows.map((d) => d.n))]).nice().range([ih, 0]);
   yGrid(d3, g, y, iw, num.format, 3);
   const bw = Math.min(24, x.bandwidth());
   for (const d of rows) {
-    const key = d.n ? reg('c', { kicker: K.direct, title: `Neposredne oddaje v letu ${d.y}`, sub: `${num.format(d.n)} od ${pogodb(d.all)} v letu`, sig: `direct:${d.y}`, items: () => d.ids.map(directNote) }) : null;
-    hit(g, x(d.y) - (x.step() - x.bandwidth()) / 2, 0, x.step(), ih, `${d.y}: ${num.format(d.n)} neposrednih od ${pogodb(d.all)}${d.v ? `, ${money(d.v)}` : ''}`, key);
+    const key = d.n ? reg('c', { kicker: K.direct, title: `Brez objave razpisa v letu ${d.y}`, sub: `${num.format(d.n)} od ${pogodb(d.all)} v letu`, sig: `direct:${d.y}`, items: () => d.ids.map(directNote) }) : null;
+    hit(g, x(d.y) - (x.step() - x.bandwidth()) / 2, 0, x.step(), ih, `${d.y}: ${num.format(d.n)} brez objave od ${pogodb(d.all)}${d.v ? `, ${money(d.v)}` : ''}`, key);
     g.append('path').attr('class', 'fx-bar hl').attr('d', barPath(x(d.y) + (x.bandwidth() - bw) / 2, y(d.n), bw, ih - y(d.n)));
   }
   xAxis(d3, g, ih, d3.axisBottom(x).tickValues(thin(rows.map((d) => d.y), x.step())).tickFormat(yearFmt(x.step())));

@@ -15,7 +15,7 @@ from .forensics import flag_pairs, forensics, link_contracts, load_contracts
 from .warranty import term_for
 from .forensics import network as firm_network
 from .linear import Linear
-from .locate import LAT_M, LON_M, Locator, Network, direction, read
+from .locate import LAT_M, LON_M, Locator, Network, base_code, direction, read
 from .parse import clean, parse
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -36,12 +36,13 @@ CATEGORIES = [
     ("vozisce", "Vozišče", r"vozi[sš][cč]|vozn\w* povr|krovn\w* plast|asfalt|preplast|obrabn|cestišč|nosiln\w* plast|razpok|\brež\b|krpanj|hrapav|torn\w* lastnost|obnov\w* (?:ceste|cestnega odseka|odsek)|rekonstrukcij\w* (?:ceste|cestnega telesa|avtoc)"),
     ("objekti", "Mostovi in viadukti", r"viadukt|\bmost|nadvoz|podvoz|galerij|prepust|oporn\w* zid|podporn\w* zid|dilatac|ležišč|premostitv|(?:rekonstrukcij|sanacij)\w* objekt"),
     ("predori", "Predori", r"predor|pokrit\w* vkop"),
-    ("hrup", "Protihrupna zaščita", r"protihrup|\bhrup"),
+    ("hrup", "Protihrupna zaščita", r"protihrup|\bhrup|\bPHO\b"),
     ("ograje", "Varnostne ograje", r"ograj|\bJVO\b|\bBVO\b"),
     ("odvodnjavanje", "Odvodnjavanje", r"odvodnj|kanalizac|lovilc|zadrževaln|meteorn|ponikoval|jarek|jarki|odcejalnik"),
     ("brezine", "Brežine, nasipi in plazovi", r"brežin|plaz|usad|padajoč|skaln|pobočj|zemeljsk\w* dela|nasip|pilotn|zdrs"),
     ("oprema", "Oprema in signalizacija", r"signalizac|razsvetljav|označb|\bESO\b|prometn\w* oprem|vremensk|cestninsk|video|elektro|portal"),
-    ("stavbe", "Stavbe in počivališča", r"počivališč|stavb|baz\w*\b|centr\w* za vzdrževanje|izpostav"),
+    # »na območju AC baz Ljubljana, Kozina« je območje vzdrževanja, ne stavba
+    ("stavbe", "Stavbe in počivališča", r"počivališč|stavb|(?<!AC )(?<!avtocestnih )(?<!avtocestne )(?<!AC-)baz\w*\b|centr\w* za vzdrževanje|izpostav"),
     ("drugo", "Drugo", r""),
 ]
 CAT_RX = [(key, re.compile(rx, re.I)) for key, _, rx in CATEGORIES if rx]
@@ -54,7 +55,13 @@ ANNEX_SUBJECT = re.compile(r"^\s*aneks.*?(?:št\.?\s*\d{1,5}\s*/\s*\d{2,4}|\d{1,
 
 
 def categorize(title: str, text: str) -> list[str]:
-    hits = [key for key, rx in CAT_RX if rx.search(title)]
+    """Vrste dela; glavna je tista, ki je v naslovu omenjena prva (»zaščita brežin pod viaduktom« → brežine)."""
+    found = []
+    for order, (key, rx) in enumerate(CAT_RX):
+        m = rx.search(title)
+        if m:
+            found.append((m.start(), order, key))
+    hits = [key for _, _, key in sorted(found)]
     for key, rx in CAT_RX:
         if key not in hits and rx.search(text):
             hits.append(key)
@@ -124,6 +131,115 @@ def densify(lines) -> list[tuple[float, float]]:
     return pts
 
 
+# Različni deli istega mesta: cevi predora, objekti z oznako, objekti z imenom, kilometri v besedilu.
+SINGLE_KM = re.compile(r"[^\n]{0,60}?\bv?\s*km\s*(\d+)\s*[,.]\s*(\d{1,3})\b(?!\s*(?:do|-|–)\s*(?:km\s*)?\d)", re.I)
+TUBE = re.compile(r"\b(vzhodn|zahodn|severn|ju[žz]n|lev|desn)\w*\s+(?:predorsk\w*\s+)?cev", re.I)
+TUBE_BOTH = re.compile(r"\bob(?:eh|e|ema)\s+(?:predorskih\s+)?cev", re.I)
+TUBE_AXES = [{"vzhodn", "zahodn"}, {"severn", "juzn"}, {"lev", "desn"}]
+OBJECT_CODE = re.compile(r"\b(VA|ZB|PO|NA|MO)\s?-?(\d{4})\b")
+STRUCT_WORD = re.compile(r"\b(?:viadukt|most|nadvoz|podvoz|galerij|predor)\w*\s+(.{0,160})", re.I | re.S)
+STRUCT_ITEM = re.compile(r"(?:VA\s?\d{4}\s+)?([A-ZČŠŽ][a-zčšž]{3,}|[A-ZČŠŽ]{4,})(?:\s+(\d+[a-zA-Z]{0,2}|[IVX]{1,4})\b)?")
+NOT_STRUCT = {"levi", "leva", "levo", "desni", "desna", "desno", "na", "pri", "nad", "pod", "čez", "cez", "in",
+              "ter", "odsek", "odseku", "avtoceste", "obeh", "vseh", "sanacija", "obnova", "dela"}
+
+
+ROAD_AT = re.compile(r"\b(A[1-5]|H[2-7])\b")
+
+
+def road_finder(text: str, roads: list, on_axis: list):
+    """Cesta za omembo odseka: navedena ob šifri, sicer zadnja cesta pred njo v besedilu
+    (»AC A1: 0053, 0653 … AC A3: 0668«), sicer edina cesta v besedilu ali na osi."""
+    marks = [(m.start(), m.group(1)) for m in ROAD_AT.finditer(text)]
+    only = roads[0] if len(roads) == 1 else on_axis[0] if len(on_axis) == 1 else None
+
+    def road_of(m: dict) -> str | None:
+        if m["road"]:
+            return m["road"]
+        before = [r for pos, r in marks if pos < m["pos"] and m["pos"] - pos < 200]
+        return before[-1] if before else only
+    return road_of
+
+
+def object_local(p: dict) -> bool:
+    """Pogodba za posamezne objekte (ne za cesto z naštetimi objekti)."""
+    return p.get("precision") == "objekt" or p["cats"][0] in ("objekti", "predori", "brezine") or 0 < sum(
+        b - a for _, a, b in p.get("lr") or []) <= 2
+
+
+def structure_names(title: str) -> set:
+    """(osnova imena, oznaka) objektov iz naslova: »viaduktov Podmežakla 1L VA0310, Podmežakla 2L« →
+    {(podmež, 1l), (podmež, 2l)}; seznam za besedo »viadukt« se konča pri »na«, »v km« ali »odsek«."""
+    out = set()
+    for m in STRUCT_WORD.finditer(title):
+        chunk = re.split(r"\s(?:na|v\s+km|od\s+km|odsek\w*|pri|ob)\s", m.group(1), maxsplit=1, flags=re.I)[0]
+        for item in STRUCT_ITEM.finditer(chunk):
+            base = item.group(1).lower()
+            if base in NOT_STRUCT:
+                continue
+            out.add((base[:6], re.sub(r"\s", "", (item.group(2) or "").lower())))
+    return out
+
+
+def element_keys(p: dict) -> dict:
+    title = p["title"]
+    tubes = {m.group(1).lower().replace("ž", "z") for m in TUBE.finditer(title)}
+    if TUBE_BOTH.search(title):
+        tubes = set()
+    return {
+        "tubes": tubes,
+        "codes": {m.group(1) + m.group(2) for m in OBJECT_CODE.finditer(title)},
+        "names": structure_names(title),
+    }
+
+
+def mainline(code: int) -> bool:
+    """Šifra glavnega odseka (ne priključka ali razcepa)."""
+    return code < 100 or 300 <= code < 400 or 800 <= code < 900
+
+
+def same_structure(na: set, nb: set) -> bool:
+    """Imena objektov z oznako (»Podmežakla 2L«): ista osnova in ista oznaka ali brez oznake."""
+    return any(a[0] == b[0] and (a[1] == b[1] or not a[1] or not b[1]) for a in na for b in nb)
+
+
+def distinct(pa: dict, pb: dict) -> str | None:
+    """Razlog, da dve pogodbi na isti osi nista na istem delu ceste (ali None).
+
+    Os ceste ne loči obeh cevi predora ali posameznih objektov, na stiku cest ali odsekov se
+    umeščena dela navidezno prekrivajo, kilometri in šifre v besedilu pa so natančnejši od umestitve.
+    """
+    ea, eb = pa["elements"], pb["elements"]
+    for axis in TUBE_AXES:
+        ta, tb = ea["tubes"] & axis, eb["tubes"] & axis
+        if ta and tb and not ta & tb:
+            return "druga cev"
+    # Obe pogodbi sta za posamezne objekte, imenovane z oznako ali imenom, pa nobenega skupnega.
+    if object_local(pa) and object_local(pb):
+        if ea["codes"] and eb["codes"] and not ea["codes"] & eb["codes"]:
+            return "drug objekt"
+        if ea["names"] and eb["names"] and not same_structure(ea["names"], eb["names"]):
+            return "drug objekt"
+    ra = {r for r, _, _ in pa.get("lr") or []}
+    rb = {r for r, _, _ in pb.get("lr") or []}
+    if ra and rb and not ra & rb:
+        return "druga cesta"
+    sa = {(r, base_code(c)) for r, c in pa.get("seccodes") or () if mainline(base_code(c))}
+    sb = {(r, base_code(c)) for r, c in pb.get("seccodes") or () if mainline(base_code(c))}
+    for road in {r for r, _ in sa} & {r for r, _ in sb}:
+        if not {c for r, c in sa if r == road} & {c for r, c in sb if r == road}:
+            return "drug odsek"
+    ka, kb = pa.get("kmref") or [], pb.get("kmref") or []
+    shared = {key for key, *_ in ka} & {key for key, *_ in kb}
+    if shared:
+        common = max((min(b1, b2) - max(a1, a2) for k1, a1, b1 in ka for k2, a2, b2 in kb if k1 == k2 and k1 in shared),
+                     default=-1)
+        # posamezen km (»v km 1,686«) je točka; sicer zahtevamo vsaj 300 m skupnih kilometrov
+        points = any(a == b for _, a, b in ka + kb)
+        if common < (-0.05 if points else 0.3):
+            return "drugi kilometri"
+    return None
+
+
 def overlaps(projects: list[dict]) -> tuple[list[list], list[list]]:
     """Pari pogodb na istem mestu: ponovitve (1-15 let narazen) in sočasna ločena naročila (pod 1 leto)."""
     shapes = []
@@ -147,6 +263,8 @@ def overlaps(projects: list[dict]) -> tuple[list[list], list[list]]:
             if box_a[0] > box_b[2] + NEAR or box_b[0] > box_a[2] + NEAR or box_a[1] > box_b[3] + NEAR or box_b[1] > box_a[3] + NEAR:
                 continue
             if pa["date"] is None or pb["date"] is None:
+                continue
+            if distinct(pa, pb):
                 continue
             gap = years_between(pa["date"], pb["date"])
             if gap > 15:
@@ -184,7 +302,10 @@ def overlaps(projects: list[dict]) -> tuple[list[list], list[list]]:
             if shared >= 300 or (shorter and shared / shorter >= 0.4 and shared >= 100):
                 first, second = (pa, pb) if pa["date"] <= pb["date"] else (pb, pa)
                 if simultaneous:
-                    splits.append([first["id"], second["id"], int(round(gap * 365.25)), int(round(shared, -1))])
+                    # Le pari, ki so zares na istem mestu (ne stik dveh odsekov ali pogodba za celo območje).
+                    longer = max(len(pts_a), len(pts_b)) * STEP
+                    if (shared >= 0.5 * shorter or shared >= 2000) and longer <= 40000:
+                        splits.append([first["id"], second["id"], int(round(gap * 365.25)), int(round(shared, -1))])
                     continue
                 # Ista vrsta dela; novogradnja, ki ji sledi gradnja na istem mestu, ni ponovitev obnove.
                 same = first["cats"][0] == second["cats"][0] and first["cats"][0] not in ("gradnja", "drugo")
@@ -251,8 +372,9 @@ def build_projects(records: list[dict]) -> list[dict]:
             "winners": [w["name"] for w in rec["winners"]],
             "bids": rec["bids"],
             "phase": rec["phase"],
+            "reason": rec.get("reason"),
             "mods": [],
-            "sources": [["Oddaja" if rec["phase"] == "oddaja" else "Neposredna oddaja", rec["url"]]],
+            "sources": [["Oddaja" if rec["phase"] == "oddaja" else "Oddaja brez objave razpisa", rec["url"]]],
             "docs": None,
         }
         call = calls.get(rec["dosje"])
@@ -369,6 +491,7 @@ def build_projects(records: list[dict]) -> list[dict]:
         else:
             p["value_final"] = (p["value"] or 0) + sum(deltas.values()) + added
         p["cats"] = categorize(p["title"], p["text"])
+        p["tcats"] = [key for key, rx in CAT_RX if rx.search(p["title"])]   # vrste dela le iz naslova
     return projects
 
 
@@ -420,6 +543,7 @@ def compact_project(p: dict) -> dict:
             "src": r["source"], "a": [[a["d"], round(a["v"]) if a["v"] else None, a["t"]] for a in r["annexes"]],
         }.items() if v not in (None, [], "")} for r in p.get("register") or []],
         "lr": p.get("lr"),
+        "rs": p.get("reason"),   # razlog za oddajo brez predhodne objave
         "dir": {frozenset("L"): 1, frozenset("D"): 2}.get(frozenset(directions(p)), 0) or None,
     }
     return {k: v for k, v in out.items() if v not in (None, [], "")}
@@ -441,6 +565,7 @@ def main() -> int:
     infos = {}
     for p in projects:
         infos[p["id"]] = read(f"{p['title']}\n{p['text']}")
+        p["elements"] = element_keys(p)
         locator.learn(infos[p["id"]])
     located = 0
     for p in projects:
@@ -451,6 +576,22 @@ def main() -> int:
         p["lr"] = linear.ranges(lines) if lines else None
         p["geometry"] = linear.orient(lines, p["lr"])
         p["dirs"] = directions(p)
+        # Kilometri iz besedila po odsekih (obe smeri imata isto stacionažo): ((cesta, odsek), od, do).
+        text = f"{p['title']}\n{p['text']}"
+        road_of = road_finder(text, info["roads"], sorted({r for r, _, _ in p["lr"] or []}))
+        p["kmref"] = [((road_of(m), base_code(c)), m["km"][0], m["km"][1])
+                      for m in info["mentions"] if m["km"] for c in m["codes"]]
+        # Posamezen kilometer za šifro (»na odseku 0653 in km 1,686«, »odsek 0036 v km 5,380«).
+        for m in info["mentions"]:
+            if m["km"] or not m["codes"] or "end" not in m:
+                continue
+            single = SINGLE_KM.match(text, m["end"])
+            if single:
+                x = float(f"{single.group(1)}.{single.group(2)}")
+                p["kmref"] += [((road_of(m), base_code(c)), x, x) for c in m["codes"]]
+        p["kmref"] = [r for r in p["kmref"] if r[0][0]]
+        p["seccodes"] = {(road_of(m), c) for m in info["mentions"] for c in m["codes"]}
+        p["seccodes"] = {rc for rc in p["seccodes"] if rc[0]}
         located += lines is not None
 
     repeats, splits = overlaps(projects)

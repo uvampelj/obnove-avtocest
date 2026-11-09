@@ -299,11 +299,34 @@ def parse_standard(row: dict, text: str) -> dict:
     }
 
 
+# Razlog za oddajo brez predhodne objave razpisa (iz utemeljitve v objavi ali naslova); prvi ujem velja.
+DIRECT_REASONS = [
+    ("po neuspešnem razpisu", r"neuspe|predhodno izveden\w*\s+(?:odprt|javn|postop)|vse ponudnike|ni\s+prejel\w*\s+(?:nobene|ustrezn|sprejemljiv|dopustn)|nedopustn\w* ponudb|neprimern\w* ponudb"),
+    ("po prekinitvi pogodbe", r"prekinit\w*\s+pogodb|odstop\w*\s+od\s+pogodb|razdr\w*\s+pogodb"),
+    ("nujnost", r"nujn|nepredvidljiv\w*\s+dogod|po\s+požaru|plazu|neodložljiv"),
+    ("dodatna dela", r"dodatn\w*\s+(?:in\s+\w+\s+)?del|\baneks|več\s+in\s+manj\s+del|ponovitev\s+podobnih"),
+    ("en sam možen izvajalec", r"izključn\w*\s+prav|tehničn\w*\s+razlog|le\s+en\w*\s+gospodarsk|edin\w*\s+(?:ponudnik|izvajal|gospodarsk)|avtorsk"),
+]
+
+
+def direct_reason(notice: dict, title: str) -> str:
+    import json
+    # Naslov (»Dodatna dela pri …«) ima prednost pred splošnim besedilom objave.
+    blob = json.dumps(notice, ensure_ascii=False)
+    for text in (title, blob):
+        for label, rx in DIRECT_REASONS:
+            if re.search(rx, text, re.I):
+                return label
+    return "razlog ni razviden"
+
+
 def parse(notice: dict) -> dict:
     row = notice["row"]
     if "form" in notice:
-        return parse_form(row, notice["form"])
-    text = notice.get("text") or ""
-    if "Uradno ime" in text or "Oddelek I:" in text[:800]:
-        return parse_standard(row, text)
-    return parse_text(row, text)
+        rec = parse_form(row, notice["form"])
+    else:
+        text = notice.get("text") or ""
+        rec = parse_standard(row, text) if "Uradno ime" in text or "Oddelek I:" in text[:800] else parse_text(row, text)
+    if rec["phase"] == "neposredna":
+        rec["reason"] = direct_reason(notice, rec["title"])
+    return rec

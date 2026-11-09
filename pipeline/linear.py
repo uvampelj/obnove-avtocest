@@ -120,9 +120,15 @@ class Linear:
         return {"dist": measure, "length": max(measure.values()), "start": start, "end": end}
 
     def ranges(self, geometry) -> list[list]:
-        """[[cesta, km od, km do], …] za črte dela."""
-        hits: dict[str, list[float]] = defaultdict(list)
+        """[[cesta, km od, km do], …] za črte dela.
+
+        Vsaka črta ima svoj razpon; razpone iste ceste združimo le, če so do 0,5 km narazen. Pogodba z
+        več ločenimi lokacijami (npr. prehodi na petih odsekih) tako ne pokrije vsega vmes.
+        """
+        spans: dict[str, list[list[float]]] = defaultdict(list)
+        counts: dict[str, int] = defaultdict(int)
         for line in geometry or []:
+            hits: dict[str, list[float]] = defaultdict(list)
             for lon, lat in line[:: max(1, len(line) // 60)] + line[-1:]:
                 x, y = lon * LON_M, lat * LAT_M
                 cx, cy = int(x // SNAP), int(y // SNAP)
@@ -136,12 +142,21 @@ class Linear:
                                 best[ref] = (d, m)
                 for ref, (_, m) in best.items():
                     hits[ref].append(m)
+            for ref, ms in hits.items():
+                spans[ref].append([min(ms), max(ms)])
+                counts[ref] += len(ms)
         out = []
-        for ref, ms in hits.items():
-            if len(ms) < 2 and len(hits) > 1:
+        for ref, items in spans.items():
+            if counts[ref] < 2 and len(spans) > 1:
                 continue
-            out.append([ref, round(min(ms) / 1000, 2), round(max(ms) / 1000, 2)])
-        return sorted(out, key=lambda r: r[0])
+            merged: list[list[float]] = []
+            for a, b in sorted(items):
+                if merged and a <= merged[-1][1] + 500:
+                    merged[-1][1] = max(merged[-1][1], b)
+                else:
+                    merged.append([a, b])
+            out += [[ref, round(a / 1000, 2), round(b / 1000, 2)] for a, b in merged]
+        return sorted(out, key=lambda r: (r[0], r[1]))
 
     def measure(self, lon: float, lat: float, ref: str) -> float | None:
         x, y = lon * LON_M, lat * LAT_M
