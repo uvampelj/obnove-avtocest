@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 508606,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1229599,
+  "idDosje": 667346,
+  "title": "Strokovno svetovalne storitve s področja upravljanja in rednega vzdrževanja AC in HC v upravljanju DARS",
+  "procurement": "Strokovno svetovalne storitve s področja upravljanja in rednega vzdrževanja AC in HC v upravljanju DARS",
+  "kind": 1,
+  "value": 2672410.0,
+  "signed": "2026-10-28",
+  "from": "2026-10-28",
+  "to": "2029-10-29",
+  "number": "001025/2026",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN007340/2026-POG/01",
+  "published": "2026-11-09",
+  "files": [
+   {
+    "name": "pogodba 1025-2026 za objavo_redacted.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjY1ODIwO3BvZ29kYmEgMTAyNS0yMDI2IHphIG9iamF2b19yZWRhY3RlZC5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-09",
+ "v": 2
+}
