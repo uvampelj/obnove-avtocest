@@ -139,6 +139,10 @@
 
       <section class="stage" aria-label="Zemljevid">
         <div id="map"></div>
+        <div class="mode" id="mode" role="group" aria-label="Način zemljevida">
+          <button type="button" data-mode="2d" title="Ploski zemljevid z deli kot črtami">2D</button>
+          <button type="button" data-mode="3d" title="Vsaka pogodba je plast nad avtocesto: višina pokaže, kolikokrat se je delalo na istem mestu">3D plasti</button>
+        </div>
         <div class="legend" id="legend"></div>
         <div class="timeline" id="timeline" hidden></div>
         <div class="loading" id="loading">Nalagam podatke …</div>
@@ -194,9 +198,11 @@
         <li><b>pod drugim imenom</b>: pogodbi imata različna naslova in drugačno glavno vrsto dela, opis prejšnje pa vsebuje vrsto dela poznejše (npr. »investicijsko vzdrževanje« in pozneje »obnova vozišča«).</li>
         <li><b>sočasna ločena naročila</b>: ista vrsta dela na istem mestu v manj kot letu dni v ločenih postopkih z različnima naslovoma (možna razdrobitev naročila).</li>
       </ul>
+      <h3>3D plasti</h3>
+      <p>V načinu 3D je vsaka pogodba en kvader nad osjo ceste, na istem mestu so zloženi od najstarejše (spodaj) do najnovejše. Višina kupa je torej število pogodb za gradnje, ki so zajele ta kilometer. Os in kilometri so iz OpenStreetMap. Pri pregledu cele države so kupi po 1 km, pri večji povečavi po 200 m, od blizu pa je vsaka smer vožnje (šifri 00xx in 06xx) na svoji strani osi; pogodbe za obe smeri ali brez znane smeri so na obeh. Približno umeščene pogodbe so zložene na vsem odseku, zato je tam kup lahko višji od dejanskega; s filtrom »vključi približno umeščene« jih lahko izločite.</p>
       <p>Toplotna karta kaže, kje se takšni pari zgostijo. Časovnica za izbrano cesto kaže vsa dela po kilometrih in letih; senca pod delom je njegov garancijski rok. Kilometri so izmerjeni po osi v OpenStreetMap in se lahko za nekaj sto metrov razlikujejo od DARS-ove stacionaže. Na zemljevidu sta pri večji povečavi smeri vožnje (šifri 00xx in 06xx) zamaknjeni levo in desno od osi.</p>
       <h3>Mreža in forenzika</h3>
-      <p>Mreža povezuje podjetja, ki so nastopila v skupni ponudbi ali kot podizvajalci, in naročnike. Forenzični pogled uporablja kazalnike, s katerimi revizorji javnih naročil izbirajo primere za pregled: Benfordov zakon za prve števke zneskov, razmerje med pogodbeno in ocenjeno vrednostjo, delež naročil z eno ponudbo, koncentracijo trga (HHI), rotacijo zmagovalcev, rast vrednosti z aneksi in kopičenje vrednosti tik pod zakonskimi pragovi. Povezava ali kazalnik nista dokaz dogovarjanja ali korupcije.</p>
+      <p>Mreža povezuje podjetja, ki so nastopila v skupni ponudbi ali kot podizvajalci, in naročnike. Forenzični pogled uporablja kazalnike, s katerimi revizorji javnih naročil izbirajo primere za pregled: najpogosteje obnovljena mesta, razmerje med pogodbeno in ocenjeno vrednostjo in njegovo odvisnost od števila ponudb, delež naročil z eno ponudbo, ceno obnove vozišča na kilometer, Benfordov zakon za prve števke zneskov, neposredne oddaje brez objave, rast vrednosti z aneksi in čas do prve spremembe, kopičenje vrednosti tik pod zakonskimi pragovi, zaporedna naročila istemu izvajalcu pod pragom, mesec podpisa, koncentracijo trga (HHI), delitev trga po cestah in rotacijo zmagovalcev. Vsak stolpec, točka in številka odpre seznam pogodb, iz katerih je izračunana, s povezavo na zemljevid, na objavo na portalu in na PDF pogodbe; seznam je mogoče prenesti kot CSV. Povezava ali kazalnik nista dokaz dogovarjanja ali korupcije.</p>
       <h3>Vrednosti</h3>
       <p>Vrednosti so brez DDV, kot so navedene v objavah. »Končna« vrednost upošteva zadnji objavljeni aneks. Vrednost iz objave o oddaji ni nujno enaka izplačanemu znesku.</p>
       <h3>Odgovornost</h3>

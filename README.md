@@ -11,8 +11,10 @@ Interaktivni zemljevid javnih naročil DARS za dela na avtocestah in hitrih cest
 - ponovitve: pogodbe, katerih dela se na zemljevidu prekrivajo, z razmikom v letih in filtrom za isto vrsto dela
 - nekonsistentnosti: delo v garancijski dobi prejšnjega (tudi isti izvajalec), ponovna dela kmalu po rekonstrukciji, ista dela pod drugim imenom, sočasna ločena naročila
 - toplotna karta ponovitev in časovnica (prostorsko-časovni diagram) po kilometrih ceste z garancijskimi sencami
+- zemljevid 3D: vsaka pogodba je plast nad osjo ceste, višina kupa pokaže, kolikokrat se je delalo na istem mestu (od blizu ločeno po smereh vožnje)
 - mreža izvajalcev, partnerjev, podizvajalcev in naročnikov
-- forenzični kazalniki: Benfordov zakon, pogodbena proti ocenjeni vrednosti, ena ponudba, koncentracija trga (HHI), rotacija zmagovalcev, rast z aneksi, kopičenje pod pragovi
+- forenzični kazalniki: najpogosteje obnovljena mesta, pogodbena proti ocenjeni vrednosti in po številu ponudb, ena ponudba, cena obnove vozišča na km, Benfordov zakon, neposredne oddaje, rast z aneksi in čas do prvega aneksa, kopičenje pod pragovi, zaporedna naročila istemu izvajalcu, mesec podpisa, koncentracija trga (HHI), delitev trga po cestah, rotacija zmagovalcev
+- vsak stolpec, točka in številka v forenziki odpre seznam pogodb, iz katerih je izračunana, s potjo na zemljevid, objavo in PDF pogodbe (tudi kot CSV)
 - filtri po vrsti dela, letu, cesti, izvajalcu in besedilu; povezava vsebuje filtre, izbor se prenese kot CSV
 - vsak zapis ima povezavo na izvirno objavo in pogodbo v PDF
 
@@ -25,7 +27,7 @@ Stran je neodvisen prikaz javnih podatkov in ni uradna storitev DARS. Ponovitev 
 1. prenese seznam vseh objav DARS s portala javnih naročil in shrani nove objave o oddaji in spremembah v [`data/notices`](data/notices) (vsako enkrat, objave se ne spreminjajo),
 2. prenese nove zapise iz registra pogodb v [`data/contracts`](data/contracts); pri pogodbah za gradnje prebere PDF (pdftotext, pri skeniranih tesseract OCR) in shrani odlomke o garanciji in podizvajalcih,
 3. nove podatke shrani v repozitorij,
-4. zgradi `web/data/obnove.json` in `web/data/forenzika.json` ter objavi stran.
+4. zgradi `web/data/obnove.json`, `web/data/forenzika.json` in `web/data/osi.json` (os cest po 200 m za 3D) ter objavi stran.
 
 Če portal vrne nenavadno malo objav ali spodleti več kot 10 % prenosov, se zbiranje ustavi; že prenesene objave se shranijo, stran se zgradi iz shranjenih podatkov. Branje pogodb ima časovno omejitev (300 min), preostanek se nadaljuje ob naslednjem zagonu; prvi zajem registra (okoli 3300 zapisov, polovica skeniranih pogodb za gradnje) zato traja nekaj dni, potem vsak zagon prenese le novosti. Ročni zagon (*Run workflow*) lahko z vnosom `pogodbe` znova prenese samo izbrane pogodbe. GitHub o neuspešnem zagonu pošlje e-pošto. Portal prosi, naj se avtomatizirano črpanje sproži največ dvakrat dnevno, zato ob spremembi kode (push) teče le gradnja strani.
 

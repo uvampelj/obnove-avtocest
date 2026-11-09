@@ -24,6 +24,8 @@ OSM = ROOT / "data" / "osm.json"
 STATUS = ROOT / "status" / "latest.json"
 OUT = ROOT / "web" / "data" / "obnove.json"
 OUT_FORENSICS = ROOT / "web" / "data" / "forenzika.json"
+OUT_AXES = ROOT / "web" / "data" / "osi.json"
+AXIS_STEP = 200.0   # m med točkami osi za 3D prikaz plasti
 
 CATEGORIES = [
     ("gradnja", "Novogradnje, priključki, širitve",
@@ -448,6 +450,7 @@ def main() -> int:
         p["geometry"], p["precision"], p["sections"] = lines, precision, sections
         p["lr"] = linear.ranges(lines) if lines else None
         p["geometry"] = linear.orient(lines, p["lr"])
+        p["dirs"] = directions(p)
         located += lines is not None
 
     repeats, splits = overlaps(projects)
@@ -476,13 +479,17 @@ def main() -> int:
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    extra = {"forensics": forensics(projects, repeats, splits, contracts), "network": firm_network(projects, contracts)}
+    roads = linear.summary()
+    axes = {ref: linear.axis(ref, AXIS_STEP) for ref in linear.roads}
+    OUT_AXES.write_text(json.dumps({"step": AXIS_STEP / 1000, "roads": axes}, separators=(",", ":")), encoding="utf-8")
+    extra = {"forensics": forensics(projects, repeats, splits, contracts, roads, axes, AXIS_STEP / 1000),
+             "network": firm_network(projects, contracts)}
     OUT_FORENSICS.write_text(json.dumps(extra, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     flags = extra["forensics"]["flags"]["count"]
     print(f"Objav: {len(records)}, pogodb: {len(projects)}, umeščenih: {located}, "
           f"parov na istem mestu: {len(repeats)} (v garanciji {flags.get('g', 0)}, po rekonstrukciji {flags.get('r', 0)}, "
           f"drugo ime {flags.get('p', 0)}), sočasnih: {len(splits)}, {OUT.stat().st_size / 1e6:.1f} MB + "
-          f"{OUT_FORENSICS.stat().st_size / 1e6:.1f} MB, mreža: {len(extra['network']['nodes'])} vozlišč")
+          f"{OUT_FORENSICS.stat().st_size / 1e6:.1f} MB + {OUT_AXES.stat().st_size / 1e6:.2f} MB, mreža: {len(extra['network']['nodes'])} vozlišč")
     return 0
 
 

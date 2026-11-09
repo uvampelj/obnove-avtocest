@@ -193,7 +193,126 @@ def hhi(projects: list[dict]) -> float | None:
     return round(sum((v / total) ** 2 for v in s.values()) * 10000)
 
 
-def forensics(projects: list[dict], pairs: list[list], splits: list[list], contracts: list[dict]) -> dict:
+def _value(p: dict) -> float:
+    return p["value_final"] or p["value"] or 0
+
+
+def _km(p: dict) -> float:
+    return sum(max(0.0, b - a) for _, a, b in p.get("lr") or [])
+
+
+def hotspots(projects: list[dict], roads: dict, axes: dict, step: float, limit: int = 15) -> list[dict]:
+    """Odseki osi (po 1 km), na katerih je bilo največ pogodb; sosednji kilometri z istimi pogodbami so združeni."""
+    cells: dict[tuple, set] = defaultdict(set)
+    for p in projects:
+        for ref, a, b in p.get("lr") or []:
+            for k in range(int(a), max(int(a) + 1, math.ceil(b))):
+                cells[(ref, k)].add(p["id"])
+    by_id = {p["id"]: p for p in projects}
+    segments = []
+    for ref in sorted({r for r, _ in cells}):
+        ks = sorted(k for r, k in cells if r == ref)
+        run = None
+        for k in ks:
+            ids = cells[(ref, k)]
+            if run and run["k1"] == k and run["ids"] == ids:
+                run["k1"] = k + 1
+                continue
+            run = {"road": ref, "k0": k, "k1": k + 1, "ids": ids}
+            segments.append(run)
+    segments.sort(key=lambda s: (-len(s["ids"]), -sum(_value(by_id[i]) for i in s["ids"])))
+    out = []
+    for s in segments:
+        if len(out) >= limit or len(s["ids"]) < 3:
+            break
+        if any(o["road"] == s["road"] and s["k0"] < o["km"][1] + 2 and o["km"][0] - 2 < s["k1"] for o in out):
+            continue   # sosednji kos istega kupa
+        ticks = roads.get(s["road"], {}).get("ticks", [])
+        inside = [name for km, name in ticks if s["k0"] - 0.5 <= km <= s["k1"] + 0.5]
+        before = [name for km, name in ticks if km < s["k0"]]
+        after = [name for km, name in ticks if km > s["k1"]]
+        name = inside[0] if inside else " – ".join(n for n in (before[-1] if before else None, after[0] if after else None) if n)
+        pts = axes.get(s["road"]) or []
+        mid = int(((s["k0"] + s["k1"]) / 2) / step)
+        ll = pts[mid] if 0 <= mid < len(pts) else None
+        ids = sorted(s["ids"], key=lambda i: by_id[i]["date"] or "")
+        out.append({
+            "road": s["road"], "km": [s["k0"], s["k1"]], "name": name, "ll": ll, "ids": ids,
+            "n": len(ids), "precise": sum(1 for i in ids if by_id[i]["precision"] in ("km", "objekt")),
+            "v": round(sum(_value(by_id[i]) for i in ids)),
+            "years": [int(by_id[ids[0]]["date"][:4]), int(by_id[ids[-1]]["date"][:4])] if by_id[ids[0]]["date"] else None,
+        })
+    return out
+
+
+SERIAL_DAYS = 90
+
+
+def serial_awards(works: list[dict], label) -> list[dict]:
+    """Več pogodb istemu izvajalcu za isto vrsto dela v 90 dneh, vsaka pod pragom, skupaj nad njim
+    (možno drobljenje naročila, da bi se izognili strožjemu postopku)."""
+    by_firm: dict[str, list[dict]] = defaultdict(list)
+    for p in works:
+        if p["value"] and p["date"] and p["phase"] in ("oddaja", "neposredna"):
+            for k in firm_set(p):
+                by_firm[k].append(p)
+    found: dict[frozenset, dict] = {}
+    for k, ps in by_firm.items():
+        ps.sort(key=lambda p: p["date"])
+        for t, name in THRESHOLDS:
+            for i, p in enumerate(ps):
+                if p["value"] >= t:
+                    continue
+                group = [q for q in ps[i:] if q["value"] < t and q["cats"][0] == p["cats"][0]
+                         and (_days(p["date"], q["date"]) or 0) <= SERIAL_DAYS and q["value"] >= 0.1 * t]
+                total = sum(q["value"] for q in group)
+                # Sklopi istega postopka niso drobljenje (en razpis, več pogodb).
+                if len(group) >= 2 and total >= t and len({q["dosje"] for q in group}) > 1:
+                    key = frozenset(q["id"] for q in group)
+                    if any(key <= other for other in found):
+                        continue
+                    found[key] = {"firm": label(k), "t": t, "name": name, "ids": [q["id"] for q in group],
+                                  "sum": round(total), "days": int(_days(group[0]["date"], group[-1]["date"]) or 0)}
+    groups = [g for key, g in found.items() if not any(key < other for other in found)]
+    return sorted(groups, key=lambda g: (-g["t"], -g["sum"]))[:40]
+
+
+def market(works: list[dict], label, top: int = 8) -> dict:
+    """Deleži izvajalcev v vrednosti gradenj po cestah (geografska delitev trga)."""
+    road_val: dict[str, float] = defaultdict(float)
+    cell: dict[tuple, list] = defaultdict(lambda: [0.0, []])
+    firm_total: dict[str, float] = defaultdict(float)
+    for p in works:
+        refs = sorted({r for r, _, _ in p.get("lr") or []}) or p.get("roads") or []
+        keys = firm_set(p)
+        if not refs or not keys or not p["value"]:
+            continue
+        part = p["value"] / len(refs) / len(keys)
+        for r in refs:
+            road_val[r] += p["value"] / len(refs)
+            for k in keys:
+                cell[(r, k)][0] += part
+                cell[(r, k)][1].append(p["id"])
+                firm_total[k] += part
+    count = Counter(r for (r, _), c in cell.items() for _ in c[1])
+    roads = [r for r, v in sorted(road_val.items(), key=lambda kv: -kv[1]) if count[r] >= 5 and v > 0][:10]
+    firms = [k for k, _ in sorted(firm_total.items(), key=lambda kv: -kv[1])[:top]]
+    rows = []
+    for r in roads:
+        shares = {k: c[0] / road_val[r] for (rr, k), c in cell.items() if rr == r}
+        lead = max(shares, key=shares.get)
+        n = len({i for (rr, _), c in cell.items() if rr == r for i in c[1]})
+        rows.append({
+            "road": r, "v": round(road_val[r]), "n": n,
+            "hhi": round(sum(s * s for s in shares.values()) * 10000),
+            "lead": label(lead), "lead_share": round(shares[lead], 3),
+            "cells": [[round(shares.get(k, 0), 3), sorted(set(cell[(r, k)][1])) if (r, k) in cell else []] for k in firms],
+        })
+    return {"firms": [label(k) for k in firms], "keys": firms, "rows": rows}
+
+
+def forensics(projects: list[dict], pairs: list[list], splits: list[list], contracts: list[dict],
+              roads: dict | None = None, axes: dict | None = None, step: float = 0.2) -> dict:
     works = [p for p in projects if p["phase"] != "aneksi"]
     by_id = {p["id"]: p for p in projects}
     names: dict[str, Counter] = defaultdict(Counter)
@@ -224,8 +343,41 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
     for p in works:
         if p["date"]:
             by_year[int(p["date"][:4])].append(p)
-    single = {y: [sum(1 for p in ps if p["bids"] == 1), sum(1 for p in ps if p["bids"])] for y, ps in by_year.items()}
+    single = {y: [sum(1 for p in ps if p["bids"] == 1), sum(1 for p in ps if p["bids"]),
+                  [p["id"] for p in ps if p["bids"] == 1]] for y, ps in by_year.items()}
     concentration = {y: hhi(ps) for y, ps in by_year.items()}
+    hhi_top = {}
+    for y, ps in by_year.items():
+        s = shares(ps)
+        total_y = sum(s.values())
+        if total_y:
+            hhi_top[y] = [[label(k), round(v / total_y, 3), [p["id"] for p in ps if k in firm_set(p)]]
+                          for k, v in sorted(s.items(), key=lambda kv: -kv[1])[:6]]
+    # Neposredne oddaje (brez predhodne objave) in časovni vzorci podpisa.
+    direct = {y: [sum(1 for p in ps if p["phase"] == "neposredna"), len(ps),
+                  round(sum(p["value"] or 0 for p in ps if p["phase"] == "neposredna")),
+                  [p["id"] for p in ps if p["phase"] == "neposredna"]] for y, ps in by_year.items()}
+    months = {m: [0, 0, []] for m in range(1, 13)}
+    for p in works:
+        if p["date"]:
+            row = months[int(p["date"][5:7])]
+            row[0] += 1
+            row[1] += round(p["value"] or 0)
+            row[2].append(p["id"])
+    # Čas od pogodbe do prve objavljene spremembe (zgodnji aneks lahko pomeni prenizko ponudbo).
+    annex_speed = []
+    for p in works:
+        dates = [m["date"] for m in p["mods"] if m.get("date")]
+        if p["date"] and dates and p["phase"] in ("oddaja", "neposredna"):
+            d = (date.fromisoformat(min(dates)[:10]) - date.fromisoformat(p["date"][:10])).days
+            if d >= 0:
+                annex_speed.append([p["id"], d])
+    # Cena na kilometer osi za dela, ki se merijo v dolžini (le natančno umeščena po kilometrih).
+    unit_cost = []
+    for p in works:
+        km = _km(p)
+        if p["precision"] == "km" and p["value"] and km >= 0.3 and p["cats"][0] in ("vozisce", "ograje", "hrup"):
+            unit_cost.append([p["id"], round(km, 2), round(p["value"]), p["cats"][0], len(p.get("dirs") or ())])
 
     total = shares(works)
     top = [k for k, _ in sorted(total.items(), key=lambda kv: -kv[1])[:16]]
@@ -234,7 +386,7 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
         row = []
         for k in top:
             ps = [p for p in by_year[y] if k in firm_set(p)]
-            row.append([len(ps), round(sum((p["value"] or 0) / max(1, len(firm_set(p))) for p in ps))])
+            row.append([len(ps), round(sum((p["value"] or 0) / max(1, len(firm_set(p))) for p in ps)), [p["id"] for p in ps]])
         rotation["cells"].append(row)
 
     # Kazalniki po izvajalcih.
@@ -243,13 +395,15 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
     def firm(k):
         if k not in firms:
             firms[k] = {"k": k, "n": label(k), "c": 0, "v": 0.0, "single": 0, "bids": 0, "ratio": [], "growth": [],
-                        "redone": 0, "redid": 0, "own": 0, "split": 0, "partners": set(), "subs": set(), "y": []}
+                        "redone": 0, "redid": 0, "own": 0, "split": 0, "partners": set(), "subs": set(), "y": [],
+                        "ids": [], "pg": [], "pi": [], "ps": []}
         return firms[k]
 
     for p in works:
         keys = firm_set(p)
         for k in keys:
             f = firm(k)
+            f["ids"].append(p["id"])
             f["c"] += 1
             f["v"] += (p["value"] or 0) / max(1, len(keys))
             f["bids"] += bool(p["bids"])
@@ -266,14 +420,17 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
         if "g" in flags:
             for k in firm_set(by_id[a]):
                 firm(k)["redone"] += 1
+                firm(k)["pg"].append([a, b])
             for k in firm_set(by_id[b]):
                 firm(k)["redid"] += 1
             if "i" in flags:
                 for k in firm_set(by_id[a]) & firm_set(by_id[b]):
                     firm(k)["own"] += 1
+                    firm(k)["pi"].append([a, b])
     for a, b, *_ in splits:
         for k in firm_set(by_id[a]) | firm_set(by_id[b]):
             firm(k)["split"] += 1
+            firm(k)["ps"].append([a, b])
 
     table = []
     for f in firms.values():
@@ -300,35 +457,50 @@ def forensics(projects: list[dict], pairs: list[list], splits: list[list], contr
             "redone": f["redone"], "redid": f["redid"], "own": f["own"], "split": f["split"],
             "partners": len(f["partners"]), "subs": len(f["subs"] - {f["k"]}),
             "y": [min(f["y"]), max(f["y"])] if f["y"] else None, "flags": flags,
+            "ids": f["ids"], "pg": f["pg"], "pi": f["pi"], "ps": f["ps"],
         })
     table.sort(key=lambda f: (-len(f["flags"]), -f["v"]))
 
-    values = [p["value"] for p in works if p["value"]]
+    values = [[p["id"], round(p["value"])] for p in works if p["value"]]
     bunching = []
     for t, name in THRESHOLDS:
-        below = sum(1 for v in values if 0.9 * t <= v < t)
-        above = sum(1 for v in values if t <= v < 1.1 * t)
+        below = sum(1 for _, v in values if 0.9 * t <= v < t)
+        above = sum(1 for _, v in values if t <= v < 1.1 * t)
         bunching.append({"t": t, "name": name, "below": below, "above": above})
-    annex_amounts = [m["add"] for p in projects for m in p["mods"] if m.get("add")]
-    annex_amounts += [m["after"] - m["before"] for p in projects for m in p["mods"]
-                      if m.get("after") and m.get("before") and m["after"] > m["before"]]
-    round_share = (sum(1 for v in annex_amounts if round(v) % 1000 == 0) / len(annex_amounts)) if annex_amounts else None
+    # Zneski aneksov z objavo, iz katere so: [projekt, znesek, povezava].
+    annex_amounts = []
+    for p in projects:
+        for m in p["mods"]:
+            if m.get("add"):
+                annex_amounts.append([p["id"], round(m["add"]), m.get("url")])
+            elif m.get("after") and m.get("before") and m["after"] > m["before"]:
+                annex_amounts.append([p["id"], round(m["after"] - m["before"]), m.get("url")])
+    round_share = (sum(1 for _, v, _ in annex_amounts if v % 1000 == 0) / len(annex_amounts)) if annex_amounts else None
 
     flag_counts = Counter(ch for row in pairs for ch in row[6])
     flag_value = {ch: round(sum(by_id[row[1]]["value"] or 0 for row in pairs if ch in row[6])) for ch in "girp"}
     return {
-        "benford": {"award": benford(values), "annex": benford(annex_amounts)},
+        "benford": {"award": benford([v for _, v in values]), "annex": benford([v for _, v, _ in annex_amounts])},
         "ratios": ratios,
         "growth": growth,
         "reg_growth": reg_growth,
         "single": single,
         "hhi": concentration,
+        "hhi_top": hhi_top,
         "rotation": rotation,
         "firms": table[:120],
-        "values": [round(v) for v in values],
+        "values": values,
+        "annex_amounts": annex_amounts,
         "thresholds": bunching,
         "round_annex": round(round_share, 3) if round_share is not None else None,
         "flags": {"count": dict(flag_counts), "value": flag_value, "splits": len(splits)},
+        "hotspots": hotspots(projects, roads or {}, axes or {}, step),
+        "direct": direct,
+        "months": months,
+        "annex_speed": annex_speed,
+        "unit_cost": unit_cost,
+        "serial": serial_awards(works, label),
+        "market": market(works, label),
     }
 
 

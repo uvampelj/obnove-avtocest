@@ -189,6 +189,21 @@ a { color: inherit; }
 .legend i { width: 14px; height: 4px; border-radius: 2px; }
 .legend .ramp { width: 120px; height: 6px; border-radius: 3px; }
 
+.legend-3d { white-space: normal !important; flex-basis: 100%; color: var(--ink-3); }
+.legend-3d svg { flex: none; fill: var(--ink-2); }
+
+/* Način 2D / 3D */
+.mode {
+  position: absolute; top: 10px; left: 10px; z-index: 2; display: flex; overflow: hidden;
+  background: var(--surface); border: 1px solid var(--line-2); border-radius: 6px; box-shadow: var(--shadow);
+}
+.mode button { padding: 6px 12px; font: 600 12.5px var(--sans); color: var(--ink-3); border-left: 1px solid var(--line-2); }
+.mode button:first-child { border-left: 0; }
+.mode button:hover { color: var(--ink); background: var(--wash); }
+.mode button.is-on { background: var(--ink); color: var(--surface); }
+body[data-view='timeline'] .mode { display: none; }
+.list.stacks .item .v { color: var(--accent); }
+
 .maplibregl-popup-content {
   background: var(--raise); color: var(--ink); border-radius: 5px; box-shadow: var(--shadow);
   padding: 7px 10px; font: 400 12.5px/1.4 var(--sans); max-width: 280px;

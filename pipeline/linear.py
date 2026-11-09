@@ -170,6 +170,35 @@ class Linear:
             out.append(list(reversed(line)) if a is not None and b is not None and b < a else line)
         return out
 
+    def axis(self, ref: str, step: float = 200.0) -> list:
+        """Os ceste kot točke na vsakih `step` metrov (sredina obeh smernih vozišč); None, kjer osi ni."""
+        road = self.roads.get(ref)
+        if not road:
+            return []
+        bins: dict[int, list] = defaultdict(list)
+        for nid, m in road["dist"].items():
+            bins[int(round(m / step))].append(self.network.coord[nid])
+        last = int(road["length"] // step) + 1
+        pts: list = []
+        for k in range(last + 1):
+            coords = bins.get(k)
+            if not coords:
+                pts.append(None)
+                continue
+            lons = sorted(c[0] for c in coords)
+            lats = sorted(c[1] for c in coords)
+            pts.append([round(lons[len(lons) // 2], 5), round(lats[len(lats) // 2], 5)])
+        # Kratke luknje (vozlišča so redka na ravnih odsekih) zapolnimo linearno.
+        for k, pt in enumerate(pts):
+            if pt is not None:
+                continue
+            a = next((i for i in range(k - 1, max(-1, k - 6), -1) if pts[i] is not None), None)
+            b = next((i for i in range(k + 1, min(len(pts), k + 6)) if pts[i] is not None), None)
+            if a is not None and b is not None:
+                t = (k - a) / (b - a)
+                pts[k] = [round(pts[a][0] + (pts[b][0] - pts[a][0]) * t, 5), round(pts[a][1] + (pts[b][1] - pts[a][1]) * t, 5)]
+        return pts
+
     def summary(self) -> dict:
         """Dolžina vsake ceste in priključki z njihovim kilometrom za os diagrama."""
         out = {}
