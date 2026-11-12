@@ -1,0 +1,682 @@
+{
+ "row": {
+  "idObrazec": 1230337,
+  "idDosje": 526236,
+  "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase z avtocest (AC) in hitrih cest (HC) - 9 sklopov - ponovitev",
+  "sifObrazecOznaka": "EUe32",
+  "sifObrazecKoda": "F32",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN007647/2025-EUe32/01",
+  "objavaDejanskaDatum": "2026-11-12T04:06:45.837",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-12",
+ "form": {
+  "id": 1230337,
+  "idSifObrazec": 28,
+  "idSifObrazecVerzija": 28,
+  "idDosje": 526236,
+  "idObrazecPrej": 966854,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase z avtocest (AC) in hitrih cest (HC) - 9 sklopov - ponovitev",
+  "kratekOpis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC)",
+  "referencnaStevilka": "000264/2025",
+  "glavneZnacilnostiPostopka": "Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase z avtocest (AC) in hitrih cest (HC)",
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 7402,
+  "vrednostOcenjenaBrezDDV": 10733763.04,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "vrednostSkupna": 0.0,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-11-11T13:37:05.713",
+  "sifObrazecKoda": "F32",
+  "sifObrazecOznaka": "EUe32",
+  "sifObrazecNaziv": "Obvestilo o podelitvi koncesije",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-11-12T04:06:45.837",
+  "objavaIdent": "JN007647/2025-EUe32/01",
+  "eFormsIdent": "b8134984-5c43-4c8e-ae93-8691b82264ae",
+  "eFormsFolderIdent": "92d60dcc-8372-4335-a8e7-5e3bf2665c5c",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "eFormsPublishedId": "787100-2026",
+  "eFormsPublishedDate": "2026-11-12T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-11-11T14:13:33.163",
+  "narocnik": [
+   {
+    "id": 1320734,
+    "idObrazec": 1230337,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "http://www.dars.si",
+    "idSifKupecTip": 4,
+    "idSifDejavnostPodrocje": 5,
+    "kupecJeNarocnik": false,
+    "sifDrzavaNaziv": "Slovenija"
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifKrajOmejitev": 2
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 613906,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 2: Slovenske Konjice",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "vrednostOcenjenaBrezDDV": 848989.7,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "določeno v razpisni dokumentaciji",
+      "opis": "določena v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613907,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 3: Ljubljana",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "vrednostOcenjenaBrezDDV": 1709643.07,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1276
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613908,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 4: Hrušica",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1277
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613909,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 5: Maribor",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "vrednostOcenjenaBrezDDV": 356695.5,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1269
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613910,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 6: Kozina",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1279
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613911,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 7: Vransko",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "vrednostOcenjenaBrezDDV": 2568945.29,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613912,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 8: Novo mesto",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1274
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   },
+   {
+    "id": 613913,
+    "idObrazec": 1230337,
+    "naslov": "Sklop 9: Murska Sobota",
+    "opis": "Družba za avtoceste v Republiki Sloveniji, DARS d.d., 3000 Celje, Ulica XIV. divizije 4 (v nadaljevanju: koncedent), v skladu z Zakonom o nekaterih koncesijskih pogodbah (Ur. l. RS, št. 9/19, 121/21-ZJN-3B in 50/23) razpisuje postopek podelitve koncesije za Izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC). Območje teritorialnega sklopa je podrobneje opisano v tehničnih specifikacijah.",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 7402,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 4,
+    "obdobjeTrajanje": 5,
+    "vrednostOcenjenaBrezDDV": 409903.46,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "meriloOpis": "kakovostna merila",
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1268
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 3,
+      "naziv": "navedeno v razpisni dokumentaciji",
+      "opis": "navedeno v razpisni dokumentaciji"
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 305913,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613906,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "koncesijaPrihodkiUporabnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiUporabnik": 1,
+    "koncesijaPrihodkiNarocnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiNarocnik": 1,
+    "koncesijaMetoda": "ni podatka",
+    "variantnaPonudba": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 746832,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.avtovlekadraganovic.com",
+      "idSifVelikost": 5,
+      "kotacija": false,
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 746833,
+      "naziv": "EASYTRANS, prevozi in storitve, d.o.o.",
+      "maticna": "7095724000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "glavniURL": "https://www.easytrans.s",
+      "idSifVelikost": 5,
+      "idSubjektPrs": 247700,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 305918,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613907,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "koncesijaPrihodkiUporabnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiUporabnik": 1,
+    "koncesijaPrihodkiNarocnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiNarocnik": 1,
+    "koncesijaMetoda": "dokumentacija koncedenta",
+    "variantnaPonudba": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 746843,
+      "naziv": "AVTOVLEKA JERNEJA KOPITAR s.p.",
+      "maticna": "3842983000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 114325,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 305920,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613908,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   },
+   {
+    "id": 305930,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613909,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 2,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 2,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "koncesijaPrihodkiUporabnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiUporabnik": 1,
+    "koncesijaPrihodkiNarocnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiNarocnik": 1,
+    "koncesijaMetoda": "dokumentacija koncedenta",
+    "variantnaPonudba": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 746870,
+      "naziv": "EASYTRANS, prevozi in storitve, d.o.o.",
+      "maticna": "7095724000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 247700,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 305931,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613910,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   },
+   {
+    "id": 305932,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613911,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": false,
+    "steviloPonudbe": 3,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 3,
+    "steviloDopustno": 2,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "koncesijaPrihodkiUporabnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiUporabnik": 1,
+    "koncesijaPrihodkiNarocnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiNarocnik": 1,
+    "koncesijaMetoda": "dokumentacija koncedenta",
+    "variantnaPonudba": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 746872,
+      "naziv": "DRAGANOVIĆ transporti, trgovina in storitve d.o.o.",
+      "maticna": "1482696000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 85984,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   },
+   {
+    "id": 305933,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613912,
+    "idSifOddajaStatus": 1,
+    "idSifInformacijaNeoddaja": 1,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 0,
+    "steviloNedopustno": 1,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0
+   },
+   {
+    "id": 305934,
+    "idObrazec": 1230337,
+    "idObrazecSklop": 613913,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 0,
+    "steviloMspPonudbe": 1,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostIzbrana": 0.0,
+    "idSifValutaIzbrana": 1,
+    "koncesijaPrihodkiUporabnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiUporabnik": 1,
+    "koncesijaPrihodkiNarocnik": 0.0,
+    "idSifValutaKoncesijaPrihodkiNarocnik": 1,
+    "koncesijaMetoda": "dokumentacija koncedenta",
+    "variantnaPonudba": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 746874,
+      "naziv": "EASYTRANS, prevozi in storitve, d.o.o.",
+      "maticna": "7095724000",
+      "mesto": "Žalec",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 247700,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 247773,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 2 Slovenske Konjice",
+    "internaStevilka": "001032/2026-1",
+    "datumSklenitev": "2026-11-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613906
+     }
+    ]
+   },
+   {
+    "id": 247775,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 2 Slovenske Konjice",
+    "internaStevilka": "0001031/2026",
+    "datumSklenitev": "2026-11-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613906
+     }
+    ]
+   },
+   {
+    "id": 247779,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 3 Ljubljana",
+    "internaStevilka": "000939/2026",
+    "datumSklenitev": "2026-09-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613907
+     }
+    ]
+   },
+   {
+    "id": 247789,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 5 Maribor",
+    "internaStevilka": "001031/2026",
+    "datumSklenitev": "2026-11-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613909
+     }
+    ]
+   },
+   {
+    "id": 247792,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 7 Vransko",
+    "internaStevilka": "001032/2026",
+    "datumSklenitev": "2026-11-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613911
+     }
+    ]
+   },
+   {
+    "id": 247793,
+    "naslov": "Koncesija za izvajanje storitev odstranjevanja poškodovanih ali pokvarjenih vozil nad 3.500 kg največje dovoljene mase (v nadaljevanju: NDM) z avtocest (AC) in hitrih cest (HC) - Sklop 9 Murska Sobota",
+    "internaStevilka": "000941/2026",
+    "datumSklenitev": "2026-09-09T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 613913
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}
