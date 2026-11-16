@@ -1,0 +1,207 @@
+{
+ "row": {
+  "idObrazec": 1230845,
+  "idDosje": 645761,
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecKoda": "F29",
+  "sifPostopekFazaNaziv": "Rezultat",
+  "objavaIdent": "JN005928/2026-EUe29/01",
+  "objavaDejanskaDatum": "2026-11-16T04:23:46.753",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-16",
+ "form": {
+  "id": 1230845,
+  "idSifObrazec": 25,
+  "idSifObrazecVerzija": 25,
+  "idDosje": 645761,
+  "idObrazecPrej": 1148130,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "kratekOpis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "referencnaStevilka": "000142/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8076,
+  "vrednostOcenjenaBrezDDV": 1100000.0,
+  "idSifValutaOcenjenaBrezDDV": 1,
+  "idSifPravnaPodlaga": 3,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "idSifDinamicniNabavniSistem": 1,
+  "vrednostSkupna": 1098982.36,
+  "idSifValutaSkupna": 1,
+  "objavaEU": true,
+  "datumVnosa": "2026-11-13T09:05:05.293",
+  "sifObrazecKoda": "F29",
+  "sifObrazecOznaka": "EUe29",
+  "sifObrazecNaziv": "Obvestilo o oddaji javnega naročila – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-11-16T04:23:46.753",
+  "objavaIdent": "JN005928/2026-EUe29/01",
+  "eFormsIdent": "85c58c2b-a36a-435e-ad5f-5c49bed7bf6d",
+  "eFormsFolderIdent": "53ec7bbf-0cbb-47c1-a5c8-d98ecdb74df9",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 1,
+  "ejnIdent": "JN-77262",
+  "eFormsPublishedId": "795991-2026",
+  "eFormsPublishedDate": "2026-11-16T00:00:00",
+  "imaFaqKalk": false,
+  "datumOdposiljanjaKalk": "2026-11-13T09:22:45.16",
+  "narocnik": [
+   {
+    "id": 1321963,
+    "idObrazec": 1230845,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 614514,
+    "idObrazec": 1230845,
+    "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+    "opis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8076,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 44,
+    "vrednostOcenjenaBrezDDV": 1100000.0,
+    "idSifValutaOcenjenaBrezDDV": 1,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "direktivaCistaVozila": false,
+    "idSifIpiVkljucenost": 0,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 80.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 20.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ]
+   }
+  ],
+  "obrazecOddaja": [
+   {
+    "id": 306100,
+    "idObrazec": 1230845,
+    "idObrazecSklop": 614514,
+    "idSifOddajaStatus": 2,
+    "oddanoSkupini": true,
+    "steviloPonudbe": 1,
+    "steviloEPonudbe": 1,
+    "steviloMspPonudbe": 0,
+    "steviloDopustno": 1,
+    "steviloNedopustno": 0,
+    "steviloNizkePonudbe": 0,
+    "steviloEuDrzave": 0,
+    "steviloNeEuDrzave": 0,
+    "steviloIzloceni": 0,
+    "vrednostMinDopustna": 1098982.36,
+    "idSifValutaMinDopustna": 1,
+    "vrednostMaxDopustna": 1098982.36,
+    "idSifValutaMaxDopustna": 1,
+    "vrednostIzbrana": 1098982.36,
+    "idSifValutaIzbrana": 1,
+    "ponudbaRazvrscena": false,
+    "variantnaPonudba": false,
+    "oddajaPodizvajalcem": false,
+    "okoljskiVidik": false,
+    "eticniVidik": false,
+    "obrazecOddajaSubjekt": [
+     {
+      "id": 747813,
+      "naziv": "Zavod za gradbeništvo Slovenije",
+      "maticna": "5866324000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 1,
+      "idSubjektPrs": 90866,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 747814,
+      "naziv": "IGMAT, Inštitut za gradbene materiale, d.d.",
+      "maticna": "5498503000",
+      "mesto": "Ljubljana - Polje",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 192207,
+      "sifDrzavaNaziv": "Slovenija"
+     },
+     {
+      "id": 747815,
+      "naziv": "GRADBENI INŠTITUT ZRMK d.o.o.",
+      "maticna": "1795490000",
+      "mesto": "Ljubljana",
+      "idSifDrzava": 1,
+      "idSifNuts": 1276,
+      "idSifVelikost": 5,
+      "idSubjektPrs": 222024,
+      "sifDrzavaNaziv": "Slovenija"
+     }
+    ]
+   }
+  ],
+  "obrazecPogodba": [
+   {
+    "id": 247910,
+    "naslov": "Pogodba za izvedbo zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+    "internaStevilka": "001039/2026",
+    "datumSklenitev": "2026-11-11T00:00:00",
+    "obrazecPogodbaSklop": [
+     {
+      "id": 614514
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}

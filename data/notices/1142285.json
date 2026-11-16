@@ -1,0 +1,159 @@
+{
+ "row": {
+  "idObrazec": 1142285,
+  "idDosje": 645761,
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecKoda": "F16",
+  "sifPostopekFazaNaziv": "Naročilo",
+  "objavaIdent": "JN005928/2026-EUe16/01",
+  "objavaDejanskaDatum": "2026-07-24T04:05:09.03",
+  "noviObrazec": true,
+  "idStariSistem": null,
+  "objavaEU": true
+ },
+ "fetched": "2026-11-16",
+ "form": {
+  "id": 1142285,
+  "idSifObrazec": 12,
+  "idSifObrazecVerzija": 12,
+  "idDosje": 645761,
+  "idObrazecStatus": 100,
+  "obrazecStatusNaziv": "Objavljen",
+  "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "kratekOpis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+  "referencnaStevilka": "000142/2026",
+  "idSifPostopekVrsta": 1,
+  "pospesenPostopek": false,
+  "idSifNarociloVrsta": 1,
+  "idSifCpv": 8076,
+  "idSifPravnaPodlaga": 3,
+  "idSifIzkljucitevRazlogVir": 2,
+  "revizijaInfo": "Zakon o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 s spremembami)",
+  "dokumentacijaDostopOmejen": false,
+  "razpisnaDokumentacijaURL": "https://www.enarocanje.si/api/datoteka/get?id=NTgzNjcyO1JEIG9iamF2YSAxNDItMjAyNi56aXA",
+  "datumDoVprasanja": "2026-08-10T11:00:00",
+  "idSifElektronskaPredlozitev": 3,
+  "elektronskaPredlozitevURL": "https://ejn.gov.si/ponudba/pages/aktualno/aktualno_jnc_podrobno.xhtml?zadevaId=77262",
+  "datumDoPonudba": "2026-08-26T10:00:00",
+  "idSifObdobjeVeljavnostPonudbe": 2,
+  "obdobjeVeljavnostPonudbe": 6,
+  "datumOdpiranje": "2026-08-26T12:00:00",
+  "odpiranjePonudbKraj": "e-JN",
+  "idSifDinamicniNabavniSistem": 1,
+  "sklopiDelitev": false,
+  "objavaEU": true,
+  "datumVnosa": "2026-07-23T08:32:57.797",
+  "sifObrazecKoda": "F16",
+  "sifObrazecOznaka": "EUe16",
+  "sifObrazecNaziv": "Obvestilo o javnem naročilu – splošno področje",
+  "idOrganizacija": 1821,
+  "objavaDejanskaDatum": "2026-07-24T04:05:09.03",
+  "datumDoVprasanjaKalk": "2026-08-10T11:00:00",
+  "datumDoPonudbaKalk": "2026-08-26T10:00:00",
+  "objavaIdent": "JN005928/2026-EUe16/01",
+  "popravljenSPopravkom": true,
+  "eFormsIdent": "7f942c35-6580-4778-af05-9ba5c9f744c5",
+  "eFormsFolderIdent": "53ec7bbf-0cbb-47c1-a5c8-d98ecdb74df9",
+  "noviObrazec": true,
+  "idSifPostopekFaza": 3,
+  "ejnIdent": "JN-77262",
+  "eFormsPublishedId": "513174-2026",
+  "eFormsPublishedDate": "2026-07-24T00:00:00",
+  "imaFaqKalk": true,
+  "datumOdposiljanjaKalk": "2026-07-23T08:57:44.543",
+  "narocnik": [
+   {
+    "id": 1196237,
+    "idObrazec": 1142285,
+    "idSifSubjektVloga": 2,
+    "vrRed": 1,
+    "naziv": "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D.",
+    "maticna": "5814251000",
+    "mesto": "Celje",
+    "idSifDrzava": 1,
+    "idSifNuts": 1271,
+    "glavniURL": "https://www.dars.si/",
+    "idSifKupecTip": 6,
+    "idSifDejavnostPodrocje": 5,
+    "sifDrzavaNaziv": "Slovenija",
+    "osrednjiNabavniOrgan": false
+   }
+  ],
+  "obrazecKraj": [
+   {
+    "idSifDrzava": 1,
+    "idSifNuts": 1271
+   }
+  ],
+  "obrazecSklop": [
+   {
+    "id": 521606,
+    "idObrazec": 1142285,
+    "naslov": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+    "opis": "Izvedba zunanje kontrole kakovosti pri izgradnji nove cestne povezave od priključka Velenje jug do priključka Slovenj Gradec (2. odsek) - Sklop A",
+    "idSifNarociloVrsta": 1,
+    "idSifCpv": 8076,
+    "idSifTrajanjeTip": 2,
+    "idSifObdobjeTrajanje": 2,
+    "obdobjeTrajanje": 44,
+    "financiraEU": false,
+    "sporazumVladnaNarocila": false,
+    "malaSrednjaPodjetja": true,
+    "idSifVariantaInfo": 2,
+    "idSifKatalogInfo": 2,
+    "garancijaZahtevana": true,
+    "zascitenoZaposlovanje": false,
+    "idSifElektronskiRacun": 1,
+    "elektronskoNarocanje": true,
+    "elektronskoPlacilo": true,
+    "idSifSporazum": 1,
+    "elektronskaDrazba": false,
+    "obrazecSklopKraj": [
+     {
+      "idSifDrzava": 1,
+      "idSifNuts": 1271
+     }
+    ],
+    "obrazecSklopPogoj": [
+     {
+      "idSifPogojVir": 2
+     }
+    ],
+    "obrazecSklopMerilo": [
+     {
+      "idSifOddajaMerilo": 1,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 80.0
+     },
+     {
+      "idSifOddajaMerilo": 3,
+      "opis": "kot je navedeno v RD",
+      "idSifPonderTip": 1,
+      "idSifPonderTeza": 4,
+      "stevilo": 20.0
+     }
+    ],
+    "obrazecSklopDostopnost": [
+     {
+      "idSifDostopnost": 2
+     }
+    ],
+    "obrazecSklopPonudbaJezik": [
+     {
+      "id": 1
+     }
+    ],
+    "obrazecSklopPridrzano": [
+     {
+      "id": 1
+     }
+    ]
+   }
+  ],
+  "validationStatus": 2,
+  "validationStatusOpis": "OK"
+ }
+}
