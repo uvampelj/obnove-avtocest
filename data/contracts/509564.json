@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 509564,
+  "type": "DOD",
+  "prev": 326126,
+  "idObrazec": 1232483,
+  "idDosje": 526927,
+  "title": "Aneks št. 1 k pogodbi DARS št. 1266/2025 za Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v šestpasovnico) za fazo izdelave projekta DGD in PZI; dodatne storitve, podaljšanje pogodbenega roka, nominacija dodatnih kadrov",
+  "procurement": "Izvajanje strokovno svetovalnih storitev za AC odsek Koseze - Kozarje (razširitev v šestpasovnico) za fazo izdelave projekta DGD in PZI",
+  "kind": 1,
+  "value": 93000.0,
+  "signed": "2025-11-03",
+  "from": "2026-11-03",
+  "to": "2027-09-30",
+  "number": "001027/2026",
+  "contractors": [
+   "DRI upravljanje investicij, Družba za razvoj infrastrukture, d.o.o."
+  ],
+  "contractor_ids": [
+   "5269652000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008257/2025-POG/01-D01",
+  "published": "2026-11-19",
+  "files": [
+   {
+    "name": "Aneks št 1027-26_redacted_za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjY4MTk5O0FuZWtzIMWhdCAxMDI3LTI2X3JlZGFjdGVkX3phIG9iamF2by5wZGY"
+   }
+  ]
+ },
+ "fetched": "2026-11-19",
+ "v": 2
+}
