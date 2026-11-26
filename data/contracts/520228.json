@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 520228,
+  "type": "POG",
+  "prev": null,
+  "idObrazec": 1254339,
+  "idDosje": 666889,
+  "title": "Hortikultura in urejanje okolice",
+  "procurement": "Hortikultura in urejanje okolice",
+  "kind": 1,
+  "value": 95502.75,
+  "signed": "2026-11-23",
+  "from": "2026-11-23",
+  "to": "2030-02-23",
+  "number": "001056/2026",
+  "contractors": [
+   "DOBROVITA Družba za usposabljanje in zaposlovanje invalidov d.o.o."
+  ],
+  "contractor_ids": [
+   "5695201000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN006916/2026-POG/01",
+  "published": "2026-11-26",
+  "files": [
+   {
+    "name": "Podpisana pogodba 1056-2026_red.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Njg5NzI4O1BvZHBpc2FuYSBwb2dvZGJhIDEwNTYtMjAyNl9yZWQucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-26",
+ "v": 2
+}

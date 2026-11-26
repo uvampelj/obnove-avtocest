@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "id": 520224,
+  "type": "DOD",
+  "prev": 312356,
+  "idObrazec": 1254319,
+  "idDosje": 519448,
+  "title": "Aneks št. 2 k pogodbi DARS št. 796/2025 za Izdelavo strokovnih podlag za ureditev ljubljanskega avtocestnega obroča – južna in vzhodna obvoznica; nominacija podizvajalca",
+  "procurement": "Izdelava strokovnih podlag za ureditev ljubljanskega avtocestnega obroča – južna in vzhodna obvoznica",
+  "kind": 1,
+  "value": 0.0,
+  "signed": "2026-11-23",
+  "from": "2025-06-03",
+  "to": "2027-06-03",
+  "number": "001057/2026",
+  "contractors": [
+   "PNZ svetovanje projektiranje d.o.o."
+  ],
+  "contractor_ids": [
+   "5459966000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN001796/2025-POG/01-D02",
+  "published": "2026-11-26",
+  "files": [
+   {
+    "name": "podpisan aneks 2 k pog 796-2025-za objavo.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=Njg5Njk4O3BvZHBpc2FuIGFuZWtzIDIgayBwb2cgNzk2LTIwMjUtemEgb2JqYXZvLnBkZg"
+   }
+  ]
+ },
+ "fetched": "2026-11-26",
+ "v": 2
+}

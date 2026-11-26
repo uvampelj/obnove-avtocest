@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "id": 510087,
+  "type": "DOD",
+  "prev": 151045,
+  "idObrazec": 1234021,
+  "idDosje": 333205,
+  "title": "Aneks št. 2 k pogodbi DARS št.: 626/2020 - Arhheološka Izkopavarja in arheološke raziskave ob gradnji na območju Srminske vpadnice",
+  "procurement": "Izvedba arheološkega izkopavanja in arheoloških raziskav ob gradnji na območju Srminske vpadnice",
+  "kind": 1,
+  "value": 264415.69,
+  "signed": "2026-11-23",
+  "from": "2020-04-23",
+  "to": "2027-03-25",
+  "number": "001058/2026",
+  "contractors": [
+   "ARHEJ d.o.o., arheološke raziskave in druge intelektualne storitve, Sevnica",
+   "Skupina Stik, zavod za preučevanje povezovalnih področij preteklosti in sedanjosti",
+   "PJP založništvo, trgovina, najem, medicina, arheologija in druge storitve d.o.o.",
+   "AVGUSTA, raziskovalna in storitvena dejavnost, d.o.o."
+  ],
+  "contractor_ids": [
+   "1253239000",
+   "6249027000",
+   "5476089000",
+   "2298716000"
+  ],
+  "buyers": [
+   "DRUŽBA ZA AVTOCESTE V REPUBLIKI SLOVENIJI D.D."
+  ],
+  "ident": "JN008225/2019-C01/POG-151045-D01",
+  "published": "2026-11-25",
+  "files": [
+   {
+    "name": "A2_1058_2026_k_pogodbi DARS_st_626_2020_.pdf",
+    "url": "https://www.enarocanje.si/api/datoteka/get?id=NjY5NDQ2O0EyXzEwNThfMjAyNl9rX3BvZ29kYmkgREFSU19zdF82MjZfMjAyMF8ucGRm"
+   }
+  ]
+ },
+ "fetched": "2026-11-26",
+ "v": 2
+}
